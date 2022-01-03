@@ -21,6 +21,7 @@
 
         <ScrollView
             android:id="@+id/file_list_scroller"
+            android:scrollbars="none"
             android:layout_width="match_parent"
             android:layout_height="640dp"
             android:layout_marginTop="30dp"
@@ -30,7 +31,15 @@
                 android:id="@+id/file_list"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical" />
+                android:orientation="vertical" >
+
+                <TableLayout
+                    android:id="@+id/file_table"
+                    android:stretchColumns="*"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
         </ScrollView>
 
         <LinearLayout
@@ -48,6 +57,7 @@
                 android:height="60dp"
                 android:insetRight="0dp"
                 android:text="@string/consecutive"
+                android:backgroundTint="@color/Rust"
                 tools:ignore="ButtonStyle" />
 
             <Button
@@ -59,6 +69,7 @@
                 android:height="60dp"
                 android:insetLeft="0dp"
                 android:text="@string/random"
+                android:backgroundTint="@color/dark_purple"
                 tools:ignore="ButtonStyle" />
         </LinearLayout>
 
