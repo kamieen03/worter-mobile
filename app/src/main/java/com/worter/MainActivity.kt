@@ -10,18 +10,17 @@ import android.widget.TableRow
 import androidx.core.content.ContextCompat
 import androidx.core.view.children
 import androidx.core.view.get
-import com.worter.databinding.ActivityFullscreenBinding
-import kotlinx.android.synthetic.main.activity_fullscreen.*
+import com.worter.databinding.ActivityMainBinding
+import kotlinx.android.synthetic.main.activity_main.*
 
-class FullscreenActivity : AppCompatActivity() {
-
-    private lateinit var binding: ActivityFullscreenBinding
+class MainActivity : AppCompatActivity() {
+    private lateinit var binding: ActivityMainBinding
     private val fileNumbers = Array(50) {i -> "$i"}
 
     @SuppressLint("ClickableViewAccessibility")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityFullscreenBinding.inflate(layoutInflater)
+        binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         supportActionBar?.hide()
         fillFileTable()

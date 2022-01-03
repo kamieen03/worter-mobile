@@ -16,7 +16,7 @@
             android:label="@string/title_activity_temp"
             android:theme="@style/Theme.Worter.Fullscreen" />
         <activity
-            android:name=".FullscreenActivity"
+            android:name=".MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="true"
             android:label="@string/app_name"
