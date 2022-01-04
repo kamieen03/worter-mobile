@@ -1,0 +1,1195 @@
+[
+    {
+        "poleng_list": [
+            "company"
+        ],
+        "ger_list": [
+            "die Firma",
+            "Und wäre trotz allem gern ihre eigene Firma .",
+            "Das lohnt sich für die Firma natürlich nicht.",
+            "Sie möchten ihre Firma erweitern oder verändern?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "trade fair, exhibition"
+        ],
+        "ger_list": [
+            "die Messe",
+            "Mir hat die Messe super gut gefallen.",
+            "Sie möchten uns auf der Messe besuchen?",
+            "Die Messe wurde dann von uns musikalisch gestalten."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "application, offer, proposal, petition"
+        ],
+        "ger_list": [
+            "der Antrag",
+            "Über den Antrag ist noch nicht entschieden.",
+            "Über den Antrag muss noch entschieden werden.",
+            "Über den Antrag soll sofort abgestimmt werden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "warehouse"
+        ],
+        "ger_list": [
+            "das Lager",
+            "Gegner findet man eher im eigenen Lager .",
+            "So schlage ich nun hier mein Lager auf.",
+            "Welche Lager fahrt ihr und seid ihr zufrieden?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "review, appraisal, assessment"
+        ],
+        "ger_list": [
+            "die Bewertung",
+            "Über eine entsprechende Bewertung freuen wir uns sehr!",
+            "Über weitere Bewertungen würden wir uns natürlich sehr freuen.",
+            "Sie können Bewertungen sogar offline lesen und schreiben."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "payment"
+        ],
+        "ger_list": [
+            "die Bezahlung",
+            "Danach geht es dann auch schon zur Bezahlung .",
+            "Das bezieht sich nicht zuletzt auch auf die Bezahlung .",
+            "Sie engagieren sich freiwillig und erhalten keine Bezahlung ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "brand"
+        ],
+        "ger_list": [
+            "die Marke",
+            "Über Marken wird gesprochen – ob man will oder nicht.",
+            "Die 10000 er Marke wurde geknackt und zwar nach unten.",
+            "Von der Marke hab ich ehrlich noch nie was gehört."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "service"
+        ],
+        "ger_list": [
+            "der Service",
+            "Über den Service kann ich nicht klagen.",
+            "Einen besseren Service als diesen kenne ich nicht.",
+            "Ebenso haben wir einen hol & bring Service anzubieten."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "advertising"
+        ],
+        "ger_list": [
+            "die Werbung",
+            "Ähnlich ist dies bei der herkömmlichen Werbung .",
+            "Ähnlich sieht es heute in der Werbung aus.",
+            "Denn es geht dabei auch um Werbung ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "order, commission"
+        ],
+        "ger_list": [
+            "der Auftrag",
+            "Über diesen Auftrag habe ich mich sehr gefreut.",
+            "Über einen Auftrag würde ich mich sehr freuen.",
+            "Im Auftrag sind sie jedoch sehr unterschiedlich."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "benefit, performance",
+            "achievement",
+            "output"
+        ],
+        "ger_list": [
+            "die Leistung",
+            "Über diese Leistung bin ich sehr glücklich.",
+            "Überzeugen sie sich doch sofort selber von unseren Leistungen !",
+            "Über die Leistung rede ich lieber nicht."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to negotiate"
+        ],
+        "ger_list": [
+            "verhandeln",
+            "Über alles was die band betrifft lässt sich verhandeln .",
+            "Über die Zeiten kann man aber sicher noch verhandeln .",
+            "Eventuell lässt er ja mit sich verhandeln ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "production"
+        ],
+        "ger_list": [
+            "die Produktion",
+            "Positiv ist dagegen die Produktion zu erwähnen.",
+            "Und eine Produktion die einfach nur absolut klasse ist.",
+            "Die sollen da einfach mal die Produktion umstellen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "foundation"
+        ],
+        "ger_list": [
+            "die Gründung",
+            "Es ist viel geschrieben worden seit der Gründung .",
+            "Denn mit der Gründung ist es nicht getan.",
+            "Wie viel hat sich doch verändert seit der Gründung ?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "expense, edition, issue, distribution"
+        ],
+        "ger_list": [
+            "die Ausgabe",
+            "Üblicherweise würde das allerdings auch schon Ausgaben erzeugen.",
+            "Überhaupt waren wir für diese Ausgabe viel unterwegs.",
+            "Ob es demnächst wieder eine Ausgabe mit mir gibt?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "spreadsheet, table, chart"
+        ],
+        "ger_list": [
+            "die Tabelle",
+            "Über die Tabelle spreche ich nicht gerne.",
+            "Ich schaue gar nicht wirklich auf die Tabelle .",
+            "Druck dir die Tabelle aus und freu dich."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "job vacancy, help-wanted advertisement"
+        ],
+        "ger_list": [
+            "das Stellenangebot",
+            "Wie informiere ich mich über neue Stellenangebote ?",
+            "Momentan werden die meisten Stellenangebote noch von uns verschickt.",
+            "Wobei es sich fast durchwegs um sehr hochwertige Stellenangebote handelt."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "stock market"
+        ],
+        "ger_list": [
+            "die Börse",
+            "So ist es halt auf der Börse .",
+            "Sind gestern weltweit die Börsen wieder eingebrochen!",
+            "An der Börse bleibt man dennoch gelassen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "branch"
+        ],
+        "ger_list": [
+            "die Branche",
+            "Ähnlich sieht es auch in anderen Branchen aus.",
+            "Das färbt auf die ganze Branche negativ ab.",
+            "Erstens ist nicht die ganze Branche derart sparsam."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "company, business"
+        ],
+        "ger_list": [
+            "der Betrieb",
+            "Kleinere Betriebe tun sich allerdings noch schwer.",
+            "Besonders ansprechen wollen wir Betriebe die biologisch arbeiten.",
+            "Leider war auch sie im Betrieb etwas teuer."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "logistics"
+        ],
+        "ger_list": [
+            "die Logistik",
+            "Genau das verstehen wir unter einer vernünftigen Logistik .",
+            "Die Logistik wird für uns immer wichtiger.",
+            "Mit der eigenen Logistik ist man selbst schnell überfordert."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "customer service"
+        ],
+        "ger_list": [
+            "der Kundenservice",
+            "Alles andere kann man beim Kundenservice nachfragen.",
+            "Auch den qualifizierten Kundenservice finde ich erwähnenswert.",
+            "So ungefähr stell ich mir guten Kundenservice vor."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "need, requirement, demand"
+        ],
+        "ger_list": [
+            "der Bedarf",
+            "Änderungen können aber jederzeit nach Bedarf vorgenommen werden.",
+            "Bei Bedarf treffen wir uns auch häufiger.",
+            "Der Bedarf ist da und wird zukünftig noch weiter steigen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "service"
+        ],
+        "ger_list": [
+            "die Dienstleistung",
+            "Ähnliches gibt es bereits für bestimmte Dienstleistungen .",
+            "Gab es bisher nur als kommerzielle Dienstleistung .",
+            "Es diente stets dem herausstellen qualitativ hochwertiger Dienstleistungen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "retail trade"
+        ],
+        "ger_list": [
+            "der Einzelhandel",
+            "Der Einzelhandel könnte mir fast leid tun.",
+            "Was denn bitte schön für einen Einzelhandel ?",
+            "Inzwischen findet man sie flächendeckend überall im Einzelhandel ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "feeling"
+        ],
+        "ger_list": [
+            "das Gefühl",
+            "Über die einzelnen Gefühle möchte ich nicht so viel erzählen.",
+            "Über Gefühle spricht man nicht so gerne.",
+            "Über die Gefühle die sie in uns auslösen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "the equilibrium, balance"
+        ],
+        "ger_list": [
+            "das Gleichgewicht",
+            "So bringen wir uns zurück ins Gleichgewicht .",
+            "Ansonsten kann er aus dem energetischen Gleichgewicht fallen.",
+            "Gleichzeitig soll dadurch das psychische Gleichgewicht stabilisiert werden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "lucky, happy, fortunate"
+        ],
+        "ger_list": [
+            "glücklich",
+            "Es hat alles geklappt und ich bin glücklich wie selten.",
+            "Ich denke man sieht wie glücklich ich bin.",
+            "Und fühlt sich doch nicht wirklich glücklich ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "hope"
+        ],
+        "ger_list": [
+            "die Hoffnung",
+            "Doch auch die Hoffnung ist nicht zu verachten!",
+            "Möchte ich ihm etwas Hoffnung geben können!",
+            "Doch die Hoffnungen haben sich nicht erfüllt."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "life"
+        ],
+        "ger_list": [
+            "das Leben",
+            "Über sein Leben ist fast nichts bekannt.",
+            "Übrigens predigen wir auch gerade durch unser Leben ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to meditate"
+        ],
+        "ger_list": [
+            "meditieren",
+            "Übersetzen kann man meditieren am ehesten mit \"Nachdenken über\".",
+            "Ich werde erst einmal meditieren und dann aufbrechen.",
+            "Da werd ich wohl mal drüber meditieren ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "fate, destiny"
+        ],
+        "ger_list": [
+            "das Schicksal",
+            "Österreich bleibt nicht unberührt von diesem tragischen Schicksal .",
+            "Ähnlich verhält es sich mit dem Schicksal .",
+            "Über ihr weiteres Schicksal ist bisher nichts bekannt."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "soul"
+        ],
+        "ger_list": [
+            "die Seele",
+            "Über die kranke Seele wird immer häufiger gesprochen.",
+            "Musik um die Seele baumeln zu lassen.",
+            "Was unterscheidet die asiatische Seele von der europäischen?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "sense"
+        ],
+        "ger_list": [
+            "der Sinn",
+            "Über den Sinn darüber möchte ich hier nicht reden.",
+            "Öffnungszeiten im üblichen Sinne gibt es nicht.",
+            "Überholen hätte indes keinen effektiven Sinn gemacht."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "spirituality"
+        ],
+        "ger_list": [
+            "die Spiritualität",
+            "Therapie und Spiritualität gehören für mich zusammen.",
+            "Wichtig ist uns dabei auch die Spiritualität .",
+            "Das allein macht zwar noch keine tiefe Spiritualität aus."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "miracle, wonder"
+        ],
+        "ger_list": [
+            "das Wunder",
+            "Denn er soll viele Wunder bewirkt haben.",
+            "Wie es scheint gibt es doch noch Wunder .",
+            "Das is ja alles auch kein Wunder ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wonderful, miraculous"
+        ],
+        "ger_list": [
+            "wunderbar",
+            "Wenn ich sitze passt sie wirklich wunderbar .",
+            "Und sie verstehen sich mit meinen anderen 3 wunderbar .",
+            "Hier lässt es sich wunderbar schwitzen & entspannen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "gorgeous, extremely beautiful, wonderful"
+        ],
+        "ger_list": [
+            "wunderschön",
+            "Weil sie wunderschön sein soll und nicht jeder hin darf.",
+            "Ich habe ihn sofort gespannt und er ist wunderschön geworden.",
+            "Und ihr beiden sehr wirklich wunderschön aus."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "stomach, belly"
+        ],
+        "ger_list": [
+            "der Bauch",
+            "Änderungen entscheide ich spontan aus dem Bauch heraus.",
+            "So ganz allein aus dem Bauch heraus.",
+            "Hoffentlich geht es deinem Bauch jetzt wieder gut."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "chest, thorax, ribcage"
+        ],
+        "ger_list": [
+            "der Brustkorb",
+            "Aber auch der gesamte Brustkorb tat ihm weh.",
+            "Den Brustkorb muss man dazu nicht öffnen.",
+            "Die Muskeln unseres Brustkorbs setzen wir fast gar nicht ein."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "intestine"
+        ],
+        "ger_list": [
+            "der Darm",
+            "Der Darm wird aber üblicherweise nicht mit gegessen.",
+            "In einem gesunden Darm sind unzählige von ihnen vorhanden.",
+            "Die habe da draussen mit und ohne Darm ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "thick, fat"
+        ],
+        "ger_list": [
+            "dick"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "thin"
+        ],
+        "ger_list": [
+            "dünn",
+            "Sie ist jetzt dünner als ich war.",
+            "Zudem soll dieses leichter und dünner sein.",
+            "Dazu ist er super weich und extra dünn ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "elbow"
+        ],
+        "ger_list": [
+            "der Ellbogen",
+            "Niemals habe er jemanden absichtlich mit dem Ellbogen geschlagen.",
+            "Er setzt nie seine Ellbogen gegen andere ein.",
+            "Ohne Ellbogen kommt man nicht mehr weiter!"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "heel"
+        ],
+        "ger_list": [
+            "die Ferse",
+            "Immer noch ist er ihm dicht auf den Fersen .",
+            "Meine Fersen tun nun abends nicht mehr weh.",
+            "Ganz schlimm ist der Übergang zur Ferse ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "brain"
+        ],
+        "ger_list": [
+            "das Gehirn",
+            "Über ein \" Gehirn \" verfügt er jedoch nicht.",
+            "Außerdem soll das Gehirn enorm groß sein.",
+            "Sind wir denn jemand anderer als unser Gehirn ?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wrist"
+        ],
+        "ger_list": [
+            "das Handgelenk",
+            "So ziemlich dasselbe gilt für mein Handgelenk .",
+            "Sie kommt mit einem gebrochenen Handgelenk davon.",
+            "Schnappschüsse aus dem Handgelenk heraus kann man da eher vergessen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "hip"
+        ],
+        "ger_list": [
+            "die Hüfte",
+            "Da schießt jemand aus der Hüfte ohne vorher nachzudenken.",
+            "Ein bisschen runder um die Hüften ist er geworden.",
+            "Die Hüfte hebt und senkt sich dabei."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "chin"
+        ],
+        "ger_list": [
+            "das Kinn",
+            "Ein bisschen ist scheinbar auch am Kinn gelandet.",
+            "Das Kinn ist leicht zur Brust zu ziehen.",
+            "An was erkennt man eigentlich Kinn Akne?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "knee"
+        ],
+        "ger_list": [
+            "das Knie",
+            "Mein Knie hat es auch mit gemacht.",
+            "Doch trotzdem sollte man nichts übers Knie brechen.",
+            "Mein Knie machte mir sehr zu schaffen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "ankle"
+        ],
+        "ger_list": [
+            "der Knöchel",
+            "Er hat sich am Knöchel weh getan.",
+            "Und vielleicht klappt es ja beim nächsten Knöchel nicht.",
+            "Der Knöchel ist natürlich noch nicht gesund."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "bone"
+        ],
+        "ger_list": [
+            "der Knochen",
+            "Haut und Knochen habe ich auch schon gelesen.",
+            "Die Knochen kann man heute noch besichtigen.",
+            "Das ist besonders wichtig für gesunde und starke Knochen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "liver"
+        ],
+        "ger_list": [
+            "die Leber",
+            "Da spielte wieder die Leber nciht mit.",
+            "Aber was sollte ich nun mit der Leber machen?",
+            "Die Leber hat es gut – zumindest sprachlich."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "lip"
+        ],
+        "ger_list": [
+            "die Lippe",
+            "Auf den Lippen werde ich ihn auch mal testen.",
+            "Nur die wird er wohl nicht über seine Lippen bekommen.",
+            "Auf den Lippen sieht man davon aber nichts."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "lung"
+        ],
+        "ger_list": [
+            "die Lunge",
+            "An meiner Lunge liegt es aber nicht.",
+            "Die Lunge ist sehr stark geschädigt und wird immer schlimmer.",
+            "Er meint ich hätte was mit der Lunge ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "muscle"
+        ],
+        "ger_list": [
+            "der Muskel",
+            "Da werden meine Muskeln ja ganz schwach!",
+            "Ich hoffe keinen Muskel vergessen zu haben.",
+            "Ich wollte erst mal wieder Muskeln aufbauen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "thigh"
+        ],
+        "ger_list": [
+            "der Oberschenkel",
+            "Den größten hat sie am linken Oberschenkel .",
+            "Wir freuen uns mit und die Oberschenkel danken!",
+            "Ich merke beim aufstehen ein ziehen in den Oberschenkel ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "(human/animal) organ"
+        ],
+        "ger_list": [
+            "das Organ",
+            "Über kurz oder lang brauchen sie ein neues Organ !",
+            "Gut wenn sie dieses Organ ständig pflegen.",
+            "Das lässt sich beliebig für jedes Organ fortsetzen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "forehead"
+        ],
+        "ger_list": [
+            "die Stirn",
+            "Ziemlich klein und gleichmäßig über die ganze Stirn verteilt.",
+            "Es steht ihnen schließlich nicht auf die Stirn geschrieben.",
+            "Leider steht das ja niemandem auf der Stirn geschrieben."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "toe"
+        ],
+        "ger_list": [
+            "der Zeh",
+            "Niemals steckt er auch nur einen kleinen Zeh da rein!",
+            "Hier sind die ersten drei Zehen gleich lang.",
+            "Viel mehr sorge ich mich um meinen kleinen Zeh ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "tongue"
+        ],
+        "ger_list": [
+            "die Zunge",
+            "Ich solle einfach mit der Zunge spielen.",
+            "Mit der Zunge ist man besonders sensibel und einfühlsam.",
+            "Jetzt wollen sie nur noch die Zunge sehen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "address"
+        ],
+        "ger_list": [
+            "die Adresse",
+            "Über Adressen würde ich mich sehr freuen.",
+            "Ähnlich sieht es bei der Adresse aus!",
+            "Österreich ist da zweifelsohne eine der besten Adressen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "announcement, registration"
+        ],
+        "ger_list": [
+            "die Anmeldung",
+            "Über weitere Anmeldungen würden wir uns sehr freuen.",
+            "Über zahlreiche Anmeldungen würden wir uns freuen.",
+            "Über eine rege Anmeldung würden wir uns sehr freuen!"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "salutation, form of address"
+        ],
+        "ger_list": [
+            "die Anrede",
+            "Und trotzdem versuche ich es mit einer gemeinsamen Anrede .",
+            "Doch wer darf zuerst die vertrauliche Anrede anbieten?",
+            "Natürlich darf auch die Anrede nicht fehlen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "reason, justification"
+        ],
+        "ger_list": [
+            "die Begründung",
+            "Eine sachliche Begründung gibt es dafür nicht .",
+            "Man werde aber die schriftliche Begründung abwarten.",
+            "Eine seriöse Begründung wird aber nicht geboten."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "the confirmation"
+        ],
+        "ger_list": [
+            "die Bestätigung",
+            "Bitte wartet deshalb stets die Bestätigung ab.",
+            "Eine Bestätigung dafür lag allerdings nicht vor.",
+            "Eine offizielle Bestätigung gab es bisher selbstverständlich noch nicht."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "letter"
+        ],
+        "ger_list": [
+            "der Brief",
+            "Über weitere Briefe freuen wir uns natürlich auch.",
+            "Über den Brief habe ich mich auch riesig gefreut!",
+            "Wäre ein solcher Brief wirklich zu viel verlangt gewesen?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "mailbox, letter box"
+        ],
+        "ger_list": [
+            "der Briefkasten",
+            "So ging es mir nämlich auch beim \"magischen Briefkasten \".",
+            "Und was ziehe ich heute aus dem Briefkasten ?",
+            "Im Briefkasten wartete heute eine Überraschung auf mich."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "stamp"
+        ],
+        "ger_list": [
+            "die Briefmarke",
+            "Und Briefmarken dürfen natürlich auch nicht fehlen.",
+            "Als nächstes hatte ich mir die Briefmarken vorgenommen.",
+            "Ich habe diese 3 Briefmarken nochmal neben einander gescannt."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "invitation"
+        ],
+        "ger_list": [
+            "die Einladung",
+            "Über eine Einladung würde ich mich deshalb sehr freuen.",
+            "Über die Einladung an uns haben wir uns sehr gefreut.",
+            "Dort darf man nur mit Einladung hinein."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "greeting"
+        ],
+        "ger_list": [
+            "der Gruß",
+            "Über einen lieben Gruß freut sich jeder.",
+            "Da muss ich einfach einen Gruß loswerden.",
+            "Für einen kleinen Gruß zwischendurch sind sie genau richtig."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "contact"
+        ],
+        "ger_list": [
+            "der Kontakt",
+            "Über sie können dann Kontakte hergestellt werden.",
+            "Über eine Kontakt würde ich mich sehr freuen.",
+            "Über nette Kontakte würde ich mich sehr freuen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "loudspeaker"
+        ],
+        "ger_list": [
+            "der Lautsprecher",
+            "Es können aber auch die leistungsstarken integrierten Lautsprecher genutzt werden.",
+            "Verstärker und Lautsprecher müssen dann vorhanden sein.",
+            "Diese ist dank der guten Lautsprecher ebenfalls hervorragend."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "report"
+        ],
+        "ger_list": [
+            "die Meldung",
+            "Über solche Meldungen freuen wir uns jeweils riesig.",
+            "Über Meldungen würde ich mich sehr freuen.",
+            "Über Meldungen würden wir uns sehr freuen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "communication"
+        ],
+        "ger_list": [
+            "die Mitteilung",
+            "Jedoch muss die Mitteilung trotzdem schnellstmöglich erfolgen.",
+            "So bekomme ich auch ständig die Mitteilungen .",
+            "Diese Mitteilung kam doch für viele sehr überraschend."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "note, memo, brief report, notice"
+        ],
+        "ger_list": [
+            "die Notiz",
+            "Über eine kleine Notiz würden wir uns aber freuen.",
+            "Meine öffentlichen Notizen können hier ebenfalls abgerufen werden.",
+            "Sehr oft nimmt die Öffentlichkeit kaum Notiz davon."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "post"
+        ],
+        "ger_list": [
+            "die Post",
+            "Über eure Post würde ich mich sehr freuen.",
+            "Über diese Post kann man sich wirklich nur freuen!",
+            "Ich bin schon gespannt auf deinen Post ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "postcard"
+        ],
+        "ger_list": [
+            "die Postkarte",
+            "Eine Postkarte nach der anderen wurde gestaltet.",
+            "Diese können dann als Postkarten versendet werden.",
+            "Auf der Postkarte ist das gut zu erkennen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "postal code"
+        ],
+        "ger_list": [
+            "die Postleitzahl",
+            "Dabei habe ich die Postleitzahl richtig geschrieben.",
+            "Und dann einfach unten rechts die Postleitzahl eingeben.",
+            "Name und Postleitzahl als solches allein dürften auch unbedenklich sein."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "radio"
+        ],
+        "ger_list": [
+            "das Radio",
+            "Ähnliches ist nun für das Radio geplant.",
+            "Seit heute sind wir auch im Radio zu hören!",
+            "Auch im Radio wird sie bald zu hören sein."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "transmitter",
+            "broadcasting station"
+        ],
+        "ger_list": [
+            "der Sender",
+            "Alternativ kann ich auch diese Sender empfehlen.",
+            "Bis zu 5000 Sender können gespeichert werden.",
+            "Das strahlt selbstredend auch auf den Sender zurück."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "paperback"
+        ],
+        "ger_list": [
+            "das Taschenbuch",
+            "Piper hat ihn jetzt günstiger als Taschenbuch herausgebracht.",
+            "Ausserdem sollten sie als Taschenbuch erhältlich sein.",
+            "Ich kann euch das beschriebene Taschenbuch sehr empfehlen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "phone book"
+        ],
+        "ger_list": [
+            "das Telefonbuch",
+            "Damit erspart man sich langes Telefonbuch wälzen.",
+            "Ich werde zukünftig nicht mehr im Telefonbuch stehen.",
+            "Sie stehen ja gar nicht im Telefonbuch ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "topic, theme"
+        ],
+        "ger_list": [
+            "das Thema",
+            "Über dieses Thema wollte ich mich schon immer mal äußern.",
+            "Über das Thema denken wir noch nach.",
+            "Überwachung ist ein inzwischen schon alltägliches Thema ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "publishing house, publisher"
+        ],
+        "ger_list": [
+            "der Verlag",
+            "Ob die klassischen Verlage auch dabei sein werden?",
+            "Hat das ein großer Verlag wirklich nötig?",
+            "Doch das wollte man im Verlag nicht."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "problem"
+        ],
+        "ger_list": [
+            "das Problem",
+            "Österreich ist doch nicht alleine mit diesen Problemen !",
+            "Übergewicht kann schnell zu körperlichen und psychischen Problemen führen.",
+            "Über verbotene Probleme jedoch lässt es sich schwer sprechen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "objective, ambition, goal, destination"
+        ],
+        "ger_list": [
+            "das Ziel",
+            "Über das Ziel waren sich alle einig.",
+            "Über das Ziel muss wohl nicht diskutiert werden.",
+            "Über dieses Ziel könnte man ja vielleicht auch mal nachdenken."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "form, shape, mould"
+        ],
+        "ger_list": [
+            "die Form",
+            "Über die Form kann man ja streiten.",
+            "Über längere zeit kann dies keine identische Form darstellen.",
+            "Übrigens siehst du wirklich nicht gut in Form aus."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "tip, clue"
+        ],
+        "ger_list": [
+            "der Hinweis",
+            "Über weitere Hinweise bin ich jedermann dankbar.",
+            "Über Hinweise bin ich natürlich sehr dankbar.",
+            "Über einen kurzen Hinweis würde ich mich freuen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "behaviour"
+        ],
+        "ger_list": [
+            "das Verhalten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "solution"
+        ],
+        "ger_list": [
+            "die Lösung",
+            "Über eine detaillierte Lösung würde ich mich wirklich sehr freuen.",
+            "Übungen und deren Lösungen habe ich ebenfalls weggelassen.",
+            "Über eine konstruktive Lösung würde ich mich sehr freuen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "change"
+        ],
+        "ger_list": [
+            "die Änderung",
+            "Über diese Änderung informiere ich euch natürlich rechtzeitig!",
+            "Denn das könnte mit den heutigen Änderungen durchaus vorteilhaft sein.",
+            "Diese Änderung sei aber nur vorübergehend stabil."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "selection, choice"
+        ],
+        "ger_list": [
+            "die Auswahl",
+            "Über so eine Auswahl hätte ich mich auch gefreut.",
+            "Dies hier ist erst nur eine kleine Auswahl davon.",
+            "Was sagt ihr zu der Auswahl diesmal?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "use"
+        ],
+        "ger_list": [
+            "der Gebrauch",
+            "Allerdings nicht mit den täglichen Gebrauch stören.",
+            "Auch Österreich hat davon bereits Gebrauch gemacht.",
+            "Aber leider machen nur wenige davon Gebrauch ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "pressure, print"
+        ],
+        "ger_list": [
+            "der Druck",
+            "Was ihr mit den ganzen Drucken machen sollt?",
+            "Tatsächlich war dieser hohe Druck nicht nötig.",
+            "Doch sollte man hier auf den Druck achten."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "recommendation"
+        ],
+        "ger_list": [
+            "die Empfehlung",
+            "Über entsprechende Empfehlungen würde ich mich freuen.",
+            "Allerdings muss die Empfehlung als authentisch erachtet werden.",
+            "Von daher kann ich dir jetzt leider keine Empfehlungen aussprechen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "way, manner(ism)"
+        ],
+        "ger_list": [
+            "die Weise",
+            "Ökonomie und Ökologie müssen in gleicher Weise berücksichtigt werden.",
+            "Allerdings tat ich es auf meine bisherige Weise .",
+            "Mit wem würden sie auf welche Weise zusammenarbeiten wollen?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "use, advantage, benefit"
+        ],
+        "ger_list": [
+            "der Nutzen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "location, situation, position"
+        ],
+        "ger_list": [
+            "die Lage",
+            "Über die 200 m Lagen lief es ähnlich gut.",
+            "Ähnlich unkompliziert verhält sich die Lage in Österreich.",
+            "Aber die Lage hat sich wieder beruhigt."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "thing"
+        ],
+        "ger_list": [
+            "das Ding",
+            "Üben können wir das am besten mit kleinen Dingen .",
+            "Übrigens sind diese kleinen Dinger ganz schön gesund.",
+            "Über gute Dinge soll man ja bekanntermaßen reden."
+        ],
+        "hardness": 5
+    }
+]

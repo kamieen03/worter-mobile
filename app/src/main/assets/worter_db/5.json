@@ -1,0 +1,1144 @@
+[
+    {
+        "poleng_list": [
+            "kind, type",
+            "rodzaj"
+        ],
+        "ger_list": [
+            "die Art",
+            "Überraschungen der positiven Art sind anschließend nicht ausgeschlossen.",
+            "Übungen dieser Art sind wichtig und nützlich.",
+            "Über 130 gefundene Arten konnten bestimmt werden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "part, fraction",
+            "część"
+        ],
+        "ger_list": [
+            "der Teil",
+            "Übrigens habe ich dieses Teil insgesamt dreimal angefangen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "stimulus, idea, motivation",
+            "sugestia, inicjatywa, impuls"
+        ],
+        "ger_list": [
+            "die Anregung",
+            "Über Anregungen bin ich wie immer äußerst erfreut.",
+            "Über konstruktive Anregungen würden wir uns freuen!",
+            "Über weitere Anregungen würden wir uns freuen – bis bald!"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "center, middle, midway, medium",
+            "środek"
+        ],
+        "ger_list": [
+            "die Mitte",
+            "Doch leider wurde es immer wieder über die Mitte versucht.",
+            "Ab durch die Mitte und immer gerade aus.",
+            "In der Mitte wurde es dann deutlich knapper."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "volume (books)",
+            "tom"
+        ],
+        "ger_list": [
+            "der Band",
+            "Über diese Band kann ich nicht viel erzählen.",
+            "Übrigens ich schreibe dann noch über das nächste Band .",
+            "Über die Band selbst gibt es nichts zu berichten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "ribbon, strap",
+            "wstążka, paśma, opaska, więź"
+        ],
+        "ger_list": [
+            "das Band",
+            "Über diese Band kann ich nicht viel erzählen.",
+            "Übrigens ich schreibe dann noch über das nächste Band .",
+            "Über die Band selbst gibt es nichts zu berichten."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "music band",
+            "zespół"
+        ],
+        "ger_list": [
+            "die Band",
+            "Über diese Band kann ich nicht viel erzählen.",
+            "Übrigens ich schreibe dann noch über das nächste Band .",
+            "Über die Band selbst gibt es nichts zu berichten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "function"
+        ],
+        "ger_list": [
+            "die Funktion",
+            "Ärzte äußern sich hoffnungsvoll über die neue Funktion .",
+            "Änderungen von internen Funktionen sind also weiterhin möglich.",
+            "Weiß zufällig jemand ob es eine wichtige Funktion hat?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "use",
+            "użycie"
+        ],
+        "ger_list": [
+            "die Nutzung",
+            "Welche Nutzung haben sie oder welche sollen sie bekommen?",
+            "Jedoch ausschließlich für eine rein private Nutzung .",
+            "Dies ist zur Nutzung allerdings nicht erforderlich."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "mistake",
+            "błąd"
+        ],
+        "ger_list": [
+            "der Fehler",
+            "Das war ein Fehler und kommt nicht mehr vor.",
+            "Wir werden jedoch ein paar verbleibende Fehler weiterhin untersuchen.",
+            "Diesmal macht man allerdings nicht den Fehler es zu übertreiben."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "everything",
+            "wszystko"
+        ],
+        "ger_list": [
+            "alles",
+            "Ärgerlich ist das aber alles trotzdem nicht.",
+            "Über den weiß man doch eh schon alles !",
+            "Über alles was die band betrifft lässt sich verhandeln."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "both",
+            "oba"
+        ],
+        "ger_list": [
+            "beide",
+            "Übrigens finde ich ich beide nicht sehr lustig.",
+            "Über die beiden ist nicht viel bekannt.",
+            "Über beide sind wir einfach zu finden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "this"
+        ],
+        "ger_list": [
+            "dies",
+            "Ändern würde dies vermutlich aber wohl eh nicht viel.",
+            "Und dies sollten wir uns nicht gefallen lassen.",
+            "Eben dies musste vor allem geglaubt werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "each",
+            "każdy"
+        ],
+        "ger_list": [
+            "jeder",
+            "Ähnliches hat wahrscheinlich jeder schon einmal erlebt.",
+            "Überall wird dir was erzählt und jeder erzählt was anderes.",
+            "Aber das sollte jeder individuell für sich selbst entscheiden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "some",
+            "niektóre"
+        ],
+        "ger_list": [
+            "manche",
+            "Über manches von gestern können wir heute lachen.",
+            "Über manche andere kannst du erst nachdenken.",
+            "Seitdem hat sich manches verbessert und anderes verschlechtert."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "a lot"
+        ],
+        "ger_list": [
+            "viel",
+            "Über mich gibt es nicht viel zu sagen.",
+            "Ändern würde dies vermutlich aber wohl eh nicht viel .",
+            "Über die es viel zu erzählen gibt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "no one",
+            "nikt"
+        ],
+        "ger_list": [
+            "niemand",
+            "Überrascht hatte das aber letztlich wirklich niemanden mehr.",
+            "Und nichts und niemand kann sie aufhalten.",
+            "Sprechen tut darüber ja jetzt niemand mehr."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "something",
+            "coś"
+        ],
+        "ger_list": [
+            "etwas",
+            "Über sich etwas zu erzählen fällt manchmal schwer.",
+            "Überall gibt es etwas zu sehen und zu entdecken.",
+            "Überall gibt es etwas neues zu entdecken."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "someone",
+            "ktoś"
+        ],
+        "ger_list": [
+            "jemand",
+            "Das hat vorher noch nie jemand gemacht.",
+            "Vielleicht weiß ja jemand was das ist.",
+            "Vielleicht meldet sich ja noch jemand dazu."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "a few",
+            "kilka, pare"
+        ],
+        "ger_list": [
+            "ein paar"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to live (to be alive)",
+            "żyć"
+        ],
+        "ger_list": [
+            "leben",
+            "Übrigens leben bei uns alle friedlich zusammen.",
+            "Nie und nimmer möchte sie irgendwo anders leben .",
+            "Damit kann ich aber sehr gut leben !"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "earth"
+        ],
+        "ger_list": [
+            "die Erde",
+            "Über die Erde sollst du barfuß gehen.",
+            "Überall auf der Erde war es gleichmäßig warm und feucht.",
+            "Insekten kommen fast überall auf der Erde vor."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "mountain"
+        ],
+        "ger_list": [
+            "der Berg",
+            "Auch wenn wir nicht auf dem Berg waren.",
+            "Der Berg ist hoch aber wir trauen uns alle!",
+            "Die wunderschönen Berge sah ich nur von unten."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "mountains"
+        ],
+        "ger_list": [
+            "die Berge",
+            "Die wunderschönen Berge sah ich nur von unten.",
+            "Hier informieren wir uns über die umliegenden Berge etwas ausführlicher.",
+            "Es gibt Berge die sieht man nicht."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "tree"
+        ],
+        "ger_list": [
+            "der Baum",
+            "Unter dem Baum darf sie nicht fehlen.",
+            "Heutzutage können viele nicht einmal mehr auf einen Baum klettern.",
+            "Doch nie ist mir dieser Baum aufgefallen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "trees"
+        ],
+        "ger_list": [
+            "die Bäume",
+            "Über hundert Bäume wurden direkt danach gefällt.",
+            "Die weissen Bäume sahen schon ganz gut aus.",
+            "Nun sind die Bäume für immer verloren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wind"
+        ],
+        "ger_list": [
+            "der Wind",
+            "Dadurch kamen wir nun trotz des Windes recht zügig voran.",
+            "Das ist relativ langweilig und starker Wind störte.",
+            "Die waren heute voll durch den Wind ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "fire"
+        ],
+        "ger_list": [
+            "das Feuer",
+            "Ägypten hat selbst Feuer ins Öl gegossen!",
+            "Diese rückte sofort aus und konnte das Feuer löschen.",
+            "Knapp jedes dritte Feuer ist darauf zurückzuführen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "flower",
+            "kwiat"
+        ],
+        "ger_list": [
+            "die Blume",
+            "Es gibt ja nicht nur Blumen zu sehen.",
+            "Ihr wollt sehen was sich hinter den Blumen verbirgt?",
+            "Die Blumen kaufe ich selber oder ziehe sie selber auf."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "flowers",
+            "kwiaty"
+        ],
+        "ger_list": [
+            "die Blumen",
+            "Es gibt ja nicht nur Blumen zu sehen.",
+            "Ihr wollt sehen was sich hinter den Blumen verbirgt?",
+            "Die Blumen kaufe ich selber oder ziehe sie selber auf."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "air",
+            "powietrze"
+        ],
+        "ger_list": [
+            "die Luft",
+            "Ähnlich verhält es sich mit der Luft .",
+            "Überall brummt es sanft in der warmen Luft .",
+            "Autos seien dabei regelrecht durch die Luft geflogen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "seas",
+            "morza"
+        ],
+        "ger_list": [
+            "die Meere",
+            "Beide Meere sind nur unweit voneinander entfernt.",
+            "Tatsächlich unterscheiden sich die beiden Meere entscheidend voneinander.",
+            "Auch unter dem Meere findet man es."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "moon",
+            "księżyc"
+        ],
+        "ger_list": [
+            "der Mond",
+            "Diese wiederum sind durch die 12 Monde miteinander verbunden.",
+            "Mit dem Mond hat es eigentlich gar nichts zu tun.",
+            "Der volle Mond bringt mich auch immer zum träumen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "sky",
+            "niebo"
+        ],
+        "ger_list": [
+            "der Himmel",
+            "Über alles spannt sich ein strahlend blauer Himmel .",
+            "Dann kümmerte ich mich um den Himmel .",
+            "Leider ist der Himmel nicht ganz klar."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "sun"
+        ],
+        "ger_list": [
+            "die Sonne",
+            "Trotzdem sollte man die Sonne nicht unterschätzen.",
+            "Ich kann Sonne und warm wirklich brauchen!",
+            "Die Sonne macht zudem auch noch munter."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to fall",
+            "upadać, spadać, zapadać"
+        ],
+        "ger_list": [
+            "fallen",
+            "Einfach nur lieben und sich fallen lassen.",
+            "Immer wieder fallen welche runter und bewegen sich ganz langsam.",
+            "Aber auch jedem anderen dürfte das schwer fallen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "nature"
+        ],
+        "ger_list": [
+            "die Natur",
+            "Übrigens auch in der Natur ging es noch nie anders.",
+            "Die heimische Natur fällt einem oft erst zuletzt ein.",
+            "Spielerisch lernen wir die Natur zu erforschen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "sea"
+        ],
+        "ger_list": [
+            "das Meer",
+            "Überhaupt wandern wir hauptsächlich am Meer entlang.",
+            "Beide Meere sind nur unweit voneinander entfernt.",
+            "Sie möchten lieber \" Meer \" erleben?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "my"
+        ],
+        "ger_list": [
+            "mein",
+            "Jedoch dort begründet sich nun mein Ärger.",
+            "Ich hoffe ihr versteht was ich mein .",
+            "Ich habe mein bestes gegeben +gg+."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "your (informal, singular)",
+            "twój"
+        ],
+        "ger_list": [
+            "dein",
+            "Du musst dafür mir nur dein ok geben.",
+            "Bis dann wir hoffen auf dein kommen!",
+            "Ich bin dein und du bist mein!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "his, its"
+        ],
+        "ger_list": [
+            "sein",
+            "Überall kann man einfach nicht dabei sein !",
+            "Überhaupt scheinen hier alle irgendwie verdächtig zu sein .",
+            "Übrigens muss auch vegetarisch grillen nicht langweilig sein ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "their, theirs, her, hers"
+        ],
+        "ger_list": [
+            "ihr",
+            "Überreste von ihr werden jedoch nicht gefunden.",
+            "Über die könnt ihr auch woanders genug lesen.",
+            "Überall anders bezahlt ihr mindestens 50€ mehr."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "your (formal)"
+        ],
+        "ger_list": [
+            "Ihr"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "our"
+        ],
+        "ger_list": [
+            "unser",
+            "Starbucks ist jetzt unser zweites zu hause.",
+            "Ähnlich kurios fiel dann aber auch unser Führungstreffer.",
+            "Übrigens predigen wir auch gerade durch unser Leben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "your (informal, plural)",
+            "wasz"
+        ],
+        "ger_list": [
+            "euer",
+            "Über euer kommen würden wir uns sehr freuen.",
+            "Wir haben uns sehr über euer kommen gefreut.",
+            "Über euer Feedback würden wir uns sehr freuen!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "nothing",
+            "nic"
+        ],
+        "ger_list": [
+            "nichts",
+            "Über außen kommt ja absolut gar nichts .",
+            "Ändern könne er daran aber auch nichts .",
+            "Über mich gibt es hier nichts zu lesen!"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "none"
+        ],
+        "ger_list": [
+            "kein",
+            "Und ich hab kein einziges davon gemacht.",
+            "Es ist heute angekommen und hat mich kein bisschen enttäuscht.",
+            "Es darf kein \"die\" und \"wir\" geben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "no one",
+            "nikt, żaden"
+        ],
+        "ger_list": [
+            "keiner",
+            "So etwas hatte noch keiner hier gehört.",
+            "Wer das war weis heute keiner mehr.",
+            "Diese sind sicher und keiner kann einem dies nehmen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "never (short form)",
+            "nigdy"
+        ],
+        "ger_list": [
+            "nie",
+            "Überhaupt habe ich noch nie was gelöscht.",
+            "Über letzteres möchte ich aber bitte nie wieder sprechen.",
+            "So etwas habe ich noch nie gesehen!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "never (long form and more emotional)",
+            "nigdy"
+        ],
+        "ger_list": [
+            "niemals",
+            "Ich liebe es und möchte es niemals missen.",
+            "Qualität ist niemals ein für allemal definiert.",
+            "Mobbing dürfe niemals ignoriert oder geduldet werden."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "strong",
+            "silny"
+        ],
+        "ger_list": [
+            "stark",
+            "Kann sich das bis dahin sehr stark weiter verbreiten?",
+            "Dies hat sich unterdessen jedoch stark geändert.",
+            "Wenn ja werdet ihr sehr stark sein müssen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "another, other, different",
+            "inny"
+        ],
+        "ger_list": [
+            "andere"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "also",
+            "też"
+        ],
+        "ger_list": [
+            "auch",
+            "Über die haben wir uns auch massiv beschwert.",
+            "Änderungen können auch durch uns nicht mehr vorgenommen werden!",
+            "Über den wir uns natürlich auch immer sehr freuen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "so"
+        ],
+        "ger_list": [
+            "so",
+            "Ökostrom zu kaufen lohnt sich jetzt besonders.",
+            "Über was soll ich denn heute bloggen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "gladly",
+            "chętnie"
+        ],
+        "ger_list": [
+            "gern",
+            "Aber ich mag sie wirklich nicht sonderlich gern .",
+            "Vorschläge hierfür nehmen wir auch gern entgegen.",
+            "Es wird gern mal \"vergessen\"!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "still, yet, nor",
+            "ciągle, nadal, jeszcze"
+        ],
+        "ger_list": [
+            "noch",
+            "Über genaueres können wir uns aber noch unterhalten.",
+            "Überhaupt habe ich noch nie was gelöscht.",
+            "Über die weiß man noch nicht allzu viel."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "already, yet"
+        ],
+        "ger_list": [
+            "schon",
+            "Ökonomen ist diese immer schon vertraut gewesen.",
+            "Über den weiß man doch eh schon alles!",
+            "Über dieses habe ich hier schon einmal berichtet."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "always",
+            "zawsze"
+        ],
+        "ger_list": [
+            "immer",
+            "Ökonomen ist diese immer schon vertraut gewesen.",
+            "Über ein \"gefällt mir\" freuen wir uns immer sehr!",
+            "Über diese freue ich mich sowieso immer wieder gerne!"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "together"
+        ],
+        "ger_list": [
+            "zusammen",
+            "Übrigens leben bei uns alle friedlich zusammen .",
+            "Vielleicht macht ihr es auch einfach zusammen .",
+            "Ich 45 bin seit 1983 mit ihr zusammen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "turn (e.g. it's your turn)"
+        ],
+        "ger_list": [
+            "dran",
+            "Ändern können sie aber auch nichts dran .",
+            "Der is nur am dran am tun.",
+            "Und da sollten wir wieder dran arbeiten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "alone",
+            "sam, samotny"
+        ],
+        "ger_list": [
+            "allein",
+            "Üben allein reicht aber bei weitem nicht aus.",
+            "Erst gerade war ich allein mit ihm draussen.",
+            "Doch damit allein ist es oft nicht getan."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "only",
+            "tylko"
+        ],
+        "ger_list": [
+            "nur",
+            "Ändern kann man meistens nur von innen heraus.",
+            "Über das warum kann man hier nur spekulieren.",
+            "Doch umsetzen tun es nur die wenigsten."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "really",
+            "naprawdę"
+        ],
+        "ger_list": [
+            "wirklich",
+            "Überrascht hatte das aber letztlich wirklich niemanden mehr.",
+            "Den kann man sich nämlich wirklich gut merken.",
+            "Beide sind sehr empfehlenswert und helfen wirklich klasse."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "maybe",
+            "może"
+        ],
+        "ger_list": [
+            "vielleicht",
+            "Kann sein – und vielleicht eigentlich stimmt es auch.",
+            "Da war er vielleicht etwas zu bescheiden.",
+            "Dabei wird er sich vielleicht \"neu erfinden\"."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "again",
+            "znowu"
+        ],
+        "ger_list": [
+            "wieder",
+            "Ärzte sollen ihm helfen wieder gesund zu werden.",
+            "Über diese freue ich mich sowieso immer wieder gerne!",
+            "Über letzteres möchte ich aber bitte nie wieder sprechen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "building",
+            "budynek"
+        ],
+        "ger_list": [
+            "das Gebäude",
+            "Hierzu müssen sie sich um das Gebäude herum bewegen.",
+            "Das komplette Gebäude war von innen und außen frisch renoviert.",
+            "Zudem sind viele Gebäude noch immer nicht barrierefrei."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "buildings"
+        ],
+        "ger_list": [
+            "die Gebäude",
+            "Hierzu müssen sie sich um das Gebäude herum bewegen.",
+            "Das komplette Gebäude war von innen und außen frisch renoviert.",
+            "Zudem sind viele Gebäude noch immer nicht barrierefrei."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "house"
+        ],
+        "ger_list": [
+            "das Haus",
+            "Überhaupt verlassen sie das Haus normalerweise nicht.",
+            "Über das Haus gab es für uns nichts auszusetzen.",
+            "Überhaupt hat man zu Hause nicht überzeugen können."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "houses"
+        ],
+        "ger_list": [
+            "die Häuser",
+            "Nach rechts und links hin werden die Häuser schon niedrig.",
+            "Einige der alten Häuser stehen immer noch leer.",
+            "Es wurden Häuser abgerissen und dann passierte jahrelang nichts."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "market"
+        ],
+        "ger_list": [
+            "der Markt",
+            "Ähnliches gibt es schon länger im deutschsprachigen Markt .",
+            "Über den Markt müssen wir schneller laufen.",
+            "Ähnlich erfolgreich zeigt sich der chinesische Markt ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "garden",
+            "ogród"
+        ],
+        "ger_list": [
+            "der Garten",
+            "In meinem Garten zeigt er sich auch schon!",
+            "Dabei muss er außerhalb des Gartens platziert werden.",
+            "Der große Garten darf gerne genutzt werden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "gardens"
+        ],
+        "ger_list": [
+            "die Gärten",
+            "Darunter sind einige auch sonst geöffnete Gärten .",
+            "In den heutigen Gärten ist sie selten geworden.",
+            "Optisch haben beide Gärten aber wenig gemein."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "school",
+            "szkoła"
+        ],
+        "ger_list": [
+            "die Schule",
+            "Über die Schule kann ich alle erreichen.",
+            "Überhaupt war an unserer Schule immer was los.",
+            "Später geht es wieder zurück zur Schule ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "schools"
+        ],
+        "ger_list": [
+            "die Schulen",
+            "Aber auch die anderen Schulen gehen nicht leer aus.",
+            "Nun können beide Schulen stolz auf sich sein.",
+            "Und auch die Schulen sollen nicht leer ausgehen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "corner"
+        ],
+        "ger_list": [
+            "die Ecke",
+            "Überhaupt sind auch die Ecken leicht unscharf.",
+            "Überraschungen lauern ja meist hinter dunklen Ecken .",
+            "Nun ist das gleich um die Ecke ."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "corners",
+            "róg, kąt, narożnik"
+        ],
+        "ger_list": [
+            "die Ecken",
+            "Überhaupt sind auch die Ecken leicht unscharf.",
+            "Überraschungen lauern ja meist hinter dunklen Ecken .",
+            "So und jetzt nehme ich mir die anderen Ecken vor."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "railway station"
+        ],
+        "ger_list": [
+            "der Bahnhof",
+            "Für alle wird der Bahnhof derzeit barrierefrei ausgebaut.",
+            "Der heutige Bahnhof wirkt auf mich sehr langweilig.",
+            "Der Bahnhof selber war zwar groß aber nicht unbedingt riesig."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "railway stations"
+        ],
+        "ger_list": [
+            "die Bahnhöfe",
+            "Überdies sind 25 Bahnhöfe in den Verleih integriert.",
+            "Nicht jeder wagt sich in die unterirdischen Bahnhöfe .",
+            "Warum können die Bahnhöfe zu Hotels umgebaut werden?"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "restaurant"
+        ],
+        "ger_list": [
+            "das Restaurant",
+            "Überall gibt es gute Restaurants die man besuchen kann.",
+            "In welchem Restaurant können wir gut und lecker speisen?",
+            "Manche Restaurants sind allerdings nur einmal von uns getestet worden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "restaurants"
+        ],
+        "ger_list": [
+            "die Restaurants",
+            "Überall gibt es gute Restaurants die man besuchen kann.",
+            "Manche Restaurants sind allerdings nur einmal von uns getestet worden.",
+            "Ich rede hier von ganz normalen Restaurants ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "library",
+            "biblioteka"
+        ],
+        "ger_list": [
+            "die Bibliothek",
+            "Über die Bibliothek lassen sie sich bequem wiederherstellen.",
+            "Wie sieht für euch die perfekte Bibliothek aus?",
+            "Kinderbücher konnte ich mir damals nur aus der Bibliothek holen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "castle",
+            "zamek"
+        ],
+        "ger_list": [
+            "das Schloss",
+            "Das Schloss muss man allerdings selbst knacken.",
+            "Das Schloss wird man sich noch überlegen.",
+            "Ich hatte es mit einem Schloss gesichert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "bank, bench"
+        ],
+        "ger_list": [
+            "die Bank",
+            "Ähnlich sehe ich es gegenüber der Bank .",
+            "Doch weshalb möchte er dann eine Bank überfallen?",
+            "Ich muss aber zuerst mal zur Bank ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "hotel"
+        ],
+        "ger_list": [
+            "das Hotel",
+            "Überhaupt findet man hier keine riesigen Hotels .",
+            "Übernachtungsmöglichkeiten gibt es in den umliegenden Hotels .",
+            "Übernachten kann man in vielen wunderschön gelegenen Hotels ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "hotels"
+        ],
+        "ger_list": [
+            "die Hotels",
+            "Überhaupt findet man hier keine riesigen Hotels .",
+            "Übernachtungsmöglichkeiten gibt es in den umliegenden Hotels .",
+            "Übernachten kann man in vielen wunderschön gelegenen Hotels ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "street",
+            "ulica"
+        ],
+        "ger_list": [
+            "die Straße",
+            "Wir waren meistens wirklich die einzigen auf der Straße .",
+            "Jetzt fließt und klingelt es ein paar Straßen weiter.",
+            "Die Straße wurde geräumt und gesäubert und danach wieder freigegeben."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "structure, construction, building"
+        ],
+        "ger_list": [
+            "der Bau",
+            "Gerade auf dem Bau macht sich das bemerkbar.",
+            "Mit dem Bau soll 2008 begonnen werden.",
+            "Mit dem Bau solle 2008 begonnen werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "constructions, buildings"
+        ],
+        "ger_list": [
+            "die Bauten",
+            "Viele dieser Bauten sind noch heute erhalten und restauriert worden.",
+            "Regensburg mit seinen historischen Bauten ist leicht und schnell erreichbar.",
+            "Side ist umgeben von sehenswerten antiken Bauten ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "country",
+            "wieś (nie miasto)"
+        ],
+        "ger_list": [
+            "das Land",
+            "Über alles gesehen fällt unser Land aber deutlich ab.",
+            "Ägypten ist ein wirklich sehr schönes Land .",
+            "Überall im Land wird zurzeit noch gebaut."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "countries"
+        ],
+        "ger_list": [
+            "die Länder",
+            "Über 50 Länder sind bereit dies auch anzuerkennen.",
+            "Sie führt insgesamt durch 10 europäische Länder .",
+            "Um diesen würden \"uns andere Länder beneiden\"."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "city"
+        ],
+        "ger_list": [
+            "die Stadt",
+            "Über tausend von ihnen konnten ungehindert durch die Stadt marschieren.",
+            "Öffnungszeiten für die Stadt selbst gibt es nicht.",
+            "Über die Stadt selber erfährt man so gut wie nichts."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "village"
+        ],
+        "ger_list": [
+            "das Dorf",
+            "Überall im ganzen Dorf ist er zu sehen.",
+            "Du kommst von deinem Dorf eben nie los.",
+            "Total ermutigt verlassen wir dieses Dorf wieder."
+        ],
+        "hardness": 2
+    }
+]

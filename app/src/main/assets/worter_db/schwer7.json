@@ -1,0 +1,389 @@
+[
+    {
+        "poleng_list": [
+            "chrzest"
+        ],
+        "ger_list": [
+            "die Taufe"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "rocznica"
+        ],
+        "ger_list": [
+            "der Jahrestag"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "prześladowanie, pościg"
+        ],
+        "ger_list": [
+            "die Verfolgung"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "zoo"
+        ],
+        "ger_list": [
+            "der Zoo",
+            "Und warum gibt es denn überhaupt diese vielen Zoos .",
+            "Dies hier ist ein ganz kleiner Zoo .",
+            "Wie sind sie aus dem Zoo entkommen?"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "ahead",
+            "naprzód, do przodu, z góry"
+        ],
+        "ger_list": [
+            "voraus",
+            "Darin ist er uns oft sehr weit voraus .",
+            "Dafür bedanken wir uns schon einmal im voraus .",
+            "Das setzt voraus dass sie schlecht verlieren können."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "kept  (past participle)",
+            "zatrzymałem, zachowałem, zapamiętałem"
+        ],
+        "ger_list": [
+            "haben behalten"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "advised, discussed  (past participle)",
+            "doradziłem, radziłem, omawiałem"
+        ],
+        "ger_list": [
+            "haben beraten"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "wypływać, wynikać, brać początek"
+        ],
+        "ger_list": [
+            "entspringrn"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "tworzyć, formować, kształtować"
+        ],
+        "ger_list": [
+            "bilden"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "powódź"
+        ],
+        "ger_list": [
+            "die Überschwemmung; das Hochwasser"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "bardzo szybko, imponująco"
+        ],
+        "ger_list": [
+            "rasant"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "rozmnażać się"
+        ],
+        "ger_list": [
+            "sich vermehren"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "transmitować, nadawać"
+        ],
+        "ger_list": [
+            "übertragen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "prostować, regulować, wyrównywać"
+        ],
+        "ger_list": [
+            "begradigen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wciskać, upychać"
+        ],
+        "ger_list": [
+            "zwängen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "kierować, prowadzić"
+        ],
+        "ger_list": [
+            "lenken"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "zawracać"
+        ],
+        "ger_list": [
+            "umlenken"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "spuścizna, dziedzictwo, spadek"
+        ],
+        "ger_list": [
+            "das Erbe"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "dziedziczyć"
+        ],
+        "ger_list": [
+            "erben"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "legenda"
+        ],
+        "ger_list": [
+            "die Sage"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "stworzenie, istota"
+        ],
+        "ger_list": [
+            "das Wesen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wabić, przyciągać"
+        ],
+        "ger_list": [
+            "anlocken"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "zaczarować, oczarować"
+        ],
+        "ger_list": [
+            "verzaubern"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "port"
+        ],
+        "ger_list": [
+            "der Hafen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "opustoszały, bezludny, nudny, pusty"
+        ],
+        "ger_list": [
+            "öde"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "zamarzać"
+        ],
+        "ger_list": [
+            "zugefroren"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "składować, magazynować"
+        ],
+        "ger_list": [
+            "lagern"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "odprowadzać (wodę)"
+        ],
+        "ger_list": [
+            "ableiten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "przypuszczenie, hipoteza"
+        ],
+        "ger_list": [
+            "die Vermutung"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "szanowany"
+        ],
+        "ger_list": [
+            "verehrt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "sławny, słynny"
+        ],
+        "ger_list": [
+            "berühmt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "poważany, szanowany"
+        ],
+        "ger_list": [
+            "angesehen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "nurt, prąd, kierunek"
+        ],
+        "ger_list": [
+            "die Strömung"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "sława, chwała"
+        ],
+        "ger_list": [
+            "der Ruhm"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "honor, zaszczyt (jako odznaczenie)"
+        ],
+        "ger_list": [
+            "die Ehre"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wracać, jechać z powrotem, zawracać"
+        ],
+        "ger_list": [
+            "zurückkehren"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "utrzymywać, zachowywać, konserwować"
+        ],
+        "ger_list": [
+            "erhalten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "naśladować"
+        ],
+        "ger_list": [
+            "nachnahmen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "odnosić się"
+        ],
+        "ger_list": [
+            "sich beziehen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wrodzony"
+        ],
+        "ger_list": [
+            "angeboren"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "zaniedbany"
+        ],
+        "ger_list": [
+            "heruntergekommen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wyrażać swoje zadanie, wypowiedzieć się (na jakiś temat), zajmować stanowisko"
+        ],
+        "ger_list": [
+            "sich äußern"
+        ],
+        "hardness": 5
+    }
+]

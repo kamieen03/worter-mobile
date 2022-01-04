@@ -1,0 +1,761 @@
+[
+    {
+        "poleng_list": [
+            "used (past participle)"
+        ],
+        "ger_list": [
+            "haben genutzt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "changed (past participle)"
+        ],
+        "ger_list": [
+            "haben geändert"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "guaranteed, warranted (past participle)"
+        ],
+        "ger_list": [
+            "haben gewährleistet"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "preferred (past participle)"
+        ],
+        "ger_list": [
+            "haben bevorzugt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to receive"
+        ],
+        "ger_list": [
+            "erhalten",
+            "Wie hätte es ihm auch erhalten bleiben können?",
+            "Diese sind problemlos über uns zu erhalten .",
+            "Nun habe ich es erhalten und somit auch probieren können."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to report"
+        ],
+        "ger_list": [
+            "berichten",
+            "Über den wir euch unbedingt berichten wollten.",
+            "Über die gibt es definitiv viel zu berichten .",
+            "Über einige davon werde ich sicher noch berichten ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to catch, to achieve, to reach"
+        ],
+        "ger_list": [
+            "erreichen",
+            "Denn die 100% wollen und können wir erreichen .",
+            "Mal sehen ob ich das erreichen kann.",
+            "Ganz vorne dabei sein und mit wenig viel erreichen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to check, to inspect"
+        ],
+        "ger_list": [
+            "überprüfen",
+            "Aber das kannst du ja gerne selber überprüfen .",
+            "Diese gilt es anschliessend wissenschaftlich zu überprüfen .",
+            "Wer das bei sich hat sollte überprüfen woran es liegt."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to judge, to assess, to evaluate"
+        ],
+        "ger_list": [
+            "bewerten",
+            "Mal sehen ob wir dieses als uneingeschränkt super bewerten können.",
+            "Dies mag jeder für sich selbst bewerten .",
+            "Weil sich niemand traut negativ zu bewerten ?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to contact"
+        ],
+        "ger_list": [
+            "kontaktieren",
+            "Sie können uns aber auch bereits vorher kontaktieren .",
+            "Oder du kannst mich auch gerne kontaktieren .",
+            "Um uns zu kontaktieren klicke bitte hier ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to determine, to examine, to investigate (with a goal in mind)"
+        ],
+        "ger_list": [
+            "ermitteln",
+            "Doch kann ein jeder auch kompetent ermitteln ?",
+            "Wo sie sich dann aufhalten konnte ich nicht ermitteln .",
+            "Aber nicht alle haben wir ermitteln können."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to serve"
+        ],
+        "ger_list": [
+            "dienen",
+            "Wie dienen wir und wie kann man dienen?",
+            "Wie dienen wir und wie kann man dienen ?",
+            "Vielleicht kann das ja dem einen oder anderen dienen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to base"
+        ],
+        "ger_list": [
+            "basieren",
+            "Worauf diese basieren ist vielen nicht bewusst.",
+            "Sie sind entweder entsprechend leicht oder basieren auf freiwilliger Teilnahme.",
+            "Wir basieren vor allem auf der Qualität."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to calculate"
+        ],
+        "ger_list": [
+            "berechnen",
+            "Jedes weitere werde ich mit 50 € berechnen .",
+            "Sie berechnen sie aber teilweise sehr unterschiedlich.",
+            "Das ist unverbindlich und wir berechnen dafür auch nichts."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to kick, to step"
+        ],
+        "ger_list": [
+            "treten",
+            "Schmerzen treten auf und wollen nicht verschwinden?",
+            "Dabei hatten sie eigentlich etwas kürzer treten wollen.",
+            "Da hätte man durchaus etwas kürzer treten können."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to develop"
+        ],
+        "ger_list": [
+            "entwickeln",
+            "Bin gespannt wie sich das entwickeln wird.",
+            "Und ich bin sehr gespannt wie er sich entwickeln wird!",
+            "Alle entwickeln sich gut und trinken auch sehr gut."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to use (an object or something abstract)"
+        ],
+        "ger_list": [
+            "nutzen",
+            "Das muss man dann auch mal nutzen .",
+            "Sie ließen sich aber nur schwer nutzen .",
+            "Oder kann man sie noch sinnvoll nutzen ?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to define"
+        ],
+        "ger_list": [
+            "definieren",
+            "Wie anders soll man ihn weiter definieren ?",
+            "Wie lässt sich diese beschreiben oder gar definieren ?",
+            "Österreich darf daher den Begriff \"öffentlich\" nicht anders definieren ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to be right, to be true, to vote"
+        ],
+        "ger_list": [
+            "stimmen",
+            "Das dürfte dann wohl stimmen mit den 38 cm.",
+            "Das ist das erste was absolut nicht stimmen kann.",
+            "Das mag vielleicht hin und wieder stimmen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to concern, to affect"
+        ],
+        "ger_list": [
+            "betreffen",
+            "Es kann jeden von uns früher oder später betreffen .",
+            "Nämlich dann wenn sie ihn direkt betreffen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to begin"
+        ],
+        "ger_list": [
+            "anfangen",
+            "Damit kann ich jetzt allerdings nichts mehr anfangen .",
+            "Ich kann einfach nichts mit mir selbst anfangen .",
+            "Wann muss sie wieder anfangen zu fressen?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "academy"
+        ],
+        "ger_list": [
+            "die Akademie",
+            "Seit 2003 hat die Akademie \"2.",
+            "Forschung betreiben kannst du mit der Akademie .",
+            "Vielleicht hat die Akademie das jetzt erkannt."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "training, apprenticeship, education"
+        ],
+        "ger_list": [
+            "die Ausbildung",
+            "Ich möchte mich gerne nach der Ausbildung weiterbilden.",
+            "Denn \"gute Ausbildung ist unverzichtbar\".",
+            "Dadurch ist die Ausbildung noch attraktiver geworden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "education"
+        ],
+        "ger_list": [
+            "die Bildung",
+            "Und die Bildung kam auch nicht zu kurz.",
+            "Daneben wollen sie zu einer verstärkten interkulturellen Bildung beitragen.",
+            "Auch unsere Bildung kam nicht zu kurz."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "upbringing"
+        ],
+        "ger_list": [
+            "die Erziehung",
+            "Vor allem aber mit \" Erziehung \".",
+            "Natürlich habe ich eine gewisse Erziehung und höre gut.",
+            "Ich habe nämlich auch eine gute Erziehung genossen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "field, department, faculty"
+        ],
+        "ger_list": [
+            "der Fachbereich",
+            "Weiterhin stellen sie euch ihren Fachbereich näher vor.",
+            "Danach werden sie die einzelnen Fachbereiche aufsuchen.",
+            "Was sagen sie über den Fachbereich aus?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "research"
+        ],
+        "ger_list": [
+            "die Forschung",
+            "Schon jetzt sind die unverbindlichen Forschungen darin äußerst nachhaltig.",
+            "Hier ist noch viel Forschung zu leisten.",
+            "Seitdem betrieb er seine Forschungen für sich."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "primary/elementary school"
+        ],
+        "ger_list": [
+            "die Grundschule",
+            "Ähnlich sieht es auch an anderen Grundschulen aus.",
+            "Seitdem haben wir nur noch die Grundschule .",
+            "Die Grundschulen werden sich der interessierten Öffentlichkeit vorstellen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "high school, grammar school"
+        ],
+        "ger_list": [
+            "das Gymnasium",
+            "Sie gingen alle zusammen auf das gleiche Gymnasium .",
+            "Das Gymnasium aber darf dabei nicht vernachlässigt werden.",
+            "Gerade habe ich mir das Gymnasium angeschaut."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "college, university"
+        ],
+        "ger_list": [
+            "die Hochschule",
+            "Sie wollen ihre Hochschule grüner und nachhaltiger gestalten?",
+            "Wir haben auch bei den Hochschulen vorbei geguckt.",
+            "Die Hochschulen mussten sich zwangsläufig damit befassen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "institute"
+        ],
+        "ger_list": [
+            "das Institut",
+            "Dies hätten die beiden deutschen Institute nun nachgeholt.",
+            "Dann hätte ich ihn gerne vor dem Institut gehabt.",
+            "Ich kann ihr Institut aus innerer Überzeugung wärmstens weiterempfehlen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "kindergarten"
+        ],
+        "ger_list": [
+            "der Kindergarten",
+            "Der Kindergarten hat sich eine Überraschung ausgedacht.",
+            "Eigentlich wollte ich sie ja im Kindergarten vorführen.",
+            "Das können sie doch oft schon aus dem Kindergarten !"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "class, grade"
+        ],
+        "ger_list": [
+            "die Klasse"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "course, price, exchange rate"
+        ],
+        "ger_list": [
+            "der Kurs",
+            "Städtereisen stehen bei uns grad hoch im Kurs .",
+            "Für den Kurs einfach nicht zu toppen.",
+            "Wir gehen von tendenziell weiter fallenden Kursen aus."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "apprenticeship, teaching"
+        ],
+        "ger_list": [
+            "die Lehre",
+            "Deshalb können keine militärischen Lehren gezogen werden.",
+            "Und daraus kann man eine recht einfache Lehre ziehen.",
+            "Reicht das auch für eine bessere Lehre ?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "reader"
+        ],
+        "ger_list": [
+            "der Leser",
+            "Ähnliches haben auch wir mit unseren Lesern vor.",
+            "Doch auch der Leser wird gefordert und aktiv mit einbezogen.",
+            "Als Leser kann ich mich hier auf nichts mehr verlassen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "grade, note"
+        ],
+        "ger_list": [
+            "die Note",
+            "Über seine Noten brauche ich daher wohl nicht zu reden.",
+            "Ändern kann man an der Note eh nichts mehr.",
+            "Testberichte mit aussagekräftigen Noten finden sich keine."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "exam, test"
+        ],
+        "ger_list": [
+            "die Prüfung",
+            "Was aber vermag die Prüfung für jeden einzelnen sein?",
+            "Man wird jetzt erneut eine Prüfung anstellen.",
+            "Deshalb konnte ich vor der Prüfung nichts essen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "seminar"
+        ],
+        "ger_list": [
+            "das Seminar",
+            "Überhaupt empfand ich das Seminar als sehr ausgewogen.",
+            "Über das Seminar hinaus soll eine breite Öffentlichkeit erreicht werden.",
+            "Anmeldungen für dieses Seminar sind ab sofort möglich."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "pen"
+        ],
+        "ger_list": [
+            "der Stift",
+            "Dieser Stift allerdings hält was er verspricht!",
+            "Ich mag die Stifte alle mal mehr oder mal weniger.",
+            "Da liegen natürlich auch immer ein paar Stifte drauf rum."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to study"
+        ],
+        "ger_list": [
+            "studieren",
+            "Aber probieren geht ja bekanntlich über studieren .",
+            "Nicht jeder kann es sich leisten zu studieren .",
+            "Ergotherapie zu studieren kommt für mich nicht infrage."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "(academical) study, degree course,  scholastics"
+        ],
+        "ger_list": [
+            "das Studium",
+            "Ärztinnen und Ärzte können also von diesem Studium doppelt profitieren.",
+            "Ein reines Studium finde ich zurzeit zu trocken.",
+            "Wollt ihr mehr zu meinem Studium wissen?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "test"
+        ],
+        "ger_list": [
+            "der Test",
+            "Über was für einen Test wird den hier geredet?",
+            "Zudem musste dieser Test für uns auch bezahlbar bleiben.",
+            "Welchen Test genau habt ihr den gemacht?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "training"
+        ],
+        "ger_list": [
+            "das Training",
+            "Darauf haben wir uns gestern abend nach dem Training geeinigt.",
+            "Ich komme wirklich sehr gern zum Training .",
+            "Im Training hat er uns wirklich gut gefallen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to reflect, to consider, to debate, to think"
+        ],
+        "ger_list": [
+            "überlegen",
+            "Das hätte er sich lieber vorher überlegen sollen.",
+            "Ich werde noch weiter überlegen und mich dann nochmal melden.",
+            "Das werden wir uns dann wohl nochmal überlegen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "exercise, practice"
+        ],
+        "ger_list": [
+            "die Übung",
+            "Da ist wohl noch etwas Übung angesagt.",
+            "Von diesen Übungen absolvierten wir im ganzen drei.",
+            "Mit etwas Übung ist das ganz leicht."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "university (short form)"
+        ],
+        "ger_list": [
+            "die Uni",
+            "Die besten Unis könnt ihr hier finden.",
+            "Eigentlich ist Uni hier sogar ziemlich cool bisher.",
+            "Übrigens haben wir am Montag keine Uni ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "university"
+        ],
+        "ger_list": [
+            "die Universität",
+            "Das wird auch den Universitäten gut tun!",
+            "Immer mehr deutsche Universitäten versuchen sich international auszurichten.",
+            "Dafür gibt es nun Ärger mit der Universität ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "lesson"
+        ],
+        "ger_list": [
+            "der Unterricht",
+            "So stelle ich mir guten Unterricht auch vor.",
+            "So kann man dann wenigstens mal Unterricht machen.",
+            "Wir lernen bekanntlich nicht nur im Unterricht ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "continuing education"
+        ],
+        "ger_list": [
+            "die Weiterbildung",
+            "Ähnliches lässt sich für die berufliche Weiterbildung sagen.",
+            "Übrigens wird auch hier die Weiterbildung großgeschrieben.",
+            "Ich denke gerade berufsbegleitend ist die Weiterbildung wirklich zu schaffen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to read aloud"
+        ],
+        "ger_list": [
+            "vorlesen",
+            "Und außerdem muss ich wahrscheinlich eh nicht vorlesen .",
+            "Übrigens könnt ihr euch den Text vorlesen lassen.",
+            "Aber meistens einfach spannend und toll zum vorlesen und zuhören!"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "accepted (past participle)"
+        ],
+        "ger_list": [
+            "haben akzeptiert"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "fulfilled (past participle)"
+        ],
+        "ger_list": [
+            "haben erfüllt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "brought (past participle)"
+        ],
+        "ger_list": [
+            "haben gebracht"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "thought (past participle)"
+        ],
+        "ger_list": [
+            "haben gedacht"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "guided, led (past participle)"
+        ],
+        "ger_list": [
+            "haben geführt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "established, founded, based (past participle)"
+        ],
+        "ger_list": [
+            "haben gegründet"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "held, kept (past participle)"
+        ],
+        "ger_list": [
+            "haben gehalten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "called, named (past participle)"
+        ],
+        "ger_list": [
+            "haben genannt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "proved (past participle)"
+        ],
+        "ger_list": [
+            "haben geprüft"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "managed, accomplished (past participle)"
+        ],
+        "ger_list": [
+            "haben geschafft"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "voted, chose, elected (past participle)"
+        ],
+        "ger_list": [
+            "haben gewählt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wanted (past participle)"
+        ],
+        "ger_list": [
+            "haben gewollt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "known (about knowledge) (past participle)"
+        ],
+        "ger_list": [
+            "haben gewusst"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "happened (past participle)"
+        ],
+        "ger_list": [
+            "sein passiert"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "forgiven  (past participle)"
+        ],
+        "ger_list": [
+            "haben vergeben"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "left, abandoned  (past participle)"
+        ],
+        "ger_list": [
+            "haben verlassen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "vanished",
+            "disappeared (past participle)"
+        ],
+        "ger_list": [
+            "sein verschwunden"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "understood (past participle)"
+        ],
+        "ger_list": [
+            "haben verstanden"
+        ],
+        "hardness": 5
+    }
+]

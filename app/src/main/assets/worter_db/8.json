@@ -1,0 +1,1235 @@
+[
+    {
+        "poleng_list": [
+            "Great Britain"
+        ],
+        "ger_list": [
+            "Großbritannien",
+            "In Großbritannien seien es immerhin 23 % gewesen.",
+            "So lange es ihn noch gibt ist Großbritannien nicht verloren.",
+            "Amerika und Großbritannien machen es bereits vor."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "town map"
+        ],
+        "ger_list": [
+            "der Stadtplan",
+            "Einen familienfreundlichen Stadtplan gibt ́s gratis dazu.",
+            "Heute geht es um einen innovativen Stadtplan .",
+            "Selbst ohne ist es besser als jeder Stadtplan ."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "tourism"
+        ],
+        "ger_list": [
+            "der Tourismus",
+            "Ägypten ist auf den Tourismus stark angewiesen.",
+            "Auch der Tourismus kann noch mehr gefördert werden.",
+            "Der Tourismus dagegen investiert und beschäftigt hier."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "way, path, road",
+            "ścieżka, droga"
+        ],
+        "ger_list": [
+            "der Weg",
+            "Über den Weg gelaufen sind sie sich gewiss irgendwann."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "flight",
+            "lot"
+        ],
+        "ger_list": [
+            "der Flug",
+            "Der Flug war jedoch schrecklich und schmerzhaft.",
+            "Ein solcher Flug muß spontan geplant werden.",
+            "Er hat 620 für den Flug gezahlt."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "motorbike",
+            "motocykl"
+        ],
+        "ger_list": [
+            "das Motorrad",
+            "Das Motorrad sah selbst auch arg mitgenommen aus.",
+            "Sehr gut machen kann man dies mit dem Motorrad .",
+            "Das Motorrad ist immer recht schwer beladen unterwegs."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "Switzerland"
+        ],
+        "ger_list": [
+            "die Schweiz",
+            "Österreich und die Schweiz sind eigenständig organisiert.",
+            "Die Schweiz sollte zwingend mehr Ärzte ausbilden.",
+            "Das muss aber nicht repräsentativ für die übrige Schweiz sein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "Spain"
+        ],
+        "ger_list": [
+            "Spanien",
+            "Wir haben recherchiert und sind eben nach Spanien gekommen.",
+            "Platz 1 dürfte Spanien kaum mehr zu nehmen sein.",
+            "Wäre im Spanien der 60er auch undenkbar gewesen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "adventure",
+            "przygoda"
+        ],
+        "ger_list": [
+            "das Abenteuer",
+            "Über die tollen Abenteuer möchte ich nicht zuviel verraten.",
+            "Zusammen erleben sie witzige und auch kuriose Abenteuer .",
+            "Gestärkt brachen wir zu diesem Abenteuer auf."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "rental car"
+        ],
+        "ger_list": [
+            "der Mietwagen",
+            "Österreich ist herrlich um mit dem Mietwagen entdeckt zu werden.",
+            "Warum mehr für einen Mietwagen zahlen als nötig?",
+            "Wir haben uns dann für einen Mietwagen entschieden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "distance, route",
+            "odcinek, trasa"
+        ],
+        "ger_list": [
+            "die Strecke",
+            "Über die Strecke ist nicht viel zu berichten.",
+            "Über weite Strecken werde ich mich selbst motivieren müssen.",
+            "Über weite Strecken war das heute echt unterirdisch."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "traffic",
+            "ruch drogowy"
+        ],
+        "ger_list": [
+            "der Verkehr",
+            "Der Verkehr konnte aber örtlich umgeleitet werden.",
+            "Liegt sicher auch am geringen Verkehr heute.",
+            "Der Verkehr kann nun wieder ungehindert fließen."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "journey, trip (shorter than die Reise), ride"
+        ],
+        "ger_list": [
+            "die Fahrt",
+            "Über die Fahrt gibts nicht viel zu berichten.",
+            "Nach kurzer Fahrt schon war ich sehr enttäuscht.",
+            "Man könne sich während der Fahrt anziehen und einsatzbereit machen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "Italy"
+        ],
+        "ger_list": [
+            "Italien",
+            "Gemeinsam fliegen sich nach Italien und lernen sich näher kennen.",
+            "Ida fliegt nun allein nach Italien voraus.",
+            "Und was machen wir dort im fernen Italien ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "train, railroad, railway",
+            "kolej, tor"
+        ],
+        "ger_list": [
+            "die Bahn",
+            "Oktober ganztägig für die Bahnen gesperrt werden.",
+            "Oder macht ihr es wie die Bahn ?",
+            "Bus und Bahn sind fußläufig zu erreichen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "holidays (school)"
+        ],
+        "ger_list": [
+            "die Ferien",
+            "In den Ferien findet leider nichts statt.",
+            "Wir sind wieder da nach den Ferien .",
+            "Momentan habe ich Ferien bis zum 3."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "visit"
+        ],
+        "ger_list": [
+            "der Besuch",
+            "Über den Besuch bei mir habe ich mich sehr gefreut.",
+            "Über euren Besuch würden wir uns freuen!",
+            "Über einen Besuch würden wir uns sehr freuen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "tour"
+        ],
+        "ger_list": [
+            "die Tour",
+            "Übrigens eignen sich unserer Touren auch hervorragend zum verschenken.",
+            "Dennoch geht er immer noch auf Tour .",
+            "Eine Tour die ich immer gerne gefahren bin."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "Swiss",
+            "szwajcar"
+        ],
+        "ger_list": [
+            "Schweizer",
+            "Über 9000 Schweizer haben das bereits getan.",
+            "Das kriegen ja auch wir Schweizer hin.",
+            "Die Schweizer traten sachlich und kompetent auf."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "Sweden"
+        ],
+        "ger_list": [
+            "Schweden",
+            "Ähnliches war bislang nur aus Schweden bekannt.",
+            "Die Schweden sehen das irgendwie ganz locker.",
+            "Manchmal können Schweden eben auch direkt sein."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "bus stop"
+        ],
+        "ger_list": [
+            "die Bushaltestelle",
+            "Die nächste Bushaltestelle befindet sich nur 100 m entfernt.",
+            "Somit werden externe Bushaltestellen und Ähnliches überflüssig.",
+            "Die nächste Bushaltestelle ist nach 300 m erreicht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to fly",
+            "latać"
+        ],
+        "ger_list": [
+            "fliegen",
+            "Übrigens sie fliegen relativ schnell wenn sie jagen.",
+            "Und sie durften tatsächlich etwas fliegen lassen.",
+            "Und wann und wohin fliegen wir überhaupt?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "tour guide, guidebook"
+        ],
+        "ger_list": [
+            "der Reiseführer",
+            "Entsprechend viele Reiseführer gibt es mittlerweile zu kaufen.",
+            "Einen Reiseführer brauchst du dann gar nicht mehr!",
+            "Der Reiseführer ist übersichtlich und gut geschrieben."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "ferry (boat)",
+            "prom"
+        ],
+        "ger_list": [
+            "die Fähre",
+            "Ältere Fähren brauchen meist etwas bis deutlich länger.",
+            "Früher waren die Fähren noch richtig schön grün.",
+            "Norderney besucht man am besten mit der Fähre ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to book",
+            "zarezerwować"
+        ],
+        "ger_list": [
+            "buchen",
+            "Dort werde ich dann wohl auch buchen .",
+            "Und das kann man nicht kaufen oder buchen .",
+            "Dann einfach buchen und los geht es."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "delay (noun)",
+            "spóźnienie"
+        ],
+        "ger_list": [
+            "die Verspätung",
+            "Auch das bringt uns 15 min Verspätung ein.",
+            "Mit einiger Verspätung ging es dann los.",
+            "Gott wisse \"selbst Verspätungen \" zu fügen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "bicycle",
+            "rower"
+        ],
+        "ger_list": [
+            "das Fahrrad",
+            "Ich habe mir heute endlich ein Fahrrad gekauft.",
+            "Apropos Fahrrad – darauf komme ich auch noch zurück.",
+            "Außerdem wurde versucht ein Fahrrad zu klauen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "visa"
+        ],
+        "ger_list": [
+            "das Visum",
+            "Es wurde auch noch nie ein Visum abgelehnt.",
+            "Auch hier wird das 90 tage Visum nicht mehr verlängert.",
+            "Sie haben schlicht nicht rechtzeitig ein Visum beibringen können."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "Mexico"
+        ],
+        "ger_list": [
+            "Mexiko",
+            "Willst du da nicht auch nach Mexiko ?",
+            "Für mich ist dies zurzeit ganz klar Mexiko .",
+            "In Mexiko kann man nicht nur tagsüber einiges entdecken."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "Brazil"
+        ],
+        "ger_list": [
+            "Brasilien",
+            "Portugal und Brasilien werden zumindest hoch gehandelt.",
+            "Hoffentlich bald und immer wieder nach Brasilien .",
+            "In Brasilien kann es sehr kalt sein!"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "to arrive"
+        ],
+        "ger_list": [
+            "ankommen",
+            "Man sollte es eventuell darauf ankommen lassen.",
+            "Hier soll er ankommen und sich wohl fühlen.",
+            "Es darf und sollte nicht auf uns ankommen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to end, to stop, to leave (someone or something)",
+            "zaprzestać, skończyć"
+        ],
+        "ger_list": [
+            "aufhören",
+            "Aber ganz aufhören möchte ich natürlich auch nicht.",
+            "Und doch konnte ich schon bald nicht aufhören zu lesen.",
+            "Und schließlich kann man nicht mehr aufhören ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to emigrate",
+            "emigrować"
+        ],
+        "ger_list": [
+            "auswandern",
+            "Bis wir auswandern wollen wir uns jedoch noch verbessern.",
+            "Das hält vieleicht den ein oder anderen vom auswandern ab.",
+            "Manchmal möchte ich echt nur noch auswandern ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to be called",
+            "nazywać się"
+        ],
+        "ger_list": [
+            "heißen",
+            "Äußerst gewöhnungsbedürftig – dafür aber ohne heißen Hund.",
+            "Auch wir möchten sie herzlich willkommen heißen !",
+            "Und das soll ja schon was heißen !"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to come"
+        ],
+        "ger_list": [
+            "kommen",
+            "Über euer kommen würden wir uns sehr freuen.",
+            "Wir müssen bloß sehen wir wir da hin kommen .",
+            "Und durchaus kommen wir nicht zu kurz."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to understand",
+            "rozumieć"
+        ],
+        "ger_list": [
+            "verstehen",
+            "Übrigens darf man das nicht falsch verstehen .",
+            "Gibt es daran etwas nicht zu verstehen ?",
+            "Das können die beiden überhaupt nicht verstehen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "from, out of, of"
+        ],
+        "ger_list": [
+            "aus",
+            "Üben allein reicht aber bei weitem nicht aus .",
+            "Öffnung sieht aber eher nicht danach aus .",
+            "So sieht das Übel übrigens gerade aus ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "Germany"
+        ],
+        "ger_list": [
+            "Deutschland",
+            "Über Deutschland gibt es natürlich auch viel zu sagen.",
+            "Ähnlich sieht es bislang in Deutschland aus.",
+            "Übrigens Deutschland hinkt da gar nicht so weit hinterher."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "German (adj.)"
+        ],
+        "ger_list": [
+            "deutsch",
+            "Es wird dort auch \" deutsch \" gesprochen.",
+            "Und das sind vor allem nicht die deutschen .",
+            "Dabei ist letzteres noch nicht einmal deutsch ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "English (adj.)"
+        ],
+        "ger_list": [
+            "englisch",
+            "So wechselte er auch ständig zwischen deutsch und englisch .",
+            "So würde man es aus dem englischen übersetzen.",
+            "Das englische off mag alles mögliche bedeuten."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "person",
+            "osoba"
+        ],
+        "ger_list": [
+            "die Person",
+            "Ähnlichkeiten mit bekannten Personen sind nicht zufällig.",
+            "Ähnlichkeiten mit lebenden Personen sind offenbar gewollt.",
+            "Ähnlichkeiten mit noch lebenden Personen sind durchaus erwünscht und angebracht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "friend"
+        ],
+        "ger_list": [
+            "der Freund",
+            "Aber ein Freund hat mich dran erinnert.",
+            "Sie war von einem Freund von mir.",
+            "Das auch noch mit seinen besten Freunden ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "friend (female)"
+        ],
+        "ger_list": [
+            "die Freundin",
+            "Über was werden die Freundinnen denn nun berichten?",
+            "Den kannte ich bereits von meiner Freundin .",
+            "Er hatte ja bereits eine Freundin gehabt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "name",
+            "imię, nazwisko"
+        ],
+        "ger_list": [
+            "der Name",
+            "Über den Namen bin ich schon des öfteren gestolpert.",
+            "Überhaupt haben die viele komische Namen hier.",
+            "Üblicherweise wird hier ein neuer Namen eingetragen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "first name",
+            "imię"
+        ],
+        "ger_list": [
+            "der Vorname",
+            "Heute ist der Vorname beliebt wie nie.",
+            "Kann man den Vornamen leicht aussprechen und einfach schreiben?",
+            "Arroganz ist und bleibt sein zweiter Vorname ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "baby"
+        ],
+        "ger_list": [
+            "das Baby",
+            "Überall wurden wir mit dem Baby sehr freundlich aufgenommen.",
+            "Es sind ja noch \" Babys \".",
+            "Gerade ist ein neues Baby dazu gekommen!"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "people",
+            "ludzie"
+        ],
+        "ger_list": [
+            "die Leute",
+            "Über \"kluge\" Leute kann ich immer wieder staunen.",
+            "Über weitere Leute würden wir uns trotzdem freuen!",
+            "Über facebook könnte man Leute ansprechen und einladen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "gentleman"
+        ],
+        "ger_list": [
+            "der Herr",
+            "Ältere spielen derzeit bei den Herren mit.",
+            "Ähnlich schaut es aber auch bei den Herren 4 aus.",
+            "Niemand tut etwas oder wendet sich dem liegenden Herrn zu."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "lady, the queen (chess)"
+        ],
+        "ger_list": [
+            "die Dame",
+            "Ähnlich wie bei den Damen sieht es beider 1.",
+            "Die Damen haben ihn sowieso alle drauf.",
+            "Die kleine Dame schweigt und bewegt sich nicht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "adult",
+            "dorosły"
+        ],
+        "ger_list": [
+            "der Erwachsene",
+            "Kann ich mich auch als Erwachsener noch taufen lassen?",
+            "So entschied man sich bei den Erwachsenen anzutreten.",
+            "Kinder leiden eben mehr und schneller als Erwachsene ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "citizen"
+        ],
+        "ger_list": [
+            "der Bürger",
+            "Über 1000 Bürger haben sich daran beteiligt.",
+            "Wie lange müssen wir Bürger uns das noch gefallen lassen?",
+            "Eventuell haben wir zu viel von den Bürgern erwartet?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "audience",
+            "publiczność"
+        ],
+        "ger_list": [
+            "das Publikum",
+            "Überhaupt war das Publikum sehr international und natürlich fachkundig.",
+            "Überhaupt gefällt es dem zahlreich erschienenen Publikum .",
+            "Ähnlich wie dort zieht sie ein internationales Publikum an."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "group"
+        ],
+        "ger_list": [
+            "die Gruppe",
+            "Über die Gruppe selbst ist nicht sehr viel bekannt.",
+            "Überhaupt war diese Gruppe gut drauf und qualitativ geschlossen überdurchschnittlich.",
+            "Über 80 Gruppen bestehen heute und weitere kommen ständig hinzu."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "guest",
+            "gość"
+        ],
+        "ger_list": [
+            "der Gast",
+            "Dazu haben sie sich einen Gast eingeladen und etwas verkleinert.",
+            "Aber auch jetzt gab sich der Gast nicht geschlagen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "vegetarian"
+        ],
+        "ger_list": [
+            "der Vegetarier",
+            "Aber kann man das als \"nur\" Vegetarier überhaupt?",
+            "Selbstverständlich ist auch für die Vegetarier bestens gesorgt.",
+            "Entweder man ist ein Vegetarier oder ist es nicht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "opponent",
+            "przeciwnik"
+        ],
+        "ger_list": [
+            "der Gegner",
+            "Über den Gegner selber ist leider nicht viel bekannt.",
+            "Über die Gegner weiß man nur wenig.",
+            "Gut gespielt aber gegen einen besseren Gegner trotzdem verloren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "gender"
+        ],
+        "ger_list": [
+            "das Geschlecht",
+            "So sehe ich es beim Geschlecht auch.",
+            "Ansonsten ist sie für beide Geschlechter zugänglich.",
+            "Das Geschlecht konnte noch nicht festgestellt werden."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "Turk (man from Turkey)"
+        ],
+        "ger_list": [
+            "der Türke",
+            "Ich machte mich auf zu den Türken .",
+            "Hat es wirklich etwas mit Türken zu tun?",
+            "Dies gilt insbesondere für die hierzulande lebenden Türken ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "member",
+            "członek"
+        ],
+        "ger_list": [
+            "das Mitglied",
+            "Über 200 Mitglieder sind davon mittlerweile überzeugt.",
+            "Über neue Mitglieder freuen wir uns natürlich sehr.",
+            "Über neue Mitglieder würden wir uns natürlich sehr freuen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "beginner",
+            "nowicjusz, początkujący"
+        ],
+        "ger_list": [
+            "der Anfänger",
+            "Welche Übungen sind für Anfänger gut geeignet?",
+            "Vor allem auch Anfänger sind hier sehr willkommen.",
+            "Für mich als Anfänger viel zu ungenau."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "visitor"
+        ],
+        "ger_list": [
+            "der Besucher",
+            "Über neue Besucher freuen wir uns immer.",
+            "Über zahlreiche Besucher würden wir uns sehr freuen.",
+            "Über zahlreiche Besucher würde ich mich freuen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "fan",
+            "kibic, fan"
+        ],
+        "ger_list": [
+            "der Fan",
+            "Über die Fans brauchen wir erst gar nicht einmal reden.",
+            "Somit können auch die Fans hierzulande live dabei sein.",
+            "Jetzt wird es teuer für einige \" Fans \"."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "enemy",
+            "wróg"
+        ],
+        "ger_list": [
+            "der Feind",
+            "Er wird jedoch von den Feinden verfolgt.",
+            "Zu kämpfen haben wir genug gegen unsere Feinde .",
+            "Man kann nur was tun wenn man den Feind kennt."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "neighbour"
+        ],
+        "ger_list": [
+            "der Nachbar",
+            "Die Nachbarn werden es mir sicher danken.",
+            "War nett mit euch als \" Nachbarn \".",
+            "Er war als Nachbar stets tolerant und geschätzt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "family"
+        ],
+        "ger_list": [
+            "die Familie",
+            "Überhaupt sind wir eigentlich wie eine große Familie .",
+            "Überhaupt nahm mich die Familie überaus herzlich auf.",
+            "Über ihre restliche Familie ist relativ wenig bekannt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "father"
+        ],
+        "ger_list": [
+            "der Vater",
+            "Über den Vater weiß ich überhaupt nichts.",
+            "Die restlichen 94 % hielt ihr Vater .",
+            "Wenn ihn jetzt sein Vater sehen könnte."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "mother"
+        ],
+        "ger_list": [
+            "die Mutter",
+            "Über ihre Mutter mag sie trotzdem nicht mit ihnen reden.",
+            "Ähnlich verhält es sich mit deiner Mutter .",
+            "Über ihre Mutter spricht sie sehr positiv."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "son"
+        ],
+        "ger_list": [
+            "der Sohn",
+            "So wurde es zumindest bei meinem Sohn gefeiert.",
+            "Nur sein kleiner Sohn ist ihm geblieben.",
+            "Ihr Sohn ist ja noch ziemlich jung."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "brother"
+        ],
+        "ger_list": [
+            "der Bruder",
+            "Und ich habe jetzt einen neuen Bruder .",
+            "Abend war dann noch mein Bruder bei mir.",
+            "Ihr kleiner Bruder wird immer mehr beachtet."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "daughter",
+            "córka"
+        ],
+        "ger_list": [
+            "die Tochter",
+            "Was kann man mehr von einer Tochter verlangen?",
+            "Natürlich hat das auch unsere Tochter bemerkt.",
+            "Womit auch eine Tochter erst mal klar kommen muss."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "parents",
+            "rodzice"
+        ],
+        "ger_list": [
+            "die Eltern",
+            "Das lassen sich betroffene Eltern nicht gefallen.",
+            "Sie können schon sehr früh mit den Eltern essen.",
+            "Mit meinen Eltern waren wir zu viert unterwegs."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sister",
+            "siostra"
+        ],
+        "ger_list": [
+            "die Schwester",
+            "Ärzte und Schwestern sehr nett und kompetent.",
+            "Ärzte und Schwestern kommen kaum noch nach.",
+            "Modell gestanden haben wie immer ich und meine Schwester ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "siblings",
+            "rodzeństwo"
+        ],
+        "ger_list": [
+            "die Geschwister",
+            "Über diese folgten ihm seine Geschwister umso begeisterter.",
+            "Man kann sich seine Geschwister halt nicht aussuchen.",
+            "Bei den Geschwistern wird es noch einfacher."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "relationship",
+            "związek"
+        ],
+        "ger_list": [
+            "die Beziehung",
+            "Eine Beziehung zu beenden ist nie leicht.",
+            "Erziehung gelingt nur über eine vertrauensvolle Beziehung .",
+            "Langfristig leidet allerdings die gemeinsame Beziehung darunter."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "grandmother"
+        ],
+        "ger_list": [
+            "die Großmutter",
+            "Seiner Großmutter muss er jedenfalls nichts mehr beweisen.",
+            "Einzig und allein ihre Großmutter war ganz amüsant.",
+            "So eine Großmutter würde ich jedem wünschen!"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "grandfather"
+        ],
+        "ger_list": [
+            "der Großvater",
+            "Und sag ihr das der Großvater fantastisch ist.",
+            "Alles andere hätte mein Großvater ihr nie erlaubt.",
+            "Dort pflegt er ihn gemeinsam mit seinem Großvater ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "grandparents"
+        ],
+        "ger_list": [
+            "die Großeltern",
+            "Sonst hätte ich wohl bei meinen Großeltern aufwachsen müssen.",
+            "Wie haben sich die Großeltern eigentlich kennen gelernt?",
+            "Wie Großeltern eben und das ist toll."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "partner"
+        ],
+        "ger_list": [
+            "der Partner",
+            "Über unsere internationalen Partner sind wir ausserdem hervorragend vernetzt.",
+            "Sie können sich auf uns als einen echten Partner verlassen!",
+            "Ob jeder Partner den anderen erhebt und unterstützt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "grandson"
+        ],
+        "ger_list": [
+            "der Enkel",
+            "Was habt ihr damals gekauft als euer Enkel unterwegs war?",
+            "Will sich der arme Enkel nicht mehr schlecht fühlen.",
+            "Großeltern und Enkel kommen heutzutage nicht mehr selbstverständlich regelmäßig zusammen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "brothers"
+        ],
+        "ger_list": [
+            "die Brüder",
+            "Trotzdem scheint es für die beiden Brüder anders zu sein.",
+            "Die beiden Brüder haben sich wohl etwas dabei gedacht.",
+            "Auch können gern 2 Brüder zusammen ausziehen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "granddaughter"
+        ],
+        "ger_list": [
+            "die Enkelin",
+            "Meiner Enkelin und mir hat es gut gefallen.",
+            "Meine Enkelin wurde um 15 uhr 29 geboren.",
+            "Doch die angebliche Enkelin gibt es nicht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "mum"
+        ],
+        "ger_list": [
+            "die Mama",
+            "Deine Mama wird immer für dich da sein.",
+            "Die drei sind mit ihrer Mama zusammen gerettet worden.",
+            "Und dann kann sich Mama nicht mehr zurückhalten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "dad"
+        ],
+        "ger_list": [
+            "der Papa",
+            "Übel genommen hat ihm sein Papa diese Überraschung aber nicht.",
+            "Doch zusammen mit Papa kann einem ja nichts passieren.",
+            "Übrigens gibt es auch eine Ausgabe für den Papa ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "grandma"
+        ],
+        "ger_list": [
+            "die Oma",
+            "Ich habe es von meiner Oma geerbt.",
+            "Man sollte öfter mal auf seine Oma hören.",
+            "Wir sollten öfter auf unsere Omas hören."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "grandpa"
+        ],
+        "ger_list": [
+            "der Opa",
+            "Oma und Opa kamen später auch hinzu.",
+            "Er hat mit mir seinen Opa besucht.",
+            "Heute möchte ich euch von meinem Opa berichten."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "sons"
+        ],
+        "ger_list": [
+            "die Söhne",
+            "Heimat bist du großer Söhne – das war bisher unbestritten.",
+            "Eigentlich geht es aber um zwei Söhne .",
+            "Kathrin tat es nicht nur für ihre Söhne ."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "daughters"
+        ],
+        "ger_list": [
+            "die Töchter",
+            "Ehefrau und Töchter haben sich von ihr getrennt.",
+            "Und dann sind da noch die drei Töchter .",
+            "Ich bin 1951 geboren und habe zwei erwachsene Töchter ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "relationships"
+        ],
+        "ger_list": [
+            "die Beziehungen",
+            "Dort soll sie für internationale Beziehungen zuständig sein.",
+            "Wie sehen sie aus unsere \"öffentlichen Beziehungen \"?",
+            "Wie kann ich berufliche und private Beziehungen optimieren?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "sisters"
+        ],
+        "ger_list": [
+            "die Schwestern",
+            "Ärzte und Schwestern sehr nett und kompetent.",
+            "Ärzte und Schwestern kommen kaum noch nach.",
+            "Die Ärzte und Schwestern sind sehr gut und nett."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "breakfast"
+        ],
+        "ger_list": [
+            "das Frühstück",
+            "Übernachtung mit nur Frühstück ist selbstverständlich auch möglich.",
+            "Über das Frühstück hat sie sich mehr gefreut.",
+            "Üblicherweise wird das Frühstück gemeinsam zubereitet und eingenommen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to eat breakfast"
+        ],
+        "ger_list": [
+            "frühstücken",
+            "Es regnet nicht und wir können draussen frühstücken .",
+            "Sie möchten einmal einfach mit anderen frühstücken ?",
+            "Ihr müsst doch nicht noch mit uns frühstücken !"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "butter",
+            "masło"
+        ],
+        "ger_list": [
+            "die Butter",
+            "Es darf ruhig etwas weniger Butter sein.",
+            "Natürlich wird auch die Butter selbst hergestellt.",
+            "Und endlich gibt es wieder gute Butter !"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "jam, marmalade",
+            "dżem"
+        ],
+        "ger_list": [
+            "die Marmelade",
+            "Neu und ungewohnt lecker die frische hausgemachte Marmelade !",
+            "Ich rede jetzt nicht von der Marmelade .",
+            "Du könntest beides für die Marmelade nehmen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "muesli, cereal"
+        ],
+        "ger_list": [
+            "das Müsli",
+            "Zuerst wollte ich natürlich ein Müsli probieren.",
+            "Bisher mochte ich vor allem das selbstgemachte Müsli .",
+            "Auch meine sind \"süchtig\" nach Müsli ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "nut",
+            "orzech"
+        ],
+        "ger_list": [
+            "die Nuss",
+            "Er hat auch hier seine Nuss nicht zu fassen bekommen.",
+            "Argentinien war aber auch eine sehr harte Nuss .",
+            "Insgesamt eine harte Nuss aber zu schaffen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "honey"
+        ],
+        "ger_list": [
+            "der Honig",
+            "Dieser Honig wird hier allerdings überall nur direkt vermarktet.",
+            "Und wie steht es mit dem Honig ?",
+            "Für Honig bin ich extrem leicht zu begeistern."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "lunch",
+            "obiad"
+        ],
+        "ger_list": [
+            "das Mittagessen",
+            "Nach einem deftigen Mittagessen ging es gestärkt weiter.",
+            "Beim Mittagessen schaffen es hingegen nur 37 %.",
+            "Bis zum Mittagessen sollte dann auch schon alles vorbei sein."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to eat lunch"
+        ],
+        "ger_list": [
+            "zu Mittag essen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "salty"
+        ],
+        "ger_list": [
+            "salzig",
+            "Man kann sie süß oder auch salzig essen.",
+            "Popcorn kann man süß oder salzig essen.",
+            "Mir war es auch nicht zu salzig ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "recipe",
+            "przepis"
+        ],
+        "ger_list": [
+            "das Rezept",
+            "Und gibt es ein Rezept zum glücklich sein?",
+            "Montag dürft ihr euch auf ein neues Rezept freuen.",
+            "So verkehrt konnte das Rezept dann doch nicht sein!"
+        ],
+        "hardness": 3
+    }
+]

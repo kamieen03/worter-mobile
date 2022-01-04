@@ -1,0 +1,1596 @@
+[
+    {
+        "poleng_list": [
+            "piec"
+        ],
+        "ger_list": [
+            "backen (bäckst, bäckt)"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "rozkazywać"
+        ],
+        "ger_list": [
+            "befehlen (befiehlst)"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "zaczynać"
+        ],
+        "ger_list": [
+            "beginnen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "gryźć",
+            "szczypać (mróz w twarz), przenikać (zimno)"
+        ],
+        "ger_list": [
+            "beißen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "uratować, wydobyć",
+            "ukrywać, chować"
+        ],
+        "ger_list": [
+            "bergen (birgst, birg)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "pęknąć"
+        ],
+        "ger_list": [
+            "bersten (birst)"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "nakłonić",
+            "ruszać, poruszać",
+            "wzruszać, nurtować"
+        ],
+        "ger_list": [
+            "bewegen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "zginać",
+            "skręcać"
+        ],
+        "ger_list": [
+            "biegen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "oferować",
+            "licytować"
+        ],
+        "ger_list": [
+            "bieten"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "związać"
+        ],
+        "ger_list": [
+            "binden"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "prosić"
+        ],
+        "ger_list": [
+            "bitten"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "dmuchać",
+            "wiać, zdmuchiwać"
+        ],
+        "ger_list": [
+            "blasen (bläst)"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "pozostawiać",
+            "zostawać"
+        ],
+        "ger_list": [
+            "bleiben"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "wybielić",
+            "blaknąć (tracić kolory)"
+        ],
+        "ger_list": [
+            "bleichen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "smażyć"
+        ],
+        "ger_list": [
+            "braten (brätst, brät)"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "łamać",
+            "łamać się, załamywać się"
+        ],
+        "ger_list": [
+            "brechen (brichst, bricht)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "palić się"
+        ],
+        "ger_list": [
+            "brennen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "przynosić"
+        ],
+        "ger_list": [
+            "bringen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "myśleć"
+        ],
+        "ger_list": [
+            "denken"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "młócić",
+            "tłuc, bić"
+        ],
+        "ger_list": [
+            "dreschen (drischst, drischt)"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "przenikać"
+        ],
+        "ger_list": [
+            "dringen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "mieć pozwolenie"
+        ],
+        "ger_list": [
+            "dürfen (darfst, darf)"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "otrzymać",
+            "przyjmować, odbierać"
+        ],
+        "ger_list": [
+            "empfangen (empfängst, empfängt)"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "polecać",
+            "(film)"
+        ],
+        "ger_list": [
+            "empfehlen (empfiehlst, empfiehlt)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "odczuwać",
+            "czuć (np. szczęście)"
+        ],
+        "ger_list": [
+            "empfinden"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "gasnąć"
+        ],
+        "ger_list": [
+            "erlöschen (erlischst, erlischt)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "przestraszyć",
+            "(się, kogoś)"
+        ],
+        "ger_list": [
+            "erschrecken (erschrickst, erschrickt)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "jeść"
+        ],
+        "ger_list": [
+            "essen (isst)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "jechać"
+        ],
+        "ger_list": [
+            "fahren (fährst, fährt)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "upaść"
+        ],
+        "ger_list": [
+            "fallen (fällst, fällt)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "łapać",
+            "chwytać, złowić",
+            "przytrzymywać"
+        ],
+        "ger_list": [
+            "fangen (fängst, fängt)"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "fechtować"
+        ],
+        "ger_list": [
+            "fechten (fichtst, ficht)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "znajdować"
+        ],
+        "ger_list": [
+            "finden"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "wyplatać"
+        ],
+        "ger_list": [
+            "flechten (flichtst, flicht)"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "latać"
+        ],
+        "ger_list": [
+            "fliegen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "uciekać"
+        ],
+        "ger_list": [
+            "fliehen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "płynąć",
+            "(rzeka)"
+        ],
+        "ger_list": [
+            "fließen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "żreć"
+        ],
+        "ger_list": [
+            "fressen (frisst)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "marznąć"
+        ],
+        "ger_list": [
+            "frieren"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "fermentować"
+        ],
+        "ger_list": [
+            "gären"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "rodzić"
+        ],
+        "ger_list": [
+            "gebären (gebierst, gebiert)"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "dawać"
+        ],
+        "ger_list": [
+            "geben (gibst, gibt)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "rozwijać się, rosnąć"
+        ],
+        "ger_list": [
+            "gedeihen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "podobać się"
+        ],
+        "ger_list": [
+            "gefallen (gefällst, gefällt)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "iść"
+        ],
+        "ger_list": [
+            "gehen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "udawać się"
+        ],
+        "ger_list": [
+            "gelingen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "uchodzić za",
+            "obowiązywać, być ważnym (zasady)"
+        ],
+        "ger_list": [
+            "gelten (gilst, gilt)"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "wyzdrowieć",
+            "zdrowieć"
+        ],
+        "ger_list": [
+            "genesen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "rozkoszować się"
+        ],
+        "ger_list": [
+            "genießen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "popaść",
+            "wychodzić (jako rezultat działania)"
+        ],
+        "ger_list": [
+            "geraten (gerätst, gerät)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "krzepnąć"
+        ],
+        "ger_list": [
+            "gerinnen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "zdarzać się"
+        ],
+        "ger_list": [
+            "geschehen (geschieht)"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wyznawać",
+            "przyznawać się"
+        ],
+        "ger_list": [
+            "gestehen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "wygrywać"
+        ],
+        "ger_list": [
+            "gewinnen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "podlewać",
+            "nalać, wlać"
+        ],
+        "ger_list": [
+            "gießen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "równać się"
+        ],
+        "ger_list": [
+            "gleichen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "ślizgać",
+            "ślizgać się, szybować"
+        ],
+        "ger_list": [
+            "gleiten"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "żarzyć się",
+            "tlić się, ćmić się, żarzyć się, jarzyć się"
+        ],
+        "ger_list": [
+            "glimmen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wykopać"
+        ],
+        "ger_list": [
+            "graben (gräbst, gräbt)"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "chwytać, sięgać"
+        ],
+        "ger_list": [
+            "greifen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "mieć"
+        ],
+        "ger_list": [
+            "haben (hast, hat)"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "trzymać",
+            "chwytać, hodować",
+            "sądzić (coś o kimś)"
+        ],
+        "ger_list": [
+            "halten (hältst, hält)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "wisieć"
+        ],
+        "ger_list": [
+            "hängen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "bić, walić",
+            "wbijać (gwóźdź)"
+        ],
+        "ger_list": [
+            "hauen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "podnosić",
+            "podnosić (np. ciężar, rękę)",
+            "podwyższać, zwiększać (sprzedaż)"
+        ],
+        "ger_list": [
+            "heben"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "nazywać się"
+        ],
+        "ger_list": [
+            "heißen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "pomagać"
+        ],
+        "ger_list": [
+            "helfen (hilfst, hilft)"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "znać"
+        ],
+        "ger_list": [
+            "kennen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "brzmieć"
+        ],
+        "ger_list": [
+            "klingen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "szczypać"
+        ],
+        "ger_list": [
+            "kneifen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "przychodzić"
+        ],
+        "ger_list": [
+            "kommen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "móc, umieć, potrafić"
+        ],
+        "ger_list": [
+            "können (kannst, kann)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "pełzać",
+            "czołgać się"
+        ],
+        "ger_list": [
+            "kriechen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "wybierać"
+        ],
+        "ger_list": [
+            "küren"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "ładować"
+        ],
+        "ger_list": [
+            "laden (lädst, lädt)"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "pozwalać"
+        ],
+        "ger_list": [
+            "lassen (lässt)"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "biegać",
+            "chodzić"
+        ],
+        "ger_list": [
+            "laufen (läufst, läuft)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "cierpieć"
+        ],
+        "ger_list": [
+            "leiden"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "pożyczać",
+            "(komuś)"
+        ],
+        "ger_list": [
+            "leihen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "czytać"
+        ],
+        "ger_list": [
+            "lesen (liest)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "leżeć"
+        ],
+        "ger_list": [
+            "liegen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "kłamać"
+        ],
+        "ger_list": [
+            "lügen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "mleć"
+        ],
+        "ger_list": [
+            "mahlen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "unikać",
+            "stronić od czegoś"
+        ],
+        "ger_list": [
+            "meiden"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "doić"
+        ],
+        "ger_list": [
+            "melken"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "mierzyć"
+        ],
+        "ger_list": [
+            "messen (misst)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "nie udawać się"
+        ],
+        "ger_list": [
+            "misslingen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "lubić"
+        ],
+        "ger_list": [
+            "mögen (magst, mag)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "musieć"
+        ],
+        "ger_list": [
+            "müssen (musst, muss)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "brać"
+        ],
+        "ger_list": [
+            "nehmen (nimmst, nimmt)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "nazywać",
+            "wymieniać, podawać"
+        ],
+        "ger_list": [
+            "nennen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "gwizdać",
+            "świszczeć"
+        ],
+        "ger_list": [
+            "pfeifen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "chwalić",
+            "sławić, opiewać"
+        ],
+        "ger_list": [
+            "preisen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "tryskać"
+        ],
+        "ger_list": [
+            "quellen (quillst, quillt)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "radzić",
+            "strzelać, odgadywać"
+        ],
+        "ger_list": [
+            "raten (rätst, rät)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "trzeć",
+            "polerować, wycierać"
+        ],
+        "ger_list": [
+            "reiben"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "rwać",
+            "rozrywać, podrzeć"
+        ],
+        "ger_list": [
+            "reißen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "jeździć konno"
+        ],
+        "ger_list": [
+            "reiten"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "pędzić",
+            "biegać"
+        ],
+        "ger_list": [
+            "rennen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "pachnieć"
+        ],
+        "ger_list": [
+            "riechen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "pisać"
+        ],
+        "ger_list": [
+            "schreiben"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "krzyczeć"
+        ],
+        "ger_list": [
+            "schreien"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "kroczyć"
+        ],
+        "ger_list": [
+            "schreiten"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "milczeć"
+        ],
+        "ger_list": [
+            "schweigen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "nabrzmiewać",
+            "spuchnąć"
+        ],
+        "ger_list": [
+            "schwellen (chwillst, schwillt)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "pływać"
+        ],
+        "ger_list": [
+            "schwimmen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "znikać",
+            "ubywać, maleć",
+            "kurczyć się"
+        ],
+        "ger_list": [
+            "schwinden"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "wywijać",
+            "machać, kołysać się"
+        ],
+        "ger_list": [
+            "schwingen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "przysięgać",
+            "ślubować"
+        ],
+        "ger_list": [
+            "schwören"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "widzieć"
+        ],
+        "ger_list": [
+            "sehen (siehst, sieht)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "być"
+        ],
+        "ger_list": [
+            "sein"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "wysyłać",
+            "nadawać (sygnał)"
+        ],
+        "ger_list": [
+            "senden"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "wrzeć, kipieć",
+            ""
+        ],
+        "ger_list": [
+            "sieden"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "śpiewać"
+        ],
+        "ger_list": [
+            "singen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "tonąć, obniżyć się",
+            "opadać, opuszczać się"
+        ],
+        "ger_list": [
+            "sinken"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "myśleć",
+            "rozmyślać, zastanawiać się"
+        ],
+        "ger_list": [
+            "sinnen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "siedzieć"
+        ],
+        "ger_list": [
+            "sitzen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "mieć powinność"
+        ],
+        "ger_list": [
+            "sollen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "rozłupać, rozszczepić"
+        ],
+        "ger_list": [
+            "spalten"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "pluć"
+        ],
+        "ger_list": [
+            "speien"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "prząść"
+        ],
+        "ger_list": [
+            "spinnen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "rozmawiać"
+        ],
+        "ger_list": [
+            "sprechen (sprichst, spricht)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "kiełkować, wschodzić, puszczać pędy"
+        ],
+        "ger_list": [
+            "sprießen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "skakać"
+        ],
+        "ger_list": [
+            "springen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "kłuć",
+            "użądlić, kłuć"
+        ],
+        "ger_list": [
+            "stechen (stichst, sticht)"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "tkwić, wsadzić",
+            "wkładać, wtykać"
+        ],
+        "ger_list": [
+            "stecken"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "stać"
+        ],
+        "ger_list": [
+            "stehen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "kraść"
+        ],
+        "ger_list": [
+            "stehlen (stiehlst, stiehlt)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "wspinać się",
+            "podnosić się, iść w górę, rosnąć"
+        ],
+        "ger_list": [
+            "steigen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "umierać"
+        ],
+        "ger_list": [
+            "sterben (stirbst, stirbt)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "śmierdzieć"
+        ],
+        "ger_list": [
+            "stinken"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "uderzyć, popychać",
+            "zderzyć się, uderzyć się"
+        ],
+        "ger_list": [
+            "stoßen (stößt)"
+        ],
+        "hardness": 7
+    },
+    {
+        "poleng_list": [
+            "skreślać",
+            "malować, smarować"
+        ],
+        "ger_list": [
+            "streichen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "kłócić się"
+        ],
+        "ger_list": [
+            "streiten"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "nosić"
+        ],
+        "ger_list": [
+            "tragen (trägst, trägt)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "spotykać"
+        ],
+        "ger_list": [
+            "treffen (triffst, trifft)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "pędzić",
+            "napędzać, poruszać"
+        ],
+        "ger_list": [
+            "treiben"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "deptać",
+            "nadepnąć, kopać"
+        ],
+        "ger_list": [
+            "treten (trittst, tritt)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "ciec",
+            "ociekać"
+        ],
+        "ger_list": [
+            "triefen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "pić"
+        ],
+        "ger_list": [
+            "trinken"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "łudzić",
+            "oszukiwać, zwodzić"
+        ],
+        "ger_list": [
+            "trügen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "czynić"
+        ],
+        "ger_list": [
+            "tun"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "zabraniać"
+        ],
+        "ger_list": [
+            "verbieten"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "popełniać zbrodnię"
+        ],
+        "ger_list": [
+            "verbrechen (verbrichst, verbricht)"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "psuć się",
+            "rujnować, niszczyć",
+            "demoralizować, zepsuć"
+        ],
+        "ger_list": [
+            "verderben (verdirbst, verdirbt)"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "zapominać"
+        ],
+        "ger_list": [
+            "vergessen (vergisst)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "zgubić",
+            "przegrywać, tracić"
+        ],
+        "ger_list": [
+            "verlieren"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "zgasnąć"
+        ],
+        "ger_list": [
+            "verlöschen (verlischst, verlischt)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "zdradzać",
+            "(np. tajemnicę)",
+            "(kogoś)"
+        ],
+        "ger_list": [
+            "verraten (verrätst, verrät)"
+        ],
+        "hardness": 7
+    },
+    {
+        "poleng_list": [
+            "niszczyć",
+            "wyświechtać, zużyć, ścierać się"
+        ],
+        "ger_list": [
+            "verschleißen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "rozumieć"
+        ],
+        "ger_list": [
+            "verstehen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "używać",
+            "korzystać, wykorzystywać"
+        ],
+        "ger_list": [
+            "verwenden"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "przebaczać"
+        ],
+        "ger_list": [
+            "verzeihen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "rosnąć"
+        ],
+        "ger_list": [
+            "wachsen (wächst)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "prać"
+        ],
+        "ger_list": [
+            "waschen (wäschst, wäscht)"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "tkać"
+        ],
+        "ger_list": [
+            "weben"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "zmiękczać",
+            "ustępować, cofać się"
+        ],
+        "ger_list": [
+            "weichen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "wskazywać",
+            "pokazać"
+        ],
+        "ger_list": [
+            "weisen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "obracać",
+            "nawracać, zawracać (pojazd)"
+        ],
+        "ger_list": [
+            "wenden"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "reklamować",
+            "zabiegać, ubiegać się"
+        ],
+        "ger_list": [
+            "werben (wirbst, wirbt)"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "stawać się"
+        ],
+        "ger_list": [
+            "werden (wirst, wird)"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "rzuczać"
+        ],
+        "ger_list": [
+            "werfen (wirfst, wirft)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "ważyć"
+        ],
+        "ger_list": [
+            "wiegen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "wić",
+            "pleść, wplatać"
+        ],
+        "ger_list": [
+            "winden"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wiedzieć"
+        ],
+        "ger_list": [
+            "wissen (weißt)"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "chcieć"
+        ],
+        "ger_list": [
+            "wollen (willst, will)"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "wyżymać"
+        ],
+        "ger_list": [
+            "wringen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "ciągnąć",
+            "wyciągać (coś z czegoś)",
+            "hodować"
+        ],
+        "ger_list": [
+            "ziehen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "zmusić"
+        ],
+        "ger_list": [
+            "zwingen"
+        ],
+        "hardness": 1
+    }
+]

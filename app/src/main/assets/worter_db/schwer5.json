@@ -1,0 +1,952 @@
+[
+    {
+        "poleng_list": [
+            "czytać jeszcze raz, sprawdzać coś"
+        ],
+        "ger_list": [
+            "nachlesen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "mieścić"
+        ],
+        "ger_list": [
+            "fassen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "laik, niefachowiec"
+        ],
+        "ger_list": [
+            "der Laie"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "coincidental, by chance",
+            "przypadkowy, przypadkiem"
+        ],
+        "ger_list": [
+            "zufällig",
+            "Und zufällig schau ich hier noch mal rein.",
+            "Nette kleine Übersicht habe ich da zufällig entdeckt.",
+            "Ähnlichkeiten mit bekannten Personen sind nicht zufällig ."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "whole, entire, complete",
+            "cały, łączny"
+        ],
+        "ger_list": [
+            "gesamt",
+            "Da kommt ins gesamt nicht viel rüber.",
+            "Die gesamte Öffentlichkeit ist dazu herzlich eingeladen.",
+            "Änderungen innerhalb des gesamten Staates müssen folgen."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "to view sth., to consider, to contemplate",
+            "oglądać, przypatrywać się",
+            "rozważać, rozpatrywać"
+        ],
+        "ger_list": [
+            "betrachten",
+            "Man kann sie nur von außen betrachten .",
+            "Also kann man das nicht losgelöst betrachten .",
+            "Welten kann man auch anders betrachten – oder?"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "once again, again, renewed",
+            "ponowny, na nowo"
+        ],
+        "ger_list": [
+            "erneut",
+            "Also werde ich mich früher oder später erneut hier auslassen.",
+            "Und schreibt es um und löscht es erneut .",
+            "E-Plus und 1&1 kooperieren erneut ?"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "additional, in addition",
+            "dodatkowy"
+        ],
+        "ger_list": [
+            "zusätzlich",
+            "Natürlich habe ich alle gelesen und zusätzlich noch gehört.",
+            "Über zusätzliche Teilnehmer freuen wir uns immer.",
+            "Das muss mir niemand noch zusätzlich erzählen!"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "in any case, at least, anyway",
+            "w każdym razie"
+        ],
+        "ger_list": [
+            "jedenfalls",
+            "Wir freuen uns jedenfalls sehr dass es weitergeht!",
+            "So hat man es uns jedenfalls berichtet.",
+            "Langweilig wird es jedenfalls nie mit mir."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "slept (preterite)",
+            "spałem"
+        ],
+        "ger_list": [
+            "schlief",
+            "Ganz friedlich schlief sie am morgen von alleine ein.",
+            "Anschließend schlief er bis abends einfach durch.",
+            "Er schlief ganz friedlich fÃ1⁄4r immer ein."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "thereby, with it",
+            "przy tym"
+        ],
+        "ger_list": [
+            "dabei",
+            "Überall kann man einfach nicht dabei sein!",
+            "Überall kann man ohnehin nicht dabei sein.",
+            "Überraschungen muss man dabei aber nicht fürchten."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "press",
+            "prasa"
+        ],
+        "ger_list": [
+            "die Presse",
+            "Über die Presse musste man das erfahren.",
+            "In der internationalen Presse findet man nichts darüber.",
+            "Erst über die Presse erfuhr die Öffentlichkeit davon."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "area code",
+            "numer kierunkowy"
+        ],
+        "ger_list": [
+            "die Vorwahl",
+            "Über die genannte Vorwahl kann ab sofort telefoniert werden.",
+            "Was verstehst du denn unter einen besonderen Vorwahl ?",
+            "Die gute alte Vorwahl liegt da schon viel näher."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "news",
+            "wiadomość"
+        ],
+        "ger_list": [
+            "die Nachricht",
+            "Über neue private Nachrichten wird live benachrichtigt.",
+            "Über eine positive Nachricht würde ich mich sehr freuen.",
+            "Über eine Nachricht würde ich mich sehr freuen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "ending, conclusion",
+            "wniosek, konkluzja, koniec"
+        ],
+        "ger_list": [
+            "der Schluss",
+            "Überraschend und gut war allerdings der Schluss .",
+            "Leider wurde er zum Schluss sehr krank.",
+            "Aber zum Schluss hin ging es dann wieder."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "gruzy"
+        ],
+        "ger_list": [
+            "die Trümmer",
+            "der Schutt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "odbudować"
+        ],
+        "ger_list": [
+            "aufbauen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "cegła"
+        ],
+        "ger_list": [
+            "der Ziegelstein"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "rozdzielać (np. na grupy)"
+        ],
+        "ger_list": [
+            "aufteilen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wydawać (rozkaz)"
+        ],
+        "ger_list": [
+            "erteilen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "zmuszać"
+        ],
+        "ger_list": [
+            "zwingen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "kartka żywnościowa"
+        ],
+        "ger_list": [
+            "die Lebensmittelmarke"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wypierać, usuwać"
+        ],
+        "ger_list": [
+            "verdrängen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "bohaterka"
+        ],
+        "ger_list": [
+            "die Heldin"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "groza, przerażenie"
+        ],
+        "ger_list": [
+            "das Grauen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "niż kiedykolwiek"
+        ],
+        "ger_list": [
+            "denn je"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "głęboki szacunek"
+        ],
+        "ger_list": [
+            "die Hochachtung"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "przejrzysty"
+        ],
+        "ger_list": [
+            "übersichtlich"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "opowiadanie"
+        ],
+        "ger_list": [
+            "die Erzählung"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "śledzić, tropić"
+        ],
+        "ger_list": [
+            "fahnden (nach jemandem)"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "instytucja, placówka"
+        ],
+        "ger_list": [
+            "die Einrichtung"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "aresztować"
+        ],
+        "ger_list": [
+            "verhaften"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "oskarżać"
+        ],
+        "ger_list": [
+            "anklagen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "popełniać coś, dopuszczać się czegoś"
+        ],
+        "ger_list": [
+            "begehen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "dawno, od dawna"
+        ],
+        "ger_list": [
+            "längst"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "przerażający, wzbudzający strach"
+        ],
+        "ger_list": [
+            "furchteinflößend"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "zamach, uderzenie"
+        ],
+        "ger_list": [
+            "der Anschlag"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "karać, ukarać"
+        ],
+        "ger_list": [
+            "bestrafen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "przepracować, pogodzić się (np. z przeszłością)"
+        ],
+        "ger_list": [
+            "aufarbeiten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "dotyczyć"
+        ],
+        "ger_list": [
+            "betreffen, angehen, zutreffen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "trochę, nieco, kilka"
+        ],
+        "ger_list": [
+            "einiges"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "kostka, sześcian"
+        ],
+        "ger_list": [
+            "der Würfel"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "cień"
+        ],
+        "ger_list": [
+            "der Schatten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "nadmuchiwany"
+        ],
+        "ger_list": [
+            "aufblasbar"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "rozdawać, rozdzielać"
+        ],
+        "ger_list": [
+            "verteilen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "równomierny"
+        ],
+        "ger_list": [
+            "gleichmäßig"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "upragniony, wytęskniony"
+        ],
+        "ger_list": [
+            "ersehnt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wolontariat"
+        ],
+        "ger_list": [
+            "das Ehrenamt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "czynny"
+        ],
+        "ger_list": [
+            "tätig"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "spieszyć się, pędzić"
+        ],
+        "ger_list": [
+            "lossausen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "coś takiego, tym podobny"
+        ],
+        "ger_list": [
+            "dergleichen, dgl."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "odszkodowanie"
+        ],
+        "ger_list": [
+            "die Entschädigung"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "datek, dar, darowizna, składka, zrzutka"
+        ],
+        "ger_list": [
+            "die Spende"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "władza, urząd"
+        ],
+        "ger_list": [
+            "die Behörde"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "sparaliżowany"
+        ],
+        "ger_list": [
+            "gelähmt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "ograniczać"
+        ],
+        "ger_list": [
+            "einschränken"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "pojąć coś"
+        ],
+        "ger_list": [
+            "einsehen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "guzik"
+        ],
+        "ger_list": [
+            "der Knopf"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "pożądany, poszukiwany"
+        ],
+        "ger_list": [
+            "begehrt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "widocznie"
+        ],
+        "ger_list": [
+            "anscheinend"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "prowiant, żywność"
+        ],
+        "ger_list": [
+            "die Verpflegung"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "rozróżniać"
+        ],
+        "ger_list": [
+            "unterscheiden"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "rzekomo, podobno, ponoć"
+        ],
+        "ger_list": [
+            "angeblich"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "rzeźnik, masarz"
+        ],
+        "ger_list": [
+            "der Metzger"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "napełniać, nadziewać"
+        ],
+        "ger_list": [
+            "füllen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "dziura, dziurka"
+        ],
+        "ger_list": [
+            "das Loch"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "parzyć, sparzać, zaparzać, naparzać"
+        ],
+        "ger_list": [
+            "brühen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "imbir"
+        ],
+        "ger_list": [
+            "der Ingwer"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "chrupiący"
+        ],
+        "ger_list": [
+            "knusprig"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "uzasadnić"
+        ],
+        "ger_list": [
+            "begründen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wątpliwość"
+        ],
+        "ger_list": [
+            "der Zweifel"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wątpić"
+        ],
+        "ger_list": [
+            "zweifeln"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "po kolei"
+        ],
+        "ger_list": [
+            "der Reihe nach"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "obecny"
+        ],
+        "ger_list": [
+            "anwesend"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "nieobecny"
+        ],
+        "ger_list": [
+            "abwesend"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "interweniować"
+        ],
+        "ger_list": [
+            "eingreifen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "jednolity"
+        ],
+        "ger_list": [
+            "einheitlich"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "płytka (rzeka)"
+        ],
+        "ger_list": [
+            "seicht"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "stać w kolejce"
+        ],
+        "ger_list": [
+            "anstehen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "kopalnia"
+        ],
+        "ger_list": [
+            "das Bergwerk"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wykonywać"
+        ],
+        "ger_list": [
+            "verrichten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "brudny"
+        ],
+        "ger_list": [
+            "dreckig"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "karnawał"
+        ],
+        "ger_list": [
+            "der Fasching"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "żebrak"
+        ],
+        "ger_list": [
+            "Der Bettler"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "glodować"
+        ],
+        "ger_list": [
+            "hungern"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "podać coś komuś"
+        ],
+        "ger_list": [
+            "jemandem etwas reichen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "chrzcić"
+        ],
+        "ger_list": [
+            "taufen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "pochód, procesja"
+        ],
+        "ger_list": [
+            "der Umzug"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "zwyczaj, obyczaj, obrzęd"
+        ],
+        "ger_list": [
+            "der Brauch"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "uprawiać, hodować, dobudować"
+        ],
+        "ger_list": [
+            "anbauen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "kwitnąć, dobrze się rozwijać"
+        ],
+        "ger_list": [
+            "gedeihen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "stromy, spadzisty"
+        ],
+        "ger_list": [
+            "steil"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "stok"
+        ],
+        "ger_list": [
+            "der Hang"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "speichern"
+        ],
+        "ger_list": [
+            "magazynować, gromadzić"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "względnie, stosunkowo"
+        ],
+        "ger_list": [
+            "vergleichsweise\n"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "przyznawać (order)"
+        ],
+        "ger_list": [
+            "verleihen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "projektowanie, układanie, konstruowanie"
+        ],
+        "ger_list": [
+            "die Gestaltung"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "formułować, tworzyć"
+        ],
+        "ger_list": [
+            "aufstellen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "rozum ludzki"
+        ],
+        "ger_list": [
+            "der Menschenverstand"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "zatwierdzać, dopuścić"
+        ],
+        "ger_list": [
+            "genehmigen"
+        ],
+        "hardness": 5
+    }
+]

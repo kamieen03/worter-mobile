@@ -1,0 +1,1208 @@
+[
+    {
+        "poleng_list": [
+            "document"
+        ],
+        "ger_list": [
+            "das Dokument",
+            "Ähnlich ist dies wohl auch mit privaten Dokumenten möglich.",
+            "Ob die Dokumente aber auch wirklich alle echt sind?",
+            "Die Dokumente können nicht verändert oder ausgedruckt werden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "factory"
+        ],
+        "ger_list": [
+            "die Fabrik",
+            "Nur kommt dieser hier frisch aus der Fabrik .",
+            "Leider ist von der Fabrik nicht mehr viel übrig geblieben.",
+            "In vielen Fabriken wird bereits nicht mehr gearbeitet."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "bid, offer, commandment",
+            "oferta"
+        ],
+        "ger_list": [
+            "das Gebot",
+            "So lautet das erste Gebot der liberalen Ökonomen.",
+            "Sehen und gesehen werden ist hier oberstes Gebot .",
+            "Lass uns wach sein für dein Gebot ."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "gain, profit",
+            "zysk, wygrana"
+        ],
+        "ger_list": [
+            "der Gewinn",
+            "Über den Gewinn habe ich mich sehr gefreut.",
+            "Über die Gewinne haben sich diese sehr gefreut.",
+            "Über den Gewinn würden wir uns natürlich auch super freuen."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "awesome, magnificent, grand, great"
+        ],
+        "ger_list": [
+            "großartig",
+            "Ändern wird sich dadurch nicht großartig was.",
+            "Und zwar ohne dass man großartig darum bitten müsste!",
+            "Hab mich ehrlich gesagt auch nicht großartig erkundigt."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "trade",
+            "handel"
+        ],
+        "ger_list": [
+            "der Handel",
+            "Eventuell werde ich später einen kleinen Handel aufbauen.",
+            "In den Handel waren sie nicht gelangt.",
+            "Auch Handel selbst gilt als nicht unumstritten."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "owner",
+            "właściciel"
+        ],
+        "ger_list": [
+            "der Inhaber",
+            "Anfang 2012 wurde er der neue Inhaber .",
+            "Andererseits könnte er auch als Inhaber ausgestiegen sein.",
+            "Das ist lukrativ und interessant für jeden Inhaber ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "job"
+        ],
+        "ger_list": [
+            "der Job",
+            "Wir haben diesen Job aber wirklich gefunden.",
+            "Dazu brauche ich aber erstmal einen Job .",
+            "Anna könnte oft stärker sein für den Job und größer."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "career"
+        ],
+        "ger_list": [
+            "die Karriere",
+            "Über ihre Karriere kannst du frei entscheiden.",
+            "Schließlich habe ich hier meine Karriere begonnen.",
+            "Und diese Karriere kann sich bislang wirklich sehen lassen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "buyer",
+            "kupujący"
+        ],
+        "ger_list": [
+            "der Käufer",
+            "Für die Käufer andererseits ändert sich wenig.",
+            "Das konnte der Käufer jedoch nicht beweisen.",
+            "Darf der muslimische Käufer diesen Überschuss behalten?"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "classified advertisement"
+        ],
+        "ger_list": [
+            "die Kleinanzeige",
+            "Endlich kann man ebay auch kostenlose Kleinanzeigen aufgeben.",
+            "Sie können hier Kleinanzeigen kostenlos aufgeben und suchen.",
+            "Also ich mach inzwischen auch viel mit ebay Kleinanzeigen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "colleague",
+            "kolega (z pracy)"
+        ],
+        "ger_list": [
+            "der Kollege",
+            "Über 200 Kollegen sind dort verletzt worden.",
+            "Ähnlich scheinen es auch meine Kollegen zu handhaben.",
+            "Ähnlich geht es auch vielen seiner Kollegen ."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "management"
+        ],
+        "ger_list": [
+            "das Management",
+            "Den darf das Management nicht einfach übergehen.",
+            "Laut Management ist nun aber alles wieder dementiert worden.",
+            "Allerdings gilt dies fürs Management nur eingeschränkt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "rent"
+        ],
+        "ger_list": [
+            "die Miete",
+            "Wie üblich muss die Miete im voraus bezahlt werden.",
+            "Über steigende Mieten werden zudem auch Mieter betroffen sein.",
+            "Schnell Miete gezahlt und dann ging es weiter."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "organisation"
+        ],
+        "ger_list": [
+            "die Organisation",
+            "Insgesamt passte vor allem auch die Organisation .",
+            "Wie bin ich auf die Organisation gestoßen?",
+            "Für die Organisation dafür war ich zuständig."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "project",
+            "projekt"
+        ],
+        "ger_list": [
+            "das Projekt",
+            "Ähnliches wünsche er sich manchmal bei heutigen Projekten .",
+            "Ökumene beginnt oft mit kleinen und ganz konkreten Projekten .",
+            "Über dieses höchst ungewöhnliche Projekt kann man hier mehr erfahren."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "company",
+            "przedsiembiorstwo"
+        ],
+        "ger_list": [
+            "das Unternehmen",
+            "Über 2 500 Unternehmen sind weltweit aktiv."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "value"
+        ],
+        "ger_list": [
+            "der Wert"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "competition",
+            "konkurs, konkurencja"
+        ],
+        "ger_list": [
+            "der Wettbewerb",
+            "Ändern kann das nur der Wettbewerb untereinander.",
+            "Reisebüros würden sich täglich diesem Wettbewerb stellen.",
+            "Damit heben wir uns vom Wettbewerb ab."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "consumer",
+            "konsument"
+        ],
+        "ger_list": [
+            "der Verbraucher",
+            "Über dieses recht ist der Verbraucher auch zu belehren.",
+            "Die Verbraucher fühlen sich deshalb noch recht wohl.",
+            "Dabei kann man als Verbraucher schnell mal den Überblick verlieren."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "work permit",
+            "pozwolenie na pracę"
+        ],
+        "ger_list": [
+            "die Arbeitserlaubnis",
+            "Und eine Arbeitserlaubnis wird mal gegeben und dann wieder gestrichen.",
+            "So sieht es auch bei der Arbeitserlaubnis aus.",
+            "Eine Arbeitserlaubnis ist hierfür allerdings nicht nötig."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "the purchase"
+        ],
+        "ger_list": [
+            "der Kauf",
+            "Ich würde dir den Kauf nicht empfehlen.",
+            "Oder jedenfalls kurz mit dem Kauf zu zögern.",
+            "Derzeit drängt sich ein Kauf nicht auf."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to exhibit, to display",
+            "wystawiać (obrazy, towary)"
+        ],
+        "ger_list": [
+            "ausstellen",
+            "Deshalb würde ich sie aber nie ausstellen .",
+            "Aber irgendwie lies das sich gerade nicht ausstellen .",
+            "Deshalb wollen wir sie nicht mehr ausstellen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to reveal, to declare",
+            "ujawnić"
+        ],
+        "ger_list": [
+            "erkennen geben"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "oneself, myself, yourself etc."
+        ],
+        "ger_list": [
+            "sich",
+            "Übrigens das \"pfeifen\" lohnt sich .",
+            "Ökostrom zu kaufen lohnt sich jetzt besonders.",
+            "Über sie läßt sich gar herrlich spekulieren nachdenken."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "to sign up, to log on, to register"
+        ],
+        "ger_list": [
+            "anmelden",
+            "Ärzte können sich dafür ebenfalls online anmelden .",
+            "Wie soll man sich da bitte anmelden ?",
+            "Man muss sich auch nicht verbindlich anmelden ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to look at, to view"
+        ],
+        "ger_list": [
+            "anschauen",
+            "Und sie sind nicht nur zum anschauen .",
+            "Am besten einfach mal selber anschauen und begeistern lassen!",
+            "Ich möchte ihn mir auch unbedingt anschauen !"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to be located, to be",
+            "znajdować się"
+        ],
+        "ger_list": [
+            "sich befinden"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to register, to enroll"
+        ],
+        "ger_list": [
+            "eintragen",
+            "Muss ich mich sonst noch irgendwo eintragen ?",
+            "Wir werden diese dann nach und nach eintragen .",
+            "Allerdings haben wir uns nie dort eintragen lassen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to imagine something",
+            "wyobrażać sobie"
+        ],
+        "ger_list": [
+            "sich einbilden"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "to surrender, to submit, to take to something",
+            "poddać się, oddać się, ustąpić"
+        ],
+        "ger_list": [
+            "sich ergeben"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "to remember"
+        ],
+        "ger_list": [
+            "sich erinnern"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to be happy, to be glad"
+        ],
+        "ger_list": [
+            "sich freuen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to feel",
+            "czuć się"
+        ],
+        "ger_list": [
+            "sich fühlen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "to get oneself something, to catch (a cold)",
+            "przynosić, sprowadzać"
+        ],
+        "ger_list": [
+            "sich holen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "to be interested"
+        ],
+        "ger_list": [
+            "sich interessieren"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to be worthwhile, to pay off",
+            "opłacać się"
+        ],
+        "ger_list": [
+            "sich lohnen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "to report sth., to announce sth.",
+            "zgłaszać, meldować"
+        ],
+        "ger_list": [
+            "melden",
+            "Wollte mich doch auch wieder einmal melden .",
+            "Also einfach mal melden und dann schaun wir mal.",
+            "Also melden sie sich und wir helfen uns gegenseitig."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to place, to sit",
+            "sadzać, zasadzić"
+        ],
+        "ger_list": [
+            "setzen",
+            "Beziehungen lösen sich auf und setzen sich überraschend neu zusammen.",
+            "Wir machen es real und setzen es um!",
+            "Und darum setzen wir uns dafür ein."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "(+um) to worry about, (für) to take care of",
+            "troszczyć się, dbać"
+        ],
+        "ger_list": [
+            "sorgen",
+            "Wir bitten für die Übernachtung selbst zu sorgen .",
+            "Ich begann mich zu sorgen und beobachtete ihn genauer.",
+            "Stadtführungen sollen nicht langweilig sein und dafür sorgen wir gerne!"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to get lost"
+        ],
+        "ger_list": [
+            "sich verlaufen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to wish something (for oneself)",
+            "życzyć sobie"
+        ],
+        "ger_list": [
+            "sich wünschen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "to mark",
+            "zaznaczać"
+        ],
+        "ger_list": [
+            "markieren",
+            "Also schnell auf \"als gelesen markieren \" und weiter.",
+            "Bis dahin heißt es \"sich markieren und vielleicht gewinnen!",
+            "Sie markieren ihn einfach komplett und kopieren ihn."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to ask, to request"
+        ],
+        "ger_list": [
+            "bitten",
+            "Aber bitten las ich mich auch nicht lange.",
+            "Und zwar ohne dass man großartig darum bitten müsste!",
+            "Wir bitten für die Übernachtung selbst zu sorgen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to discuss, to debate"
+        ],
+        "ger_list": [
+            "diskutieren",
+            "Über alles andere brauchen wir nicht zu diskutieren .",
+            "Über dieses Buch können wir nicht diskutieren .",
+            "Er soll doch tatsächlich erst mit ihr diskutieren ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to move"
+        ],
+        "ger_list": [
+            "bewegen",
+            "Und damit kann man mehr bewegen als man denkt.",
+            "Immer wieder fallen welche runter und bewegen sich ganz langsam.",
+            "Konnte man da nicht intern irgend etwas bewegen ?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to pay",
+            "płacić"
+        ],
+        "ger_list": [
+            "zahlen",
+            "Habe dann erstmal gegoogelt ob ich das überhaupt zahlen muss.",
+            "Doch oft bar zu zahlen ist teuer!",
+            "Ich soll solidarisch zahlen aber bitte nicht überall."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "to enlarge, to extend",
+            "powiększać"
+        ],
+        "ger_list": [
+            "vergrößern",
+            "Daher werde ich das leider nicht vergrößern können.",
+            "Und die werden sich hoffentlich auch noch vergrößern .",
+            "Wir werden umziehen und uns noch einmal richtig vergrößern ."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "to take into account, to regard, to observe",
+            "uwzględniać, zwracać uwagę (na coś)"
+        ],
+        "ger_list": [
+            "beachten",
+            "Und was gibt es eigentlich zu beachten ?",
+            "Und wenn ja was sollte man beachten ?",
+            "Gibt es dabei etwas besonderes zu beachten ?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to change"
+        ],
+        "ger_list": [
+            "verändern",
+            "Und wie wird sie sich dadurch verändern ?",
+            "Es gibt immer irgend etwas zu verändern oder zu verbessern.",
+            "Hier scheint sich doch etwas zu verändern ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to compare"
+        ],
+        "ger_list": [
+            "vergleichen",
+            "Damit ich beim shoppen wirklich vergleichen kann.",
+            "Deshalb sollte man immer zuerst vergleichen und dann versichern.",
+            "Deshalb immer zuerst vergleichen und dann versichern."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to hand in, to pass",
+            "przekazać, oddać"
+        ],
+        "ger_list": [
+            "abgeben",
+            "Dort könnt ihr sie auch persönlich abgeben .",
+            "Aber den muss ich erst noch abgeben und warten.",
+            "Oder wo sollte ich die am besten abgeben ."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "to furnish, to establish",
+            "urządzić, wyposażyć, umeblować"
+        ],
+        "ger_list": [
+            "einrichten",
+            "Arbeitsgruppen lassen sich schnell und einfach einrichten .",
+            "Man kann auch selbst einen erstellen sowie einrichten .",
+            "Etwas spannendes und neues durfte ich heute einrichten ."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "to pay attention, to respect",
+            "szanować, cenić, respektować"
+        ],
+        "ger_list": [
+            "achten",
+            "Auf was muss ich wo besonders achten ?",
+            "Was ist neu und auf was müsst ihr achten ?",
+            "Worauf ist zu achten und wann lässt sich sparen?"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "to find out, to experience"
+        ],
+        "ger_list": [
+            "erfahren",
+            "Über mich gibts auch was zu erfahren !",
+            "Über sie hätte ich gerne mehr erfahren .",
+            "Das alles darf jetzt die Öffentlichkeit erfahren ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to increase, to rise"
+        ],
+        "ger_list": [
+            "erhöhen",
+            "Selbstverständlich kann man diese auch jederzeit erhöhen .",
+            "Warum müsste man um 50% erhöhen ?",
+            "Möglicherweise erhöhen sich dadurch die Übernachtungen sogar."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to experience",
+            "przeżcyć, doznać, doświadczać"
+        ],
+        "ger_list": [
+            "erleben",
+            "Dank ihnen durften wir dies alles erleben .",
+            "Die beiden muss man einfach zusammen erleben .",
+            "Aber man möchte ja auch noch einiges erleben und genießen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to support, to promote, to mine"
+        ],
+        "ger_list": [
+            "fördern",
+            "Und wie viel davon lässt sich auch wirklich fördern ?",
+            "Wir wollen es optimal fördern und nutzen.",
+            "Das wollen wir \" fördern und fordern\"!"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to present"
+        ],
+        "ger_list": [
+            "präsentieren",
+            "So kann man sich einfach nicht präsentieren .",
+            "Deshalb möchte ich euch diese hier präsentieren .",
+            "Wieso nur präsentieren was man auch verkaufen kann?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to jump"
+        ],
+        "ger_list": [
+            "springen",
+            "Einfach los zu lassen und zu springen war echte Überwindung.",
+            "Wir sind natürlich gespannt wie er springen wird.",
+            "Wer schafft es am höchsten zu springen ?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to prevent"
+        ],
+        "ger_list": [
+            "verhindern",
+            "Die beiden sind aber befreundet und wollen dies verhindern .",
+            "Obwohl das kaum noch zu verhindern ist.",
+            "Das ist sehr traurig war aber nicht zu verhindern ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to hike, ramble"
+        ],
+        "ger_list": [
+            "wandern",
+            "Viele arbeiten weltweit und einige wandern sogar aus.",
+            "Österreich bietet viele Möglichkeiten zum wandern und auch zum klettern.",
+            "Bis dahin geh ich ganz viel wandern ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "meaning"
+        ],
+        "ger_list": [
+            "die Bedeutung",
+            "Ähnlich verhält es sich mit der Bedeutung .",
+            "Öl wird allerdings etwas an Bedeutung verlieren.",
+            "Ist uns die Bedeutung dessen wirklich bewusst."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "term, definition, concept, idea"
+        ],
+        "ger_list": [
+            "der Begriff",
+            "Österreich darf daher den Begriff \"öffentlich\" nicht anders definieren.",
+            "Über 12 Millionen Begriff aus der Ökologie.",
+            "Es ist halt für meine Begriffe recht dünn."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "report",
+            "raport, sprawozdanie"
+        ],
+        "ger_list": [
+            "der Bericht",
+            "Ähnlich verhält es sich mit Berichten der Ämter.",
+            "Über weitere Berichte würden wir uns freuen!",
+            "Über email kann man die täglichen Berichte sich zuschicken lassen."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "description"
+        ],
+        "ger_list": [
+            "die Beschreibung",
+            "Über ihn gab es bisher nur eine vage Beschreibung .",
+            "Viele der Beschreibungen haben mich persönlich sehr angesprochen.",
+            "Aber nirgendwo gibt es eine detaillierte Beschreibung ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "German language"
+        ],
+        "ger_list": [
+            "Deutsch"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "English language"
+        ],
+        "ger_list": [
+            "Englisch"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to tell a story, to narrate, to recount"
+        ],
+        "ger_list": [
+            "erzählen",
+            "Über die es viel zu erzählen gibt.",
+            "Über sich etwas zu erzählen fällt manchmal schwer.",
+            "Über mich gibt es eigentlich nicht viel zu erzählen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "explanation",
+            "wyjaśnienie"
+        ],
+        "ger_list": [
+            "die Erklärung",
+            "Die Erklärung hierfür ist jedoch schnell zu finden.",
+            "Vielleicht gibt sie dazu eine Erklärung ab.",
+            "Schliesslich kommt die logische Erklärung doch noch."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "French language"
+        ],
+        "ger_list": [
+            "Französisch",
+            "Überhaupt habe ich mich langsam ans Französisch sprechen gewöhnt.",
+            "Ich verstehe inzwischen aber schon ganz gut Französisch ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "story, history",
+            "historia, opowieść"
+        ],
+        "ger_list": [
+            "die Geschichte",
+            "Über seine ältere Geschichte scheint nichts bekannt zu sein.",
+            "Übrigens wird er genau die eben genannte Geschichte vortragen!",
+            "Über die Geschichte möchte ich noch nicht viel verraten."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "handbook, manual",
+            "podręcznik"
+        ],
+        "ger_list": [
+            "das Handbuch",
+            "Dafür benötigt man schon mal das Handbuch .",
+            "Die sind im Handbuch ziemlich weit hinten beschrieben.",
+            "Ein Handbuch steht ebenfalls zum download bereit."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "idea",
+            "idea"
+        ],
+        "ger_list": [
+            "die Idee",
+            "Übrigens sind wir auch immer offen für neue Ideen .",
+            "Über 150 Ideen wurden bis zum 15.",
+            "Überhaupt scheint sich die ganze Idee sehr gut zu entwickeln."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "chapter",
+            "rozdział"
+        ],
+        "ger_list": [
+            "das Kapitel",
+            "Und neu sind sogar einzelne Kapitel online.",
+            "Also bitte erwartet keine neuen Kapitel von mir.",
+            "Einfach ein neues Kapitel aufschlagen und nach vorn blicken."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "concept, plan",
+            "koncept, pomysł"
+        ],
+        "ger_list": [
+            "das Konzept",
+            "Über das Konzept müsste ich nochmal ein bisschen nachdenken.",
+            "Wie das Konzept entstand findet man hier .",
+            "So können wir das Konzept direkt erklären."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "opinion, view",
+            "opinia, zdanie"
+        ],
+        "ger_list": [
+            "die Meinung",
+            "Über Meinungen freue ich mich immer wieder.",
+            "Über eure Meinungen würde ich mich freuen!",
+            "Über eure Meinung darüber bin ich gespannt."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "sentence (grammar)",
+            "zdanie"
+        ],
+        "ger_list": [
+            "der Satz",
+            "Über diesen Satz bitte ich noch einmal genau nachzudenken.",
+            "Ähnlich sah es im vierten Satz aus.",
+            "Überraschend eindeutig verlief dann aber der dritte Satz ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "handwriting, writing, script"
+        ],
+        "ger_list": [
+            "die Schrift",
+            "Überschriften wurden eben mit einer größeren Schrift erstellt.",
+            "Die große Schrift vereinfacht mir nur manches .",
+            "Außerdem werde ich demnächst die Schrift etwas modifizieren."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "language",
+            "język"
+        ],
+        "ger_list": [
+            "die Sprache",
+            "Übersetzungen in andere Sprachen sind nicht bekannt.",
+            "Übersetzungen in die anderen europäischen Sprachen wurden bisher nicht vorgelegt.",
+            "Übersetzungen in mehrere Sprachen werden parallel durchgeführt."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "text",
+            "tekst"
+        ],
+        "ger_list": [
+            "der Text",
+            "Änderungen des vorgeschlagenen Textes sind selbstverständlich möglich.",
+            "Übrigens könnt ihr euch den Text vorlesen lassen.",
+            "Über deren Texte sollte man besser erst gar nicht reden."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "title"
+        ],
+        "ger_list": [
+            "der Titel",
+            "Ähnlich komplex ist der Titel auch noch.",
+            "Über den deutschen Titel kann man wieder mal streiten.",
+            "Ähnlich sind auch die einzelnen Titel konzipiert."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "translation"
+        ],
+        "ger_list": [
+            "die Übersetzung",
+            "Auch die Übersetzung ist nicht immer korrekt.",
+            "Originale und ihre deutschen Übersetzungen von gestern und heute.",
+            "Über die Qualität der Übersetzungen kann jedoch gestritten werden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "conversation, entertainment",
+            "rozrywka, rozmowa"
+        ],
+        "ger_list": [
+            "die Unterhaltung",
+            "Über mangelnde Unterhaltung konnte sich niemand beklagen.",
+            "Schade denn ich halte ihn für gute Unterhaltung .",
+            "Auf das uns die Unterhaltung nicht ausgeht."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "index, list, table"
+        ],
+        "ger_list": [
+            "das Verzeichnis",
+            "Und wo gibt es dazu ein zentrales Verzeichnis ?",
+            "Das Verzeichnis scheint hier noch etwas verwirrend.",
+            "Diese Verzeichnisse wird es auch weiterhin geben."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "word"
+        ],
+        "ger_list": [
+            "das Wort",
+            "Überall ist dieses Wort jetzt zu hören oder zu lesen!",
+            "Üblicherweise verabschiedet man sich mit diesem Wort voneinander.",
+            "Über diese Worte muss ich zuerst einmal nachdenken."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "dictionary",
+            "słownik"
+        ],
+        "ger_list": [
+            "das Wörterbuch",
+            "Zunächst wird man im Wörterbuch nicht richtig schlau.",
+            "Im Wörterbuch wurde ich leider nich fündig.",
+            "Welches elektronische Wörterbuch ist zu empfehlen und garantiert erlaubt?"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "sign",
+            "znak"
+        ],
+        "ger_list": [
+            "das Zeichen",
+            "Über dieses Zeichen der Öffnung habe ich mich sehr gefreut.",
+            "Das ist schon mal nen gutes Zeichen .",
+            "Was könnte es für ein besseres Zeichen geben?"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "summary, abstract",
+            "streszczenie, podsumowanie"
+        ],
+        "ger_list": [
+            "die Zusammenfassung",
+            "Es handelt sich hierbei lediglich um eine Zusammenfassung .",
+            "Bislang gab es eine solche Zusammenfassung nicht.",
+            "Jede machte der anderen eine gute Zusammenfassung ."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "agreement, consent",
+            "zgoda, akceptacja"
+        ],
+        "ger_list": [
+            "die Zustimmung",
+            "Es ist aber mit einer Zustimmung zu rechnen.",
+            "Über eure Zustimmung und euer Vertrauen würde ich mich freuen!",
+            "Daher freut mich diese deutliche Zustimmung ganz besonders."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to mean",
+            "znaczyć"
+        ],
+        "ger_list": [
+            "bedeuten",
+            "Das englische off mag alles mögliche bedeuten .",
+            "Wenn das mal nichts zu bedeuten hat!",
+            "Was hat das nun wieder zu bedeuten ?"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "delivery",
+            "dostawa"
+        ],
+        "ger_list": [
+            "die Lieferung",
+            "Über die schnelle Lieferung habe ich mich auch sehr gefreut.",
+            "Mit der Lieferung lief bei mir alles ganz super.",
+            "Verzögerungen und spätere Lieferungen behalten wir uns jedoch vor."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "insurance",
+            "ubezpieczenie"
+        ],
+        "ger_list": [
+            "die Versicherung",
+            "Änderungen durch die Versicherung sind jederzeit möglich.",
+            "Diese versichert eine Versicherung eigentlich nicht mehr.",
+            "Weiß einer was die Versicherung denn ungefähr dann zahlt?"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "sale, sales"
+        ],
+        "ger_list": [
+            "der Verkauf",
+            "Über einen Verkauf werde bei den Verhandlungen nicht gesprochen.",
+            "Es handelt sich eher um einen direkten Verkauf .",
+            "Der Verkauf ist bei uns sehr einfach."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "article, merchandise, goods (singular)",
+            "towar"
+        ],
+        "ger_list": [
+            "die Ware",
+            "Dort könnt ihr natürlich auch die hier bestellte Ware abholen!",
+            "Sie sortieren und lagern die Ware ein.",
+            "Erst dann schickt dieser die Ware los."
+        ],
+        "hardness": 7
+    },
+    {
+        "poleng_list": [
+            "industry"
+        ],
+        "ger_list": [
+            "die Industrie",
+            "Davon dürfte die beteiligte Industrie profitiert haben.",
+            "Dabei ist er wesentlich effektiver als die chemische Industrie .",
+            "Die nächste Industrie ist 30 km von uns entfernt."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "chance"
+        ],
+        "ger_list": [
+            "die Chance",
+            "Über die Chancen hört man bloß nie was.",
+            "Übrigens ist die Chance gar nicht so klein.",
+            "Aber eine faire Chance habe ich nie erhalten!"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "notification, advertisement",
+            "ogłoszenie, zgłoszenie, zawiadomienie"
+        ],
+        "ger_list": [
+            "die Anzeige",
+            "Über uns stand nur noch eine bezahlte Anzeige .",
+            "Durchschnittlich wird nur eine von neun Anzeigen gelesen.",
+            "An der Anzeige halten wir natürlich fest."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "warranty",
+            "gwarancja"
+        ],
+        "ger_list": [
+            "die Garantie",
+            "Allerdings sei die staatliche Garantie nur vorübergehend genehmigt worden.",
+            "Beim neuen ist dann eine lebenslange Garantie dabei.",
+            "Eine Garantie dafür gibt es jedoch nicht."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "offer, bid",
+            "oferta, propozycja"
+        ],
+        "ger_list": [
+            "das Angebot",
+            "Über ein Angebot würde ich mich sehr freuen.",
+            "Über Angebote würden wir uns sehr freuen.",
+            "Über ein Angebot würde ich mich freuen!"
+        ],
+        "hardness": 5
+    }
+]

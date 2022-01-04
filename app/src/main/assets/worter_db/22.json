@@ -1,0 +1,1202 @@
+[
+    {
+        "poleng_list": [
+            "engagement, involvement, commitment"
+        ],
+        "ger_list": [
+            "das Engagement",
+            "Über dieses Engagement freuen wir uns ganz besonders.",
+            "Über ein Engagement würden wir uns sehr freuen.",
+            "Und immer mehr suchen mit ihrem Engagement die Öffentlichkeit."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "help"
+        ],
+        "ger_list": [
+            "die Hilfe",
+            "Über Hilfe freuen wir uns daher sehr!",
+            "Über eine Hilfe würde ich mich sehr freuen!",
+            "Über Hilfe würde ich mich sehr freuen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "competence"
+        ],
+        "ger_list": [
+            "die Kompetenz",
+            "Sie zeichnen sich durch ihre soziale Kompetenz aus.",
+            "So achten wir besonders auf soziale Kompetenzen .",
+            "Alle unsere Kompetenzen sind natürlich miteinander kombinierbar."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "development"
+        ],
+        "ger_list": [
+            "die Entwicklung",
+            "Überraschend kommt die negative Entwicklung jedoch nicht.",
+            "Änderungen aufgrund der technischen Entwicklung behalten wir uns vor.",
+            "Über die weitere Entwicklung werden wir berichten."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "security, safety, certainty"
+        ],
+        "ger_list": [
+            "die Sicherheit",
+            "Wir werden uns mit Sicherheit gut verstehen!",
+            "Ich werde jedenfalls hier mit Sicherheit darüber einiges schreiben.",
+            "Geld dürfe freilich nicht wichtiger als Sicherheit sein."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "result"
+        ],
+        "ger_list": [
+            "das Ergebnis",
+            "Über die Ergebnisse werde ich selbstverständlich hier berichten.",
+            "Über die Ergebnisse werden wir dann später berichten.",
+            "Über das Ergebnis werden wir dann hier berichten."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "attempt, try"
+        ],
+        "ger_list": [
+            "der Versuch",
+            "Über meine Versuche werde ich natürlich hier berichten.",
+            "Über den vierten Versuch kamen sie selten hinaus.",
+            "Über Versuche bin ich nie hinaus gekommen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "quality"
+        ],
+        "ger_list": [
+            "die Qualität",
+            "Über die Qualität der Übersetzungen kann jedoch gestritten werden.",
+            "Über Qualität müssen wir uns nicht unterhalten.",
+            "Über die Qualität kann man auch nur positives sagen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "cooperation"
+        ],
+        "ger_list": [
+            "die Zusammenarbeit",
+            "Über eine Zusammenarbeit würde ich mich freuen.",
+            "Über eine langfristige Zusammenarbeit würden wir uns freuen.",
+            "Über eine Zusammenarbeit würde ich mich sehr freuen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "opportunity, occasion"
+        ],
+        "ger_list": [
+            "die Gelegenheit",
+            "Über weitere Gelegenheiten freuen wir uns natürlich sehr.",
+            "Da wartet man lieber auf eine günstige Gelegenheit .",
+            "Dazu habe ich ja sonst wenig Gelegenheit ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "valuable"
+        ],
+        "ger_list": [
+            "wertvoll",
+            "Wie wertvoll es ist und wie kostbar.",
+            "Besonders neue und besonders alte sind meistens die wertvollsten .",
+            "Für mich ist das alles sehr wertvoll ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "closeness, vicinity"
+        ],
+        "ger_list": [
+            "die Nähe",
+            "Mathias verschließt sich vor zu viel Nähe .",
+            "Anders herum war kaum mehr Nähe zu finden.",
+            "Wir möchten uns verwandeln lassen und seine Nähe spüren."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "measurement, degree"
+        ],
+        "ger_list": [
+            "das Maß",
+            "Ängste sind in gewissen Maße ja natürlich und gesund.",
+            "Gemessen wird mal wieder mit zweierlei Maß .",
+            "Hier muss wohl jeder sein eigenes Maß finden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "plus, positive"
+        ],
+        "ger_list": [
+            "plus",
+            "Eins plus eins muss nicht immer zwei ergeben.",
+            "Das ist ja wie plus und minus.",
+            "Zwei plus zwei kann er spielend ausrechnen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "minus, negative"
+        ],
+        "ger_list": [
+            "minus",
+            "Nachts kann es auf minus 5° abkühlen.",
+            "Das ist ja wie plus und minus .",
+            "Schnäppchen minus 70% sind schon sehr selten."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "divided by"
+        ],
+        "ger_list": [
+            "geteilt durch"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to wear"
+        ],
+        "ger_list": [
+            "tragen",
+            "Kann gar nicht abwarten ihn zu tragen .",
+            "Sie ist leicht und bequem zu tragen .",
+            "Außerdem ist er super weich und angenehm zu tragen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "clothes"
+        ],
+        "ger_list": [
+            "die Kleidung",
+            "Dazu muss die Kleidung aber auch funktional sein.",
+            "Aber jetzt hat er erstmal genug Kleidung .",
+            "Entsprechende winterliche Kleidung sollte daher mitgebracht werden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "dress"
+        ],
+        "ger_list": [
+            "das Kleid",
+            "Zu nähen war das Kleid eigentlich nicht schwer.",
+            "Sie haben schon ein tolles Kleid daheim.",
+            "Immer trägt er tadellos saubere und schöne Kleider ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "dresses (plural noun)"
+        ],
+        "ger_list": [
+            "die Kleider",
+            "Immer trägt er tadellos saubere und schöne Kleider .",
+            "Die Kleider sollen dabei jedoch alltagstauglich sein.",
+            "Und teuer sind die Kleider auch nicht."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "skirt"
+        ],
+        "ger_list": [
+            "der Rock",
+            "Ich war mir bei dem Rock zunächst absolut nicht sicher.",
+            "Nun muss der Rock nur zugeschnitten und genäht werden.",
+            "Das ist für mich kein Rock mehr."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "hat"
+        ],
+        "ger_list": [
+            "der Hut",
+            "Übrigens habe ich mir den Hut noch nicht gekauft.",
+            "Da kann man nur den Hut vor ziehen.",
+            "Da muss man einfach den Hut ziehen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "shoe"
+        ],
+        "ger_list": [
+            "der Schuh",
+            "Ich trage nun keine hohen und engen Schuhe mehr.",
+            "Spielgeräte sind grundsätzlich ohne Schuhe zu betreten.",
+            "Die Schuhe sind ja auch weiß & nicht dunkel."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "shoes"
+        ],
+        "ger_list": [
+            "die Schuhe",
+            "Ich trage nun keine hohen und engen Schuhe mehr.",
+            "Spielgeräte sind grundsätzlich ohne Schuhe zu betreten.",
+            "Die Schuhe sind ja auch weiß & nicht dunkel."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "shirt"
+        ],
+        "ger_list": [
+            "das Hemd",
+            "Das wird sicherlich nicht das letzte Hemd .",
+            "Nie wieder werde ich dieses Hemd anziehen.",
+            "Auf Hemden gefallen sie mir allerdings überhaupt nicht."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "coat"
+        ],
+        "ger_list": [
+            "der Mantel",
+            "Die erste fällt fast wie ein Mantel aus.",
+            "Plötzlich bewegt sich etwas unter seinem Mantel .",
+            "Der Mantel ist wirklich schön zeitlos und klassisch."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "trouser, pants"
+        ],
+        "ger_list": [
+            "die Hose",
+            "Über eure Hosen reden wir hier erst gar nicht!",
+            "Die Hose war kaputt und kam zu mir.",
+            "Mit dieser Hose lässt es sich sogar vernünftig laufen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "trousers, pants (pl.)"
+        ],
+        "ger_list": [
+            "die Hosen",
+            "Über eure Hosen reden wir hier erst gar nicht!",
+            "Kurze Hosen müssen nicht altmodisch oder gar langweilig sein.",
+            "Hierbei handelt es sich um leichte Hosen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "jacket"
+        ],
+        "ger_list": [
+            "die Jacke",
+            "Eine gute Jacke hält schön warm und vor allem lange!",
+            "Bei der Jacke lohnt es sich nicht zu sparen.",
+            "Aber das ist bei dieser Jacke ja nicht nötig."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "bag (handbag, travel bag or pocket)"
+        ],
+        "ger_list": [
+            "die Tasche",
+            "Überhaupt ist die Tasche eigentlich kleiner geworden als gedacht.",
+            "Ich kann mich immernoch nicht 100% mit der Tasche anfreunden.",
+            "Jetzt nur noch eine Tasche dafür gestalten und fertig."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "jewellery"
+        ],
+        "ger_list": [
+            "der Schmuck",
+            "Am liebsten würde ich komplett \"sauberen\" Schmuck produzieren.",
+            "Denn diesen Schmuck könnt ihr ganz leicht selber machen.",
+            "Für weniger sollte der Schmuck nicht verkauft werden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "cosmetics"
+        ],
+        "ger_list": [
+            "die Kosmetik",
+            "Wie sieht es mit der Kosmetik aus?",
+            "Das wird jedoch nicht nur reine Kosmetik bleiben.",
+            "Des weiteren werden danach Kosmetika bis zu 200% besser aufgenommen!"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "button"
+        ],
+        "ger_list": [
+            "der Knopf",
+            "Jim Knopf hat heute viel zu tun.",
+            "Was ist dagegen schon ein kleiner Knopf .",
+            "Vielleicht habe ich aber auch den Knopf noch nicht gefunden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "skirts"
+        ],
+        "ger_list": [
+            "die Röcke",
+            "Doch wie sehen diese Röcke eigentlich aus?",
+            "Die beiden Röcke konnte man auch einzeln tragen.",
+            "Klar kann man die Röcke überall dazu anziehen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "hats"
+        ],
+        "ger_list": [
+            "die Hüte",
+            "Das sind alles Hüte um die da gestritten wird.",
+            "Sind zwar alles schon alte Hüte weil bekannt.",
+            "Sie verloren ihre Hüte und ich ebenfalls."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "ring, circle"
+        ],
+        "ger_list": [
+            "der Ring",
+            "Also das sie eben mit 2 Ringen sind?",
+            "Ich finde auch den Ring besonders schön.",
+            "Außerdem habe ich den tollen roten Ring gefunden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "spot, stain"
+        ],
+        "ger_list": [
+            "der Fleck",
+            "Österreich ist noch ein ziemlich weißer Fleck .",
+            "So hatte ich denn einen ruhigen Fleck gefunden.",
+            "Der Fleck war tatsächlich weg und ich begeistert."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to fit, to suit"
+        ],
+        "ger_list": [
+            "passen",
+            "Jedes verspricht perfekt zu einem zu passen .",
+            "So gefallen sie mir richtig gut und passen perfekt!",
+            "Ich denke sie passen hier ganz gut hinein."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to take off, to decrease, to lose weight / slim"
+        ],
+        "ger_list": [
+            "abnehmen",
+            "Wie kann man aber billig abnehmen und trotzdem gesund?",
+            "Nicht das ich abnehmen möchte es entspannt mich nur total.",
+            "Ich würde sie glaube ich auch abnehmen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "manual, guide, instruction (on how to do something)"
+        ],
+        "ger_list": [
+            "die Anleitung",
+            "Eigentlich mache ich meine Anleitungen immer selber.",
+            "Möchte keinem raten das als Anleitung zu verstehen!",
+            "Für eine genauere Anleitung könnt ihr mich gerne kontaktieren."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "basis"
+        ],
+        "ger_list": [
+            "die Basis",
+            "Was brauchen wir um eine starke Basis zu sein?",
+            "Das überträgt sich bestimmt auch auf die Basis .",
+            "Oftmals ist die Basis nicht fachgerecht installiert."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "regulation, fate, destiny"
+        ],
+        "ger_list": [
+            "die Bestimmung",
+            "Über die exakten Bestimmungen darf ich nicht sprechen.",
+            "Die alten Bestimmungen seien nicht mehr zeitgemäß.",
+            "Die strengen deutschen Bestimmungen werden dabei stets berücksichtigt."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "look, view, glance"
+        ],
+        "ger_list": [
+            "der Blick",
+            "Ändern tut sich auf den ersten Blick nichts.",
+            "Er hat dabei nicht nur die Ärzte im Blick .",
+            "Auf den ersten Blick hat sich nicht viel verändert."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "feature (intern properties such as human laziness, speed)"
+        ],
+        "ger_list": [
+            "die Eigenschaft",
+            "Wir verbessern eine Eigenschaft und verschlechtern dabei eine andere.",
+            "Diese Eigenschaft können wir leider noch nicht aufweisen.",
+            "Bisher ließen sich diese Eigenschaften noch nicht optimal nutzen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "introduction"
+        ],
+        "ger_list": [
+            "die Einführung",
+            "Als erste Einführung ist es okay und auch gut verständlich.",
+            "Vorher wird es immer eine kurze Einführung geben.",
+            "Können sie da eine kleine Einführung geben?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "commitment, effort, deployment, use"
+        ],
+        "ger_list": [
+            "der Einsatz",
+            "Über seinen Einsatz wird kurzfristig entschieden werden.",
+            "Über seinen Einsatz wird erst kurzfristig entschieden.",
+            "Über unseren Einsatz werden wir dann ausführlich berichten."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "detail"
+        ],
+        "ger_list": [
+            "die Einzelheit",
+            "Über Einzelheiten sei aber noch zu reden.",
+            "Über die Einzelheiten dürfte noch heftig debattiert werden.",
+            "Über die Einzelheiten habe ich bereits hier berichtet ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "experience"
+        ],
+        "ger_list": [
+            "die Erfahrung",
+            "Über diese erfrischende Erfahrung möchte ich euch auch bald berichten.",
+            "Überblick zu behalten ist ohne Erfahrung sehr schwierig.",
+            "Über meine Erfahrungen werde ich hier berichten!"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "field"
+        ],
+        "ger_list": [
+            "das Feld",
+            "Körpersprache ist ein spannendes und zugleich gefährliches Feld .",
+            "Insgesamt platzierte sie sich im mittleren Feld .",
+            "Nur einer davon steht im anderen Feld ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "weight"
+        ],
+        "ger_list": [
+            "das Gewicht",
+            "Ähnliches in sachen Gewicht ist mir auch schon passiert.",
+            "So fällt es nicht mit vollem Gewicht auf ihn.",
+            "Auch das Gewicht ist mit 115 g sehr gering."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "background"
+        ],
+        "ger_list": [
+            "der Hintergrund",
+            "Über den Hintergrund braucht man eigentlich nicht viel mitzuteilen.",
+            "Über den Hintergrund können wir noch diskutieren.",
+            "Da ist der historische Hintergrund fast egal."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "height"
+        ],
+        "ger_list": [
+            "die Höhe",
+            "Über die genaue Höhe ist nichts bekannt.",
+            "Über die Höhe kann bisher nur spekuliert werden.",
+            "Über die Höhe kann man sicherlich diskutieren."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "category"
+        ],
+        "ger_list": [
+            "die Kategorie",
+            "Über die Kategorien sind die aber gut zu filtern.",
+            "Über die entsprechenden Kategorien kann unten mehr erfahren werden.",
+            "Ähnlich sieht es auch in den anderen Kategorien aus."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "combination"
+        ],
+        "ger_list": [
+            "die Kombination",
+            "Nun wollte ich aber mal eine andere Kombination testen.",
+            "Trotzdem kann sich diese Kombination sehen lassen.",
+            "Und hier gefällt mir die ganze Kombination ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "strength, force, power, energy"
+        ],
+        "ger_list": [
+            "die Kraft",
+            "Dafür setzen wir uns mit aller Kraft ein.",
+            "Solch eine Kraft habe ich lange nicht gespürt.",
+            "Doch nun schien die Kraft zu schwinden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "circle"
+        ],
+        "ger_list": [
+            "der Kreis",
+            "Über den Kreis hingegen ging nicht viel.",
+            "Überraschend häufig konnten wir dabei über den Kreis abschließen.",
+            "Den er kann ja nicht ewig im Kreis fliegen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "length"
+        ],
+        "ger_list": [
+            "die Länge",
+            "Diese hatten eine Länge von bis zu 23 cm.",
+            "Und auch dann gibt es einige unnötige Längen .",
+            "Allerdings ist die Länge sicher nicht für jeden passend."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "list, bill"
+        ],
+        "ger_list": [
+            "die Liste",
+            "Österreich ist natürlich nicht in der Liste .",
+            "Wir versuchen die Liste stets aktuell zu halten.",
+            "Natürlich geht auch eine selbst angelegte einfache Liste ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "quantity"
+        ],
+        "ger_list": [
+            "die Menge",
+            "Überall gibt es jede Menge zu entdecken.",
+            "Dort hat er jede Menge zu tun.",
+            "Doch wer soll diese Mengen möglichst umweltfreundlich transportieren?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "remedy, average, means, way"
+        ],
+        "ger_list": [
+            "das Mittel",
+            "Öffentliche Mittel sind knapp und werden mehr und mehr eingeschränkt.",
+            "Über die nötigen Mittel verfügte er doch.",
+            "Oder eben sie mit allen Mitteln zu verteidigen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "original, raw"
+        ],
+        "ger_list": [
+            "das Original",
+            "Über das Original gelegt verstehe ich auch noch.",
+            "Das Original von 1925 soll dabei wissenschaftlich aufgearbeitet werden.",
+            "Ich finde das Original weicher und flexibler."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "party"
+        ],
+        "ger_list": [
+            "die Party",
+            "Über all das könnt ihr euch auf der Party informieren.",
+            "Bis dahin können wir die Party weiter laufen lassen.",
+            "Dann gings erst los mit der Party ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "planning"
+        ],
+        "ger_list": [
+            "die Planung",
+            "Die Planungen für weitere Übungen laufen bereits.",
+            "Bitte berücksichtigt das bitte bei euren Planungen .",
+            "Die Planung dafür werde aber frühzeitig beginnen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "position"
+        ],
+        "ger_list": [
+            "die Position",
+            "Über seine politischen Positionen ist uns leider nicht viel bekannt.",
+            "Wir sind trotzdem noch immer auf jeder Position doppelt besetzt!",
+            "Bereits darunter können kurzfristige Positionen abgesichert werden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "reference, testimonial"
+        ],
+        "ger_list": [
+            "die Referenz",
+            "Überzeugen sie sich bei unseren \" Referenzen \".",
+            "Ach ja hat jemand vielleicht die gleiche Referenz ?",
+            "Sie wird wohl immer meine Referenz bleiben."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "role, roll"
+        ],
+        "ger_list": [
+            "die Rolle",
+            "Über seine Rolle ist noch nichts bekannt.",
+            "Konsequenzen sollen dabei eine wichtige Rolle spielen.",
+            "Traffic scheint da wohl schon ne Rolle zu spielen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "chasm, column, gap, rift"
+        ],
+        "ger_list": [
+            "die Spalte",
+            "Diese Spalte wird hier bisher nicht berücksichtigt.",
+            "Darunter hatte ich je drei Spalten angelegt.",
+            "Bei mir ist es die 5 Spalte ganz rechts."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "step (of a staircase), level"
+        ],
+        "ger_list": [
+            "die Stufe",
+            "Demzufolge ist man auf dieser Stufe am weitesten selbständig.",
+            "Sollten wir hier nicht auch schon eine Stufe weiter sein.",
+            "Zum einen gibt es die Stufe eins."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "overview"
+        ],
+        "ger_list": [
+            "der Überblick",
+            "Aber wer hat schon immer den richtigen Überblick ?",
+            "Da hätte man vielleicht einen besseren Überblick .",
+            "Grund genug um sich einen kleinen Überblick zu verschaffen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "implementation, execution"
+        ],
+        "ger_list": [
+            "die Umsetzung",
+            "Über deren Umsetzung durfte man gespannt sein.",
+            "Über die Umsetzung würden sich sehr viele freuen.",
+            "Über die Umsetzung werde erst später diskutiert."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "difference"
+        ],
+        "ger_list": [
+            "der Unterschied",
+            "Ein wirklich erheblicher Unterschied wird hier nicht ersichtlich.",
+            "Aber auch die regionalen Unterschiede wurden thematisiert.",
+            "Für die meisten wird es keinen Unterschied machen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "support"
+        ],
+        "ger_list": [
+            "die Unterstützung",
+            "Über Unterstützung würden wir uns sehr freuen!",
+            "Über eine große Unterstützung freuen wir uns!",
+            "Über jede Unterstützung freuen wir uns natürlich."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "improvement"
+        ],
+        "ger_list": [
+            "die Verbesserung",
+            "Wichtige Verbesserungen können somit nicht erreicht werden.",
+            "Doch wie können diese zukünftigen Verbesserungen aussehen?",
+            "Es hat bei ihm eine deutliche Verbesserung ergeben."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "course, progress, progression"
+        ],
+        "ger_list": [
+            "der Verlauf",
+            "Über den weiteren Verlauf werdet ihr natürlich hier informiert.",
+            "Über diesen uns nicht bekannten Verlauf sind wir nicht glücklich.",
+            "Über den weiteren Verlauf werden wir hier berichten."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "version"
+        ],
+        "ger_list": [
+            "die Version",
+            "Ältere Versionen können aber ebenso betroffen sein.",
+            "Über die weiteren Versionen wird derzeit mehr spekuliert.",
+            "Über 400 Versionen sind es bis heute."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "usage, use, application of concrete objects (e.g. lipstick)"
+        ],
+        "ger_list": [
+            "die Verwendung",
+            "Über ihre Verwendung wurde noch nicht entschieden.",
+            "Über ihre Verwendung ist mir nichts bekannt.",
+            "Diese werden aufbereitet und einer neuen Verwendung zugeführt."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "suggestion"
+        ],
+        "ger_list": [
+            "der Vorschlag",
+            "Übrigens stimme ich dem Vorschlag voll und ganz zu!",
+            "Über einen konstruktiven Vorschlag würde sich wohl niemand beschweren.",
+            "Oder hat eine von euch einen Vorschlag ?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "action, effect, impact"
+        ],
+        "ger_list": [
+            "die Wirkung",
+            "Über die verheerende Wirkung waren alle völlig Überrascht gewesen.",
+            "Über die Wirkung kann ich so nichts sagen.",
+            "Eine leichte pflegende Wirkung konnte ich auch feststellen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "access"
+        ],
+        "ger_list": [
+            "der Zugang",
+            "Aber auch ausländischen Zugang soll es geben.",
+            "Auch wenn der Zugang manchmal schwierig ist.",
+            "Kinder haben da einen ganz anderen Zugang ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "condition, state"
+        ],
+        "ger_list": [
+            "der Zustand",
+            "Über seinen momentanen Zustand ist bisher nichts bekannt.",
+            "Der ursprüngliche Zustand wird leider nicht mehr kommen.",
+            "Diesen Zustand wollen wir nicht länger dulden!"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "face, expression, look"
+        ],
+        "ger_list": [
+            "die Miene",
+            "Frau Miene sah ́s und freute sich.",
+            "Â Mit ernster Miene schaue ich nach hinten.",
+            "Worte wurden verstanden und Mienen blieben ernst."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to look at",
+            "to regard",
+            "to consider",
+            "to see"
+        ],
+        "ger_list": [
+            "ansehen",
+            "Hier könnt ihr euch ein pdf ansehen !",
+            "Das werde ich mir mal genauer ansehen .",
+            "Das wollen wir uns nun einmal genauer ansehen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to indicate, to call attention, to report (to the police)"
+        ],
+        "ger_list": [
+            "anzeigen",
+            "Kann dies aber auch gerne direkt anzeigen .",
+            "Was soll ich denn sonst machen außer das anzeigen ?",
+            "Sie lassen sich jedoch weder anzeigen noch öffnen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to choose"
+        ],
+        "ger_list": [
+            "auswählen",
+            "Man kann auswählen was man nicht benötigt.",
+            "Ich kann nur zwei rote oder zwei blaue auswählen .",
+            "Du musst sie einfach nur auswählen und knipsen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to fulfil, to carry out"
+        ],
+        "ger_list": [
+            "erfüllen",
+            "Und die einzige die sich nicht erfüllen ließ.",
+            "Alle unsere antiken Öfen erfüllen die 2.",
+            "Wo kann man die schon mal erfüllen ?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to enable, to make sth possible"
+        ],
+        "ger_list": [
+            "ermöglichen",
+            "Computer erleichtern oder gar erst wieder ermöglichen .",
+            "Vielmehr sollen sie unser aller Überleben ermöglichen !",
+            "Sie würden ein \"weiter so\" ermöglichen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to determine, to decide, to schedule, to settle"
+        ],
+        "ger_list": [
+            "festlegen",
+            "Wenn sie sich auf nichts festlegen wollen?",
+            "Ich konnte aber noch nichts eher festlegen .",
+            "So genau wollen wir uns hier auch nicht festlegen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to inform"
+        ],
+        "ger_list": [
+            "informieren",
+            "Über diese möchte ich heute ein wenig informieren .",
+            "Über diese sollte man sich ruhig einmal informieren .",
+            "Grund genug sich einmal ausführlich darüber zu informieren ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to achieve"
+        ],
+        "ger_list": [
+            "leisten",
+            "Wenn sie es sich denn leisten können.",
+            "Kann ich mir eigentlich gar nicht leisten und trotzdem!",
+            "Neu hätte ich sie mir nicht leisten können."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to improve"
+        ],
+        "ger_list": [
+            "verbessern",
+            "Aber wir sollten uns noch weiter verbessern können.",
+            "Wenn ich falsch liege lasse ich mich gerne verbessern .",
+            "Es gibt noch viel zu lernen und zu verbessern ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to avoid"
+        ],
+        "ger_list": [
+            "vermeiden",
+            "Ähnlichkeiten sind da fast nicht zu vermeiden .",
+            "Heute lässt sich das nicht mehr vermeiden .",
+            "Das läßt sich schlicht und einfach nicht vermeiden ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "amount (of money)"
+        ],
+        "ger_list": [
+            "der Betrag",
+            "Über diesen Betrag freuen wir uns sehr!",
+            "Demnächst könnte sich der Betrag sogar verdoppeln.",
+            "Der Betrag kann auch jährlich gezahlt werden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "financing"
+        ],
+        "ger_list": [
+            "die Finanzierung",
+            "Woher bekomme ich den die beste Finanzierung ?",
+            "Voraussetzung dafür ist eine nachhaltige und gerechte Finanzierung .",
+            "Probleme gibt es immer noch bei der Finanzierung ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "account"
+        ],
+        "ger_list": [
+            "das Konto",
+            "Über eine Überweisung auf unser Konto würden wir uns freuen.",
+            "Überweisungen können zugunsten jedes beliebigen Kontos veranlasst werden.",
+            "Es lässt sich aber auch ein anderes Konto wählen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "credit card"
+        ],
+        "ger_list": [
+            "die Kreditkarte",
+            "Die bekannten Kreditkarten werden ohne weiteres akzeptiert.",
+            "Geld abheben mit der Kreditkarte zahlt sich nicht wirklich aus.",
+            "Denn Kreditkarten breiten sich immer weiter aus."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "coin"
+        ],
+        "ger_list": [
+            "die Münze",
+            "Ähnlich verhält es sich mit römischen Münzen .",
+            "So habe ich ein paar Münzen bekommen.",
+            "Also ich habe auch einige von den Münzen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "payment"
+        ],
+        "ger_list": [
+            "die Zahlung",
+            "Das muss durch irgendwelche einmaligen Zahlungen erfolgt sein.",
+            "Bereits geleistete Zahlungen können jedoch nicht zurückerstattet werden.",
+            "Familien separat angeschrieben und zur Zahlung aufgefordert worden sind."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "deadline, period of time"
+        ],
+        "ger_list": [
+            "die Frist",
+            "Üblicherweise halte ich deswegen diese Fristen nicht ein.",
+            "Bisher konnte man innerhalb einer vorgegebenen Frist widersprechen.",
+            "Dies ist jedoch nur innerhalb einer gewissen Frist möglich."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "interest rate"
+        ],
+        "ger_list": [
+            "der Zins",
+            "Über gute Zinsen können wir dann gerne reden.",
+            "Übrigens sind auch hier die Zinsen äußerst moderat.",
+            "Trotzdem hat sie die Zinsen heute unverändert gelassen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "bill, calculation"
+        ],
+        "ger_list": [
+            "die Rechnung",
+            "Letztendlich muss immer wer die Rechnungen bezahlen.",
+            "Diese werden nicht auf der Rechnung ausgewiesen.",
+            "Was man aber meistens auf der Rechnung dann sieht."
+        ],
+        "hardness": 5
+    }
+]

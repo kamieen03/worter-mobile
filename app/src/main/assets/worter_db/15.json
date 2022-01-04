@@ -1,0 +1,1269 @@
+[
+    {
+        "poleng_list": [
+            "outside (of an object)",
+            "zewnątrz"
+        ],
+        "ger_list": [
+            "außen",
+            "Über außen kommt ja absolut gar nichts.",
+            "Öffentlichkeitsarbeit wirkt nach außen und nach innen.",
+            "Dies wollen wir nun auch gerne nach außen tragen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "everywhere",
+            "wszędzie"
+        ],
+        "ger_list": [
+            "überall",
+            "Das ist eine der wenigen die überall läuft.",
+            "Ich soll solidarisch zahlen aber bitte nicht überall .",
+            "Noch sind sie nicht überall – noch nicht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "over there, beyond",
+            "z tamtej strony, po tamtej stronie"
+        ],
+        "ger_list": [
+            "drüben",
+            "Mal sehen was die anderen berichten die grade drüben sind.",
+            "Für die da drüben ist hier drüben.",
+            "Für die da drüben ist hier drüben ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "next door",
+            "tuż obok"
+        ],
+        "ger_list": [
+            "nebenan",
+            "Glücklicherweise ist das aber direkt bei mir nebenan .",
+            "Oder zu der gegenüber und der nebenan .",
+            "Wir sind nicht abgehoben sondern direkt nebenan ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "indoors, inside",
+            "wewnątrz, w środku"
+        ],
+        "ger_list": [
+            "drinnen",
+            "AGB stehen aber noch komplett gleich drinnen oder?",
+            "War das nicht angenehm als wir noch drinnen rauchen durften?",
+            "Dekorationen für drinnen und draußen die gewiss nicht jeder hat."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "outdoors, outside",
+            "na dworze, na zewnątrz"
+        ],
+        "ger_list": [
+            "draußen",
+            "Aber heute sieht es draußen friedlich aus.",
+            "Jetzt wird es draußen ungemütlich und kälter.",
+            "Also schnell nach draußen gegangen und geguckt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "food",
+            "jedzenie"
+        ],
+        "ger_list": [
+            "das Essen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "hunger",
+            "głód"
+        ],
+        "ger_list": [
+            "der Hunger",
+            "Auch für den kleinen und großen Hunger war gesorgt.",
+            "Man hat wirklich keinen Hunger mehr und isst weniger.",
+            "Montags sei der Hunger immer besonders groß."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "pizza"
+        ],
+        "ger_list": [
+            "die Pizza",
+            "Die Pizza wird nicht geschnitten sondern \"gerissen\".",
+            "So schmeckt die Pizza gleich viel besser.",
+            "Doch auch die Pizza darf es mal sein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "soup",
+            "zupka"
+        ],
+        "ger_list": [
+            "die Suppe",
+            "Bislang kocht aber jeder seine eigene Suppe .",
+            "Und wie bekommt man diese Suppe dann wieder heraus?",
+            "So eine Suppe darf natürlich nicht zu dünn sein."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "fish",
+            "ryba"
+        ],
+        "ger_list": [
+            "der Fisch",
+            "Was ist grün und stinkt nach Fisch ?",
+            "Und wie sollen denn unsere Fische aussehen!",
+            "Nils hat wieder ausreichend Fisch für uns mit gefangen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "ice, ice cream"
+        ],
+        "ger_list": [
+            "das Eis",
+            "Überall ist Eis und es riecht furchtbar unangenehm.",
+            "Heute habe ich mir sogar ein Eis gekauft!",
+            "Wir haben uns gestern aufs Eis gewagt!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "tea",
+            "herbata"
+        ],
+        "ger_list": [
+            "der Tee",
+            "Beim Tee merke ich es immer ganz besonders.",
+            "Doch eines hat mich bewogen bei Tee zu bleiben?",
+            "Daher kann der Tee auch nicht günstig sein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "thirst",
+            "pragnienie"
+        ],
+        "ger_list": [
+            "der Durst",
+            "Dort angekommen stillen wir unseren Durst und wandern gemächlich zurück.",
+            "Wer oder was kann unseren Durst stillen?",
+            "Eis macht bekanntlich Durst und der kann auch gelöscht werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "coffee",
+            "kawa"
+        ],
+        "ger_list": [
+            "der Kaffee",
+            "Er wird pur oder mit Kaffee serviert.",
+            "Und wenn es nur auf einen Kaffee ist.",
+            "Nie wieder wollte ich einen anderen Kaffee trinken."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "beer"
+        ],
+        "ger_list": [
+            "das Bier",
+            "Überhaupt ist bei dem Bier von allem etwas wenig drin.",
+            "Ich fahre fast nichts und trinke auch kein Bier .",
+            "Das gilt nicht nur für das Bier ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wine",
+            "wino"
+        ],
+        "ger_list": [
+            "der Wein",
+            "Über 100 Weine gibt es hier zu verkosten.",
+            "Und wie viele von denen haben bemerkenswerte Weine hergestellt?",
+            "Die Weine sind meist frisch und jung zu trinken."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "fruit"
+        ],
+        "ger_list": [
+            "das Obst",
+            "Wie wird das frische Obst am besten verarbeitet?",
+            "Deswegen muss ich komplett auf Obst verzichten.",
+            "Dann können wir weiterhin von Äpfeln und Obst sprechen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "banana"
+        ],
+        "ger_list": [
+            "die Banane",
+            "Und was haben sie mit schwarzen Bananen zu tun?",
+            "Und kann man Äpfel mit Bananen vergleichen?",
+            "Äpfel oder Bananen sind gute Snacks für zwischendurch."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "juice",
+            "sok"
+        ],
+        "ger_list": [
+            "der Saft",
+            "Diese beiden hier stehen allerdings voll im Saft !",
+            "Was darf man von dem Saft wirklich erwarten?",
+            "Noch ist er frisch und noch voller Saft ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "apple juice"
+        ],
+        "ger_list": [
+            "der Apfelsaft",
+            "Den Apfelsaft schmeckt man aber überhaupt nicht.",
+            "Aus den Äpfeln soll später einmal Apfelsaft werden.",
+            "Gleich darauf konnten wir den frischen Apfelsaft kosten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "orange juice"
+        ],
+        "ger_list": [
+            "der Orangensaft",
+            "Es hat vermutlich nur der frische Orangensaft gefehlt.",
+            "Dann den Orangensaft langsam hinzufügen und dabei immer gut rühren.",
+            "Den Orangensaft hinzugeben und gut miteinander verrühren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "egg",
+            "jajko"
+        ],
+        "ger_list": [
+            "das Ei",
+            "Eins vor dem ei zwei hinter dem ei!",
+            "Eins vor dem ei zwei hinter dem ei !",
+            "So konnten viele Eier hergestellt und bemalt werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cheese",
+            "ser"
+        ],
+        "ger_list": [
+            "der Käse",
+            "Die Käse mussten deshalb klein und leicht zu transportieren sein.",
+            "Also scheint der Käse noch nicht gegessen zu sein.",
+            "Der Käse ist super lecker und nimmt täglich ab."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "meat",
+            "mięso"
+        ],
+        "ger_list": [
+            "das Fleisch",
+            "Übrigens ist es auch ohne Fleisch sehr lecker.",
+            "Mir zuliebe hatten sie auch kein Fleisch dabei.",
+            "Alle wurden ohne Fleisch satt und haben auch \"überlebt\"."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "vegetable",
+            "warzywo"
+        ],
+        "ger_list": [
+            "das Gemüse",
+            "Übrigens kann man das Gemüse roh und auch gekocht essen.",
+            "Als erstes habe ich das Gemüse gegrillt.",
+            "Für andere wächst hier mehr als nur Gemüse ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "potato",
+            "ziemniak"
+        ],
+        "ger_list": [
+            "die Kartoffel",
+            "Wo halten sich die Kartoffeln am besten?",
+            "Anfangs wird die Kartoffel noch ein bisschen mehr kosten.",
+            "Wir sammelten alle Kartoffeln ein und sortierten sie anschließend."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sugar",
+            "cukier"
+        ],
+        "ger_list": [
+            "der Zucker",
+            "Dan Zucker mit dem Öl gut verrühren.",
+            "Sie werden mit viel Zucker haltbar gemacht.",
+            "Aber da ist ja überall Zucker drin."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "strawberry",
+            "truskawka"
+        ],
+        "ger_list": [
+            "die Erdbeere",
+            "Mit Erdbeeren klingt aber schon besonders toll!",
+            "Uns gehen schön langsam die Erdbeeren aus.",
+            "Auf meine geliebten Erdbeeren muss ich leider verzichten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "salt",
+            "sól"
+        ],
+        "ger_list": [
+            "das Salz",
+            "Wie viele pro Salz muss ich denn dann da nehmen?",
+            "Sie werden entweder rein oder bereits mit Salz angeboten.",
+            "Und ohne Salz können wir nicht leben!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "noodles, pasta",
+            "makaron"
+        ],
+        "ger_list": [
+            "die Nudeln",
+            "Bei Nudeln kann man sich da sicherer sein.",
+            "Hähnchen wieder dazugeben und – gut mit Nudeln – servieren.",
+            "Die Nudeln sind genau richtig und schmecken super lecker!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "rice",
+            "ryż"
+        ],
+        "ger_list": [
+            "der Reis",
+            "Dies alles schön kochen mit Reis servieren.",
+            "Bevor man den Reis kocht wird er gewaschen.",
+            "Der weiße Reis lässt sich leicht verarbeiten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "oil",
+            "olej"
+        ],
+        "ger_list": [
+            "das Öl",
+            "So nimmt es das Öl noch besser auf.",
+            "Unabhängig zu sein von diesem teuren und schmutzigen Öl .",
+            "Ab sofort kannst bis zu zehn verschieden Öle herstellen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "oils"
+        ],
+        "ger_list": [
+            "die Öle",
+            "Ab sofort kannst bis zu zehn verschieden Öle herstellen.",
+            "Ich habe alle Öle mit 10 bewertet.",
+            "Nun interessiert es mich brennend selbst Öle herzustellen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "some fruit"
+        ],
+        "ger_list": [
+            "etwas Obst"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sweet",
+            "słodki"
+        ],
+        "ger_list": [
+            "süß",
+            "Aber er ist ja auch sehr süß .",
+            "Und süß sieht sie auch noch aus!",
+            "Schön cremig und fruchtig und nicht zu süß ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "fresh",
+            "świeży"
+        ],
+        "ger_list": [
+            "frisch",
+            "Öle fügt man am besten selbst frisch hinzu.",
+            "Daher ist es immer frisch und herrlich.",
+            "Schön wars und stellenweise aber auch ganz schön frisch ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "tasty, yummy",
+            "pyszny"
+        ],
+        "ger_list": [
+            "lecker",
+            "Es war wirklich sehr sehr lecker aber auch echt viel!",
+            "Sie machen wirklich satt und schmecken gesund und lecker .",
+            "Dabei duftet es aber auch immer sehr sehr lecker ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "good"
+        ],
+        "ger_list": [
+            "gut",
+            "Überall sehr gut einsetzbar und zu empfehlen.",
+            "Über letzteren haben wir auch gut zu sprechen.",
+            "Übrigens kann man hier auch gut shoppen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "orange"
+        ],
+        "ger_list": [
+            "die Orange",
+            "Man kann ihn aus Orangen gewinnen oder fertig verpackt kaufen.",
+            "Ist man bei Orange nun verrückt geworden?",
+            "Die Orange ist auch hier wieder zu spüren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "month",
+            "miesiąc"
+        ],
+        "ger_list": [
+            "der Monat",
+            "Über einen Monat um genau zu sein.",
+            "Änderungen müssen innerhalb von sechs Monaten umgesetzt werden.",
+            "Über Monate hinweg wurde sie sexuell missbraucht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "year",
+            "rok"
+        ],
+        "ger_list": [
+            "das Jahr",
+            "Über ein halbes Jahr war ich krank geschrieben.",
+            "Über die Jahre verteilt sieht das schon ganz anders aus.",
+            "Über die Jahre kommt da ganz schön was zusammen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "last",
+            "ostatni"
+        ],
+        "ger_list": [
+            "letzte",
+            "Das letzte wurde gar erst 1996 geschlossen!",
+            "Jedenfalls waren wir erstmal das letzte mal dort.",
+            "Das dürfte inzwischen auch der letzte mitbekommen haben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "calendar",
+            "kalendarz"
+        ],
+        "ger_list": [
+            "der Kalender",
+            "Leider kann man diesen Kalender nicht kaufen.",
+            "Denn wer ist denn für solch einen Kalender zuständig?",
+            "Vielleicht kann dieser Kalender ein wenig dabei helfen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "season",
+            "sezon"
+        ],
+        "ger_list": [
+            "die Saison",
+            "Man ist sich sicher eine erfolgreiche Saison zu spielen.",
+            "In der kommenden Saison wird die 1.",
+            "Die Saison ist leider noch nicht vorbei."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "January",
+            "styczeń"
+        ],
+        "ger_list": [
+            "der Januar",
+            "Über 2000 waren es allein im Januar .",
+            "Im Januar 2008 soll es soweit sein.",
+            "Überraschend war die Zusammenarbeit im Januar gekündigt worden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "February",
+            "luty"
+        ],
+        "ger_list": [
+            "der Februar",
+            "Im Februar hatte ich es schon angedeutet.",
+            "Aber im Februar werde ich es schaffen!",
+            "Seit Februar 2002 ist sie aktiv dabei."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "March",
+            "marzec"
+        ],
+        "ger_list": [
+            "der März",
+            "Ähnliches dürfte sich im März 2012 abgespielt haben.",
+            "Über einer der Überraschungen im März habe ich schon berichtet.",
+            "Vielleicht geht ja auch im März schon was?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "April"
+        ],
+        "ger_list": [
+            "der April",
+            "Wird aber wahrscheinlich nicht vor April sein!",
+            "Der April 2011 war deutlich zu warm.",
+            "Saison start soll für April geplant sein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "May"
+        ],
+        "ger_list": [
+            "der Mai",
+            "Ich selbst bin im Mai 50 geworden.",
+            "Anfang Mai haben sich die beiden getraut.",
+            "Er wurde im Mai 2008 offiziell eröffnet."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "June",
+            "czerwiec"
+        ],
+        "ger_list": [
+            "der Juni",
+            "Der Juni allerdings schloss bei den meisten enttäuschend.",
+            "Ich hoffe das wird bis zum Juni .",
+            "Auch wenn wir jetzt schon den Juni haben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "July",
+            "lipiec"
+        ],
+        "ger_list": [
+            "der Juli",
+            "Als hätte er nur auf Juli gewartet!",
+            "Die zweite wird am 31 Juli verlost.",
+            "Das wurde aber ab Juli 2006 geändert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "August"
+        ],
+        "ger_list": [
+            "der August",
+            "Aber im August wird bestimmt alles anders.",
+            "Im vergangenen August haben wir uns hier bereits vorgestellt .",
+            "Fernando wurde ungefähr im August 2009 geboren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "September"
+        ],
+        "ger_list": [
+            "der September",
+            "Ende September wird dann endlich alles gut.",
+            "Irgendwie mag ich den September besonders gerne.",
+            "So lang ist der September gar nicht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "October"
+        ],
+        "ger_list": [
+            "der Oktober",
+            "Eigentlich sollte er schon im Oktober 2009 stattfinden.",
+            "Dies wurde ja bereits im Oktober verkündet.",
+            "Ich hoffe auf den goldenen warmen Oktober ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "November",
+            "listopad"
+        ],
+        "ger_list": [
+            "der November",
+            "Übrigens soll dieser November überdurchschnittlich warm und feucht gewesen sein.",
+            "Das ist im kalten November besonders dringend für mich.",
+            "Er wurde im November 1964 fertig gestellt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "December"
+        ],
+        "ger_list": [
+            "der Dezember",
+            "Darüber war bereits im Dezember informiert worden.",
+            "Dort ist er bereits im Dezember 2006 erschienen.",
+            "Ganz besonders hat es mir der Dezember angetan."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "spring",
+            "wiosna"
+        ],
+        "ger_list": [
+            "der Frühling",
+            "Dies ist auf den warmen Frühling zurückzuführen.",
+            "Warum den Frühling nicht einmal anders begrüßen?",
+            "Worauf freut ihr euch am meisten im Frühling ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "summer",
+            "lato"
+        ],
+        "ger_list": [
+            "der Sommer",
+            "Über den Sommer war es kaum möglich.",
+            "Überhaupt kann ich mit dem Sommer nicht umgehen.",
+            "Über den Sommer 2012 ist ja schon viel geschrieben worden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "autumn",
+            "jesień"
+        ],
+        "ger_list": [
+            "der Herbst",
+            "Überall sieht man bereits was kommenden Herbst angesagt ist.",
+            "Österreich hat damit bereits letzten Herbst begonnen.",
+            "Ich hoffe ja auf einen goldenen Herbst ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "Winter",
+            "zima"
+        ],
+        "ger_list": [
+            "der Winter",
+            "Übrigens ist er nicht nur für den Winter geeignet.",
+            "Über Winter habe ich dann alles zerlegt und überholt.",
+            "Überraschung als sie mitten in diesem Winter anfing zu blühen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "birthday"
+        ],
+        "ger_list": [
+            "der Geburtstag",
+            "Wir hatten gestern einen Geburtstag zu feiern.",
+            "Ein bisschen wie den eigenen Geburtstag vergessen.",
+            "Ist es ein runder Geburtstag oder ein ganz normaler?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "phase",
+            "faza, okres"
+        ],
+        "ger_list": [
+            "die Phase",
+            "Über diese Phase redet er allerdings nicht gern.",
+            "Insgesamt sind vier Phasen für 2009 vorgesehen.",
+            "Mit einer flotten Phase konnte dies zwar ausgeglichen werden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "age",
+            "wiek, ile ktoś ma lat"
+        ],
+        "ger_list": [
+            "das Alter",
+            "Übergewicht mit zunehmendem Alter ist noch nicht weitgehend erforscht.",
+            "Über das Alter denke ich gar nicht nach.",
+            "Über ihr Alter schweigt sie sich aus."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "date",
+            "data"
+        ],
+        "ger_list": [
+            "das Datum",
+            "Über das neue Datum wird derzeit aber viel spekuliert.",
+            "Das Datum darf natürlich auch nicht fehlen!",
+            "Mit 1 und 3 wird das heutige Datum zusammengestellt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "ending, conclusion",
+            "wniosek, konkluzja, koniec"
+        ],
+        "ger_list": [
+            "der Schluss",
+            "Überraschend und gut war allerdings der Schluss .",
+            "Leider wurde er zum Schluss sehr krank.",
+            "Aber zum Schluss hin ging es dann wieder."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "the season (of the year)",
+            "pora roku"
+        ],
+        "ger_list": [
+            "die Jahreszeit",
+            "Über die kalte Jahreszeit war er bei uns gut untergebracht.",
+            "Dafür ist die kalte Jahreszeit wie geschaffen.",
+            "Die kalte Jahreszeit hat nun endgültig ausgespielt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "century",
+            "stulecie, wiek"
+        ],
+        "ger_list": [
+            "das Jahrhundert",
+            "Über die späteren Jahrhunderte ist nicht sehr viel bekannt.",
+            "Es gibt sie weiterhin wie seit Jahrhunderten .",
+            "Auch ein halbes Jahrhundert später hat er damit recht behalten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "quarter year",
+            "kwartał"
+        ],
+        "ger_list": [
+            "das Quartal",
+            "Ähnlich dürfte es auch im dritten Quartal aussehen.",
+            "Eingetragen ist dieses zwischen dem ersten und zweiten Quartal .",
+            "Es wird ebenfalls noch im zweiten Quartal erhältlich sein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "monthly",
+            "miesięczny"
+        ],
+        "ger_list": [
+            "monatlich",
+            "Diese kann sowohl monatlich als auch jährlich erfolgen.",
+            "Über meinen monatlichen Verdienst möchte ich nicht öffentlich reden.",
+            "Damit hätte man monatlich weniger zu bezahlen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "asparagus",
+            "szparag"
+        ],
+        "ger_list": [
+            "der Spargel",
+            "Hunger haben wir aber trotzdem noch und kochen Spargel .",
+            "Ansonsten Spargel satt bis nichts mehr rein geht!",
+            "Übrigens gibt es bereits den ersten Spargel aus Niedersachsen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "hot"
+        ],
+        "ger_list": [
+            "heiß",
+            "Äußerst gewöhnungsbedürftig – dafür aber ohne heißen Hund.",
+            "Aber vielleicht war es auch einfach nicht heiß genug.",
+            "Es war bedeckt und daher nicht zu heiß ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "yearly",
+            "roczny, coroczny, doroczny"
+        ],
+        "ger_list": [
+            "jährlich",
+            "Diese kann sowohl monatlich als auch jährlich erfolgen.",
+            "Von 2003 bis 2008 fand er noch jährlich statt.",
+            "Über diese jährlich wiederkehrenden Aktionen wird informiert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cool, chilly"
+        ],
+        "ger_list": [
+            "kühl",
+            "Übrigens sollten diese nicht allzu kühl genossen werden.",
+            "So kann man sie schnell erwärmen oder schön kühl machen.",
+            "Endlich ist es wieder etwas kühler geworden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to end",
+            "kończyć się"
+        ],
+        "ger_list": [
+            "enden",
+            "Damit enden die Ähnlichkeiten allerdings auch schon.",
+            "Um ja nicht alt und arm zu enden .",
+            "Mit ihr wird wohl auch alles enden ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "over (finished), past",
+            "przeszły, minięty"
+        ],
+        "ger_list": [
+            "vorbei",
+            "Einfach vorbei schauen und sich selbst überzeugen.",
+            "Und vorbei ist alles noch lange nicht.",
+            "Und darum ist das seit heute vorbei !"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "communication"
+        ],
+        "ger_list": [
+            "die Kommunikation",
+            "Öffentlichkeitsarbeit ist systematische Kommunikation nach innen und außen.",
+            "Über Kommunikation kann ja vieles verdrängt werden.",
+            "Schnelle und effektive Kommunikation ist heute mehr gefragt denn je."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "phone",
+            "telefon"
+        ],
+        "ger_list": [
+            "das Telefon",
+            "Also zurück zu meinem neuen schicken Telefon .",
+            "Es fungiert längst nicht mehr nur als Telefon .",
+            "Zumindest am Telefon waren die total nett."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cell phone"
+        ],
+        "ger_list": [
+            "das Handy",
+            "Über Handy war sie nicht zu erreichen.",
+            "Ähnlich verhält es sich mit dem Handy .",
+            "Über dieses Handy wird man dann benachrichtigt wenn etwas passiert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "area code",
+            "numer kierunkowy"
+        ],
+        "ger_list": [
+            "die Vorwahl",
+            "Über die genannte Vorwahl kann ab sofort telefoniert werden.",
+            "Was verstehst du denn unter einen besonderen Vorwahl ?",
+            "Die gute alte Vorwahl liegt da schon viel näher."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "conversation, talk",
+            "rozmowa"
+        ],
+        "ger_list": [
+            "das Gespräch",
+            "Über ein persönliches Gespräch würden wir uns sehr freuen.",
+            "Öffentliche Gespräche gab es dazu bis heute nicht.",
+            "Über ein Gespräch freuen wir uns sehr."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "information"
+        ],
+        "ger_list": [
+            "die Information",
+            "Über Informationen würden wir uns sehr freuen.",
+            "Über die Information würde ich mich freuen!",
+            "Über weitere Informationen würde ich mich natürlich freuen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "monitor"
+        ],
+        "ger_list": [
+            "der Monitor",
+            "Musste mal schauen was der Monitor sagt oder ausprobieren.",
+            "Sollte nur mal wieder meinen Monitor putzen!",
+            "Alternativ kann man natürlich auch einen externen Monitor anschließen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "hard drive",
+            "dysk twardy"
+        ],
+        "ger_list": [
+            "die Festplatte",
+            "Ähnliches habe ich auch über externe Festplatten gelesen.",
+            "Parallel hierzu hÃ¶re ich aber auch die Festplatte laufen.",
+            "Wie schnell ist die Festplatte eigentlich vergleichsweise?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "keyboard",
+            "klawiatura"
+        ],
+        "ger_list": [
+            "die Tastatur",
+            "Ohne Tastatur würde es wahrscheinlich noch schlechter aussehen.",
+            "Optisch sind alle Tastaturen einwandfrei und sehr gepflegt.",
+            "Word ist dank fehlender Tastatur für mich eher weniger interessant."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cable",
+            "kabel"
+        ],
+        "ger_list": [
+            "das Kabel",
+            "Das mit dem Kabel wird wohl nix werden.",
+            "Dies funktioniert allerdings mit dem Kabel nicht.",
+            "Da kommt ein langer Kabel gerade richtig."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to start",
+            "startować"
+        ],
+        "ger_list": [
+            "starten",
+            "Also sollte man nicht mehr abwarten sondern gleich starten !",
+            "Dort brauche ich wohl nicht noch einmal zu starten .",
+            "Es kann früher oder auch später starten ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "press",
+            "prasa"
+        ],
+        "ger_list": [
+            "die Presse",
+            "Über die Presse musste man das erfahren.",
+            "In der internationalen Presse findet man nichts darüber.",
+            "Erst über die Presse erfuhr die Öffentlichkeit davon."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "news",
+            "wiadomość"
+        ],
+        "ger_list": [
+            "die Nachricht",
+            "Über neue private Nachrichten wird live benachrichtigt.",
+            "Über eine positive Nachricht würde ich mich sehr freuen.",
+            "Über eine Nachricht würde ich mich sehr freuen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "article",
+            "artykuł"
+        ],
+        "ger_list": [
+            "der Artikel",
+            "Über den heutigen Artikel freue ich mich besonders.",
+            "Über 1000 Artikel soll man hier vorrätig haben.",
+            "Über sie wird hier demnächst ein längerer Artikel erscheinen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "interview",
+            "wywiad"
+        ],
+        "ger_list": [
+            "das Interview",
+            "In einem Interview hat er es auch bestätigt.",
+            "So etwas kann man schriftlich oder mit Interviews machen.",
+            "Daher dürfen auch ein paar Interviews natürlich nicht fehlen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "magazine",
+            "czasopismo"
+        ],
+        "ger_list": [
+            "die Zeitschrift",
+            "Ab und zu habe ich auch mal eine Zeitschrift mit.",
+            "Jeder kann sich dann die Zeitschrift selbst downloaden.",
+            "Wir sind gespannt wie sich diese Zeitschrift entwickeln wird."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "television set",
+            "telewizor"
+        ],
+        "ger_list": [
+            "der Fernseher",
+            "Ähnlich sieht es bei den Fernsehern aus.",
+            "Kinder sitzen offenbar immer länger vor dem Fernseher .",
+            "Was auch beinhaltet das sein Fernseher daran glauben muss."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "the media (plural only)",
+            "media"
+        ],
+        "ger_list": [
+            "die Medien",
+            "Leider wird das von den Medien immer falsch dargestellt.",
+            "Mit den Medien möchten sie aber nicht mehr reden.",
+            "Dort soll ich die Medien selber suchen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "medium (an agency or means of doing something)"
+        ],
+        "ger_list": [
+            "das Medium",
+            "Der kommt doch aus einem alten Medium .",
+            "Dazu ist das Medium einfach noch zu jung.",
+            "Wir sollten alle ein wenig sorgfältiger mit dem Medium umgehen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "television (as a phenomenon)",
+            "telewizja (ogółem)"
+        ],
+        "ger_list": [
+            "das Fernsehen",
+            "Überall ist er im Fernsehen zu sehen.",
+            "Ebenso viele sagen dies auch hinsichtlich des Fernsehens .",
+            "Das ist doch viel besser als immer nur Fernsehen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to watch television"
+        ],
+        "ger_list": [
+            "fernsehen",
+            "Abends dürfen beide noch ein bisschen fernsehen .",
+            "Einschalten und fernsehen – das war einmal.",
+            "Des weiteren können sie auch einfach weiter fernsehen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "TV program, transmission, broadcast, consignment",
+            "program telewizyjny, radiowy czy coś"
+        ],
+        "ger_list": [
+            "die Sendung",
+            "Übrigens ist das heute unsere letzte Sendung .",
+            "Es sind teilweise wirklich interessante Sendungen dabei.",
+            "Die heutige Sendung hat mich sehr berührt!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "speech, talk",
+            "mowa, przemówienie"
+        ],
+        "ger_list": [
+            "die Rede",
+            "Überall ist derzeit die Rede von \"Ökostrom\".",
+            "Über wen gibt es hier die Rede ?",
+            "Denn wir haben ihn als erste zum Reden gebracht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "discussion"
+        ],
+        "ger_list": [
+            "die Diskussion",
+            "Über intensivere Diskussionen würde ich mich freuen.",
+            "Über letzteres haben wir eine sehr lange Diskussion geführt.",
+            "Die Diskussion finde er \"äußerst fragwürdig\"."
+        ],
+        "hardness": 1
+    }
+]

@@ -1,0 +1,1245 @@
+[
+    {
+        "poleng_list": [
+            "but",
+            "ale"
+        ],
+        "ger_list": [
+            "aber",
+            "Üben allein reicht aber bei weitem nicht aus.",
+            "Über genaueres können wir uns aber noch unterhalten.",
+            "Ändern würde dies vermutlich aber wohl eh nicht viel."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "yet, however, after all",
+            "doch"
+        ],
+        "ger_list": [
+            "doch",
+            "Über den weiß man doch eh schon alles!",
+            "Über so etwas redet man doch nicht!",
+            "So sollte das doch rein technisch eigentlich klappen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "when, if",
+            "jeśli, gdy"
+        ],
+        "ger_list": [
+            "wenn",
+            "Übrigens sie fliegen relativ schnell wenn sie jagen.",
+            "Überstunden muss ich machen wenn sie verlangt werden.",
+            "Auch wenn es für uns nicht gerade positiv ausgefallen ist."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "although",
+            "chociaż"
+        ],
+        "ger_list": [
+            "obwohl",
+            "Und das obwohl sie diesen jahrelang intensiv bekämpft haben.",
+            "Ich kann mich nicht einloggen obwohl alles richtig eingegeben wurde?",
+            "Und das obwohl ich noch nicht mal fertig gelesen habe."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "as long as",
+            "tak długo jak"
+        ],
+        "ger_list": [
+            "solange",
+            "Also geniessen wir es solange wir noch können.",
+            "Aber solange er mich nicht verletzt bin ich zufrieden.",
+            "Warum es solange gedauert hat weiß aber auch keiner."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "as soon as",
+            "jak tylko"
+        ],
+        "ger_list": [
+            "sobald",
+            "Da findet sich auch nichts passendes sobald man einen sucht.",
+            "Wir melden uns wieder sobald das erfolgreich war.",
+            "Wir melden uns wieder sobald es geht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "that (as a subordinating conjunction, which sends the conjugated verb to the end of the clause)"
+        ],
+        "ger_list": [
+            "dass",
+            "Ich hoffe zumindest dass sie erholsam werden!",
+            "Oder dass es überhaupt mal wieder wärmer wird?",
+            "Aber das dass was anderes ist wußte ich."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "because, then, for",
+            "bo, więc",
+            "właściwie"
+        ],
+        "ger_list": [
+            "denn",
+            "Über was soll ich denn heute bloggen?",
+            "Wenn sie es sich denn leisten können.",
+            "Wer sperrt sich denn schon gerne selber ein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "because",
+            "ponieważ"
+        ],
+        "ger_list": [
+            "weil",
+            "Und weil ich nicht akzeptieren und annehmen kann.",
+            "Nur weil man studiert hat muss man nicht kritisch sein.",
+            "Oder weil sie ganz offen bedroht wurden?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "but rather",
+            "a raczej, tylko, lecz"
+        ],
+        "ger_list": [
+            "sondern",
+            "Das ist nicht falsch sondern nur unvollständig.",
+            "Also sollte man nicht mehr abwarten sondern gleich starten!",
+            "Sie spielten nicht nur unfair sondern auch gefährlich!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "there, then",
+            "tam, tutaj"
+        ],
+        "ger_list": [
+            "da",
+            "Übrigens – \" da nicht für\"!",
+            "Überraschend für mich es waren alle da .",
+            "Über \"die da oben\" macht es sich einfacher lustig."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "money",
+            "pieniądze"
+        ],
+        "ger_list": [
+            "das Geld",
+            "Über Geld spricht man ja eigentlich nicht.",
+            "Über das Geld kann aber schon sofort verfügt werden!",
+            "Ähnlich verhält es sich mit dem Geld ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to cost, to taste, to sample",
+            "kosztować (cena)",
+            "kosztować (jedzenie), próbować"
+        ],
+        "ger_list": [
+            "kosten",
+            "Appartements kosten etwa 350 bis 400 €.",
+            "Leider des Öfteren auch mit kosten verbunden.",
+            "Diese sollte man sich ruhig etwas kosten lassen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "cent"
+        ],
+        "ger_list": [
+            "der Cent",
+            "Mittlerweile ist er allerdings wieder auf rund 18 Cent gefallen.",
+            "Einfach zusehen und zuhören und keinen Cent dafür bezahlen!",
+            "SMS werden ebenfalls mit nur 9 Cent abgerechnet."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to buy",
+            "kupować"
+        ],
+        "ger_list": [
+            "kaufen",
+            "Ökostrom zu kaufen lohnt sich jetzt besonders.",
+            "Dann würde ich mir die wohl irgendwann kaufen .",
+            "Da bin ich wiederum gezwungen dort etwas zu kaufen ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "price, prize",
+            "cena, nagroda"
+        ],
+        "ger_list": [
+            "der Preis",
+            "Über den Preis kann man sich streiten.",
+            "Über den Preis weiß man nichts genaues.",
+            "Übernachtungsmöglichkeiten wird es zu vernünftigen Preisen auch geben!"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "euro"
+        ],
+        "ger_list": [
+            "der Euro",
+            "Über 600 Euro wurden mittlerweile schon geboten.",
+            "Übrigens habe ich alles mit Euro bezahlt.",
+            "Über 60 Euro kann es nie werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to win",
+            "wygrać"
+        ],
+        "ger_list": [
+            "gewinnen",
+            "Zusätzlich gibt es 5000$ und 2000$ zu gewinnen .",
+            "Und auch dieses mal gibt es etwas zu gewinnen .",
+            "Sie können natürlich auch noch ein bisschen mehr gewinnen ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "dollar"
+        ],
+        "ger_list": [
+            "der Dollar",
+            "Dies ist jedoch nicht gratis sondern kostet 18 Dollar .",
+            "Auch dort ist der Dollar herzlich willkommen.",
+            "Damals aber kostete es schlappe 4000 Dollar ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to own",
+            "posiadać, mieć"
+        ],
+        "ger_list": [
+            "besitzen",
+            "Sie zeigen auch sehr gerne was sie besitzen .",
+            "Deshalb bin ich umso glücklicher ihn nun zu besitzen .",
+            "Und die man leider noch nicht selbst besitzen konnte."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cash machine",
+            "bankomat"
+        ],
+        "ger_list": [
+            "der Geldautomat",
+            "Vermutlich gehen jetzt auch die Geldautomaten wieder.",
+            "Wie mich das für meinen Geldautomaten freut!",
+            "Diese lässt sich dann aber ausschließlich am Geldautomaten nutzen."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "rich",
+            "bogaty"
+        ],
+        "ger_list": [
+            "reich",
+            "Was heisst reich sein oder arm sein?",
+            "Jetzt ist sie jedoch alles andere als reich .",
+            "Oftmals wissen wir unseren reichen Überfluss nicht zu schätzen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to transfer (money), to refer (patient)",
+            "przelewać (pieniądze)"
+        ],
+        "ger_list": [
+            "überweisen",
+            "Ob sie mir die wohl zurück überweisen ?",
+            "Und wie soll ich das online überweisen ?",
+            "Sie müssen nicht mehr daran denken, pünktlich zu überweisen ."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "franc",
+            "frank szwajcarski"
+        ],
+        "ger_list": [
+            "der Franken",
+            "Heute koste es weniger als 5000 Franken .",
+            "Es gibt sie schon unter hundert Franken .",
+            "Parkplätze können für 220 Franken gemietet werden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "at"
+        ],
+        "ger_list": [
+            "an",
+            "Ist das eigentlich am einfachsten zu beantworten.",
+            "Der is nur am dran am tun.",
+            "Und wie setzt man sie am effektivsten ein?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "an+dem contraction"
+        ],
+        "ger_list": [
+            "am",
+            "Überzeugung verkauft schließlich immer noch am besten.",
+            "Öle fügt man am besten selbst frisch hinzu.",
+            "Oder wie mach ich das am besten?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "on",
+            "na"
+        ],
+        "ger_list": [
+            "auf",
+            "Übrigens fällt mir da gerade was auf .",
+            "Österreich befindet sich derzeit auf dem 19.",
+            "Daher muss hier auf einiges geachtet werden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "by, at, with"
+        ],
+        "ger_list": [
+            "bei",
+            "Üben allein reicht aber bei weitem nicht aus.",
+            "Übrigens leben bei uns alle friedlich zusammen.",
+            "Über das spielen kann man bei ihm sehr viel erreichen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "bei+dem contraction"
+        ],
+        "ger_list": [
+            "beim",
+            "Wir frohen uns sie kennen zu lernen beim mail.",
+            "Damit ich beim shoppen wirklich vergleichen kann.",
+            "Einige klappen beim wieder auftauchen etwas zusammen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "with",
+            "z"
+        ],
+        "ger_list": [
+            "mit",
+            "Ähnlich steht es mit \"sein\" und \"nein\".",
+            "Über was sollen wir mit ihm sprechen?",
+            "Es ist aber auch mit ca 12 € recht teuer."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "after, to"
+        ],
+        "ger_list": [
+            "nach",
+            "Öffentlichkeitsarbeit wirkt nach außen und nach innen.",
+            "Überhaupt macht sie *alles* nach ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to, too, closed"
+        ],
+        "ger_list": [
+            "zu",
+            "Völlig verärgert dachte ich nach was zu tun ist.",
+            "Teilweise wurde zu wenig nach hinten gearbeitet."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "zu+dem contraction"
+        ],
+        "ger_list": [
+            "zum"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "zu+der contraction"
+        ],
+        "ger_list": [
+            "zur",
+            "Überall geht ́s luftig zur Sache.",
+            "Allerdings sind sie ja zur zeit noch recht kurz.",
+            "Marburg bedankte sich umgehend und konnte bis zur 5."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "in+das contraction"
+        ],
+        "ger_list": [
+            "ins",
+            "Ich habe gestern nochmal ins em geschaut.",
+            "Alles ins insgesamt recht einfach und unkompliziert.",
+            "Über manche Erkenntnisse bin ich ins staunen geraten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "in+dem contraction"
+        ],
+        "ger_list": [
+            "im",
+            "Ähnlich ereignete sich das dann auch im 6.",
+            "Über das besondere bin ich mir hingegen im klaren.",
+            "Ärger scheinen sie aber im Überfluss zu haben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "behind, beyond, after, beneath",
+            "za"
+        ],
+        "ger_list": [
+            "hinter",
+            "Sie müssen alles hinter sich lassen und versuchen neu anzufangen.",
+            "Ich hoffe sie hatte es schnell hinter sich.",
+            "Sie stehen immer hinter uns und haben das einfach verdient!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "hinter + das contraction"
+        ],
+        "ger_list": [
+            "hinters",
+            "Aber die haben uns ja schon öfter hinters Licht geführt.",
+            "Sie gelten als dumm und leicht hinters Licht zu führen.",
+            "Fühlen sie sich möglicherweise \" hinters Licht\" geführt?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "since (time)"
+        ],
+        "ger_list": [
+            "seit",
+            "Übrigens finde ich die seite voll cool!",
+            "Schließlich ist sie seit langem ehrenamtlich engagiert.",
+            "Ich habe seit 1994 damit zu tun."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "above, over, about"
+        ],
+        "ger_list": [
+            "über"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "über + das contraction"
+        ],
+        "ger_list": [
+            "übers",
+            "Doch trotzdem sollte man nichts übers Knie brechen.",
+            "Sie kann auch übers Jahr verteilt abgerufen werden.",
+            "Angriffe waren dabei nur übers Netzwerk erlaubt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "under",
+            "pod"
+        ],
+        "ger_list": [
+            "unter",
+            "Später haben wir alles unter allen aufgeteilt.",
+            "Wir möchten unter anderem etwas dagegen tun.",
+            "Was verstehe ich unter \"vertrauensvoll\"?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "unter + das contraction"
+        ],
+        "ger_list": [
+            "unters",
+            "Die mussten natürlich auch noch unters Volk.",
+            "Jetzt lässt sich 50 doch tatsächlich unters Laser legen.",
+            "Bereits 2002 musste er sich deshalb unters Messer legen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "of, from"
+        ],
+        "ger_list": [
+            "von"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "von+dem contraction"
+        ],
+        "ger_list": [
+            "vom",
+            "Sie stehen wie auch früher schon vom 01.",
+            "Doch wie erfährt der eine vom anderen?",
+            "Ansonsten unterscheidet es sich technisch nicht vom bereits bekannten 2er."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "in front of"
+        ],
+        "ger_list": [
+            "vor",
+            "Über 50% liegen aber noch vor uns!",
+            "Mir käme das bei weitem sinnvoller vor !",
+            "Wer packt was und vor allem wann?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "vor + das contraction"
+        ],
+        "ger_list": [
+            "vors",
+            "Dann stell doch zwei davon vors Haus!",
+            "Nur zweimal kamen wir gefährlich vors Tor.",
+            "Er will nicht zahlen – und bis vors Bundesverfassungsgericht ziehen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to give",
+            "dać"
+        ],
+        "ger_list": [
+            "geben",
+            "Änderungen werden hier eingefügt und bekannt gegeben !",
+            "Aber das werden wir noch bekannt geben .",
+            "Natürlich habe ich ihm trotzdem welches gegeben ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to show",
+            "pokazywać"
+        ],
+        "ger_list": [
+            "zeigen",
+            "Wir zeigen dir wie es ganz einfach und unkompliziert geht.",
+            "Meist geht es darum zeigen und gesehen zu werden.",
+            "Nun möchte ich sie euch natürlich zeigen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to say",
+            "powiedzieć"
+        ],
+        "ger_list": [
+            "sagen",
+            "Über mich gibt es nicht viel zu sagen .",
+            "Über mich gibt es soviel nicht zu sagen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "me (dative)"
+        ],
+        "ger_list": [
+            "mir",
+            "Über kurz oder lang passiert mir das regelmässig.",
+            "Über ein \"gefällt mir \" freuen wir uns immer sehr!",
+            "Über das besondere bin ich mir hingegen im klaren."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "you (dative, singular, informal)"
+        ],
+        "ger_list": [
+            "dir",
+            "Überall wird dir was erzählt und jeder erzählt was anderes.",
+            "Ich hoffe konnte dir die frage beantworten.",
+            "Wir zeigen dir wie es ganz einfach und unkompliziert geht."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "him, it (dative)"
+        ],
+        "ger_list": [
+            "ihm",
+            "Über das spielen kann man bei ihm sehr viel erreichen.",
+            "Ärzte sollen ihm helfen wieder gesund zu werden.",
+            "Über was sollen wir mit ihm sprechen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "her (dative)"
+        ],
+        "ger_list": [
+            "ihr",
+            "Überreste von ihr werden jedoch nicht gefunden.",
+            "Über die könnt ihr auch woanders genug lesen.",
+            "Überall anders bezahlt ihr mindestens 50€ mehr."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "us (dative)"
+        ],
+        "ger_list": [
+            "uns",
+            "Über genaueres können wir uns aber noch unterhalten.",
+            "Übrigens leben bei uns alle friedlich zusammen.",
+            "Überhaupt waren sie uns gegenüber ausgesprochen herzlich und zuvorkommend."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "you (dative, plural, informal)"
+        ],
+        "ger_list": [
+            "euch",
+            "Über den wir euch unbedingt berichten wollten.",
+            "Über diese Änderung informiere ich euch natürlich rechtzeitig!",
+            "Über sie werde ich euch demnächst berichten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "them (dative)"
+        ],
+        "ger_list": [
+            "ihnen",
+            "Übel würde ich es ihnen nicht nehmen.",
+            "Über 300m hoch sind alleine rund 20 von ihnen .",
+            "Und was habe ich ihnen dafür geboten?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "you (dative, formal)"
+        ],
+        "ger_list": [
+            "Ihnen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "tip, gratuity",
+            "napiwek"
+        ],
+        "ger_list": [
+            "das Trinkgeld",
+            "Hätte ich ihm dafür ein Trinkgeld geben sollen?",
+            "Das Trinkgeld wird übrigens immer auf alle gleich aufgeteilt.",
+            "Über das Trinkgeld wird nicht mit der Bedienung gesprochen."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "to help",
+            "pomagać"
+        ],
+        "ger_list": [
+            "helfen",
+            "Ärzte sollen ihm helfen wieder gesund zu werden.",
+            "Beide sind sehr empfehlenswert und helfen wirklich klasse.",
+            "Ich weiß mir nun nicht mehr zu helfen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to thank",
+            "dziękować"
+        ],
+        "ger_list": [
+            "danken",
+            "Dies ist vorbildlich und wir danken sehr dafür!",
+            "Da kann ich immer nur staunen und danken .",
+            "Beiden möchte ich hier noch einmal danken ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to follow"
+        ],
+        "ger_list": [
+            "folgen",
+            "Ich freu mich schon tierisch auf die neuen folgen .",
+            "Woran erkennen wir ihn und wie folgen wir ihm nach?",
+            "Aber ob er bis hier folgen kann?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to belong (to)",
+            "należeć do"
+        ],
+        "ger_list": [
+            "gehören",
+            "Zu diesen Älteren gehören wir übrigens auch.",
+            "Obwohl wir ja doch trotzdem alle zusammen gehören .",
+            "Dazu gehören wir nicht und deshalb bleiben wir passiv."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "foot",
+            "stopa"
+        ],
+        "ger_list": [
+            "der Fuß",
+            "Diese können gut zu Fuß erreicht werden.",
+            "Diese lassen sich aber ebenfalls am besten zu Fuß erkunden.",
+            "Ein wenig herumlaufen zu Fuß ist auch notwendig."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "hand",
+            "ręka, dłoń"
+        ],
+        "ger_list": [
+            "die Hand",
+            "Völlig von der Hand zu weisen sind sie jedoch nicht.",
+            "Ich habe mich für nicht mal eine Hand voll entschieden.",
+            "Hier gibt es alles aus einer Hand ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "body",
+            "cialo"
+        ],
+        "ger_list": [
+            "der Körper",
+            "Ähnlich verhält es sich auch mit dem menschlichen Körper .",
+            "Cholesterin wird einerseits vom Körper selbst hergestellt.",
+            "Und dann ist davon der gesamte Körper betroffen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "leg"
+        ],
+        "ger_list": [
+            "das Bein",
+            "Außerdem trat er ihn gegen das Bein .",
+            "Er wird uns wieder auf die Beine helfen.",
+            "Zusammen haben wir einiges auf die Beine gestellt."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "heart",
+            "serce"
+        ],
+        "ger_list": [
+            "das Herz",
+            "Woran hängen wir \"von ganzem Herzen ?",
+            "Dort findet man alles was das Herz begehrt.",
+            "Sie haben uns zu 100 % aus dem Herzen gesprochen."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "eye",
+            "oko"
+        ],
+        "ger_list": [
+            "das Auge",
+            "Überhaupt wirken seine Augen nervös und müde.",
+            "Und das sogar vor den Augen einer breiten Öffentlichkeit.",
+            "Ich werde den mal im Auge behalten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "ear",
+            "ucho"
+        ],
+        "ger_list": [
+            "das Ohr",
+            "Die Ohren klingen mir heute noch nach!",
+            "Hier gibt es mächtig etwas auf die Ohren .",
+            "Ich habe es mit meinen eigenen Ohren gehört."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "nose"
+        ],
+        "ger_list": [
+            "die Nase",
+            "In der Nase erstaunlich auffällig und vielversprechend.",
+            "Sie hat sich ihre Nase operieren lassen.",
+            "Manche halten sich dabei die Nase zu."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "mouth"
+        ],
+        "ger_list": [
+            "der Mund",
+            "Ihn faszinierte vor allem ihr roter Mund .",
+            "Ich bekomme den Mund nicht mehr zu.",
+            "Zu schnell ist der eigene Mund verbrannt."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "blood"
+        ],
+        "ger_list": [
+            "das Blut",
+            "So werden sie ins Blut aufgenommen und verwertet.",
+            "Weil da ja das meiste Blut drin ist?",
+            "Auch das Blut ist eher zu erahnen als zu sehen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "tooth"
+        ],
+        "ger_list": [
+            "der Zahn",
+            "Es könnte ja ein Zahn daran hängen.",
+            "Kann ich den Zahn auf kurz oder lang sogar verlieren?",
+            "Jetzt werden wir noch eine Zahn zulegen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "hair",
+            "włos"
+        ],
+        "ger_list": [
+            "das Haar",
+            "Seine dunklen Haare trug er kurz geschnitten.",
+            "Mir werden bei sowas regelmäßig die noch verbliebenen Haare grau!",
+            "Kaum jemand ist zufrieden mit seinen Haaren ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "arm",
+            "ramie"
+        ],
+        "ger_list": [
+            "der Arm",
+            "Arme werden immer ärmer und reiche immer reicher."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "shoulder",
+            "bark, ramie"
+        ],
+        "ger_list": [
+            "die Schulter",
+            "Schließlich sollte man auch mal seine hübsche Schulter zeigen dürfen!",
+            "Weil sie sich nicht über die Schulter blicken lassen.",
+            "Starke Schultern müssen mehr als schwache tragen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "neck",
+            "szyja, gardło"
+        ],
+        "ger_list": [
+            "der Hals",
+            "Sie hängt mir noch nicht zum Hals raus.",
+            "Deswegen bleibt bei uns kein Hals trocken.",
+            "Sonst hätte er jetzt noch mehr Ärger am Hals ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "back (body part)",
+            "plecy"
+        ],
+        "ger_list": [
+            "der Rücken",
+            "Das tut dem Rücken gut und entlastet.",
+            "Das lässt es einem kalt den Rücken runter laufen.",
+            "Außer meinem Rücken tut mir aber nicht weiter weh."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "chest, breast",
+            "pierś, klatka piersiowa"
+        ],
+        "ger_list": [
+            "die Brust",
+            "Dann ging es mit 200m Brust auch schon los.",
+            "Alternativ kann er auch über die Brust platziert werden.",
+            "Aber die Brust musste trotzdem entfernt werden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "stomach",
+            "żołądek"
+        ],
+        "ger_list": [
+            "der Magen",
+            "Und die können dem Magen dann doch zu schaffen machen.",
+            "Mit vollem Magen arbeitet es sich halt gleich etwas kreativer.",
+            "Da hat mein Magen was zu tun."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "skin",
+            "skóra"
+        ],
+        "ger_list": [
+            "die Haut",
+            "Übrigens darf nur gesunde Haut massiert werden.",
+            "Es hilft super gegen trockene Haut und macht sie weich.",
+            "Und pflegt zudem mit wertvollen Ölen die Haut ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to press, to push, to squeeze",
+            "naciskać, ściskać, uwierać"
+        ],
+        "ger_list": [
+            "drücken",
+            "Da lernt man was es heißt richtig zu drücken .",
+            "Viele drücken und gehen dann irgendwo rüber.",
+            "Warum drücken einige von denen auch noch ab?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "face",
+            "twarz"
+        ],
+        "ger_list": [
+            "das Gesicht",
+            "Über neue Gesichter freuen wir uns immer sehr.",
+            "Über ein paar neue Gesichter würden wir uns sehr freuen.",
+            "Über neue Gesichter freuen wir uns immer sehr!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "finger",
+            "palec"
+        ],
+        "ger_list": [
+            "der Finger",
+            "Wer schaut denen eigentlich auf die Finger ?",
+            "Dann lasst die Finger mal anfangen zu optimieren.",
+            "Seit dem kann ich nicht mehr die Finger davon lassen!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "head"
+        ],
+        "ger_list": [
+            "der Kopf",
+            "Ähnliches war mir auch durch den Kopf gegangen.",
+            "Ähnliches dürfte ihm auch diesmal durch den Kopf geschossen sein.",
+            "Sonst bleibt der halbe Kopf auch gerne länger."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "Austria"
+        ],
+        "ger_list": [
+            "Österreich",
+            "Der bezieht sich zwar nicht rein auf Österreich .",
+            "In Österreich hat ihm das eher genützt als geschadet.",
+            "Aber mit nach Österreich werde ich ihn nicht bringen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "car",
+            "samochód"
+        ],
+        "ger_list": [
+            "das Auto",
+            "Ähnlich kann es nun bei den Autos werden.",
+            "Überall bestimmte Autos wahrzunehmen berührt uns wenig.",
+            "Österreich ist mit dem Auto gut erreichbar."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "Vienna",
+            "Wiedeń"
+        ],
+        "ger_list": [
+            "Wien",
+            "Österreich 1933 – 1938\" wurde in Wien präsentiert.",
+            "Nach Wien geht es schnell und günstig.",
+            "Klasse Wien abwärts\" füllt sich schön langsam."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "train (vehicle)",
+            "pociąg"
+        ],
+        "ger_list": [
+            "der Zug",
+            "Wir sehen uns erstmal im Zug um.",
+            "Ich bin häufig unterwegs und arbeite gerne im Zug .",
+            "Sonst ist es richtig ruhig und gemütlich im Zug ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "bus"
+        ],
+        "ger_list": [
+            "der Bus",
+            "Seit halb 6 haben wir im Bus gesessen.",
+            "Wir sind auch gut mit dem Bus erreichbar.",
+            "Diese ist mit dem Bus bequem und schnell erreichbar."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "holiday (for employees)",
+            "urlop"
+        ],
+        "ger_list": [
+            "der Urlaub",
+            "Davon könnten wir beide mal einen gepflegten längeren Urlaub machen.",
+            "Das habe ich noch vor den Urlaub gestrickt.",
+            "Diesmal ist es einfach nur ein Urlaub ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "passport",
+            "paszport"
+        ],
+        "ger_list": [
+            "der Reisepass",
+            "Man sollte schon einmal auf einen gültigen Reisepass achten.",
+            "Dazu braucht man unbedingt einen gültigen Reisepass .",
+            "Aber auch der Reisepass muss mit dabei sein."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "Bavaria",
+            "Bawaria"
+        ],
+        "ger_list": [
+            "Bayern",
+            "Über die Bayern gibt es sicherlich viel zu erzählen.",
+            "Eigentlich sollte ich jetzt nach Bayern auswandern.",
+            "Was ist nur mit den Bayern los?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "Africa",
+            ""
+        ],
+        "ger_list": [
+            "Afrika",
+            "Europa und Afrika sind natürlich auch sehr reizvoll.",
+            "Was verbindet uns mit dem südlichen Afrika ?",
+            "Zuerst einmal sind wir vom südlichen Afrika infiziert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "tourist attraction"
+        ],
+        "ger_list": [
+            "die Sehenswürdigkeit",
+            "Übernachten Übernachtungsmöglichkeiten gibt es mindestens genauso viele wie Sehenswürdigkeiten .",
+            "Ähnlich ging es an vielen weiteren Sehenswürdigkeiten .",
+            "Alle wichtigen Sehenswürdigkeiten sind von hier aus bequem zu erreichen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "journey, trip (long or overseas)",
+            "podróż"
+        ],
+        "ger_list": [
+            "die Reise",
+            "Über ihre Reise ist leider nur wenig bekannt.",
+            "Immerhin wird von Reisen nach Ägypten abgeraten.",
+            "Österreich – das ist das Ziel ihrer nächsten Reise ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "custom, duty, toll",
+            "cło"
+        ],
+        "ger_list": [
+            "der Zoll",
+            "Aber wo war jetzt der mexikanische Zoll ?",
+            "Auch der Zoll hat sich dadurch weitgehend erledigt.",
+            "Eventuell hat der Zoll es deshalb auch nicht beachtet."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "boat",
+            "łódź"
+        ],
+        "ger_list": [
+            "das Boot",
+            "Es werden jedoch keine gewöhnlichen Boote eingesetzt!",
+            "Sie ist einfach mit einem Boot zu erreichen.",
+            "Fred ist momentan hier mit seinem Boot ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "France"
+        ],
+        "ger_list": [
+            "Frankreich",
+            "Er ist ihr bis nach Frankreich gefolgt.",
+            "Sie müssen beruflich nach oder durch Frankreich fahren?",
+            "Ähnliche Probleme sollen auch aus Frankreich gemeldet worden sein."
+        ],
+        "hardness": 2
+    }
+]

@@ -1,0 +1,1254 @@
+[
+    {
+        "poleng_list": [
+            "tomato",
+            "pomidor"
+        ],
+        "ger_list": [
+            "die Tomate",
+            "Und mit den Tomaten haben wir dann auch tatsächlich angefangen.",
+            "Aber was wissen wir eigentlich über die Tomate ?",
+            "War ja klar das wir Tomaten ernten würden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "mushroom",
+            "grzyb"
+        ],
+        "ger_list": [
+            "der Pilz",
+            "Österreich würde mehr \" Pilze \" vertragen.",
+            "Ältere Exemplare sehen dann aus wie riesige Pilze .",
+            "Doch den Pilz haben sie noch nicht für sich entdeckt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "chicken (meat)"
+        ],
+        "ger_list": [
+            "das Hähnchen",
+            "Hier hatten wir 2 x Hähnchen bestellt.",
+            "Bei Hähnchen sieht das schon anders aus.",
+            "Dort gibt es es Hähnchen die sind vom feinsten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to taste",
+            "smakować"
+        ],
+        "ger_list": [
+            "schmecken",
+            "Aber man kann schmecken und genießen lernen!",
+            "Sie machen wirklich satt und schmecken gesund und lecker.",
+            "Wieder nach belieben verfeinern und schmecken lassen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to cook",
+            "gotować"
+        ],
+        "ger_list": [
+            "kochen",
+            "Es reicht eben nicht mehr nur gut kochen zu können.",
+            "Und kochen kann sie schon gar nicht.",
+            "Warum nicht einmal gemeinsam kochen und genießen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sour",
+            "kwaśny"
+        ],
+        "ger_list": [
+            "sauer",
+            "Also nicht sauer sein wenn dir etwas nicht passt.",
+            "Daniel fühlt sich ungerecht behandelt und ist sauer .",
+            "Als sie dann geliefert wurden war ich ziemlich sauer ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "lemon",
+            "cytryna"
+        ],
+        "ger_list": [
+            "die Zitrone",
+            "Und die Zitrone möchte ich wahrlich nicht sein.",
+            "Ich selbst trinke täglich meine leckere Zitrone .",
+            "Aber das mit den Zitronen war nicht das einzige."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "starter, appetiser",
+            "przystawka"
+        ],
+        "ger_list": [
+            "die Vorspeise",
+            "Und weil kleiner sind sie als Vorspeise perfekt.",
+            "Die Vorspeise war dann natürlich schon kalt.",
+            "Sie ist vor allem als Vorspeise beliebt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "main course",
+            "danie główne"
+        ],
+        "ger_list": [
+            "das Hauptgericht",
+            "Alle Hauptgerichte werden gleichzeitig serviert und gemeinsam gegessen.",
+            "Die Preise der Hauptgerichte lagen zwischen €11 und €18.",
+            "Oft kann man auch eine vegetarische Alternative zum Hauptgericht wählen."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "salad"
+        ],
+        "ger_list": [
+            "der Salat",
+            "Gerne könnt ihr noch einen Salat reichen.",
+            "Der Salat war sehr üppig und kaum zu schaffen.",
+            "Zusätzlich soll es auch wieder Salate geben."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "garlic",
+            "czosnek"
+        ],
+        "ger_list": [
+            "der Knoblauch",
+            "Danach den Knoblauch abziehen und sehr fein hacken.",
+            "Zitrone rundet den Knoblauch geschmacklich gut ab.",
+            "Den Knoblauch hinzufügen und ebenfalls kurz mit braten."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "onion",
+            "cebula"
+        ],
+        "ger_list": [
+            "die Zwiebel",
+            "Hälfte der Zwiebel zufügen und diese kurz anbraten.",
+            "Hierzu kann man sich eine Zwiebel vorstellen.",
+            "Und etwas mehr Zwiebeln als angegeben genommen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "hot, spicy",
+            "ostry"
+        ],
+        "ger_list": [
+            "scharf",
+            "Und von leicht bis ganz schön scharf .",
+            "Kann damit aber auch nicht scharf stellen.",
+            "Er steht dort wo scharf geschossen wird."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "mustard",
+            "musztarda"
+        ],
+        "ger_list": [
+            "der Senf",
+            "Hier werde ich mal kräftig meinen Senf dazu geben.",
+            "Also ich wollte mal meinen Senf hier abgeben!",
+            "Kann ich meinen Senf jetzt auch dazugeben?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "dessert",
+            "deser"
+        ],
+        "ger_list": [
+            "der Nachtisch",
+            "Über zu wenig Nachtisch konnten wir uns auch nicht beschweren.",
+            "Aber manchmal ist Nachtisch ja auch ganz schön.",
+            "Sie haben auch für einen guten Nachtisch gesorgt."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "dinner",
+            "kolacja"
+        ],
+        "ger_list": [
+            "das Abendessen",
+            "Zu zweit ist ein Abendessen oder mehr halt viel unterhaltsamer.",
+            "Vor und nach dem Abendessen wurde gebetet.",
+            "Für das begleitende Abendessen bringt jeder etwas mit."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to eat dinner",
+            "jeść kolację"
+        ],
+        "ger_list": [
+            "zu Abend essen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "spoon",
+            "łyżka"
+        ],
+        "ger_list": [
+            "der Löffel",
+            "Davon hab ich mal ein Löffel getestet.",
+            "Deswegen kann man hier schon mal mit dem Löffel rein.",
+            "Dann braucht niemand mehr seinen Löffel abzugeben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "fork",
+            "widelec"
+        ],
+        "ger_list": [
+            "die Gabel",
+            "Er isst aber besser mit der Gabel .",
+            "Und plötzlich steht man mit einer Gabel da.",
+            "Ja dies Gabel habe ich auch selber gesehen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "drink",
+            "pićku, dryn"
+        ],
+        "ger_list": [
+            "das Getränk",
+            "Und Getränke muss man noch selber zahlen!",
+            "Die Getränke liefern wir ihnen gerne mit.",
+            "Außerdem wurden wir mit kühlen Getränken versorgt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "knife",
+            "nóż"
+        ],
+        "ger_list": [
+            "das Messer",
+            "Über das Messer muss man nichts mehr sagen denke ich.",
+            "Sie bedrohten die beiden mit einem Messer .",
+            "Das zweite Messer gehört mir jedoch nicht mehr sehr lange."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "menu (card)"
+        ],
+        "ger_list": [
+            "die Speisekarte",
+            "Übrigens gibt es dort sogar eine Speisekarte auf deutsch.",
+            "Die Speisekarte las sich nämlich sehr verlockend!",
+            "Natürlich stehen die nicht auf der Speisekarte ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "bean",
+            "fasola"
+        ],
+        "ger_list": [
+            "die Bohne",
+            "Für mich heißt er jedenfalls erstmal Bohne .",
+            "Es wird ihr nicht die Bohne helfen.",
+            "Normale weiße Bohnen sollte man besser nicht nehmen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "iron",
+            "żelazo"
+        ],
+        "ger_list": [
+            "das Eisen",
+            "Zum alten Eisen gehören sie damit aber noch lange nicht.",
+            "Es ging thematisch um ein \"heißes Eisen \".",
+            "Sie gehören noch längst nicht zum alten Eisen !"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "aunt",
+            "ciocia"
+        ],
+        "ger_list": [
+            "die Tante",
+            "Eigentlich wollte ich nur meine Tante begleiten.",
+            "Versprochen hat es die Tante ja schon länger.",
+            "Er ist bei seiner schwer kranken Tante gewesen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "uncle",
+            "wujas"
+        ],
+        "ger_list": [
+            "der Onkel",
+            "Und auch der Onkel kriegt was ab\".",
+            "Und er sei wie ein echter Onkel gewesen.",
+            "Er sagt er sei der ideale Onkel ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "niece",
+            "bratanica, siostrzenica"
+        ],
+        "ger_list": [
+            "die Nichte",
+            "Auch meine kleine Nichte hat er kennen und lieben gelernt.",
+            "Daher benötigt die Nichte 2*3€=6€.",
+            "Da werde ich bestimmt was für meine Nichte machen können."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "nephew",
+            "bratanek/siostrzeniec"
+        ],
+        "ger_list": [
+            "der Neffe",
+            "Und auch meine 2 Neffen sind echt toll.",
+            "Da hat der Neffe eine Überraschung geplant.",
+            "Ich hoffe mein Neffe wird sich darüber freuen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "relative (person)",
+            "krewny"
+        ],
+        "ger_list": [
+            "der Verwandte",
+            "Vielleicht handelt es sich ja um entfernte Verwandte .",
+            "Darum dürfen sich diese und ihre Verwandten auch alles erlauben.",
+            "Von unseren Verwandten können wir einiges über uns selbst erfahren."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "cousin"
+        ],
+        "ger_list": [
+            "der Cousin",
+            "Dort wurde er immer von seinem großen Cousin geärgert.",
+            "Mein Cousin weiß sich nicht zum helfen und ist verzweifelt.",
+            "Aber der göttliche Cousin hat es dann gerichtet."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "twin",
+            "bliźniak"
+        ],
+        "ger_list": [
+            "der Zwilling",
+            "Juli 2009 \"etwas zu früh\" sind unsere Zwillinge geboren.",
+            "Die Zwillinge verhalten sich mal wieder unfair.",
+            "Wie heißen eure Zwillinge und wie alt sind sie?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wedding, marriage",
+            "ślub"
+        ],
+        "ger_list": [
+            "die Hochzeit",
+            "Über meine bevorstehende Hochzeit freute ich mich wirklich sehr.",
+            "Wenn es dann heißt Hochzeit die fünfte.",
+            "Und diese Hochzeit war mal wieder eine besondere."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "great-grandson, great-grandchild",
+            "prawnuk"
+        ],
+        "ger_list": [
+            "der Urenkel",
+            "Sie hat sich wahnsinnig über ihren Urenkel gefreut.",
+            "Außerdem ist sie mit sieben Enkeln und sechs Urenkeln gesegnet.",
+            "Hier besuchen mich meine Enkel und Urenkel immer gern."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "great-grandmother"
+        ],
+        "ger_list": [
+            "die Urgroßmutter"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "half-brother"
+        ],
+        "ger_list": [
+            "der Halbbruder"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "half-sister"
+        ],
+        "ger_list": [
+            "die Halbschwester"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "pregnant"
+        ],
+        "ger_list": [
+            "schwanger"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "married",
+            "zamężny/żonaty"
+        ],
+        "ger_list": [
+            "verheiratet"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "partnership",
+            "partnerstwo"
+        ],
+        "ger_list": [
+            "die Partnerschaft",
+            "Über 36 kreative Partnerschaften sind seitdem entstanden.",
+            "Das gilt jedoch nicht für alle Partnerschaften .",
+            "Nun laufen diese exklusiven Partnerschaften offenbar weltweit aus."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "colour",
+            "kolor"
+        ],
+        "ger_list": [
+            "die Farbe",
+            "Über die Farben können wir ja noch verhandeln.",
+            "Überall wohin man blickt herrscht die Farbe grün.",
+            "Übrigens finde ich die Farben gar nicht schlecht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "red",
+            "czerwony"
+        ],
+        "ger_list": [
+            "rot",
+            "Mal leuchtet sie grün und wechselt nach rot .",
+            "Schwarz und blutig rot schaute sie aus.",
+            "Respekt dafür zu lügen ohne rot zu werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "green",
+            "zielony"
+        ],
+        "ger_list": [
+            "grün",
+            "Mobilität muss grün werden aber auch sozial sein.",
+            "Mal leuchtet sie grün und wechselt nach rot.",
+            "Draußen wird es immer sonniger und grüner ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "blue",
+            "niebieski"
+        ],
+        "ger_list": [
+            "blau",
+            "Überall sieht man jetzt wieder viel blau .",
+            "Da hab ich mir mal das blaue gegönnt!",
+            "Die rote oder die blaue oder beide?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "black",
+            "czarny"
+        ],
+        "ger_list": [
+            "schwarz",
+            "Daher wird sie oft halb schwarz und halb weiß dargestellt.",
+            "Er trank ihn sehr stark und schwarz .",
+            "Jetzt haben wir es endlich mal schwarz auf weiß!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "yellow",
+            "żółty"
+        ],
+        "ger_list": [
+            "gelb",
+            "Über das gelb kann man sicher streiten.",
+            "Deutschland kann mehr viel mehr als schwarz und gelb .",
+            "Über einen gelben Teppich würde ich mich auch sehr freuen!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "white",
+            "biały"
+        ],
+        "ger_list": [
+            "weiß",
+            "Über die weiß man noch nicht allzu viel.",
+            "Über den weiß man doch eh schon alles!",
+            "Über die weiß sie dann auch viel zu erzählen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "hot pink"
+        ],
+        "ger_list": [
+            "pink",
+            "Und eventuell mögt ihr ja sogar pink .",
+            "Ich stehe momentan aber auch echt krass auf pink .",
+            "Ich stehe weder auf rosa noch auf pink ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "grey",
+            "szary"
+        ],
+        "ger_list": [
+            "grau",
+            "Die waren der festen Überzeugung er hätte 10 graue bestellt.",
+            "Dafür ist es anhaltend grau und regnerisch.",
+            "Es ist einfach nur grau und ungemütlich."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "brown",
+            "brązowy"
+        ],
+        "ger_list": [
+            "braun",
+            "Auf braun steh ich ja überhaupt nicht.",
+            "Und heller oder doch mal ganz mutig und braun ?",
+            "Bunt ist eben einfach schöner als braun ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to shop",
+            "robić zakupy"
+        ],
+        "ger_list": [
+            "einkaufen",
+            "Bestimmt werde ich wieder dorthin fahren um einkaufen zu gehen.",
+            "Was sie dort aber kaum tun ist einkaufen .",
+            "Bremen lädt zum einkaufen und flanieren ein!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "gratis, free, costless"
+        ],
+        "ger_list": [
+            "gratis",
+            "Und gratis dazu macht man sich strafbar .",
+            "Überzeugen Sie sich jetzt gratis und unverbindlich selbst.",
+            "So leicht war gratis mobil surfen noch nie."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "cheap",
+            "tani"
+        ],
+        "ger_list": [
+            "billig",
+            "Ich find ́s ein bisschen billig .",
+            "Wie kann man aber billig abnehmen und trotzdem gesund?",
+            "Jedoch ist billig nicht immer gleich gut."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to sell",
+            "sprzedawać"
+        ],
+        "ger_list": [
+            "verkaufen",
+            "Nun bleibt ihr nichts anderes übrig als zu verkaufen .",
+            "Doch sie verkaufen sich schlechter als zunächst angenommen wurde.",
+            "Wir dürfen uns nicht für dumm verkaufen lassen!"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "shop",
+            "sklep"
+        ],
+        "ger_list": [
+            "der Laden"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "business",
+            "sklep, biznes"
+        ],
+        "ger_list": [
+            "das Geschäft",
+            "Übrigens mein Geschäft mache ich jetzt immer schön draussen.",
+            "Seither hat sich unser Geschäft gut entwickelt.",
+            "Dabei macht er wo er nur kann Geschäfte ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "marketplace",
+            "plac targowy, rynek"
+        ],
+        "ger_list": [
+            "der Marktplatz",
+            "Ich persönlich find den Marktplatz auch nicht wunderbar.",
+            "Auf einem Marktplatz sehen sich die beiden.",
+            "Danach wird es auf dem Marktplatz besonders gemütlich."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "bakery",
+            "piekarnia"
+        ],
+        "ger_list": [
+            "die Bäckerei",
+            "Wieder einmal mehr kann ich diese Bäckerei nur loben!",
+            "Nur davon kann die Bäckerei alleine nicht bestehen.",
+            "Dies wirkte sich auch auf die Bäckereien aus."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "customer",
+            "klient"
+        ],
+        "ger_list": [
+            "der Kunde",
+            "Über dieses können sich Kunden umfangreich informieren.",
+            "Überall haben wir bereits unzählige Kunden glücklich gemacht.",
+            "Überall hier können wir unsere Kunden zufrieden stellen und bereichern."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "customer (f.)"
+        ],
+        "ger_list": [
+            "die Kundin",
+            "Die Kundin wollte jedoch nur neun bezahlen.",
+            "Mal gucken ob ich manche Kundinnen überzeugen kann!",
+            "Er wendet sich wieder einer Kundin zu."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "supermarket"
+        ],
+        "ger_list": [
+            "der Supermarkt",
+            "Der nächste Supermarkt ist 2 km entfernt.",
+            "Was darf ich heutzutage noch im Supermarkt kaufen?",
+            "Leider bisher noch nicht im Supermarkt entdecken können."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cart, trolley",
+            "wózek zakupowy"
+        ],
+        "ger_list": [
+            "der Einkaufswagen",
+            "Also wird es eher nicht Einkaufswagen landen.",
+            "Der Einkaufswagen war wieder einmal gar nicht leicht zu erlangen.",
+            "Neun von zehn Einkaufswagen konnten nach draussen gebracht werden."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "bag (cheap bag for grocery shopping or trash bin)"
+        ],
+        "ger_list": [
+            "die Tüte",
+            "So eine halbe große Tüte braucht man.",
+            "Können die mir nicht einfach die Tüte hinstellen?",
+            "Raus bin ich mit 2 großen Tüten ."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "cash register, cash, cashbox",
+            "kasa fiskalna"
+        ],
+        "ger_list": [
+            "die Kasse",
+            "Schließlich sollen sie zur Kasse gebeten werden.",
+            "Und mit ihm auch die öffentlichen Kassen .",
+            "Die Kasse wird nur sehr selten ganz abgestellt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "coupon",
+            "kupon",
+            "bon, talon"
+        ],
+        "ger_list": [
+            "der Gutschein",
+            "Manchmal können wohl auch Überraschungen und Gutscheine erhalten sein.",
+            "Der Gutschein reichte aber nur für eins.",
+            "Beide Gutscheine zu kombinieren funktioniert leider nicht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "shopping centre, mall",
+            "centrum handlowe"
+        ],
+        "ger_list": [
+            "das Einkaufszentrum",
+            "Oder wird gar ein kleines Einkaufszentrum daraus gemacht?",
+            "Soll das Einkaufszentrum nun gebaut werden oder nicht?",
+            "Inzwischen geht es nicht mehr nur um das Einkaufszentrum ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "pharmacy",
+            "apteka"
+        ],
+        "ger_list": [
+            "die Apotheke",
+            "Über 40€ musste ich insgesamt in der Apotheke lassen.",
+            "Auch die chinesischen Apotheken erscheinen mir bemerkenswert.",
+            "Allerdings gilt dies nicht für alle Apotheken ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "special offer, bargain",
+            "oferta specjalna"
+        ],
+        "ger_list": [
+            "das Sonderangebot",
+            "Wir haben nun auch unsere Sonderangebote online.",
+            "Und obendrauf gibt es täglich besondere Sonderangebote .",
+            "Dieses Sonderangebot kann nur online gebucht werden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "sometime"
+        ],
+        "ger_list": [
+            "irgendwann",
+            "Über dieses \" irgendwann \" lässt sich streiten.",
+            "Dann würde ich mir die wohl irgendwann kaufen.",
+            "Aber irgendwann mache ich auch nochmal einen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "somebody"
+        ],
+        "ger_list": [
+            "irgendwer",
+            "Kann mir das bitte mal irgendwer erklären?",
+            "Und irgendwer wolle dafür auch noch bezahlen.",
+            "Aber irgendwer macht ihn immer wieder kaputt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "something"
+        ],
+        "ger_list": [
+            "irgendwas",
+            "Martin sitzt rechts und klickt irgendwas rum.",
+            "Oder brauche ich den noch für irgendwas ?",
+            "Was das alles jetzt mit irgendwas zu tun hat?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "somewhere"
+        ],
+        "ger_list": [
+            "irgendwo",
+            "Übernachten muss man ja auch noch irgendwo .",
+            "Nie und nimmer möchte sie irgendwo anders leben.",
+            "Oder muss man sich nur irgendwo registrieren?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "somehow"
+        ],
+        "ger_list": [
+            "irgendwie",
+            "Überhaupt scheinen hier alle irgendwie verdächtig zu sein.",
+            "Man kommt ja irgendwie nicht drum herum.",
+            "Doch irgendwie hat es nicht sein wollen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "teacher",
+            "nauczyciel"
+        ],
+        "ger_list": [
+            "der Lehrer",
+            "Über 1 700 Lehrer wurden bislang geschult.",
+            "Ich komme mir vor wie ein Lehrer .",
+            "Einer von den besten Lehrern geht fort."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "doctor",
+            "lekarz"
+        ],
+        "ger_list": [
+            "der Arzt"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "pupil, schoolboy",
+            "uczeń"
+        ],
+        "ger_list": [
+            "der Schüler",
+            "Über 600 Schüler sollen ihn schon gesehen haben.",
+            "Ältere Schüler können wir leider nicht berücksichtigen.",
+            "Bis zu 70 Schüler können hier wohnen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "university student"
+        ],
+        "ger_list": [
+            "der Student",
+            "Danach können sich Studenten freiwillig weiter versichern.",
+            "Diese muss vom einzelnen Studenten selbst getragen werden.",
+            "Ich finde es sehr gut wenn Studenten sich politisch engagieren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "senior, elderly person",
+            "osoba starsza"
+        ],
+        "ger_list": [
+            "der Senior",
+            "Ähnlich sieht es bei den Senioren aus.",
+            "Vor allem für Senioren sei dies nicht zu leisten.",
+            "Bei Senioren sind es noch deutlich mehr."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "author, writer"
+        ],
+        "ger_list": [
+            "der Autor",
+            "Oder welche Autoren habt ihr schon immer geliebt?",
+            "Und irgendwie \"rund\" trotz verschiedener Autoren .",
+            "Der Autor selbst ist leider 2005 bereits verstorben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "coach",
+            "trener"
+        ],
+        "ger_list": [
+            "der Trainer",
+            "Über den Trainer selbst weiß man nicht sehr viel.",
+            "Überall wird diskutiert wer neuer Trainer werden soll.",
+            "Da freut man sich natürlich als Trainer besonders."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "trader, merchant",
+            "handlarz"
+        ],
+        "ger_list": [
+            "der Händler",
+            "Kleinere Händler ziehen hier mal wieder den kürzeren.",
+            "Der Händler wirkte sehr vertrauenswürdig und ehrlich.",
+            "Vor 2013 wird er wohl nicht zu den Händlern rollen."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "master, champion",
+            "mistrz"
+        ],
+        "ger_list": [
+            "der Meister",
+            "Übung macht halt doch den kleinen Meister .",
+            "Übung macht den Meister würde ich sagen.",
+            "Wollte man hier die beiden großen Meister gegeneinander kämpfen lassen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "professor"
+        ],
+        "ger_list": [
+            "der Professor",
+            "Nur bei den Professoren hakt es noch.",
+            "So viel weiß der kleine Professor schon.",
+            "Und ich bin den Professoren sehr dankbar."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "managing director",
+            "kierownik",
+            "kierownik zakładu"
+        ],
+        "ger_list": [
+            "der Geschäftsführer",
+            "Dies kann aber auch der Geschäftsführer selbst übernehmen.",
+            "Ob das nicht einen angepassten Geschäftsführer macht?",
+            "Seit 2001 arbeitet er dort als Geschäftsführer ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "employer",
+            "pracodawca"
+        ],
+        "ger_list": [
+            "der Arbeitgeber",
+            "Aber wie soll man als Arbeitgeber damit umgehen?",
+            "Also ich glaube da hat sich der Arbeitgeber gefreut.",
+            "Dafür wurden sie von den \" Arbeitgebern \" entlohnt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "mayor",
+            "burmistrz"
+        ],
+        "ger_list": [
+            "der Bürgermeister",
+            "Für den zukünftigen Bürgermeister gibt es viel zu tun.",
+            "Aber der Bürgermeister scheint nicht dazu zu gehören.",
+            "Wieso wird das nicht vom Bürgermeister respektiert?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "architect"
+        ],
+        "ger_list": [
+            "der Architekt",
+            "Über den Architekten selbst weiß man heute wenig.",
+            "Und wie sieht eigentlich ein Architekt aus?",
+            "Die Architekten haben sich diesmal selbst übertroffen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "farmer",
+            "rolnik"
+        ],
+        "ger_list": [
+            "der Bauer",
+            "Den Bauern passt das längst nicht mehr.",
+            "Auch 200 Bauern arbeiten noch absolut zuverlässig.",
+            "Anders sieht es hier bei den Bauern aus."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "staff, employee, colleague, co-worker",
+            "współpracownik"
+        ],
+        "ger_list": [
+            "der Mitarbeiter",
+            "Über 18 000 Mitarbeiter würden damit entlassen werden.",
+            "Übrigens suchen wir immer wieder neue Mitarbeiter .",
+            "Ältere Mitarbeiter möchte man allerdings immer noch ungern einstellen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "employee",
+            "pracownik, pracobiorca"
+        ],
+        "ger_list": [
+            "der Arbeitnehmer",
+            "Ältere Arbeitnehmer würden es dadurch nur noch schwerer haben.",
+            "Dabei sind die Arbeitnehmer immer noch viel zu bescheiden.",
+            "Der \"gemeine Arbeitnehmer \" geht nicht selten leer aus."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "salesperson",
+            "sprzedawca"
+        ],
+        "ger_list": [
+            "der Verkäufer",
+            "Einigung mit dem Verkäufer war nicht möglich.",
+            "Dies gilt für private und gewerbliche Verkäufer gleichermaßen.",
+            "Das hätten die Verkäufer dir gleich erklären sollen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "driver"
+        ],
+        "ger_list": [
+            "der Fahrer",
+            "Über eines muss sich der Fahrer allerdings bewusst sein.",
+            "Der Fahrer wurde entweder angehalten oder ist umgehend erfolgreich geflüchtet.",
+            "Der Fahrer konnte sich leicht verletzt retten."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "baker",
+            "piekarz"
+        ],
+        "ger_list": [
+            "der Bäcker",
+            "Außerdem sagt uns der Bäcker hier sehr zu.",
+            "Und auch der nächste Bäcker liegt nur 50m weit entfernt.",
+            "Auch der Bäcker aus dem schwäbischen nicht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "work",
+            "prace"
+        ],
+        "ger_list": [
+            "die Arbeit",
+            "Über diese Arbeiten hab ich auch schon nachgedacht.",
+            "Überhaupt ist die Arbeit sehr flexibel organisiert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "boss, chief, director",
+            "szef"
+        ],
+        "ger_list": [
+            "der Chef",
+            "Sie sind noch nicht einmal für ihren Chef zu sprechen.",
+            "Wie hat dein ehemaliger Chef dir das mitgeteilt?",
+            "Top ist der eigentliche Chef des ganzen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "occupation",
+            "zawód"
+        ],
+        "ger_list": [
+            "der Beruf",
+            "Über 600 Berufe werden als belastend eingestuft.",
+            "Ähnlich sei es auch in den gewerblichen Berufen heute üblich.",
+            "Zudem ist der Beruf körperlich und seelisch belastend."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "fire brigade",
+            "straż pożarna"
+        ],
+        "ger_list": [
+            "die Feuerwehr",
+            "Viele von ihnen blieben bei der Feuerwehr .",
+            "Schließlich fühlt sich jeder mit der Feuerwehr eng verbunden.",
+            "Die Feuerwehr musste nicht weiters tätig werden."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "service, waiter, waitress",
+            "obsługa, kelner"
+        ],
+        "ger_list": [
+            "die Bedienung",
+            "Die einfache und universelle Bedienung ist einfach nur genial.",
+            "Die Bedienung war sehr nett und freundlich.",
+            "Die Bedienung ist einfach und klar strukturiert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cook",
+            "kucharz"
+        ],
+        "ger_list": [
+            "der Koch",
+            "Und ist dankbar für einen guten Koch .",
+            "Restaurant war toll und der Koch war exzellent.",
+            "Der neue hier zuständige Koch lernt wohl noch."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "let! (imperative for du)"
+        ],
+        "ger_list": [
+            "lass",
+            "Könnte mich richtig aufregen aber lass ich.",
+            "Anfangs dachte ich noch heute lass ich es lieber.",
+            "Und die lass ich mir nicht nehmen!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "let! (imperative for ihr)"
+        ],
+        "ger_list": [
+            "lasst",
+            "Also lasst euch nicht lumpen und seit dabei.",
+            "Also lasst euch überraschen und schaut vorbei!",
+            "Also lasst euch nicht vom Äußeren abschrecken."
+        ],
+        "hardness": 1
+    }
+]

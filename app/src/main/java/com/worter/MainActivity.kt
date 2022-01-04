@@ -2,9 +2,9 @@ package com.worter
 
 import androidx.appcompat.app.AppCompatActivity
 import android.annotation.SuppressLint
+import android.content.Context
 import android.graphics.Color
 import android.os.Bundle
-import android.view.Gravity
 import android.widget.Button
 import android.widget.TableRow
 import androidx.core.content.ContextCompat
@@ -23,6 +23,11 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         supportActionBar?.hide()
+
+        val dbManager = DBManager(this)
+        dbManager.copyDbFromAssetsToDevice()
+        dbManager.printDeviceWorterDbFiles()
+
         fillFileTable()
     }
 

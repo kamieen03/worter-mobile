@@ -1,0 +1,1242 @@
+[
+    {
+        "poleng_list": [
+            "drink! (imperative for du)"
+        ],
+        "ger_list": [
+            "trink",
+            "Ich trink ja selber viel zu viel davon.",
+            "Oder ich trink sie mir einfach schön.",
+            "Ich würde sogar sagen, den trink ich nie."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "drink! (imperative for ihr)"
+        ],
+        "ger_list": [
+            "trinkt",
+            "So gut dass man ihn am besten alleine trinkt .",
+            "Und trinkt er sich einfach gut weg!",
+            "Dass man natürlich vorher etwas trinkt ist selbstverständlich."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "eat! (imperative for du)"
+        ],
+        "ger_list": [
+            "iss",
+            "Aber mit zu wenig isses eben auch nix.",
+            "So schlecht isses eigentlich gar nich ́!",
+            "Geh einfach ein bissl probieren und gut isses ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "eat! (imperative for ihr)"
+        ],
+        "ger_list": [
+            "esst",
+            "Kommt doch mit herein und esst ein bisschen was.",
+            "Lasst euch reich beschenken, esst und trinkt nicht zu viel.",
+            "Nur von dem einen Baum da esst nicht!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "act, trade! (imperative for du)"
+        ],
+        "ger_list": [
+            "handele",
+            "Es handele sich dabei nicht um eine inhaltliche Änderung.",
+            "Es handele sich vorläufig nur um langfristige strategische Überlegungen.",
+            "Vielmehr handele es sich um bereits langfristig geplante Änderungen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "act, trade! (imperative for ihr)",
+            "\\"
+        ],
+        "ger_list": [
+            "handelt",
+            "Und um wen oder was handelt es sich dabei?",
+            "Es handelt sich auch um etwas ganz anderes.",
+            "Doch zuerst worum es sich hier handelt ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "go! (imperative for du)"
+        ],
+        "ger_list": [
+            "geh",
+            "Bis dahin geh ich ganz viel wandern.",
+            "Aber ich geh durch sowas nicht pleite.",
+            "Sonst geh ich erst und du gehst dann später."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "go! (imperative for ihr)"
+        ],
+        "ger_list": [
+            "geht",
+            "Hier geht es um dich und mich.",
+            "Es geht morgens relativ schnell und unkompliziert.",
+            "Wenn nur das nicht mal daneben geht !"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "turn! (imperative for du)"
+        ],
+        "ger_list": [
+            "bieg"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "turn! (imperative for ihr)",
+            "skręćcie!"
+        ],
+        "ger_list": [
+            "biegt"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "take! (imperative for du)",
+            "weź!"
+        ],
+        "ger_list": [
+            "nimm"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "take! (imperative for ihr)"
+        ],
+        "ger_list": [
+            "nehmt"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "call! (imperative for du)"
+        ],
+        "ger_list": [
+            "ruf",
+            "Ok ihr lieben ich ruf euch mal wieder an.",
+            "Scheu dich nicht und ruf mich an.",
+            "Aber bitte ruf mich nicht mehr an."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "call! (imperative for ihr)"
+        ],
+        "ger_list": [
+            "ruft",
+            "Wenn man sie ruft sind sie für uns da.",
+            "Doch er ruft vor allem auf sich zu engagieren.",
+            "Gott ruft mich – mich ganz persönlich."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "read! (imperative for du)"
+        ],
+        "ger_list": [
+            "lies",
+            "Und dann lies es mich nicht mehr los.",
+            "Aber lies da ruhig mal genauer nach.",
+            "Aber irgendwie lies das sich gerade nicht ausstellen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "read! (imperative for ihr)"
+        ],
+        "ger_list": [
+            "lest",
+            "Ob ich mich zurecht gefreut habe lest ihr unten.",
+            "Aber jetzt lest am besten mal selbst.",
+            "Ich schreibe hier und ihr lest es dann."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "speak (imperative for du)"
+        ],
+        "ger_list": [
+            "sprich",
+            "Aber das geht auch anders sprich komfortabler!",
+            "Das sprich mich irgendwie gar nicht an.",
+            "Aber es sprich schon wieder gut an."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "speak (imperative for ihr)"
+        ],
+        "ger_list": [
+            "sprecht",
+            "Sollte mal etwas fehlen dann sprecht mich diesbezüglich gerne an.",
+            "Ihr wisst wovon ihr sprecht und leistet ein tolle Arbeit.",
+            "Ihr sprecht es aus und die Xbox findet es."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "be (imperative for du)"
+        ],
+        "ger_list": [
+            "sei",
+            "Über Einzelheiten sei aber noch zu reden.",
+            "Kafka sei aber am häufigsten gewählt worden.",
+            "Den Ärzten dort sei nicht zu trauen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "be (imperative for ihr)"
+        ],
+        "ger_list": [
+            "seid",
+            "Oder seid ihr ganz \"normal\"?",
+            "Ich hoffe ihr seid mir nicht böse darum.",
+            "Also seid dabei und feiert mit uns!"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "give (imperative for du)"
+        ],
+        "ger_list": [
+            "gib",
+            "Wobei es bei letzterem ja nichts zu verstehen gib .",
+            "So hieß es einfach \" gib alles was geht\".",
+            "Versuche es und gib nicht so schnell auf!"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "give (imperative for ihr)"
+        ],
+        "ger_list": [
+            "gebt",
+            "Wieso gebt ihr euch nicht zu erkennen?",
+            "Und gebt euch vor allem auch zu erkennen!",
+            "Haltet bitte durch und gebt nicht auf."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "stay (imperative for du)",
+            "zostań!"
+        ],
+        "ger_list": [
+            "bleib",
+            "Mach weiter und bleib uns schön lange erhalten.",
+            "Da bleib ich doch gleich mal hier.",
+            "Da bleib ich bei dem guten alten blau."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "stay (imperative for ihr)"
+        ],
+        "ger_list": [
+            "bleibt",
+            "Über das nackte Überleben hinaus bleibt trotzdem nichts übrig.",
+            "Nun bleibt ihr nichts anderes übrig als zu verkaufen.",
+            "Dieses ruinieren scheint und bleibt wohl ziemlich einseitig."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "litre",
+            "litr"
+        ],
+        "ger_list": [
+            "der Liter",
+            "Und wie viel ist wohl richtig für 10 Liter ?",
+            "Platz hast etwa für 52 Liter oder mehr!",
+            "Man sollte aber lieber mit 10 Litern rechnen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "percent",
+            "procent"
+        ],
+        "ger_list": [
+            "das Prozent",
+            "Österreich folgt hier knapp dahinter mit 52 Prozent .",
+            "Über 50 Prozent davon können erfolgreich abgeschlossen werden.",
+            "Über 60 Prozent von ihnen waren zu schnell unterwegs."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "million"
+        ],
+        "ger_list": [
+            "die Million",
+            "Über diese Millionen regt sich offensichtlich niemand auf.",
+            "Über 12 Millionen Begriff aus der Ökologie.",
+            "Er kann sich nun um einen Million reicher schätzen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "billion",
+            "miliard"
+        ],
+        "ger_list": [
+            "die Milliarde",
+            "Über diese 10 Milliarden möchten wir nicht sprechen.",
+            "Über 3 Milliarden Euro sollen beschlossen werden.",
+            "Es geht wie gesagt um viele Milliarden !"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "meter"
+        ],
+        "ger_list": [
+            "der Meter",
+            "Über 6000 Meter fühle ich mich erst richtig wohl.",
+            "So schenken diese paar Meter noch mächtig ein.",
+            "Die müssen zwischen 5 und 6 Meter hoch sein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "twenty",
+            "20"
+        ],
+        "ger_list": [
+            "zwanzig",
+            "Ich bin übrigens vor kurzem zwanzig geworden.",
+            "Über zwanzig Jahre alt und noch immer aktuell.",
+            "Dabei sind beide längst keine zwanzig mehr!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "twenty one",
+            "21"
+        ],
+        "ger_list": [
+            "einundzwanzig"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "thirty",
+            "30"
+        ],
+        "ger_list": [
+            "dreißig",
+            "Das Publikum ist von zwanzig bis über dreißig alles vertreten."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "hundred",
+            "sto"
+        ],
+        "ger_list": [
+            "hun­dert"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "forty",
+            "40"
+        ],
+        "ger_list": [
+            "vierzig",
+            "Wir sind beide mitte vierzig und schlank.",
+            "Bis heute sind nur ungefähr vierzig von ihnen erhalten geblieben.",
+            "Wahrscheinlich ist er erst um die vierzig ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "thousand",
+            "das Tausend"
+        ],
+        "ger_list": [
+            "tausend",
+            "Ich meine es gibt weltweit nur ein paar tausend .",
+            "Und \" tausend \" steht ja für unbegrenzt viele.",
+            "Zusammen mit tausenden anderen kauften wir hier ein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "fifty",
+            "50"
+        ],
+        "ger_list": [
+            "fünfzig",
+            "Arbeitskräfte unter fünfzig sind ebenfalls gern gesehen!",
+            "Mitte fünfzig und noch immer wieder für eine Überraschung gut.",
+            "Ich freue mich auf die nächsten fünfzig ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sixty",
+            "60"
+        ],
+        "ger_list": [
+            "sechzig",
+            "Ähnlich verhält es sich bei den Personen ab sechzig .",
+            "So wie unser Magazin sechs+ sechzig .",
+            "Jetzt ist sie dort mit einem von sechzig Sitzen vertreten."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "seventy",
+            "70"
+        ],
+        "ger_list": [
+            "siebzig",
+            "Und das jetzt schon seit mehr als siebzig Jahren.",
+            "Nach siebzig Minuten mussten sie sich geschlagen geben.",
+            "Inzwischen sind es mehr als siebzig Beiträge geworden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "eighty",
+            "80"
+        ],
+        "ger_list": [
+            "achtzig",
+            "Und kann man sich auch noch mit achtzig verlieben?",
+            "Hier fährt wieder alles achtzig und hundert.",
+            "In mehr als achtzig Gärten kann hier flanieren werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "ninety",
+            "90"
+        ],
+        "ger_list": [
+            "neunzig",
+            "Dafür muss dieser ihm versprechen, ihn erst mit neunzig abzuholen.",
+            "Zur Strafe muss sie einsam bleiben und neunzig werden.",
+            "Nach neunzig Minuten war es auch schon wieder vorbei."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "animal",
+            "zwierzę"
+        ],
+        "ger_list": [
+            "das Tier",
+            "Über 400 heimische Tiere kann man hier bewundern.",
+            "Obwohl sie wenig bei den Tieren waren.",
+            "Danach können die Tiere ohne weiteres abgeholt werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cat",
+            "kot"
+        ],
+        "ger_list": [
+            "die Katze",
+            "Übrigens diese Katze ist wie unsere drei nicht geimpft!",
+            "Übrigens bei unserer Katze ist es genauso.",
+            "Überhaupt unterschied sie sich von unseren Katzen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "dog",
+            "pies"
+        ],
+        "ger_list": [
+            "der Hund",
+            "Äußerst gewöhnungsbedürftig – dafür aber ohne heißen Hund .",
+            "Über einen bereits vorhandenen Hund würde er sich sicher freuen.",
+            "Überall war es Hunden verboten zu schwimmen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "mouse",
+            "mysz"
+        ],
+        "ger_list": [
+            "die Maus",
+            "Ähnlich schnell geht das mit der Maus .",
+            "Sie ist schon eine ganz besondere Maus .",
+            "Das sieht schlecht aus für die Maus !"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "bear",
+            "niedźwiedź"
+        ],
+        "ger_list": [
+            "der Bär",
+            "Mittlerweile geht dort kräftig der Bär ab.",
+            "So wechseln sich unsere Bären immer schön ab.",
+            "Also ist er vielleicht doch auch ein Bär ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "pet",
+            "zwierzę domowe"
+        ],
+        "ger_list": [
+            "das Haustier",
+            "Oft möchte man auch dort mit Haustieren zusammen leben.",
+            "Heute ist sie bei uns zum beliebtesten Haustier geworden.",
+            "Warum soll man es nun dem Haustier geben?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cow",
+            "krowa"
+        ],
+        "ger_list": [
+            "die Kuh",
+            "Und zwar selbst obwohl ich die Kuh bevorzuge.",
+            "Da ist die \"blöde Kuh \" noch harmlos.",
+            "Nichts war von einer Kuh zu finden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "horse",
+            "koń"
+        ],
+        "ger_list": [
+            "das Pferd",
+            "Ägypten setzt da auf ein falsches Pferd .",
+            "Bei uns kommst du Pferden wirklich nahe!",
+            "Teilweise werden sie von fünf aufwendig geschmückten Pferden gezogen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "pig",
+            "świnia"
+        ],
+        "ger_list": [
+            "das Schwein",
+            "Mit anderen Schweinen kommt sie sehr gut aus.",
+            "Aber wahrscheinlich interessiert das wieder kein Schwein .",
+            "Aber es scheint trotzdem \"kein Schwein \" zu interessieren."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "bird",
+            "ptak"
+        ],
+        "ger_list": [
+            "der Vogel",
+            "Vielleicht beißt sie auch der komische Vogel ?",
+            "Man würde es nicht einem Vogel zuordnen.",
+            "Niemand wollte den kleinen hässlichen Vogel singen hören."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "duck",
+            "kaczka"
+        ],
+        "ger_list": [
+            "die Ente",
+            "Sowas müßte sich doch auch für eine Ente machen lassen.",
+            "Hier fühlt sich keine Ente mehr wohl.",
+            "Und wenn man mal eine fremde Ente findet?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "spider",
+            "pająk"
+        ],
+        "ger_list": [
+            "die Spinne",
+            "Dabei erzählt sie natürlich auch vom Spinnen .",
+            "Und genau davor sind die Spinnen gewarnt.",
+            "Sie Spinne war stehen geblieben und bewegte sich nicht mehr."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "insect",
+            "owad"
+        ],
+        "ger_list": [
+            "das Insekt",
+            "Doch auch hier können sich Insekten tummeln.",
+            "Vögel und Insekten haben es schon immer vorgemacht.",
+            "Schuld sind – genau – die Insekten ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "bee",
+            "pszczoła"
+        ],
+        "ger_list": [
+            "die Biene",
+            "Wann hören Bienen eigentlich auf zu fliegen?",
+            "Gestern haben sie den Bienen ein haus gebaut.",
+            "Den Bienen ist es einfach viel zu kalt und nass."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "beetle",
+            "żuk"
+        ],
+        "ger_list": [
+            "der Käfer",
+            "Doch auch andere Käfer kommen nicht zu kurz.",
+            "Um genauer zu sein gegen einen riesigen Käfer .",
+            "Noch weiß niemand ob dieser Käfer hier überhaupt vorkommt."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "beetles",
+            "chrząszcze, żuki"
+        ],
+        "ger_list": [
+            "die Käfer",
+            "Doch auch andere Käfer kommen nicht zu kurz.",
+            "Um genauer zu sein gegen einen riesigen Käfer .",
+            "Noch weiß niemand ob dieser Käfer hier überhaupt vorkommt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "fly",
+            "mucha"
+        ],
+        "ger_list": [
+            "die Fliege",
+            "Leider war es mit dem Fliegen alleine noch nicht geschafft.",
+            "Heute mag ich Fliegen gar nicht mehr.",
+            "Und wie ist das mit dem Fliegen ?"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "in"
+        ],
+        "ger_list": [
+            "in",
+            "Leider war es mit dem Fliegen alleine noch nicht geschafft.",
+            "Endlich bin ich auch mal wieder zum Fliegen gekommen.",
+            "Sie wollen wissen wer für das Fliegen binden verantwortlich ist?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "auf+das contraction"
+        ],
+        "ger_list": [
+            "aufs",
+            "Dennoch muss man nicht aufs Fliegen verzichten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "um+das contraction"
+        ],
+        "ger_list": [
+            "ums"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "between",
+            "pomiędzy"
+        ],
+        "ger_list": [
+            "zwischen",
+            "Üblicherweise zwischen 3000 € und 5000 €.",
+            "Überall kostete es zwischen 65 und 68 $.",
+            "Weiß aber nicht zwischen welchen ich wählen kann."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "beside, next to",
+            "obok"
+        ],
+        "ger_list": [
+            "neben",
+            "Ich lege mich nachher einfach neben ihn.",
+            "Und ein \"größeres\" neben ihr!",
+            "Der stellte sich gleich mal neben meinen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "from (time, location)"
+        ],
+        "ger_list": [
+            "ab",
+            "Ich werde ab sofort deutlich kritischer schreiben!",
+            "Interessierte können sich ab sofort und jederzeit bei uns melden!",
+            "So etwas schafft man nicht leichtfertig ab ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to lie (down)",
+            "leżeć"
+        ],
+        "ger_list": [
+            "liegen",
+            "Über 50% liegen aber noch vor uns!",
+            "Ökonomen liegen oft richtig, aber nicht immer.",
+            "Aber daran kann es doch nicht liegen ?"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "to sit",
+            "siedzieć"
+        ],
+        "ger_list": [
+            "sitzen",
+            "Aber das konnten wir unmöglich auf uns sitzen lassen.",
+            "Aber man darf auch einfach nur sitzen bleiben zuschauen.",
+            "Wir sitzen zu viel und bewegen uns zu wenig."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "while, during",
+            "podczas"
+        ],
+        "ger_list": [
+            "während",
+            "Sie findet täglich laufend während der Öffnungszeiten statt.",
+            "Leider wurde es nicht benutzt während ich dort war.",
+            "Egal ob während oder außerhalb unserer Öffnungszeiten."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "apart from, except",
+            "poza"
+        ],
+        "ger_list": [
+            "außer",
+            "Hat das hier noch jemand außer mir?",
+            "Und jeder profitiert davon außer ihnen selbst.",
+            "Sie kann fast alles – außer sich selbst zu verkaufen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "inclusively, including",
+            "włącznie, łącznie z"
+        ],
+        "ger_list": [
+            "einschließlich",
+            "Und danach lag er bis einschließlich 1981 bei 70%.",
+            "Bestellungen laufen wöchentlich und können bis einschließlich donnerstags berücksichtigt werden.",
+            "Sie könnten also sogar alles bis einschließlich 2009 vernichten."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "because of",
+            "z powodu"
+        ],
+        "ger_list": [
+            "wegen",
+            "Von wegen \"funktioniert nicht mehr\" !",
+            "Und genau wegen \"draußen\" soll es nicht regnen.",
+            "Aber eigentlich bin ich wegen der \"5."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to put, lay (in horizontal position)",
+            "kłaść"
+        ],
+        "ger_list": [
+            "legen",
+            "Deswegen versuche ich jetzt wieder hier los zu legen !",
+            "Auch bei mir legen sie sofort auf.",
+            "Aber bis dahin legen wir noch einmal richtig los!"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "now and then, from time to time",
+            "od czasu do czasu"
+        ],
+        "ger_list": [
+            "ab und zu"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "glass",
+            "szkło, szklanka, słoik, kieliszek"
+        ],
+        "ger_list": [
+            "das Glas",
+            "Ist das Glas nun halb voll oder halb leer?",
+            "Das Glas ist zu 90 % voll.",
+            "Metall und Glas kann selbstverständlich mit kombiniert werden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "stone",
+            "kamień"
+        ],
+        "ger_list": [
+            "der Stein",
+            "Über die Steine sprachen wir ja schon beide ausführlich.",
+            "Doch der schwere Stein drückt ihn sehr.",
+            "Mit Steinen kann man jedoch nicht nur basteln."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "paper",
+            "papier"
+        ],
+        "ger_list": [
+            "das Papier",
+            "Geschichten wollen erzählt und zu Papier gebracht werden.",
+            "Hier wechseln sie dann das Papier manuell aus.",
+            "Ich muss mich erst einmal mit neuem Papier eindecken."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "leather",
+            "skóra (materiał)"
+        ],
+        "ger_list": [
+            "das Leder",
+            "Dafür sind sie aber auch aus Leder .",
+            "Schuhe aus diesem Leder sind extrem haltbar und sehr bequem.",
+            "Es ist aus weichem Leder und super gemütlich."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "wood",
+            "drewno"
+        ],
+        "ger_list": [
+            "das Holz",
+            "Es duftet bestimmt ganz viel nach Holz .",
+            "Jetzt muss ich nur noch für genügend Holz sorgen.",
+            "Könnte man das gut mit Holz machen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "metal"
+        ],
+        "ger_list": [
+            "das Metall",
+            "Aber auch Metall wird immer öfter verwendet.",
+            "Bei wieder anderen trifft dies auf Metall zu.",
+            "Da das Metall viel zu heiss wurde."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "gold",
+            "złoto"
+        ],
+        "ger_list": [
+            "das Gold",
+            "Aber bekanntlich ist ja nicht immer alles Gold was glänzt.",
+            "Schließlich ist auch dort nicht alles Gold was glänzt.",
+            "Jeder möchte doch das meiste aus seinem Gold herausholen."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "steel",
+            "stal"
+        ],
+        "ger_list": [
+            "der Stahl",
+            "Wie wäre es mit etwas Stahl falten?",
+            "Bei Stahl wäre die schon was anderes.",
+            "Was ist Stahl und wie wird er \"gekocht\"?"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "plastic (not Kunststoff)"
+        ],
+        "ger_list": [
+            "das Plastik",
+            "Es wir niemand kein Plastik zuhause haben.",
+            "Somit füttern wir uns selbst mit Plastik .",
+            "Es gab ja damals noch kein Plastik ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "sand",
+            "piasek"
+        ],
+        "ger_list": [
+            "der Sand",
+            "Überall geht und fährt man hier auf Sand .",
+            "So bleibt der Sand lange sauber und trocken.",
+            "Soll ich den Sand austauschen oder sieben?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wool",
+            "wełna"
+        ],
+        "ger_list": [
+            "die Wolle"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "silver (noun)",
+            "srebro"
+        ],
+        "ger_list": [
+            "das Silber",
+            "Über 50 m gab es ebenfalls Silber für ihn.",
+            "Besser sieht es dafür im Silber aus!",
+            "Zwischen 88 und 93 wird Silber angezeigt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "copper",
+            "miedź"
+        ],
+        "ger_list": [
+            "das Kupfer",
+            "Vor allem beim Kupfer zeichnet sich dies ab.",
+            "Leider kann ich dir über Kupfer nichts sagen.",
+            "Dabei entstand nach rund zehn Minuten reines Kupfer ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wall, mural",
+            "mur"
+        ],
+        "ger_list": [
+            "die Mauer",
+            "Und doch werden die Mauern irgendwann sichtbar.",
+            "Er ist heute mit einer Mauer umgeben und verschlossen.",
+            "Ich dagegen habe die Mauer zu genüge erlebt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "concrete",
+            "beton"
+        ],
+        "ger_list": [
+            "der Beton",
+            "Mit ihm ist es wie mit Beton .",
+            "Das ist bei Beton auch gar nicht möglich.",
+            "Üblicherweise werden diese nach dem Bau mit Beton verschlossen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cardboard",
+            "tektura, karton"
+        ],
+        "ger_list": [
+            "die Pappe",
+            "Wer hat da eine Pappe für mich?",
+            "Die Pappe sollte nicht zu dünn sein!",
+            "Na ich meine auch die aus Pappe ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "cotton",
+            "bawełna"
+        ],
+        "ger_list": [
+            "die Baumwolle",
+            "So ist die Baumwolle beispielsweise pflegeleicht und auch warm.",
+            "Die Baumwolle ist nicht gefärbt sondern wächst farbig.",
+            "Ich habe mir eigentlich nie viel aus Baumwolle gemacht."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "first",
+            "pierwsze"
+        ],
+        "ger_list": [
+            "erste",
+            "Dann muss natürlich diese erste durch eine offene ersetzt werden.",
+            "Über das erste Buch wurde hier schon berichtet.",
+            "Dies ist der erste von genau zwei von heute."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "second (2nd)",
+            "drugie"
+        ],
+        "ger_list": [
+            "zweite",
+            "Dann wird aus jedem dritten schon bald jeder zweite .",
+            "Kann sich vielleicht der zweite noch gehalten haben?",
+            "Die zweite wollte mich leider bereits nicht mehr."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "third",
+            "trzecie"
+        ],
+        "ger_list": [
+            "dritte",
+            "Ich war jetzt das dritte mal dabei.",
+            "Aber der dritte und der vierte waren schon viel besser.",
+            "Freue mich schon sehr auf das dritte ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "fourth",
+            "czwarte"
+        ],
+        "ger_list": [
+            "vierte",
+            "Der vierte ist weder namentlich bekannt noch sagt er was.",
+            "Aber der dritte und der vierte waren schon viel besser.",
+            "Holger ist übrigens oben der vierte von rechts."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "fifth",
+            "piąte"
+        ],
+        "ger_list": [
+            "fünfte",
+            "Und es ist auch erst die fünfte insgesamt.",
+            "Von den 12 bis 17 jährigen raucht jeder fünfte .",
+            "Ist es nun das vierte oder fünfte ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sixth",
+            "szóste"
+        ],
+        "ger_list": [
+            "sechste",
+            "Nicht einmal jede sechste Heizung ist optimal eingestellt.",
+            "Es handelt sich bereits um die sechste Verzögerung.",
+            "Die sechste Herrenmannschaft ist schon sicher aufgestiegen!"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "seventh",
+            "siódme"
+        ],
+        "ger_list": [
+            "siebte",
+            "Nur jeder siebte arbeite für mehr als 350 Euro.",
+            "Drei siebte Zwerge von links oder rechts?",
+            "Der aktuelle siebte Rang würde gerade noch reichen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "similar, like",
+            "podobne"
+        ],
+        "ger_list": [
+            "ähnlich",
+            "So ähnlich sind sich die beiden aber gar nicht.",
+            "Satz 2 startete ähnlich wie der erste.",
+            "Ich seh das ganz ähnlich wie du."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "mathematics"
+        ],
+        "ger_list": [
+            "die Mathematik",
+            "Durch das bisschen Mathematik muss man leider durch.",
+            "Ich stimme mit der Mathematik nicht überein.",
+            "Sie gehen dabei jedoch alle von derselben Mathematik aus."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "very",
+            "bardzo"
+        ],
+        "ger_list": [
+            "sehr",
+            "Über antworten würde ich mich sehr freuen.",
+            "Übrigens finde ich ich beide nicht sehr lustig.",
+            "Über ein \"gefällt mir\" freuen wir uns immer sehr !"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wholely, completely, entirely",
+            "całkowicie, kompletnie"
+        ],
+        "ger_list": [
+            "ganz",
+            "Üblicherweise sind sonst ganz locker 1000 € fällig.",
+            "Überweisungen werden so ganz einfach und jederzeit online getätigt.",
+            "Und die anderen sind auch nicht ganz unbekannt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "quite, rather, fairly",
+            "dość, całkiem"
+        ],
+        "ger_list": [
+            "ziemlich",
+            "Überholen wird auch hier ziemlich schwierig werden.",
+            "Überhaupt halte ich mich damit ziemlich zurück.",
+            "Dieses ruinieren scheint und bleibt wohl ziemlich einseitig."
+        ],
+        "hardness": 2
+    }
+]

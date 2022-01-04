@@ -1,0 +1,1161 @@
+[
+    {
+        "poleng_list": [
+            "wasp",
+            "osa"
+        ],
+        "ger_list": [
+            "die Wespe",
+            "Oft werden sie mit den aggressiven Wespen verwechselt.",
+            "Vor allem darf nicht nach Wespen geschlagen werden!",
+            "Generell sollte man nicht nach den Wespen schlagen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "wolf",
+            "wilk"
+        ],
+        "ger_list": [
+            "der Wolf",
+            "Warum ist der böse Wolf nicht böse?",
+            "Man müsste dabei auch ein bisschen einsamer Wolf bleiben können.",
+            "Diese dürfe nicht durch den Wolf gefährdet werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "zebra"
+        ],
+        "ger_list": [
+            "das Zebra",
+            "Vor den Zebras gegenüber sah man auch überhaupt nichts.",
+            "Leopard meets Zebra funktioniert doch recht gut.",
+            "Von dort lassen sich sogar die Zebras beobachten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "zoo"
+        ],
+        "ger_list": [
+            "der Zoo",
+            "Und warum gibt es denn überhaupt diese vielen Zoos .",
+            "Dies hier ist ein ganz kleiner Zoo .",
+            "Wie sind sie aus dem Zoo entkommen?"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "eaten (past participle)",
+            "jadłem"
+        ],
+        "ger_list": [
+            "haben gegessen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "seen, saw (past participle)",
+            "widziałem"
+        ],
+        "ger_list": [
+            "haben gesehen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "learned (past participle)",
+            "nauczyłem się"
+        ],
+        "ger_list": [
+            "haben gelernt"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "read (past participle)",
+            "czytałem"
+        ],
+        "ger_list": [
+            "haben gelesen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "played (past participle)",
+            "grałem"
+        ],
+        "ger_list": [
+            "haben gespielt"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "published, released (past participle)",
+            "opublikowałem"
+        ],
+        "ger_list": [
+            "haben veröffentlicht"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "improved (past participle)",
+            "polepszać, poprawiać, usprawniać"
+        ],
+        "ger_list": [
+            "haben verbessert"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "visited (past participle)",
+            "odwiedziłem",
+            "uczęszczać (na kurs)"
+        ],
+        "ger_list": [
+            "haben besucht"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "given (past participle)",
+            "dałem"
+        ],
+        "ger_list": [
+            "haben gegeben"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "swam (past participle)",
+            "płynąłem"
+        ],
+        "ger_list": [
+            "sein geschwommen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "walked, ran (past participle)",
+            "szedłem, biegłem"
+        ],
+        "ger_list": [
+            "sein gelaufen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "came, to arrive, occured (past participle)",
+            "przyszedłem"
+        ],
+        "ger_list": [
+            "sein gekommen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "became (past participle)",
+            "stałem się, zostałem"
+        ],
+        "ger_list": [
+            "sein geworden"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "asked, in demand, sought after (past participle)",
+            "pytałem"
+        ],
+        "ger_list": [
+            "haben gefragt"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "stole (past participle)",
+            "ukradłem"
+        ],
+        "ger_list": [
+            "haben gestohlen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "interested (past participle)",
+            "interesowało"
+        ],
+        "ger_list": [
+            "haben interessiert"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "informed (past participle)",
+            "poinformowałem"
+        ],
+        "ger_list": [
+            "haben informiert"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "injured (past participle)",
+            "zranił, naruszać, skaleczyć"
+        ],
+        "ger_list": [
+            "haben verletzt"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "went (past participle)",
+            "poszedłem"
+        ],
+        "ger_list": [
+            "sein gegangen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to please, to like, to appeal (past participle)",
+            "podobało mi się"
+        ],
+        "ger_list": [
+            "haben gefallen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "told, narrated, recounted (past participle)",
+            "opowiedziałem"
+        ],
+        "ger_list": [
+            "haben erzählt"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "ran (past participle)",
+            "biegłem"
+        ],
+        "ger_list": [
+            "sein gerannt"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "been (past participle)",
+            "byłem"
+        ],
+        "ger_list": [
+            "sein gewesen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "drank, have drunk (past participle)",
+            "piłem"
+        ],
+        "ger_list": [
+            "haben getrunken"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "had (past participle)",
+            "miałem"
+        ],
+        "ger_list": [
+            "haben gehabt"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cooked (past participle)",
+            "ugotowałem"
+        ],
+        "ger_list": [
+            "haben gekocht"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "spoken (past participle)",
+            "rozmawiałem"
+        ],
+        "ger_list": [
+            "haben gesprochen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "made, did (past participle)",
+            "zrobiłem"
+        ],
+        "ger_list": [
+            "haben gemacht"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sought after (past participle)",
+            "szukałem"
+        ],
+        "ger_list": [
+            "haben gesucht"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "found (past participle)",
+            "znalazłem, odszukałem"
+        ],
+        "ger_list": [
+            "haben gefunden"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "said (past participle)",
+            "powiedziałem"
+        ],
+        "ger_list": [
+            "haben gesagt"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "liked (past participle)",
+            "lubiłem"
+        ],
+        "ger_list": [
+            "haben gemocht"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "put (in an upright position), staged (past participle)",
+            "postawiłem, ustawiłem"
+        ],
+        "ger_list": [
+            "haben gestellt"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sold (past participle)",
+            "sprzedałem"
+        ],
+        "ger_list": [
+            "haben verkauft"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "appointed, booked, ordered (past participle)",
+            "zamawiać, rezerwować"
+        ],
+        "ger_list": [
+            "haben bestellt"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "charged, loaded (past participle)",
+            "załadować, ładować"
+        ],
+        "ger_list": [
+            "haben geladen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "slept (past participle)",
+            "spałem"
+        ],
+        "ger_list": [
+            "haben geschlafen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "happened, occured, transpired (past participle)",
+            "wydarzył się"
+        ],
+        "ger_list": [
+            "sein geschehen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "forgotten (past participle)",
+            "zapomniałem"
+        ],
+        "ger_list": [
+            "haben vergessen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "kept  (past participle)",
+            "zatrzymałem, zachowałem, zapamiętałem"
+        ],
+        "ger_list": [
+            "haben behalten"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "found out, experienced  (past participle)",
+            "doświadzać, doznawać, dowiadywać się"
+        ],
+        "ger_list": [
+            "haben erfahren"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "advised, discussed  (past participle)",
+            "doradziłem, radziłem, omawiałem"
+        ],
+        "ger_list": [
+            "haben beraten"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "wrote (past participle)",
+            "napisałem"
+        ],
+        "ger_list": [
+            "haben geschrieben"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "transferred money (past participle)",
+            "przelałem hajs"
+        ],
+        "ger_list": [
+            "haben überwiesen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "rain",
+            "deszcz"
+        ],
+        "ger_list": [
+            "der Regen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "weather",
+            "pogoda"
+        ],
+        "ger_list": [
+            "das Wetter",
+            "Über das Wetter brauchen wir uns ja nicht unterhalten.",
+            "Ändern kann ich das Wetter sowieso nicht.",
+            "Über das Wetter reden wir ja nicht mehr."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "degree",
+            "stopień, ranga (hierarchia)"
+        ],
+        "ger_list": [
+            "der Grad",
+            "Über 30 Grad heiss und sehr sehr sonnig.",
+            "Über 30 Grad – das ist nicht ohne!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to snow",
+            "padać (o śniegu), śnieżyć"
+        ],
+        "ger_list": [
+            "schneien",
+            "Es hätte genauso gut auch schneien können!",
+            "Das wäre ja grausam wenn es wieder schneien würde.",
+            "Gestern abend war es hier am schneien ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "storm, gale",
+            "nawałnica, sztorm"
+        ],
+        "ger_list": [
+            "der Sturm",
+            "Wer im Sturm auflaufen wird ist noch offen.",
+            "Nein ich mein den Sturm zum trinken.",
+            "Wir scheinen wirklich nichts vom Sturm abbekommen zu haben."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to rain",
+            "padać (deszcz)"
+        ],
+        "ger_list": [
+            "regnen",
+            "Ich hoffe das es nicht regnen wird.",
+            "Gestern hat es gar nicht mehr aufgehört zu regnen .",
+            "Nun wÃ1⁄4rde es nie mehr regnen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wet",
+            "mokry"
+        ],
+        "ger_list": [
+            "nass",
+            "Hier ist es wieder richtig kalt und nass !",
+            "Ich hoffe es wird nicht zu nass .",
+            "Draußen wird es langsam kalt und nass ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "dry",
+            "suchy"
+        ],
+        "ger_list": [
+            "trocken",
+            "Nun ist es wenigstens wieder trocken und ein bisschen wärmer.",
+            "Morgen sind sie trocken und können aufgehängt werden.",
+            "So konnte alles fast völlig trocken verstaut werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "umbrella",
+            "parasol"
+        ],
+        "ger_list": [
+            "der Regenschirm",
+            "Vielleicht solltest du trotzdem den Regenschirm nicht vergessen.",
+            "Oder aber wir lehnen einen ordentlich großen Regenschirm dazu.",
+            "Diese wich zurück und wehrte sich mit einem Regenschirm ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "rainbow",
+            "tęcza"
+        ],
+        "ger_list": [
+            "der Regenbogen",
+            "Hier bildet sich ebenfalls ein kleiner Regenbogen .",
+            "Hab ich mich tatsächlich aufgemacht meinen Regenbogen zu suchen?",
+            "Doch ließ mich der Regenbogen nicht los."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "thunderstorm",
+            "burza"
+        ],
+        "ger_list": [
+            "das Gewitter",
+            "Leider erwischt uns hier ein kurzes Gewitter .",
+            "Dabei kann es örtlich auch zu Gewitter kommen.",
+            "Bei starkem Gewitter suchten wir nach einer anderen Übernachtungsmöglichkeit."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "cloud",
+            "chmura"
+        ],
+        "ger_list": [
+            "die Wolke",
+            "Über uns hing dauerhaft eine einzige große Wolke .",
+            "Ähnlich gestern werden die Wolken schon wieder mehr.",
+            "Allerdings ziehen jetzt erste dunkle Wolken auf."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "thunder",
+            "grzmot, grom"
+        ],
+        "ger_list": [
+            "der Donner",
+            "Auf den Donner wartet man allerdings vergeblich.",
+            "Fern liebt es auf Donner zu reiten.",
+            "Florian Donner nimmt sich selbst nicht so ernst."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "lightning",
+            "błyskawica, piorun"
+        ],
+        "ger_list": [
+            "der Blitz",
+            "Und ich wollte meinen neuen Blitz testen.",
+            "Sie legte einen Blitz als zweites hin.",
+            "Leider durfte ich drinnen nur ohne Blitz fotografieren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to go out",
+            "wychodzić"
+        ],
+        "ger_list": [
+            "ausgehen",
+            "Wobei man davon nicht einfach ausgehen kann.",
+            "Davon würde ich jedenfalls zunächst mal fest ausgehen .",
+            "Und davon möchte man auch gar nicht ausgehen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to sink, to drown, to be destroyed",
+            "zatonąć, upadać",
+            "zachodzić (słońce)"
+        ],
+        "ger_list": [
+            "untergehen",
+            "Dort wirst du siegen – oder für immer untergehen .",
+            "E-Mails können oft untergehen oder vergessen werden.",
+            "Wir können darin untergehen oder daran wachsen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "(direction) towards the speaker",
+            "kierunek do mówcy"
+        ],
+        "ger_list": [
+            "her",
+            "Nach etwas hin und her ging es dann trotzdem.",
+            "So gab es ein langes hin und her .",
+            "Es ging schnell und machte was her ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "in, to come in (towards the speaker)",
+            "do środka, do wnętrza"
+        ],
+        "ger_list": [
+            "herein",
+            "Du kommst jetzt zu uns herein – sei willkommen.",
+            "Leider brach es dann aber über uns herein .",
+            "Ich schreibe sie am besten einfach mal herein ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "out, to come out (towards the speaker)"
+        ],
+        "ger_list": [
+            "heraus",
+            "Ändern kann man meistens nur von innen heraus .",
+            "Das tut jedoch niemand aus sich selbst heraus .",
+            "Das werde ich noch heraus finden müssen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "round, around",
+            "dookoła"
+        ],
+        "ger_list": [
+            "herum",
+            "Man kommt ja irgendwie nicht drum herum .",
+            "Aber man kann super gut drum herum essen!",
+            "Da muss man nicht drum herum reden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to here (towards the speaker)",
+            "tutaj, na to miejsce"
+        ],
+        "ger_list": [
+            "hierher",
+            "Wo sind wir und wie sind wir hierher gekommen?",
+            "Was hatte sie dazu verleitet hierher zu kommen?",
+            "Viele mit der Überzeugung hierher wieder mal zurückzukehren."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "out of (away from the speaker)"
+        ],
+        "ger_list": [
+            "hinaus",
+            "Über das nackte Überleben hinaus bleibt trotzdem nichts übrig.",
+            "Darüber hinaus läuft auch noch bis zum 20.",
+            "Aber darüber hinaus gibt es hier nicht viel mehr."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "in, to come in (no explicit direction)",
+            "do środka"
+        ],
+        "ger_list": [
+            "rein",
+            "Von nichts kommt aber rein gar nichts.",
+            "So sollte das doch rein technisch eigentlich klappen.",
+            "Der bezieht sich zwar nicht rein auf Österreich."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "out, to come out (no explicit direction)",
+            "wynocha, precz"
+        ],
+        "ger_list": [
+            "raus",
+            "Mit meiner 39 bin ich bestimmt eh raus .",
+            "Mal sehen ob da was raus wird.",
+            "Vielleicht findet jemand da noch genaueres raus ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "back and forth",
+            "tam i spowrotem"
+        ],
+        "ger_list": [
+            "hin und her"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "(on the) right",
+            "po prawej, na prawo"
+        ],
+        "ger_list": [
+            "rechts",
+            "Martin sitzt rechts und klickt irgendwas rum.",
+            "Nach rechts weggeworfen und wieder von vorne.",
+            "Nur irgendwie hatten wir rechts und links verwechselt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "(on the) left",
+            "po lewej"
+        ],
+        "ger_list": [
+            "links",
+            "Alle anderen werden es wahrscheinlich links liegen lassen.",
+            "Nur irgendwie hatten wir rechts und links verwechselt.",
+            "Also mal hier links mal dort rechts."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "direction, course",
+            "kierunek"
+        ],
+        "ger_list": [
+            "die Richtung",
+            "Übrigens hätte ich ihn in die andere Richtung gedreht.",
+            "Auch wenn immer wieder eine Richtung gegeben wird.",
+            "Aus den anderen Richtungen ist das kein bißchen besser."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "north",
+            "północ (kierunek)"
+        ],
+        "ger_list": [
+            "der Norden",
+            "Inzwischen hat sie auch den Norden erreicht.",
+            "Hier im Norden gab es wohl bisher noch keins.",
+            "Schaut doch stattdessen einfach mal gen Norden ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "south",
+            "południe"
+        ],
+        "ger_list": [
+            "der Süden",
+            "Wer schon mal im Süden war kennt das wahrscheinlich.",
+            "Vor allem im Süden regnet es auch noch anhaltend.",
+            "Anschließend arbeitete ich mich nach Süden vor."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "east",
+            "wschód"
+        ],
+        "ger_list": [
+            "der Osten",
+            "Richtung Osten sollte man sich gezielt umstellen.",
+            "Erst danach geht es ab gen Osten .",
+            "Von Osten bin ich sie schon ein paar mal gefahren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "west",
+            "zachód"
+        ],
+        "ger_list": [
+            "der Westen",
+            "Über den Westen waren wir relativ gut informiert.",
+            "Er spielt im \"wilden Westen \".",
+            "Im Westen sieht es noch richtig gut aus."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "where from",
+            "skąd"
+        ],
+        "ger_list": [
+            "woher",
+            "Ich musste natürlich herausfinden woher diese waren.",
+            "Egal woher ihr kommt jeder kann mitmachen.",
+            "Konnte denn schon jemand feststellen woher das kommt bei dir?"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "back",
+            "spowrotem"
+        ],
+        "ger_list": [
+            "zurück",
+            "Überhaupt halte ich mich damit ziemlich zurück .",
+            "Ich bringe dich zurück zu dir selbst.",
+            "Und natürlich kommen sie auch diesmal heil wieder zurück ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "ahead",
+            "naprzód, do przodu, z góry"
+        ],
+        "ger_list": [
+            "voraus",
+            "Darin ist er uns oft sehr weit voraus .",
+            "Dafür bedanken wir uns schon einmal im voraus .",
+            "Das setzt voraus dass sie schlecht verlieren können."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "away",
+            "odejść, być nieobecnym"
+        ],
+        "ger_list": [
+            "weg",
+            "Ich bin sooo froh wenn das weg ist.",
+            "Es muss ja auch nicht gleich weit weg sein.",
+            "Wer wohl da hin und weg war?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "on the way",
+            "po drodze, w drodze"
+        ],
+        "ger_list": [
+            "unterwegs",
+            "Ich bin unterwegs und muss dann daheim blättern.",
+            "Allein ist man allerdings meist nicht unterwegs .",
+            "Man ist mehr unterwegs als man es sein möchte."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to stop, pull up, endure, linger",
+            "zatrzymać się, zatrzymać, wstrzymać"
+        ],
+        "ger_list": [
+            "anhalten",
+            "Lange anhalten wird dies wahrscheinlich nicht mehr.",
+            "Einfach losfahren und anhalten wo es einem gefällt.",
+            "Wer weis wie lange es anhalten wird."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to point out, to point to, to demonstrate, to reveal",
+            "demonstrować, wykazywać"
+        ],
+        "ger_list": [
+            "aufzeigen",
+            "Und die müssen wir ihnen jetzt deutlich aufzeigen .",
+            "Ich möchte hier lediglich eine Option aufzeigen .",
+            "Ich möchte mal zwei unterschiedliche Wege kurz aufzeigen ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "sad",
+            "smutny"
+        ],
+        "ger_list": [
+            "traurig",
+            "Ich bin weder traurig noch fühle ich mich abgewiesen.",
+            "Dieser sollte düster wirken und etwas traurig .",
+            "Was irgendwie traurig aber auch verständlich ist."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "easy, simple",
+            "łatwy"
+        ],
+        "ger_list": [
+            "einfach",
+            "Überall kann man einfach nicht dabei sein!",
+            "Über \"die da oben\" macht es sich einfacher lustig.",
+            "Über beide sind wir einfach zu finden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "funny",
+            "zabawny"
+        ],
+        "ger_list": [
+            "lustig",
+            "Übrigens finde ich ich beide nicht sehr lustig .",
+            "Über \"die da oben\" macht es sich einfacher lustig .",
+            "Über wen macht man sich hier eigentlich lustig ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "ready (as in finished doing a task)",
+            "gotowy, skończony, ukończony"
+        ],
+        "ger_list": [
+            "fertig",
+            "Ob ich den heute noch fertig bekomme?",
+            "Nochmal \"klick\" und er ist fertig zum mitnehmen.",
+            "Irgendwie macht mich predigen immer total fertig ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "not"
+        ],
+        "ger_list": [
+            "nicht",
+            "Üben allein reicht aber bei weitem nicht aus.",
+            "Übrigens finde ich ich beide nicht sehr lustig.",
+            "Über mich gibt es nicht viel zu sagen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "healthy",
+            "zdrowy"
+        ],
+        "ger_list": [
+            "gesund",
+            "Ärzte sollen ihm helfen wieder gesund zu werden.",
+            "Und das soll dann speziell gesund sein.",
+            "Sie machen wirklich satt und schmecken gesund und lecker."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "stock, share (in stock market)",
+            "akcja (papier wartościowy)"
+        ],
+        "ger_list": [
+            "die Aktie",
+            "Zudem waren deren Aktien damals deutlich überbewertet.",
+            "Das heißt die verkauften Aktien müssen später gekauft werden.",
+            "Was aber hat dies mit den Aktien zu tun?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "(men's) suit",
+            "garnitur"
+        ],
+        "ger_list": [
+            "der Anzug",
+            "Diese würden zu dem schicken Anzug nicht passen.",
+            "Man darf es sogar zum Anzug ohne weiteres tragen.",
+            "Natürlich sieht der Anzug nicht mehr aus wie neu."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "contribution, fee",
+            "składka, wkład, wpis"
+        ],
+        "ger_list": [
+            "der Beitrag",
+            "Über einen hilfreichen Beitrag würde ich mich sehr freuen.",
+            "Über jeden Beitrag sind wir äusserst dankbar.",
+            "Über meinen eigenen Beitrag muss ich noch nachdenken."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "advice, consultation",
+            "porada, konsultacja",
+            "narada, obrady"
+        ],
+        "ger_list": [
+            "die Beratung",
+            "Die Beratungen sind kostenfrei und absolut vertraulich.",
+            "Eine umfassende Beratung ist für uns selbstverständlich.",
+            "Eine Beratung ist natürlich unverbindlich und kostenlos."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "order",
+            "zamówienie"
+        ],
+        "ger_list": [
+            "die Bestellung",
+            "Über jede einzelne Bestellung freut sie sich!",
+            "Über ihn kannst du nun eine Bestellung auslösen.",
+            "Über jede Bestellung würden wir uns sehr freuen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "application, job application",
+            "podanie, aplikacja"
+        ],
+        "ger_list": [
+            "die Bewerbung",
+            "Über eine Bewerbung würden wir uns sehr freuen.",
+            "Über jede Bewerbung freuen wir uns sehr.",
+            "Bisher sei jedoch keine einzige Bewerbung eingegangen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "bureau, office",
+            "biuro"
+        ],
+        "ger_list": [
+            "das Büro",
+            "Wie halte ich mich im Büro fit?",
+            "Ich habe von solch einem Büro noch nie etwas gehört.",
+            "Überall ist das \" Büro der guten Laune\" vertreten."
+        ],
+        "hardness": 1
+    }
+]

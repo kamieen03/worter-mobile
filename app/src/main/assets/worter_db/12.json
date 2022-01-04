@@ -1,0 +1,1303 @@
+[
+    {
+        "poleng_list": [
+            "clinic",
+            "klinika"
+        ],
+        "ger_list": [
+            "die Klinik",
+            "Über diese Klinik kann ich eigentlich nur gutes berichten.",
+            "Diese Klinik existiert und arbeitet bis heute.",
+            "Dort wurden wir über die Klinik allgemein informiert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "therapy",
+            "terapia"
+        ],
+        "ger_list": [
+            "die Therapie",
+            "Über 80 Therapien werden beschrieben und erläutert.",
+            "Das wirkt sich auch auf die Therapie aus.",
+            "Täter melden sich jedoch eher selten freiwillig für Therapie ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "alcohol",
+            "kohol"
+        ],
+        "ger_list": [
+            "der Alkohol",
+            "Es wurde gegessen und der Alkohol floss.",
+            "Er ist dem Alkohol verfallen und pleite.",
+            "Beim Alkohol ist man da etwas großzügiger."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "diet",
+            "dieta"
+        ],
+        "ger_list": [
+            "die Diät",
+            "Übrigens wurde sie hier ohnehin nicht auf Diät gesetzt.",
+            "Und was ist das wichtigste bei einer Diät ?",
+            "Zusätzlich hält sie eine mehr oder weniger strenge Diät ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "nutrition",
+            "odżywianie"
+        ],
+        "ger_list": [
+            "die Ernährung",
+            "Ähnlich verhält es sich mit der Ernährung .",
+            "Über gesunde Ernährung habe ich euch ja schon oft informiert.",
+            "Über die \"richtige\" Ernährung wird viel geredet und geschrieben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "dentist",
+            "dentysta"
+        ],
+        "ger_list": [
+            "der Zahnarzt",
+            "Daraufhin übergab sie sich spontan auf den Zahnarzt .",
+            "Zugegeben ich gehe nicht gerne zum Zahnarzt .",
+            "Sie müssen umziehen und sich entsprechend einen neuen Zahnarzt suchen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "community",
+            "społeczność"
+        ],
+        "ger_list": [
+            "die Gemeinde",
+            "Über interessierte Gemeinden freuen wir uns sehr.",
+            "Und auch noch heute ist die Gemeinde überwiegend landwirtschaftlich geprägt.",
+            "Darauf lassen wir uns als große und bunte Gemeinde ein."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "club, association, union",
+            "stowarzyszenie, klub"
+        ],
+        "ger_list": [
+            "der Verein",
+            "Übrigens sind wir ein recht junger Verein .",
+            "CMS Verein wird stetig verbessert und weiterentwickelt.",
+            "Mitglieder der Vereine zahlen nur 61 €."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "public",
+            "opinia publiczna, ogół"
+        ],
+        "ger_list": [
+            "die Öffentlichkeit",
+            "Über sie wird häufig in der Öffentlichkeit sehr kontrovers diskutiert.",
+            "Das alles darf jetzt die Öffentlichkeit erfahren.",
+            "Wegen der Öffentlichkeit sind oft Öffnungszeiten festgelegt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "connection (e.g. train), link, alliance",
+            "połączenie, łączność, łącze"
+        ],
+        "ger_list": [
+            "die Verbindung",
+            "Er empfindet eine spezielle Verbindung zwischen ihnen.",
+            "Das hier sollte eine kleine Verbindung werden.",
+            "Nun geht es daran eine neue Verbindung zu konfigurieren."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "relationship, affair",
+            "stosunek, relacja"
+        ],
+        "ger_list": [
+            "das Verhältnis",
+            "Über den schreibst du ja im Verhältnis recht wenig.",
+            "Damit leben wir schon jetzt über unseren Verhältnissen .",
+            "Deutschland braucht gerade jetzt klare und stabile Verhältnisse ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "user",
+            "użytkownik"
+        ],
+        "ger_list": [
+            "der Nutzer",
+            "Über 200 000 Nutzer haben schon abgestimmt.",
+            "Diese wurde von den Nutzern nicht erreicht.",
+            "Dadurch sollen sicherlich auch wieder neue Nutzer gewonnen werden."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "population",
+            "ludność"
+        ],
+        "ger_list": [
+            "die Bevölkerung",
+            "Unterstützung gibt es quer durch die Bevölkerung .",
+            "Über das Ergebnis wird die Bevölkerung rechtzeitig informiert.",
+            "Die Bevölkerung soll einfach nichts zu sagen haben."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "youth",
+            "młodość, młodzież"
+        ],
+        "ger_list": [
+            "die Jugend",
+            "Diesmal sollte mehr die Jugend gefördert werden.",
+            "Ganz anders stand es um die Jugend .",
+            "Erdogan sollte stolz auf seine Jugend sein."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "membership",
+            "członkostwo"
+        ],
+        "ger_list": [
+            "die Mitgliedschaft",
+            "Die Mitgliedschaft ist kostenlos kann jederzeit beendet werden.",
+            "Die Mitgliedschaft lohnt sich jetzt noch mehr.",
+            "Damit würde dann auch die freiwillige Mitgliedschaft enden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "inhabitant",
+            "mieskzaniec"
+        ],
+        "ger_list": [
+            "der Einwohner",
+            "Mehrere hundert Einwohner mussten bereits vorsorglich evakuiert werden.",
+            "Hektik scheinen ihre Einwohner nicht zu kennen.",
+            "Aber deine Einwohner lassen mich alles vergessen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "pair",
+            "para"
+        ],
+        "ger_list": [
+            "das Paar"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to visit",
+            "odwiedzać, uczęszczać (na kurs)"
+        ],
+        "ger_list": [
+            "besuchen",
+            "Vielleicht besuchen sie uns ja nochmal wieder.",
+            "Bis dahin werde ich dich aber noch öfters besuchen kommen.",
+            "Vielleicht gehen wir die ja mal besuchen ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "animals",
+            "zwierzęta"
+        ],
+        "ger_list": [
+            "die Tiere",
+            "Über 400 heimische Tiere kann man hier bewundern.",
+            "Danach können die Tiere ohne weiteres abgeholt werden.",
+            "Sie fixieren zuerst die Tiere und dann schießen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cats",
+            "koty"
+        ],
+        "ger_list": [
+            "die Katzen",
+            "Überhaupt unterschied sie sich von unseren Katzen .",
+            "Was schwierig werden könnte für unsere Katzen .",
+            "Ruby und die Katzen kommen immer besser miteinander klar."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "dogs",
+            "psy"
+        ],
+        "ger_list": [
+            "die Hunde",
+            "Die Hunde kamen damit prima zu recht.",
+            "Mehr Hunde nehmen wir nicht gleichzeitig auf.",
+            "Und nicht zuletzt – zufriedene und entspannte Hunde ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "fish (pl.)",
+            "ryby"
+        ],
+        "ger_list": [
+            "die Fische",
+            "Und wie sollen denn unsere Fische aussehen!",
+            "Wobei ich dort nicht viele Fische gesehen habe.",
+            "Die Fische ließen nicht sehr lange auf sich warten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "tomatoes",
+            "pomidory"
+        ],
+        "ger_list": [
+            "die Tomaten",
+            "Und mit den Tomaten haben wir dann auch tatsächlich angefangen.",
+            "War ja klar das wir Tomaten ernten würden.",
+            "Die getrockneten Tomaten aus dem Öl nehmen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "strawberries",
+            "truskawki"
+        ],
+        "ger_list": [
+            "die Erdbeeren",
+            "Mit Erdbeeren klingt aber schon besonders toll!",
+            "Uns gehen schön langsam die Erdbeeren aus.",
+            "Auf meine geliebten Erdbeeren muss ich leider verzichten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "newspapers",
+            "gazety"
+        ],
+        "ger_list": [
+            "die Zeitungen",
+            "Warum schreibt keine unserer großen Zeitungen darüber?",
+            "Darüber zu berichten würde einigen Zeitungen stehen.",
+            "Und natürlich auch wie alle anderen Zeitungen sich verhalten werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "girls"
+        ],
+        "ger_list": [
+            "die Mädchen",
+            "Übrigens haben nicht nur die Mädchen etwas geleistet.",
+            "Wenn man dabei über ein Mädchen stolpert?",
+            "Tausende Mädchen haben bereits mitgemacht und waren begeistert."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "insects",
+            "owady"
+        ],
+        "ger_list": [
+            "die Insekten",
+            "Doch auch hier können sich Insekten tummeln.",
+            "Vögel und Insekten haben es schon immer vorgemacht.",
+            "Schuld sind – genau – die Insekten ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "oranges",
+            "pomarańcze"
+        ],
+        "ger_list": [
+            "die Orangen",
+            "Man kann ihn aus Orangen gewinnen oder fertig verpackt kaufen.",
+            "Haben sich die Orangen bereits selbst aufgegeben?",
+            "Wo und wie werden die Orangen geerntet?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "apples",
+            "jabłka"
+        ],
+        "ger_list": [
+            "die Äpfel",
+            "Man muss natürlich Äpfel mit Äpfeln vergleichen.",
+            "Daher von mir 5 von 5 Äpfel .",
+            "Ich fand vor allem die Äpfel interessant."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "eggs",
+            "jaja"
+        ],
+        "ger_list": [
+            "die Eier",
+            "So konnten viele Eier hergestellt und bemalt werden.",
+            "Er setzt sich neben die Eier und wartet.",
+            "Hier legen sie dann ihre Eier ab."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cows",
+            "krowy"
+        ],
+        "ger_list": [
+            "die Kühe",
+            "Am meisten haben mir es die Kühe angetan.",
+            "Heilige Kühe darf es nicht mehr geben.",
+            "Dabei darf und wird es keine heiligen Kühe geben."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "pigs",
+            "świnie"
+        ],
+        "ger_list": [
+            "die Schweine",
+            "Es wurden neben den üblichen keine Schweine gesichtet.",
+            "Und die armen Schweine können gleich mal gar nix dafür.",
+            "Sie müssen die grünen Schweine treffen um sie zu zerstören."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "birds",
+            "ptaki"
+        ],
+        "ger_list": [
+            "die Vögel",
+            "Ob die Vögel auch unter sind kann ich nicht sagen.",
+            "Ich wußte nicht das es schöne Vögel gibt.",
+            "Damals wurden insgesamt über 50 Vögel gesichtet."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "bears",
+            "misie"
+        ],
+        "ger_list": [
+            "die Bären",
+            "So wechseln sich unsere Bären immer schön ab.",
+            "Dort begegnet er auf einmal einem Bären .",
+            "Da gilt es für die Bären einiges gut zu machen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "ducks",
+            "kaczki"
+        ],
+        "ger_list": [
+            "die Enten",
+            "Aber vielleicht haben wir die Enten auch nur falsch verstanden.",
+            "Ich liebe Enten und beobachte sie sehr gerne.",
+            "Andere eigene Enten sind deshalb nicht zugelassen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "mice",
+            "mysza"
+        ],
+        "ger_list": [
+            "die Mäuse",
+            "Grau ist nicht nur für graue Mäuse da.",
+            "Und natürlich dürfen die obligatorischen weißen Mäuse nicht fehlen!",
+            "Schließlich kümmern wir uns ja jetzt um die Mäuse ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "spuds, potatoes",
+            "ziemniaki"
+        ],
+        "ger_list": [
+            "die Kartoffeln",
+            "Wo halten sich die Kartoffeln am besten?",
+            "Wir sammelten alle Kartoffeln ein und sortierten sie anschließend.",
+            "Die \"eigenen\" Kartoffeln schmecken natürlich ganz anders."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "people",
+            "ludzie"
+        ],
+        "ger_list": [
+            "die Menschen",
+            "Über 9000 Menschen wurden mittlerweile gefangen genommen.",
+            "Ältere Menschen haben zunehmend mit Übergewicht zu kämpfen.",
+            "Über 38 Menschen sollen sich verletzt haben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "spiders",
+            "pająki"
+        ],
+        "ger_list": [
+            "die Spinnen",
+            "Dabei erzählt sie natürlich auch vom Spinnen .",
+            "Und man kann Spinnen aus ihnen basteln.",
+            "Und genau davor sind die Spinnen gewarnt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "bananas",
+            "banany"
+        ],
+        "ger_list": [
+            "die Bananen",
+            "Und was haben sie mit schwarzen Bananen zu tun?",
+            "Und kann man Äpfel mit Bananen vergleichen?",
+            "Äpfel oder Bananen sind gute Snacks für zwischendurch."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "horses",
+            "konie"
+        ],
+        "ger_list": [
+            "die Pferde",
+            "Irgendwie werden die beiden Pferde uns fehlen.",
+            "Nu mal ganz langsam mit die Pferde .",
+            "Meine Pferde und ich selbst sind gut vorbereitet."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to stand",
+            "stać"
+        ],
+        "ger_list": [
+            "stehen",
+            "AGB stehen aber noch komplett gleich drinnen oder?",
+            "Wir haben uns darauf ausgerichtet nicht stehen zu bleiben.",
+            "Sie stehen hier und warten nun auf euch."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to work",
+            "pracować"
+        ],
+        "ger_list": [
+            "arbeiten",
+            "Wenn ihr nachmittags bis abends arbeiten müsst?",
+            "Und da sollten wir wieder dran arbeiten .",
+            "Ich lasse sie lieber für mich arbeiten statt andersherum."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to know (knowledge)",
+            "wiedzieć"
+        ],
+        "ger_list": [
+            "wissen",
+            "Jetzt wissen wir noch ein bisschen mehr über dich.",
+            "Aber vielleicht wissen sie es nicht besser.",
+            "Würden sie es wissen würden sie es veröffentlichen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to happen, to pass",
+            "zdarzać się, przekraczać"
+        ],
+        "ger_list": [
+            "passieren",
+            "Dann darf das nämlich nicht wirklich passieren .",
+            "Ständig sollte das natürlich auch nicht passieren .",
+            "Trotzdem hätte insgesamt noch mehr passieren dürfen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to find",
+            "znaleźć"
+        ],
+        "ger_list": [
+            "finden",
+            "Über beide sind wir einfach zu finden .",
+            "So kompakt wird man das wohl nirgends sonst finden .",
+            "Alles ist übersichtlich dargestellt und rasch zu finden ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to change",
+            "zmienić"
+        ],
+        "ger_list": [
+            "ändern",
+            "Und hier muss sich dringend was ändern .",
+            "Daran soll sich auch künftig nichts ändern .",
+            "Das soll sich nun wieder etwas ändern ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to allow",
+            "pozwolić"
+        ],
+        "ger_list": [
+            "erlauben",
+            "Damit konnte man sich nicht mehr viel erlauben .",
+            "Sie können sich gar nicht erlauben teuer zu sein.",
+            "Wir erlauben uns zu denken dass alles denkbar ist."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to seem, to shine",
+            "świecić, wydawać się"
+        ],
+        "ger_list": [
+            "scheinen",
+            "Überhaupt scheinen hier alle irgendwie verdächtig zu sein.",
+            "Ärger scheinen sie aber im Überfluss zu haben.",
+            "Das scheinen die allerdings irgendwie vergessen zu haben."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to collect",
+            "zbierać, kolekcjonować"
+        ],
+        "ger_list": [
+            "sammeln",
+            "Und davon gilt es noch einige zu sammeln .",
+            "Punkte sammeln kann man heutzutage fast überall.",
+            "Pilze sammeln finde ich schon immer interessant."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to function",
+            "funkcjonować"
+        ],
+        "ger_list": [
+            "funktionieren",
+            "Scheint aber nicht 100% zu funktionieren .",
+            "Würde gerne mal von denjenigen wissen wie das funktionieren soll?",
+            "Bisher scheint sie recht gut zu funktionieren ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to wait",
+            "czekać"
+        ],
+        "ger_list": [
+            "warten",
+            "Da ist halt für viele noch warten angesagt.",
+            "Sie stehen hier und warten nun auf euch.",
+            "Diese sind nun erfasst und warten darauf entdeckt zu werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to search",
+            "szukać"
+        ],
+        "ger_list": [
+            "suchen",
+            "Wir sind real und suchen auch nur real.",
+            "Auch suchen wir derzeit noch einen Übungsleiter.",
+            "Sie haben etwas verloren und suchen danach?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to hope",
+            "mieć nadzieję"
+        ],
+        "ger_list": [
+            "hoffen",
+            "Wir hoffen auf wunder und es passiert nichts.",
+            "Wollen wir mal hoffen dass alles gut geht.",
+            "Wir hoffen dennoch darauf und fahren ja sowieso hin."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to take",
+            "wziąć"
+        ],
+        "ger_list": [
+            "nehmen",
+            "Übel würde ich es ihnen nicht nehmen .",
+            "Vorschläge hierfür nehmen wir auch gern entgegen.",
+            "Und man muss nicht alles tierisch ernst nehmen ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to take over, to undertake, to assume, to accept",
+            "przejmować, brać w posiadanie",
+            "obejmować (urząd)",
+            "brać na siebie (odpowiedzialność)"
+        ],
+        "ger_list": [
+            "übernehmen",
+            "Und daß er angegeben hat alles zu übernehmen .",
+            "Das sollte man auch bei uns übernehmen .",
+            "Verantwortung wollen sie dafür aber nicht übernehmen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to think (opinion)",
+            "uważać (że)"
+        ],
+        "ger_list": [
+            "meinen",
+            "Aber die meinen das ja wirklich ernst!",
+            "Und sie verstehen sich mit meinen anderen 3 wunderbar.",
+            "Einige von ihnen meinen das auch wirklich ernst."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to sing",
+            "śpiewać"
+        ],
+        "ger_list": [
+            "singen",
+            "Fast genauso hätte ich auch singen können.",
+            "Die kann ich doch unmöglich alle selber singen !",
+            "Aber ich kann auch nicht wirklich singen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to meet",
+            "spotkać"
+        ],
+        "ger_list": [
+            "treffen",
+            "Wir hätten es nicht besser treffen können.",
+            "War witzig die beiden wieder zu treffen .",
+            "Wen soll es nun am meisten treffen ?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to use (an object)",
+            "używać"
+        ],
+        "ger_list": [
+            "benutzen",
+            "Er kann sie häufig besser benutzen als die anderen.",
+            "Werde sie aber demnächst mal wieder benutzen .",
+            "Schließlich benutzen sie diese auch fast täglich."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to replace",
+            "zastąpić"
+        ],
+        "ger_list": [
+            "ersetzen",
+            "Mit einem Österreicher zu ersetzen wohl verdammt schwer.",
+            "Aber ersetzen kann sie leider trotzdem niemand.",
+            "Sylvia ist nach wie vor nicht zu ersetzen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to close",
+            "zamknąć"
+        ],
+        "ger_list": [
+            "schließen",
+            "Diese lassen sich oftmals nur durch ausprobieren schließen .",
+            "Augen schließen und einfach zuhören – herrlich!",
+            "Radeln und schlemmen schließen sich nicht aus."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to put (in an upright position)",
+            "stawiać"
+        ],
+        "ger_list": [
+            "stellen",
+            "Er kann ihn hoch stellen oder gar nichts tun.",
+            "Dennoch möchte ich sie hier online stellen .",
+            "Einige könnte man jedoch schon etwas leiser stellen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to order, to appoint, to till (soil)",
+            "zamawiać, rezerwować",
+            "uprawiać (pole)"
+        ],
+        "ger_list": [
+            "bestellen",
+            "Die müsstest du dann noch extra bestellen .",
+            "Hast du denn bereits den neuen bestellen können?",
+            "Über unseren Onlineshop ist ein einfaches bestellen möglich."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to recognize, to realize, to detect",
+            "rozpoznać, rozumieć, zorientować się"
+        ],
+        "ger_list": [
+            "erkennen",
+            "Das ist nicht immer leicht zu erkennen .",
+            "Der ist wirklich nicht wieder zu erkennen .",
+            "Doch dafür muss es ihn zunächst erkennen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to test, to prove, to examine",
+            "sprawdzać, egzaminować, kontrolować"
+        ],
+        "ger_list": [
+            "prüfen",
+            "Muss ich jetzt selbst prüfen und überwachen.",
+            "Man soll prüfen bevor man sich endlich bindet.",
+            "Aber dies gilt es noch genau zu prüfen ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to hold, to keep, to retain",
+            "trzymać, zatrzymywać się",
+            "podtrzymywać (argument)",
+            "sądzić (coś o kimś)"
+        ],
+        "ger_list": [
+            "halten",
+            "Ich weiß jetzt nicht wirklich was ich davon halten soll.",
+            "Man hat es ja kaum für möglich gehalten .",
+            "Diese müssen natürlich auch noch aktuell gehalten und moderiert werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to subscribe",
+            "subskrybować"
+        ],
+        "ger_list": [
+            "abonnieren",
+            "Deshalb sagt man auch \" abonnieren \" dazu.",
+            "Sie möchten die nah dran kostenfrei abonnieren ?",
+            "Man muss sie ja weder abonnieren noch kaufen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to stroll",
+            "spacerować"
+        ],
+        "ger_list": [
+            "spazieren",
+            "Also mehr als nur spazieren gehen oder spielen.",
+            "Wir waren das noch ein wenig spazieren .",
+            "Wir gehen auch gemeinsam einkaufen oder spazieren ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to stay",
+            "pozostać"
+        ],
+        "ger_list": [
+            "bleiben",
+            "Bewegung soll schmerzfrei sein und auch bleiben .",
+            "Wir haben uns darauf ausgerichtet nicht stehen zu bleiben .",
+            "Bis dahin heißt es weiterhin online bleiben ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to rise",
+            "rosnąć, podnosić się, wspinać się"
+        ],
+        "ger_list": [
+            "steigen",
+            "Dann kann es ja nur noch steigen !",
+            "So entschlossen wir uns noch höher zu steigen .",
+            "Aber ich denke die werden noch weiter steigen !"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to expand",
+            "rozszerzać"
+        ],
+        "ger_list": [
+            "erweitern",
+            "Wir könnten und würden gern dauernd anbauen und erweitern .",
+            "Die ich nach und nach noch erweitern werde.",
+            "Wissen kann man bis ins unendlich erweitern ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to lack",
+            "brakować"
+        ],
+        "ger_list": [
+            "fehlen",
+            "Hier durften und wollten wir ja nicht fehlen .",
+            "Sie fehlen entweder ganz oder sind gut versteckt.",
+            "Wobei hier wohl doch einer fehlen dürfte."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to steal",
+            "kraść"
+        ],
+        "ger_list": [
+            "stehlen",
+            "Abschließend verschwanden sie ohne etwas zu stehlen .",
+            "Dann haben wir uns entschlossen zu stehlen .",
+            "Danach verschwanden sie ohne etwas zu stehlen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to accept",
+            "akceptować"
+        ],
+        "ger_list": [
+            "akzeptieren",
+            "Und weil ich nicht akzeptieren und annehmen kann.",
+            "Das muss man akzeptieren und das tun wir auch.",
+            "Muss er das gar als \"gegeben\" akzeptieren ?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to miss (a scheduled thing)",
+            "przegapić"
+        ],
+        "ger_list": [
+            "verpassen",
+            "Er war wohl auch sicher nichts zu verpassen .",
+            "Da konnte man schon den einen oder anderen verpassen .",
+            "Es gibt viel zu entdecken und viel zu verpassen ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to be pleasing",
+            "podobać się"
+        ],
+        "ger_list": [
+            "gefallen",
+            "Und dies sollten wir uns nicht gefallen lassen.",
+            "Und es hat mir da wahrlich gefallen .",
+            "Muss ich mir das wirklich gefallen lassen?"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to be able to",
+            "móc"
+        ],
+        "ger_list": [
+            "können",
+            "Über genaueres können wir uns aber noch unterhalten.",
+            "Über manches von gestern können wir heute lachen.",
+            "Österreich wird sich nicht ewig verschließen können ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to look, to watch",
+            "patrzeć, spoglądać, oglądać"
+        ],
+        "ger_list": [
+            "schauen",
+            "Einfach vorbei schauen und sich selbst überzeugen.",
+            "Wir müssen aber nur auf uns schauen .",
+            "Mal schauen ob ich noch was finde."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to get off (e.g. a vehicle)",
+            "wysiadać"
+        ],
+        "ger_list": [
+            "aussteigen",
+            "Mal eben aussteigen und alles anders machen?",
+            "Die müssen jetzt alle \" aussteigen \".",
+            "Obwohl ich bei km 30 kurz vor dem aussteigen war."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to occur, to happen",
+            "zdarzać się",
+            "występować"
+        ],
+        "ger_list": [
+            "vorkommen",
+            "Sie ist aber relativ selten und muss nicht vorkommen .",
+            "Das kann vorkommen und dagegen wurde etwas unternommen.",
+            "So wenig wie möglich sollte sie physisch vorkommen ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to love",
+            "kochać"
+        ],
+        "ger_list": [
+            "lieben",
+            "Einfach nur lieben und sich fallen lassen.",
+            "Katzen lieben es eben weich und warm.",
+            "Hunde lieben uns bedingungslos und sind immer für uns da."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to call",
+            "wzywać, wołać"
+        ],
+        "ger_list": [
+            "rufen",
+            "Wir haben gerufen und ihr habt geantwortet.",
+            "Sie hören super wenn sie gerufen werden.",
+            "Oder er hätte sie laut rufen können."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to solve, to free",
+            "rozwiązywać (problem)"
+        ],
+        "ger_list": [
+            "lösen",
+            "Selbst verständlich lösen wir uns nicht auf!",
+            "Beziehungen lösen sich auf und setzen sich überraschend neu zusammen.",
+            "Doch sie lösen sich einfach nicht auf."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to deal, trade, haggle, act",
+            "działać, obchodzić się z, handlować"
+        ],
+        "ger_list": [
+            "handeln",
+            "Wie wir uns selbst gegenüber handeln vergessen wir vielleicht manchmal.",
+            "Google soll dabei \"menschlich\" handeln .",
+            "Es muss sich jedoch nicht um professionelle Übersetzer handeln ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to advise, to discuss",
+            "doradzać, omawiać, obradować"
+        ],
+        "ger_list": [
+            "beraten",
+            "Überhaupt solltest du dich hierbei sehr gut beraten lassen.",
+            "Bis jetzt fühle ich mich sehr gut beraten und behandelt.",
+            "Bei wem kann ich mich beraten lassen?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to offer",
+            "oferować"
+        ],
+        "ger_list": [
+            "bieten",
+            "Berlin hat für jeden etwas zu bieten .",
+            "Südafrika hat wirklich für jeden etwas zu bieten .",
+            "Wir haben aber noch mehr zu bieten ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to notice",
+            "zauważyć"
+        ],
+        "ger_list": [
+            "merken",
+            "Den kann man sich nämlich wirklich gut merken .",
+            "Auch diese lassen sich ganz leicht merken .",
+            "Ob jene nicht mehr merken was sie da wirklich sagen?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to explain",
+            "wyjaśnić",
+            "wypowiadać (wojnę)"
+        ],
+        "ger_list": [
+            "erklären",
+            "Was das heisst muss ich ja nicht noch erklären .",
+            "Wie soll man dann das jedem erklären können?",
+            "Letztere kann ich mir aber überhaupt nicht erklären ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to become",
+            "stać się"
+        ],
+        "ger_list": [
+            "werden",
+            "Änderungen danach können nicht mehr berücksichtigt werden .",
+            "Änderungen werden hier eingefügt und bekannt gegeben!",
+            "Ärzte sollen ihm helfen wieder gesund zu werden ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to forget",
+            "zapomnieć"
+        ],
+        "ger_list": [
+            "vergessen",
+            "Ach ja – fast hätte ich es vergessen .",
+            "Es wird gern mal \" vergessen \"!",
+            "Wie wir uns selbst gegenüber handeln vergessen wir vielleicht manchmal."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to talk",
+            "mówić"
+        ],
+        "ger_list": [
+            "sprechen",
+            "Über letzteren haben wir auch gut zu sprechen .",
+            "Über letzteres möchte ich aber bitte nie wieder sprechen .",
+            "Über alles weitere können wir dann sprechen ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to talk, speak, discourse, orate",
+            "mówić, rozmawiać"
+        ],
+        "ger_list": [
+            "reden",
+            "Über die wollen wir hier nicht reden .",
+            "Über den müssen wir dann ja auch einmal reden .",
+            "Über all das muss man gemeinsam reden ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to protect",
+            "chronić"
+        ],
+        "ger_list": [
+            "schützen",
+            "Wie kann man sich gegen dieses oder jenes schützen ?",
+            "Sich zu schützen ist wirklich ganz einfach.",
+            "Wie kann man sich nun dagegen schützen ?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to be correct, to apply to",
+            "dotyczyć, odpowiadać, pasować"
+        ],
+        "ger_list": [
+            "zutreffen",
+            "Das dürfte nur auf sehr wenige zutreffen .",
+            "Das dürfte auf etwa 50% zutreffen .",
+            "Das würde jetzt schon auf mich zutreffen ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "love",
+            "miłoś"
+        ],
+        "ger_list": [
+            "die Liebe"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "dream",
+            "sen",
+            "marzenie"
+        ],
+        "ger_list": [
+            "der Traum",
+            "Dabei leben sie doch einfach nur ihren Traum .",
+            "Doch war es wirklich nur ein Traum ?",
+            "Da war der Traum auch schon wieder vorbei."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to dream",
+            "śnić, marzyć"
+        ],
+        "ger_list": [
+            "träumen",
+            "Dabei auch noch ein wenig träumen und alles ist perfekt.",
+            "Man wird ja wohl noch träumen dürfen.",
+            "Hätte ich mir auch nie träumen lassen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "pleasure, desire",
+            "ochota, chęć, żądza, pociąg"
+        ],
+        "ger_list": [
+            "die Lust",
+            "Doch ich habe keine große Lust zu suchen.",
+            "Ich hatte mal wieder Lust auf rot.",
+            "Irgendwie hab ich jetzt die Lust verloren."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "need, distress, hardship",
+            "potrzeba, bieda, nędza, problem"
+        ],
+        "ger_list": [
+            "die Not",
+            "Aus der Not heraus ist auch das möglich.",
+            "Dazu müssen sie aber auch von der Not wissen.",
+            "Häufig war ihnen die bestehende Not aber auch bereits bekannt."
+        ],
+        "hardness": 2
+    }
+]

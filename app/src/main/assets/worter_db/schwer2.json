@@ -1,0 +1,961 @@
+[
+    {
+        "poleng_list": [
+            "zeznawać"
+        ],
+        "ger_list": [
+            "aussagen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "wspomniany"
+        ],
+        "ger_list": [
+            "besagt"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "komunikat"
+        ],
+        "ger_list": [
+            "die Durchsage"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "rezygnować"
+        ],
+        "ger_list": [
+            "verzichten"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "zazdrościć"
+        ],
+        "ger_list": [
+            "neiden, beneiden"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "plotka"
+        ],
+        "ger_list": [
+            "das Gerücht"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "plotkować"
+        ],
+        "ger_list": [
+            "klatschen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "zawieść, fail"
+        ],
+        "ger_list": [
+            "versagen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "zwolnić (pracownika)"
+        ],
+        "ger_list": [
+            "entlassen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "fakt"
+        ],
+        "ger_list": [
+            "die Tatsache"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "podpowiadać"
+        ],
+        "ger_list": [
+            "vorsagen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "zabraniać, zakazywać"
+        ],
+        "ger_list": [
+            "untersagen, verbieten"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "znać coś ze słyszenia"
+        ],
+        "ger_list": [
+            "etwas vom Hörensagen kennen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "kłopot"
+        ],
+        "ger_list": [
+            "der Umstand, die Sorge, die Not"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "ofiara"
+        ],
+        "ger_list": [
+            "das Opfer"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "rozsądny"
+        ],
+        "ger_list": [
+            "vernünftig"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "wieczność"
+        ],
+        "ger_list": [
+            "die Ewigkeit"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "poznać się"
+        ],
+        "ger_list": [
+            "sich kennenlernen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "pozbyć się"
+        ],
+        "ger_list": [
+            "loswerden"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "rozmyślać, zastanawiać się"
+        ],
+        "ger_list": [
+            "nachdenken"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "rozważać, zastanawiać się"
+        ],
+        "ger_list": [
+            "überlegen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "wskazać"
+        ],
+        "ger_list": [
+            "hinweisen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "usunąć"
+        ],
+        "ger_list": [
+            "beheben"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "przychodzić na myśl"
+        ],
+        "ger_list": [
+            "einfallen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "na pamięć"
+        ],
+        "ger_list": [
+            "auswendig"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wziąż, nadal, ciągle"
+        ],
+        "ger_list": [
+            "immer noch"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "już nie"
+        ],
+        "ger_list": [
+            "nicht mehr"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "huragan"
+        ],
+        "ger_list": [
+            "der Hurrikan"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "straszny, okropny"
+        ],
+        "ger_list": [
+            "furchtbar"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "poszerzać"
+        ],
+        "ger_list": [
+            "erweitern"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "zabierać się za coś"
+        ],
+        "ger_list": [
+            "sich daransetzen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wstawiać się za czymś"
+        ],
+        "ger_list": [
+            "sich einsetzen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "zajmować, okupować"
+        ],
+        "ger_list": [
+            "besetzen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "chwila"
+        ],
+        "ger_list": [
+            "die Weile"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "porzucać, wystawiać, narażać się"
+        ],
+        "ger_list": [
+            "aussetzen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "zdejmować, odstawiać (np. leki)"
+        ],
+        "ger_list": [
+            "absetzen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "przeforsować, zyskać na popularności"
+        ],
+        "ger_list": [
+            "durchsetzen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "przerażać"
+        ],
+        "ger_list": [
+            "entsetzen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "przedadzać",
+            "przesadzać"
+        ],
+        "ger_list": [
+            "umsetzen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "stosować"
+        ],
+        "ger_list": [
+            "umsetzen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "realizować, wprowadzać w życie"
+        ],
+        "ger_list": [
+            "umsetzen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wymagany"
+        ],
+        "ger_list": [
+            "erforderlich, benötigt"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "urzeczywistnić, ziścić"
+        ],
+        "ger_list": [
+            "verwirklichen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "przyjmować"
+        ],
+        "ger_list": [
+            "aufnehmen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "uwalniać, wyzwalać"
+        ],
+        "ger_list": [
+            "freisetzen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "zwolnić kogoś"
+        ],
+        "ger_list": [
+            "entlassen, freisetzen, kündigen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "przenosić"
+        ],
+        "ger_list": [
+            "versetzen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "dopiero co"
+        ],
+        "ger_list": [
+            "gerade"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "zaraz"
+        ],
+        "ger_list": [
+            "gleich"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "taki sam"
+        ],
+        "ger_list": [
+            "gleich"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "ten sam"
+        ],
+        "ger_list": [
+            "derselbe/dasselbe/dieselbe"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "motorbike",
+            "motocykl"
+        ],
+        "ger_list": [
+            "das Motorrad",
+            "Das Motorrad sah selbst auch arg mitgenommen aus.",
+            "Sehr gut machen kann man dies mit dem Motorrad .",
+            "Das Motorrad ist immer recht schwer beladen unterwegs."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "traffic",
+            "ruch drogowy"
+        ],
+        "ger_list": [
+            "der Verkehr",
+            "Der Verkehr konnte aber örtlich umgeleitet werden.",
+            "Liegt sicher auch am geringen Verkehr heute.",
+            "Der Verkehr kann nun wieder ungehindert fließen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to emigrate",
+            "emigrować"
+        ],
+        "ger_list": [
+            "auswandern",
+            "Bis wir auswandern wollen wir uns jedoch noch verbessern.",
+            "Das hält vieleicht den ein oder anderen vom auswandern ab.",
+            "Manchmal möchte ich echt nur noch auswandern ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "adventure",
+            "przygoda"
+        ],
+        "ger_list": [
+            "das Abenteuer",
+            "Über die tollen Abenteuer möchte ich nicht zuviel verraten.",
+            "Zusammen erleben sie witzige und auch kuriose Abenteuer .",
+            "Gestärkt brachen wir zu diesem Abenteuer auf."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "enemy",
+            "wróg"
+        ],
+        "ger_list": [
+            "der Feind",
+            "Er wird jedoch von den Feinden verfolgt.",
+            "Zu kämpfen haben wir genug gegen unsere Feinde .",
+            "Man kann nur was tun wenn man den Feind kennt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "pupil, schoolboy",
+            "uczeń"
+        ],
+        "ger_list": [
+            "der Schüler",
+            "Über 600 Schüler sollen ihn schon gesehen haben.",
+            "Ältere Schüler können wir leider nicht berücksichtigen.",
+            "Bis zu 70 Schüler können hier wohnen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "salad"
+        ],
+        "ger_list": [
+            "der Salat",
+            "Gerne könnt ihr noch einen Salat reichen.",
+            "Der Salat war sehr üppig und kaum zu schaffen.",
+            "Zusätzlich soll es auch wieder Salate geben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "twin",
+            "bliźniak"
+        ],
+        "ger_list": [
+            "der Zwilling",
+            "Juli 2009 \"etwas zu früh\" sind unsere Zwillinge geboren.",
+            "Die Zwillinge verhalten sich mal wieder unfair.",
+            "Wie heißen eure Zwillinge und wie alt sind sie?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "menu (card)"
+        ],
+        "ger_list": [
+            "die Speisekarte",
+            "Übrigens gibt es dort sogar eine Speisekarte auf deutsch.",
+            "Die Speisekarte las sich nämlich sehr verlockend!",
+            "Natürlich stehen die nicht auf der Speisekarte ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "trader, merchant",
+            "handlarz"
+        ],
+        "ger_list": [
+            "der Händler",
+            "Kleinere Händler ziehen hier mal wieder den kürzeren.",
+            "Der Händler wirkte sehr vertrauenswürdig und ehrlich.",
+            "Vor 2013 wird er wohl nicht zu den Händlern rollen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "bag (cheap bag for grocery shopping or trash bin)"
+        ],
+        "ger_list": [
+            "die Tüte",
+            "So eine halbe große Tüte braucht man.",
+            "Können die mir nicht einfach die Tüte hinstellen?",
+            "Raus bin ich mit 2 großen Tüten ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "great-grandmother"
+        ],
+        "ger_list": [
+            "die Urgroßmutter"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "marketplace",
+            "plac targowy, rynek"
+        ],
+        "ger_list": [
+            "der Marktplatz",
+            "Ich persönlich find den Marktplatz auch nicht wunderbar.",
+            "Auf einem Marktplatz sehen sich die beiden.",
+            "Danach wird es auf dem Marktplatz besonders gemütlich."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "zderzyć się"
+        ],
+        "ger_list": [
+            "zusammenstießen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "pas (samochodowy)"
+        ],
+        "ger_list": [
+            "der Sicherheitsgurt"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "czuć (np. dotyk), odczuwać"
+        ],
+        "ger_list": [
+            "spüren"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "leczyć"
+        ],
+        "ger_list": [
+            "behandeln, heilen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "zastrzyk"
+        ],
+        "ger_list": [
+            "die Spritze"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "dusić się"
+        ],
+        "ger_list": [
+            "keine Luft kriegen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "dym"
+        ],
+        "ger_list": [
+            "der Rauch"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "rzucać się w oczy",
+            "przyciągać uwagę"
+        ],
+        "ger_list": [
+            "auffallen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "książę"
+        ],
+        "ger_list": [
+            "der Fürst, der Prinz"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "zgadywanka"
+        ],
+        "ger_list": [
+            "das Ratespiel"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "celowo"
+        ],
+        "ger_list": [
+            "absichtlich"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "uzyskiwać, osiągać"
+        ],
+        "ger_list": [
+            "erzielen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "skrzydło"
+        ],
+        "ger_list": [
+            "der Flügel"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "przebudzić się"
+        ],
+        "ger_list": [
+            "aufwachen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "rozaczarowany, zawiedziony"
+        ],
+        "ger_list": [
+            "enttäuscht"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "szczery"
+        ],
+        "ger_list": [
+            "ehrlich"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "nieszczery"
+        ],
+        "ger_list": [
+            "unaufrichtig"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "znosić, tolerować (np. laktozę)"
+        ],
+        "ger_list": [
+            "vertragen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "znosić, wytrzymywać (np. smród, krzyki)"
+        ],
+        "ger_list": [
+            "ertragen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "według umowy, umowny"
+        ],
+        "ger_list": [
+            "vertraglich"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wrażliwy, drażliwy, czuły"
+        ],
+        "ger_list": [
+            "empfindlich"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "łagodny"
+        ],
+        "ger_list": [
+            "sanft"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "niestrawność"
+        ],
+        "ger_list": [
+            "die Unverträglichkeit"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "strawny (jedzenie)"
+        ],
+        "ger_list": [
+            "verträglich"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "mylić (coś z czymś)"
+        ],
+        "ger_list": [
+            "verwechseln"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "poza tym, zresztą"
+        ],
+        "ger_list": [
+            "ansonsten"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "głowa (np. państwa), zwierzchnik"
+        ],
+        "ger_list": [
+            "das Oberhaupt"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "obiegowy, powszechnie używany"
+        ],
+        "ger_list": [
+            "gängig"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "uprzedzenie"
+        ],
+        "ger_list": [
+            "das Vorurteil"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "tym niemniej, niemniej jednak"
+        ],
+        "ger_list": [
+            "nichtsdestotrotz"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "nagrywać"
+        ],
+        "ger_list": [
+            "aufnehmen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "składać się z"
+        ],
+        "ger_list": [
+            "bestehen aus"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "nakręcić (film)"
+        ],
+        "ger_list": [
+            "drehen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "main course",
+            "danie główne"
+        ],
+        "ger_list": [
+            "das Hauptgericht",
+            "Alle Hauptgerichte werden gleichzeitig serviert und gemeinsam gegessen.",
+            "Die Preise der Hauptgerichte lagen zwischen €11 und €18.",
+            "Oft kann man auch eine vegetarische Alternative zum Hauptgericht wählen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "beetle",
+            "żuk"
+        ],
+        "ger_list": [
+            "der Käfer",
+            "Doch auch andere Käfer kommen nicht zu kurz.",
+            "Um genauer zu sein gegen einen riesigen Käfer .",
+            "Noch weiß niemand ob dieser Käfer hier überhaupt vorkommt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cotton",
+            "bawełna"
+        ],
+        "ger_list": [
+            "die Baumwolle",
+            "So ist die Baumwolle beispielsweise pflegeleicht und auch warm.",
+            "Die Baumwolle ist nicht gefärbt sondern wächst farbig.",
+            "Ich habe mir eigentlich nie viel aus Baumwolle gemacht."
+        ],
+        "hardness": 1
+    }
+]

@@ -1,0 +1,1294 @@
+[
+    {
+        "poleng_list": [
+            "lost, doomed (preterite)",
+            "przegrał, stracił, zgubił"
+        ],
+        "ger_list": [
+            "verlor",
+            "Mirko verlor dabei denkbar knapp zu 9 im fünften.",
+            "Leider verlor er diesen knapp und folgenden beiden dann deutlicher.",
+            "Da verlor er leider und musste sich geschlagen geben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "beforehand, previously (more casual than \"zuvor\")",
+            "przedtem, wcześniej, dawniej"
+        ],
+        "ger_list": [
+            "vorher",
+            "Über diesen gilt es sich vorher allerdings gewissenhaft zu informieren.",
+            "Das hat vorher noch nie jemand gemacht.",
+            "Das hätte er sich lieber vorher überlegen sollen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "was (preterite)",
+            "był"
+        ],
+        "ger_list": [
+            "war",
+            "Über die ich natürlich hoch erfreut war .",
+            "Überraschend war diesmal für mich etwas anderes.",
+            "Da war er vielleicht etwas zu bescheiden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "would be (subjunctive)",
+            "byłby"
+        ],
+        "ger_list": [
+            "wären",
+            "Was wären wir bloss ohne das www?",
+            "Ohne euch wären wir nicht fertig geworden.",
+            "Damit wären die ersten 40 km geschafft."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "became (preterite)",
+            "stał się"
+        ],
+        "ger_list": [
+            "wurde",
+            "Überhaupt wurde das miteinander\" groß geschrieben.",
+            "Überall wurde man freundlich unterstützt und motiviert.",
+            "Über diese wurde bisher noch nichts genaues verraten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "showed (preterite)",
+            "pokazał"
+        ],
+        "ger_list": [
+            "zeigte",
+            "Die Ärztin war echt lieb und zeigte sich sehr kompetent.",
+            "Er fand es ganz toll und zeigte es mir.",
+            "Der wiederum zeigte sich beeindruckt von der aufwändigen Übung."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "beforehand, previously (more literary than \"vorher\")"
+        ],
+        "ger_list": [
+            "zuvor",
+            "Ökumene ist heute wichtiger als je zuvor .",
+            "Aber zuvor gibt es noch viel zu tun.",
+            "Zumeist funktioniert dann alles wieder wie zuvor ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "detailed, explicit",
+            "szczegółowy"
+        ],
+        "ger_list": [
+            "detailliert",
+            "Über eine detaillierte Lösung würde ich mich wirklich sehr freuen.",
+            "Und deshalb muss ich noch einmal detailliert reinschauen.",
+            "Aber mir war das streckenweise zu detailliert ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "same, equal",
+            "taki sam; równa się"
+        ],
+        "ger_list": [
+            "gleich",
+            "Überhaupt sieht hier alles schon viel zu lange gleich aus.",
+            "Das wurde dann natürlich auch gleich benutzt.",
+            "Also kann ich daraus ja auch gleich essen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "modern"
+        ],
+        "ger_list": [
+            "modern",
+            "Smartphones sind aus unserem modernen leben kaum noch wegzudenken.",
+            "Man findet hier viel modernes und viel traditionelles.",
+            "Was daran soll denn \" modern \" sein?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "technical",
+            "techniczny"
+        ],
+        "ger_list": [
+            "technisch",
+            "So sollte das doch rein technisch eigentlich klappen.",
+            "Notebook is technisch und optisch wie neu.",
+            "Und dafür sind wir bestens gerüstet – technisch und menschlich."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "past, bygone, last",
+            "miniony, przeszły, zeszły"
+        ],
+        "ger_list": [
+            "vergangen",
+            "Viel zu schnell sind die fünf Übernachtungen vergangen .",
+            "Habe nichts gemacht und ist wieder vergangen .",
+            "Wir lachen und weinen über das vergangene ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "present day, today's",
+            "dzisiejszy"
+        ],
+        "ger_list": [
+            "heutig",
+            "Denn das könnte mit den heutigen Änderungen durchaus vorteilhaft sein.",
+            "Ähnliches wünsche er sich manchmal bei heutigen Projekten.",
+            "Und besser als die heutige schon zweimal nicht."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "different (attributes between two or more persons/objects), various, several",
+            "różne, rozmaite"
+        ],
+        "ger_list": [
+            "verschieden",
+            "Ärzte werden heutzutage aus vielen verschiedenen Anlässen aufgesucht.",
+            "Über 300 verschiedene Kräuter werden hier vorgestellt.",
+            "Ab sofort kannst bis zu zehn verschieden Öle herstellen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to give a gift",
+            "podarować, obdarować"
+        ],
+        "ger_list": [
+            "schenken",
+            "Aber was soll man ihr denn schenken ?",
+            "Oder aber um einfach mal was anderes zu schenken ?",
+            "Wieso aber nicht mal etwas anderes schenken ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "meadow, pasture, grassland",
+            "łąka"
+        ],
+        "ger_list": [
+            "die Wiese",
+            "Übernachten auf euren Wiesen kann man nur weiter empfehlen!",
+            "Überrascht standen wir dann plötzlich auf einer grossen Wiese .",
+            "Mali von der Wiese geholt und kurz über geputzt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "beach",
+            "plaża"
+        ],
+        "ger_list": [
+            "der Strand",
+            "Über ganze 5 km erstreckt sich dieser bezaubernde Strand .",
+            "Der Strand ist sehr schön angelegt und sauber.",
+            "Der Strand ist nur 100 m entfernt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "environment",
+            "środowisko"
+        ],
+        "ger_list": [
+            "die Umwelt",
+            "Übrigens wir kümmern uns auch um die Umwelt .",
+            "Wohlstand und Umwelt – das passt nicht zusammen.",
+            "Dazu gehört für mich auch unsere Umwelt ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "amber",
+            "bursztyn"
+        ],
+        "ger_list": [
+            "der Bernstein",
+            "Er wird auch als schwarzer Bernstein bezeichnet.",
+            "Wie lange bist du schon dabei Bernstein ?",
+            "Sie können sogar selber versuchen einen Bernstein zu schleifen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "world",
+            "świat"
+        ],
+        "ger_list": [
+            "die Welt",
+            "Ängste können nicht sofort aus der Welt geschaffen werden.",
+            "Überall auf der Welt hören wir darüber.",
+            "Überall auf der Welt beschenkt man sich."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "animal world"
+        ],
+        "ger_list": [
+            "die Tierwelt",
+            "Das macht vor allem unserer Tierwelt zu schaffen.",
+            "Dort eröffnet sich ihnen eine einzigartige Tierwelt .",
+            "Und doch beherbergt sie eine reiche Tierwelt ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "lake",
+            "jezioro"
+        ],
+        "ger_list": [
+            "der See",
+            "Gestern waren wir dann nachmittags am See .",
+            "Den See konnte man leider nur erahnen.",
+            "Es gibt dort sogar einen kleinen See ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sea",
+            "morze"
+        ],
+        "ger_list": [
+            "die See",
+            "Gestern waren wir dann nachmittags am See .",
+            "Den See konnte man leider nur erahnen.",
+            "Es gibt dort sogar einen kleinen See ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "grass"
+        ],
+        "ger_list": [
+            "das Gras",
+            "Nun muss nur noch das \" Gras drüber wachsen.",
+            "Anscheinend kann man über alles Gras wachsen lassen.",
+            "Auch woanders gibts genug Gras zum fressen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wave",
+            "fala"
+        ],
+        "ger_list": [
+            "die Welle",
+            "Und diese Wellen sind mitunter nicht zu unterschätzen.",
+            "Dann klappt das auch mit den Wellen .",
+            "Offenbar weiß Welle nicht ganz wovon er spricht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "the Rhine river",
+            "Ren"
+        ],
+        "ger_list": [
+            "der Rhein",
+            "Doch dann waren wir endlich am Rhein .",
+            "Zudem ist es nicht weit bis man den Rhein erreicht.",
+            "Allerdings wohl eher nicht mehr am Rhein ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "universe",
+            "wszechświat"
+        ],
+        "ger_list": [
+            "das All"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "forest",
+            "las"
+        ],
+        "ger_list": [
+            "der Wald",
+            "Der eine lebt normalerweise im Wald und ist nicht blau.",
+            "Holz holt er aus dem eigenen Wald .",
+            "Technik die begeistert – und rundherum ein wunderschöner Wald ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "river",
+            "rzeka"
+        ],
+        "ger_list": [
+            "der Fluss",
+            "Mach dich auf und geh über den Fluss !",
+            "Unterwegs kamen sie zu einem kleinen Fluss .",
+            "Ein Fluss ist immer da und verändert sich doch ständig."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "stream, creek, brook",
+            "strumień"
+        ],
+        "ger_list": [
+            "der Bach",
+            "Er blieb am nahe gelegenen Bach liegen.",
+            "Manchmal sitzen die beiden einfach nur zusammen am Bach .",
+            "Von dieser kann man immer wieder zum Bach hinunter steigen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "plant",
+            "roślina"
+        ],
+        "ger_list": [
+            "die Pflanze",
+            "Über kurz oder lang wird die Pflanze zugrunde gehen.",
+            "Äste bis hin zur ganzen Pflanze sterben ab.",
+            "Aber wie pflege ich welche Pflanze richtig?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to plant",
+            "sadzić"
+        ],
+        "ger_list": [
+            "pflanzen",
+            "Bäume zu pflanzen ist schließlich außerordentlich wichtig.",
+            "Dafür kann man sie aber auch einzeln pflanzen .",
+            "Vielleicht sollte ich ja doch noch einen pflanzen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "climate",
+            "klimat"
+        ],
+        "ger_list": [
+            "das Klima",
+            "Überrascht war ich über das doch recht milde Klima .",
+            "Überhaupt fand ich das Klima nicht eben angenehm.",
+            "Fürs Klima setzen sich heute viele ein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "current (electricity, river, etc)",
+            "prąd elektryczny"
+        ],
+        "ger_list": [
+            "der Strom",
+            "Ökostrom ist nicht zwingend teurer als herkömmlicher Strom .",
+            "Für den notwendigen Strom auf reinen Ökostrom umstellen!",
+            "Oder wir müssen aufhören Strom zu verbrauchen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "agriculture",
+            "rolnictwo"
+        ],
+        "ger_list": [
+            "die Landwirtschaft",
+            "Wir setzen uns für eine nachhaltige und ökologische Landwirtschaft ein.",
+            "Doch was versteht man eigentlich unter ökologischer Landwirtschaft ?",
+            "Seither versuchen sie von der Landwirtschaft zu leben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "desert",
+            "pustynia"
+        ],
+        "ger_list": [
+            "die Wüste",
+            "In der Wüste ist es doch eigentlich viel zu trocken.",
+            "Aber wodurch wird eine Wüste eigentlich definiert?",
+            "Man fährt sehr weit durch die Wüste ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "no idea"
+        ],
+        "ger_list": [
+            "keine Ahnung"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "well, oh well"
+        ],
+        "ger_list": [
+            "naja",
+            "Das hier ist tatsächlich naja – witzig.",
+            "Und naja es kam halt \"anders\".",
+            "Aber naja man kann halt net alles haben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "pardon me, excuse me, forgive me",
+            "przebaczenie"
+        ],
+        "ger_list": [
+            "Verzeihung",
+            "Ich bitte um Verzeihung , es wird bestimmt wieder passieren.",
+            "Und wenn es versagt, bittet es um Verzeihung .",
+            "Auch auf diesem Wege möchte ich um Verzeihung bitten."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "perfect"
+        ],
+        "ger_list": [
+            "perfekt",
+            "Nun kann ich es wieder perfekt verwenden.",
+            "Sie ergänzen sich perfekt und sind froh sich zu haben.",
+            "Jedes verspricht perfekt zu einem zu passen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "bad",
+            "zły, marny, niedobry"
+        ],
+        "ger_list": [
+            "schlecht",
+            "Über wen habe ich warum schlecht geredet?",
+            "Aber die waren einfach viel zu schlecht .",
+            "Aber es hätte nicht schlechter los gehen können."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "free (as in free speech)"
+        ],
+        "ger_list": [
+            "frei",
+            "Wir fühlen uns geschützt und frei zugleich.",
+            "Bis auf zwei sind alle wieder frei .",
+            "Auch sie waren frei und gleich geboren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "normal"
+        ],
+        "ger_list": [
+            "normal",
+            "Oder seid ihr ganz \" normal \"?",
+            "Ist das normal und gesellschaftlich mittlerweile akzeptiert?",
+            "Bin ich vielleicht selbst nicht ganz normal ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "great, awesome, fantastic",
+            "świetny, fajny"
+        ],
+        "ger_list": [
+            "toll",
+            "Überall werden wir herzlich aufgenommen und toll bewirtet.",
+            "Überall duftet und riecht es richtig angenehm und toll .",
+            "Auch darin sehen die meisten noch toll aus."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "loud",
+            "głośny"
+        ],
+        "ger_list": [
+            "laut",
+            "Der übrigens sehr laut und sehr langsam ist.",
+            "Das kann man ja wohl laut sagen.",
+            "Michel lacht laut als er das hört."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "quiet, soft",
+            "cichy"
+        ],
+        "ger_list": [
+            "leise",
+            "Offen gestanden bin ich noch leise skeptisch.",
+            "Einige könnte man jedoch schon etwas leiser stellen.",
+            "Er wirkte immer sehr bescheiden und leise ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "long",
+            "długi"
+        ],
+        "ger_list": [
+            "lang",
+            "Über kurz oder lang passiert mir das regelmässig.",
+            "Über kurz oder lang wird es störend.",
+            "Über kurz oder lang hat man sich daran satt gesehen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "weak",
+            "słaby, wątły, marny"
+        ],
+        "ger_list": [
+            "schwach",
+            "Und es dauert nicht lange und man wird schwach .",
+            "Sie ist mir weder zu stark noch zu schwach .",
+            "Aber immer waren wir selbst dabei schwach ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "round",
+            "okrągły"
+        ],
+        "ger_list": [
+            "rund",
+            "Über 300m hoch sind alleine rund 20 von ihnen.",
+            "Bis jetzt scheint alles rund zu laufen.",
+            "Wie ihr sehen könnt sind es rund 48 km."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "clear, explicit, transparent, free of ambiguity/doubt",
+            "przejrzysty, jasny, zrozumiały"
+        ],
+        "ger_list": [
+            "klar",
+            "Über das besondere bin ich mir hingegen im klaren .",
+            "Die noch dazu mit allem und jedem gut klar kommen.",
+            "Was er ja auch klar gesagt hat."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "small, short",
+            "mały"
+        ],
+        "ger_list": [
+            "klein",
+            "Zumindest kleiner als ich sie mir immer vorgestellt hatte.",
+            "Ich bin nicht bereit das \" kleinere Übel\" zu wählen.",
+            "Selbst für die kleinsten ist etwas dabei."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "calm, quiet",
+            "spokojny, cichy"
+        ],
+        "ger_list": [
+            "ruhig",
+            "Über diese sollte man sich ruhig einmal informieren.",
+            "Und das darf ruhig wörtlich genommen werden.",
+            "Insgesamt ist es viel ruhiger und gemütlicher."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "big, tall",
+            "duży"
+        ],
+        "ger_list": [
+            "groß",
+            "Überhaupt wurde das miteinander\" groß geschrieben.",
+            "Über die Vergangenheit wollte er hingegen nicht groß sprechen.",
+            "Es ist eben sehr groß und international."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "light, easy",
+            "lekki, łatwy"
+        ],
+        "ger_list": [
+            "leicht",
+            "Es fällt mir nicht leicht sie gehen zu lassen.",
+            "Das ist nicht immer leicht zu erkennen.",
+            "Ob es da ein flüssiger leichter macht?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "short",
+            "krótki"
+        ],
+        "ger_list": [
+            "kurz",
+            "Über kurz oder lang passiert mir das regelmässig.",
+            "Über kurz oder lang wird es störend.",
+            "Über zwei davon wollen wir kurz berichten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "would have (subjunctive)",
+            "miałby"
+        ],
+        "ger_list": [
+            "hätten",
+            "Wir hätten es nicht besser treffen können.",
+            "Da hätten mir andere anderes erzählen können.",
+            "Das hätten wir sehr gern auch 2012 wieder gemacht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "after",
+            "po, po tym jak"
+        ],
+        "ger_list": [
+            "nachdem",
+            "Elton\" – je nachdem wie man es drehen möchte.",
+            "Je nachdem wie man das sehen mag.",
+            "Je nachdem wieviele letztendlich mitfahren könnte es auch billiger werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to call, to name",
+            "nazywać, wymieniać"
+        ],
+        "ger_list": [
+            "nennen",
+            "Oft kann ich es ja auch nicht genau nennen .",
+            "Ich hoffe ihr könnt mir hier einiges nennen .",
+            "Natürlich werde ich die hier nicht nennen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "certainly, however",
+            "co prawda, jednak, wprawdzie"
+        ],
+        "ger_list": [
+            "allerdings",
+            "Über diesen gilt es sich vorher allerdings gewissenhaft zu informieren.",
+            "Damit kann ich jetzt allerdings nichts mehr anfangen.",
+            "Auf die warte ich allerdings noch vergeblich."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "so, well, thus",
+            "więc, cóż"
+        ],
+        "ger_list": [
+            "also",
+            "Änderungen sind also bis dahin jederzeit möglich.",
+            "Ökostrom muss also nicht zwangsläufig teuer sein.",
+            "Über das müsste er also auch verfügen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "different from before, differently",
+            "inaczej, inny"
+        ],
+        "ger_list": [
+            "anders",
+            "Überall anders bezahlt ihr mindestens 50€ mehr.",
+            "Nie und nimmer möchte sie irgendwo anders leben.",
+            "Oder ist das noch einmal ganz anders zu sehen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "otherwise, apart from that",
+            "w przeciwnym razie; poza tym, zresztą"
+        ],
+        "ger_list": [
+            "ansonsten",
+            "Denn ansonsten sind sie nicht übermäßig empfindlich.",
+            "Aber ansonsten bin ich ganz gut fündig geworden.",
+            "Aber ansonsten finde ich es ganz gelungen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "until now, up to this point",
+            "dotychczas, dotąd"
+        ],
+        "ger_list": [
+            "bisher",
+            "Über sie ist bisher nicht viel bekannt.",
+            "Über diese wurde bisher noch nichts genaues verraten.",
+            "Ich habe zumindest bisher nie einen bekommen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "in this way, thereby",
+            "przez to, tym"
+        ],
+        "ger_list": [
+            "dadurch",
+            "Ändern wird sich dadurch nicht großartig was.",
+            "Wie reden wir und wie wirken wir dadurch auf andere?",
+            "Alleine dadurch wird schon behutsam damit umgegangen."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "for it, for this",
+            "za to, za tym, na to"
+        ],
+        "ger_list": [
+            "dafür",
+            "Ärzte können sich dafür ebenfalls online anmelden.",
+            "Und was habe ich ihnen dafür geboten?",
+            "Aber dafür werden sie ja auch schließlich vielerorts geliebt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "at it, in it, on it, etc.",
+            "przy tym, na tym"
+        ],
+        "ger_list": [
+            "daran",
+            "Ändern könne er daran aber auch nichts.",
+            "Über kurz oder lang hat man sich daran satt gesehen.",
+            "Ändern kann er daran nun auch nichts mehr."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "on it, for it, to it, towards it, etc.",
+            "na czymś, potem, następnie"
+        ],
+        "ger_list": [
+            "darauf",
+            "Man sollte es eventuell darauf ankommen lassen.",
+            "Ich kaufe einfach wie wild darauf los.",
+            "Wir freuen uns darauf und sind vorbereitet."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "therefore, because of that",
+            "dlatego"
+        ],
+        "ger_list": [
+            "darum",
+            "Ich kann mich jetzt einfach wieder mehr darum kümmern.",
+            "Meist geht es darum zeigen und gesehen zu werden.",
+            "Ich hoffe ihr seid mir nicht böse darum ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "about it, from it, from there, of these, etc.",
+            "z tego"
+        ],
+        "ger_list": [
+            "davon",
+            "Über einige davon werde ich sicher noch berichten.",
+            "Über zwei davon wollen wir kurz berichten.",
+            "Allerdings darf man sich davon auch nicht täuschen lassen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "therefore, because of that",
+            "dlatego"
+        ],
+        "ger_list": [
+            "deshalb",
+            "Überall zugeben würde ich das deshalb aber noch lange nicht.",
+            "Genau deshalb habe ich diese Überschrift gewählt.",
+            "Beweisen kann ich es deshalb leider nicht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "indoors, inside, in there, in it",
+            "wewnątrz, w środku, w tym"
+        ],
+        "ger_list": [
+            "drin",
+            "Überall ist das was drauf steht auch drin .",
+            "Man weiß einfach nicht was drin ist.",
+            "Die meisten sehen sogar mehr drin als wir selbst."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "actually",
+            "właściwie"
+        ],
+        "ger_list": [
+            "eigentlich",
+            "Ökumene – was bedeutet das heute eigentlich ?",
+            "Über mich gibt es eigentlich nicht viel zu erzählen.",
+            "Überraschend kommt es für mich eigentlich nicht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "cordial, hearty",
+            "serdeczny"
+        ],
+        "ger_list": [
+            "herzlich",
+            "Überhaupt waren sie uns gegenüber ausgesprochen herzlich und zuvorkommend.",
+            "Überall werden wir herzlich aufgenommen und toll bewirtet.",
+            "Überall werden wir herzlich und freundlich empfangen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "natural, naturally",
+            "naturalny; oczywiście"
+        ],
+        "ger_list": [
+            "natürlich",
+            "Über die ich natürlich hoch erfreut war.",
+            "Überhaupt wirkt vieles gewollt und wenig natürlich .",
+            "Über diese Änderung informiere ich euch natürlich rechtzeitig!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "even",
+            "nawet"
+        ],
+        "ger_list": [
+            "sogar",
+            "Über fast alles sogar auch über mich selbst.",
+            "Die meisten sehen sogar mehr drin als wir selbst.",
+            "Teilweise sind es sogar bis zu 60 % weniger."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "as far as",
+            "o ile"
+        ],
+        "ger_list": [
+            "soweit",
+            "Mir gefällt es soweit schon einmal sehr gut.",
+            "Und dann ist es endlich wieder soweit .",
+            "Morgen früh um neun ist es mal wieder soweit ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "however, nevertheless, despite that",
+            "mimo to"
+        ],
+        "ger_list": [
+            "trotzdem",
+            "Ärgerlich ist das aber alles trotzdem nicht.",
+            "Über das nackte Überleben hinaus bleibt trotzdem nichts übrig.",
+            "Natürlich habe ich ihm trotzdem welches gegeben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "by the way",
+            "poza tym, przy okazji, zresztą"
+        ],
+        "ger_list": [
+            "übrigens",
+            "Ähnlich präsentierte sich übrigens auch der 1.",
+            "So sieht das Übel übrigens gerade aus.",
+            "Der übrigens sehr laut und sehr langsam ist."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "at least",
+            "przynajmniej, conajmniej"
+        ],
+        "ger_list": [
+            "wenigstens",
+            "Aber wenigstens lässt du dich nicht entmutigen.",
+            "Nun ist es wenigstens wieder trocken und ein bisschen wärmer.",
+            "Man hätte wenigstens auf diese hinweisen können."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "(adv) well",
+            "(part.) probably",
+            "chyba; w końcu, wreszcie",
+            "dobrze, zupełnie, całkiem"
+        ],
+        "ger_list": [
+            "wohl",
+            "Ändern würde dies vermutlich aber wohl eh nicht viel.",
+            "So kompakt wird man das wohl nirgends sonst finden.",
+            "Vor allem aber fühlen wir uns miteinander wohl !"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "at the same time, together",
+            "jednocześnie"
+        ],
+        "ger_list": [
+            "zugleich",
+            "Wir fühlen uns geschützt und frei zugleich .",
+            "Und am besten natürlich alles zugleich und sofort.",
+            "Das fasziniert mich und freut mich zugleich ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "at least",
+            "przynajmniej",
+            ""
+        ],
+        "ger_list": [
+            "zumindest",
+            "Ich hoffe zumindest dass sie erholsam werden!",
+            "Ich habe zumindest bisher nie einen bekommen.",
+            "So haben wir es zumindest früher einmal gelernt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "in case of, if",
+            "w razie gdyby, jeśli, jeżeli, w przypadku"
+        ],
+        "ger_list": [
+            "falls",
+            "Es kann noch erweitert werden falls es nötig wird.",
+            "Man möge mich korrigieren falls etwas falsch ist.",
+            "Bitte meldet euch falls ihr euch hier auskennt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to inquire (formal)",
+            "zwracać się z pytaniem"
+        ],
+        "ger_list": [
+            "anfragen",
+            "Zudem kommen immer wieder anfragen per mail.",
+            "Daher möchte ich hier mal direkt anfragen .",
+            "Jetzt sofort unverbindlich online anfragen oder buchen!"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "would"
+        ],
+        "ger_list": [
+            "würden",
+            "Über euer kommen würden wir uns sehr freuen.",
+            "Über eine Äußerung hierzu würden wir uns sehr freuen.",
+            "Über weiteres würden wir gerne persönlich sprechen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to command, to decree, to mandate",
+            "zarządzać, rozporządzać",
+            "dysponować"
+        ],
+        "ger_list": [
+            "verfügen",
+            "Über das müsste er also auch verfügen .",
+            "Aber nur die wenigsten verfügen uneingeschränkt darüber.",
+            "Über das Tagesgeldkonto kann man jederzeit frei verfügen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to break off",
+            "zakończyć, przerywać",
+            "odłamywać się",
+            "zburzyć, wyburzyć"
+        ],
+        "ger_list": [
+            "abbrechen",
+            "Musste nämlich abbrechen und habs noch nicht fertig.",
+            "Entweder weitermachen wie bisher oder einfach alles abbrechen ?",
+            "Daraufhin habe ich sofort auf abbrechen gedrückt."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to offer",
+            "oferować (bardziej dosłowne, fizyczne)"
+        ],
+        "ger_list": [
+            "anbieten",
+            "Da würde sich diese hier richtig anbieten .",
+            "Mehr kann ich aktuell dazu noch nicht anbieten .",
+            "Was kann ich ihm sonst noch anbieten ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to employ, to place, to lean",
+            "zatrudniać, włączać, uruchamiać, przystawić"
+        ],
+        "ger_list": [
+            "anstellen",
+            "Oder was können wir sonst damit anstellen ?",
+            "Damit lässt sich aber erstmal genug anstellen .",
+            "Zweimal darf man sich aber nicht anstellen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to give up, to give in",
+            "poddawać się; rzucać (palenie)",
+            "nadać (np. przesyłkę)",
+            "zadać (dać zadanie)"
+        ],
+        "ger_list": [
+            "aufgeben",
+            "So weit gekommen wollten wir dann doch nicht aufgeben .",
+            "Kopf hoch und munter weiter und nicht aufgeben .",
+            "Aber aufgeben sollte man deshalb trotzdem nicht."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "to answer, to respond (transitive)"
+        ],
+        "ger_list": [
+            "beantworten",
+            "Ich hoffe konnte dir die frage beantworten .",
+            "Ist das eigentlich am einfachsten zu beantworten .",
+            "Wär echt nett wenn du das beantworten könntest ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to keep",
+            "zatrzymać, zachować"
+        ],
+        "ger_list": [
+            "behalten",
+            "Deshalb werde ich sie auch weiterhin behalten .",
+            "Man möchte sie am liebsten alle behalten .",
+            "Da den Überblick zu behalten ist nicht immer einfach."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to need sth., to want for sth. (more formal than brauchen)",
+            "potrzebować (formalne)"
+        ],
+        "ger_list": [
+            "benötigen",
+            "Möglicherweise benötigen wir sogar noch eine 6.",
+            "Das ist weit mehr als sie benötigen .",
+            "Sie benötigen eine qualitativ hochwertige und professionelle Übersetzung?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to adjust, to employ,  to set, to stop, to tune",
+            "ustawiać",
+            "zatrudniać"
+        ],
+        "ger_list": [
+            "einstellen",
+            "Ehrlich gesagt ich weiß nicht was man da einstellen muss?",
+            "Die müssen die ja auch neu einstellen .",
+            "Deshalb müssen und werden wir uns darauf einstellen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to be carried out, to take place, to follow, to occur",
+            "następować, wynikać"
+        ],
+        "ger_list": [
+            "erfolgen",
+            "Änderungen dürfen damit nicht zu abrupt erfolgen .",
+            "Wie man sieht muss dies nicht nur wissenschaftlich erfolgen .",
+            "Diese kann sowohl monatlich als auch jährlich erfolgen ."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "to appear",
+            "pojawić się, ukazywać się, wydawać się"
+        ],
+        "ger_list": [
+            "erscheinen",
+            "Und sonst kann man ihn nicht grösser erscheinen lassen?",
+            "Also entweder rechtzeitig erscheinen oder vorher anmelden.",
+            "Kinder erscheinen dort und winken ihnen zu."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to expect",
+            "oczekiwać"
+        ],
+        "ger_list": [
+            "erwarten",
+            "Aber es war nicht anders zu erwarten .",
+            "Allerdings anders als es zu erwarten wäre.",
+            "Allerdings dürften keine allzu großen Änderungen zu erwarten sein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to acquire, to purchase, to earn, to attain",
+            "zdobywać, nabywać, pozyskać"
+        ],
+        "ger_list": [
+            "erwerben",
+            "Denn man möchte ja meistens nicht großartiges erwerben oder absichern.",
+            "Und dort ist sie auch erstmals käuflich zu erwerben .",
+            "Leider ist sie derzeit nicht käuflich zu erwerben ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "to download",
+            "ściągać, pobierać"
+        ],
+        "ger_list": [
+            "herunterladen",
+            "Heute könnt ihr diese wie gesagt kostenlos herunterladen .",
+            "Die kann man dort seitdem kostenlos herunterladen .",
+            "Wem sie gefallen der kann sie gerne herunterladen und verwenden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to install",
+            "instalować"
+        ],
+        "ger_list": [
+            "installieren",
+            "An sich ist dieser ganz einfach zu installieren .",
+            "Das ganze bekommt man auch noch kostenlos – installieren !",
+            "Es ist kostenlos und sicher zu installieren und zu benutzen."
+        ],
+        "hardness": 1
+    }
+]

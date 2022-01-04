@@ -1,0 +1,1265 @@
+[
+    {
+        "poleng_list": [
+            "computer",
+            "konkuter"
+        ],
+        "ger_list": [
+            "der Computer",
+            "Ältere Computer müssen nicht immer durch neue ersetzt werden.",
+            "Übel find ich das nur bei Computern .",
+            "Sie wollen sich einen neuen Computer anschaffen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "dialogue",
+            "dialog"
+        ],
+        "ger_list": [
+            "der Dialog",
+            "Über einen ausgiebigen Dialog würden wir uns sehr freuen.",
+            "Die Dialoge sind leider nicht allzu gut.",
+            "Damit kann jeweils ein weiterer Dialog geöffnet werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to watch, to look on",
+            "oglądać"
+        ],
+        "ger_list": [
+            "zuschauen",
+            "Aber man darf auch einfach nur sitzen bleiben zuschauen .",
+            "Wir dürfen jetzt eben nicht mehr zuschauen und schweigen.",
+            "Film ab – einfach zurücklehnen und zuschauen !"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "neither"
+        ],
+        "ger_list": [
+            "weder",
+            "Er kann weder sehen noch sprechen und sich kaum bewegen.",
+            "Ich bin weder traurig noch fühle ich mich abgewiesen.",
+            "Ansonsten braucht man sich hier weder national noch international verstecken."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "already",
+            "już"
+        ],
+        "ger_list": [
+            "bereits",
+            "Ich habe beide bereits gesehen und kann sie nur empfehlen.",
+            "Diese soll bereits schon gut brauchbar sein.",
+            "Einige von ihnen haben wir bereits untersucht."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "self, yourself",
+            "sam"
+        ],
+        "ger_list": [
+            "selbst",
+            "Über sich selbst sagt er nicht viel.",
+            "Über fast alles sogar auch über mich selbst .",
+            "Öle fügt man am besten selbst frisch hinzu."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "with it, with that",
+            "z tym, przez to, żeby"
+        ],
+        "ger_list": [
+            "damit",
+            "Änderungen dürfen damit nicht zu abrupt erfolgen.",
+            "Überhaupt halte ich mich damit ziemlich zurück.",
+            "Seitdem hat er nicht mehr damit aufgehört."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "about it, about that, over it, over that",
+            "nad tym, o tym, ponad to, na to"
+        ],
+        "ger_list": [
+            "darüber",
+            "Grund genug sich einmal ausführlich darüber zu informieren.",
+            "Sprechen tut darüber ja jetzt niemand mehr.",
+            "Auch darüber darf und muss geredet werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "now, well"
+        ],
+        "ger_list": [
+            "nun",
+            "Über ihn gibt es nun eine homepage.",
+            "Ändern kann er daran nun auch nichts mehr.",
+            "Das ist mir nun halt vergönnt geblieben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "thereby, with it",
+            "przy tym"
+        ],
+        "ger_list": [
+            "dabei",
+            "Überall kann man einfach nicht dabei sein!",
+            "Überall kann man ohnehin nicht dabei sein.",
+            "Überraschungen muss man dabei aber nicht fürchten."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "in addition, to it, to that, for this purpose",
+            "do tego, przy tym, dodatkowo, prócz tego"
+        ],
+        "ger_list": [
+            "dazu",
+            "Mehr muss ich dazu ja nicht sagen.",
+            "Die noch dazu mit allem und jedem gut klar kommen.",
+            "Vielleicht meldet sich ja noch jemand dazu ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "at first",
+            "początkowo, najpierw"
+        ],
+        "ger_list": [
+            "zuerst",
+            "Doch zuerst worum es sich hier handelt.",
+            "Wo hast du zuerst mitgemacht und wann?",
+            "Dabei gilt \"wer zuerst kommt malt zuerst\"."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "lastly",
+            "ostatnio, na końcu"
+        ],
+        "ger_list": [
+            "zuletzt",
+            "Und nicht zuletzt auch um miteinander zu feiern.",
+            "Deshalb bin ich zuletzt doch noch zufrieden.",
+            "Aber zuletzt waren wir immerhin noch draußen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "just the same as, equally",
+            "tak samo jak"
+        ],
+        "ger_list": [
+            "genauso",
+            "Übrigens bei weitem nicht so teuer und fast genauso lecker.",
+            "Es trifft aber genauso auf ihn selbst zu.",
+            "Es hätte genauso gut auch schneien können!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "therefore, because of that",
+            "dlatego"
+        ],
+        "ger_list": [
+            "daher",
+            "Von daher gibt es von mit 55 %.",
+            "Sie kann sich nicht adäquat verteidigen und muss daher unterliegen.",
+            "Rein systematisch würde ich das daher eher als problematisch ansehen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "else, besides, otherwise",
+            "w sprzeciwnym razie, poza tym"
+        ],
+        "ger_list": [
+            "sonst",
+            "Üblicherweise sind sonst ganz locker 1000 € fällig.",
+            "Über mich gibt es sonst nicht viel zu erzählen.",
+            "So kompakt wird man das wohl nirgends sonst finden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "once",
+            "raz"
+        ],
+        "ger_list": [
+            "einmal",
+            "Über dieses habe ich hier schon einmal berichtet.",
+            "Überlegen wir uns einmal was das für uns heißt.",
+            "Ähnliches hat wahrscheinlich jeder schon einmal erlebt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "in any case, at least, anyway",
+            "w każdym razie"
+        ],
+        "ger_list": [
+            "jedenfalls",
+            "Wir freuen uns jedenfalls sehr dass es weitergeht!",
+            "So hat man es uns jedenfalls berichtet.",
+            "Langweilig wird es jedenfalls nie mit mir."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "absolutely, definitely"
+        ],
+        "ger_list": [
+            "durchaus",
+            "Und durchaus kommen wir nicht zu kurz.",
+            "Vocals sind für sie dabei aber auch durchaus wichtig.",
+            "Und dabei wurden wir durchaus positiv überrascht!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "at least",
+            "conajmniej"
+        ],
+        "ger_list": [
+            "mindestens",
+            "Überall anders bezahlt ihr mindestens 50€ mehr.",
+            "Ich glaub die meisten sind mindestens für 180 zugelassen.",
+            "Und dann ist es verstrickt mindestens genauso wunderschön."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "moreover, besides,  in addition",
+            "poza tym"
+        ],
+        "ger_list": [
+            "außerdem",
+            "Einige noch geheime Überraschungen wird es außerdem geben.",
+            "Es ist ansprechend dünn und glatt und arbeitet außerdem effizient.",
+            "Es ist kalt oder noch sehr kühl und außerdem regnerisch."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "particularly",
+            "szczególnie"
+        ],
+        "ger_list": [
+            "besonders",
+            "Ökostrom zu kaufen lohnt sich jetzt besonders .",
+            "Ich würde es besonders freudig mal mit ihr treiben.",
+            "Zumal ich darin auch nicht besonders routiniert bin."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "at all, generally",
+            "w ogóle"
+        ],
+        "ger_list": [
+            "überhaupt",
+            "Hast du es überhaupt schon mal gesehen?",
+            "Er war überhaupt nicht mehr zu bremsen.",
+            "Oder dass es überhaupt mal wieder wärmer wird?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "however",
+            "jednakże"
+        ],
+        "ger_list": [
+            "jedoch",
+            "Überreste von ihr werden jedoch nicht gefunden.",
+            "Sie konnte jedoch noch nichts gegen sie ausrichten.",
+            "Es lässt sich jedoch auch individuell anpassen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "once again, again, renewed",
+            "ponowny, na nowo"
+        ],
+        "ger_list": [
+            "erneut",
+            "Also werde ich mich früher oder später erneut hier auslassen.",
+            "Und schreibt es um und löscht es erneut .",
+            "E-Plus und 1&1 kooperieren erneut ?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "hardly",
+            "ledwo, prawie wcale"
+        ],
+        "ger_list": [
+            "kaum",
+            "Über letzteres ist ja leider kaum diskutiert worden.",
+            "Überall wird viel zu viel geredet und kaum etwas getan.",
+            "Schöner und besser kann es kaum werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "both ... and, as well as"
+        ],
+        "ger_list": [
+            "sowohl",
+            "Diese kann sowohl monatlich als auch jährlich erfolgen.",
+            "Hierbei werden sowohl die manuellen als auch die automatisierten angesprochen.",
+            "Dabei können sie sowohl links als auch rechts angelegt werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "most, mostly, usually"
+        ],
+        "ger_list": [
+            "meistens",
+            "Ändern kann man meistens nur von innen heraus.",
+            "Was nichts kostet ist auch meistens nichts wert!",
+            "So weit ich mich erinnern kann meistens positiv."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "varied, different (differences within a group of beings or objects that are considered a group)",
+            "różny, odmienny, rozbieżny"
+        ],
+        "ger_list": [
+            "unterschiedlich",
+            "Alle drei sind dabei doch recht unterschiedlich .",
+            "Somit lassen sich beide total toll unterschiedlich kombinieren.",
+            "Wir sind doch unterschiedlich groß und schwer."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "political",
+            "polityczny"
+        ],
+        "ger_list": [
+            "politisch",
+            "Vielmehr habe ich politisch mit ihnen zu tun.",
+            "Er sollte eher politisch für alles offen sein.",
+            "Auch politisch korrekt kann sehr witzig sein!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "social",
+            "socjalny"
+        ],
+        "ger_list": [
+            "sozial",
+            "So etwas nennt man dann \" sozial gerecht\".",
+            "Mobilität muss grün werden aber auch sozial sein.",
+            "Er ist einfach sehr sozial eingestellt *g*."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "convenient, favorable, low priced",
+            "korzystny"
+        ],
+        "ger_list": [
+            "günstig",
+            "Überraschend günstig und kann simpel zu handhaben.",
+            "Dabei ist es vielseitig einsetzbar und recht günstig !",
+            "Gut und natürlich auch günstig sollte es sein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "external",
+            "zewnętrzny"
+        ],
+        "ger_list": [
+            "extern",
+            "Über ein externes Netzteil lässt er sich wieder aufladen.",
+            "Und wir wollen uns dabei extern begleiten lassen\".",
+            "Sie ist nun extern geprüft und zertifiziert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "former",
+            "były"
+        ],
+        "ger_list": [
+            "ehemalig",
+            "Ähnlich war das auch in der ehemaligen DDR.",
+            "Wie werden ihre ehemaligen Mitbewohner darauf reagieren?",
+            "Nun sorgt die ehemalige Miss wieder für eine Überraschung."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "current, topical, latest",
+            "aktualny"
+        ],
+        "ger_list": [
+            "aktuell",
+            "Diese müssen natürlich auch noch aktuell gehalten und moderiert werden.",
+            "Wann das sein wird ist aktuell noch unklar.",
+            "Auch darüber halten wir sie selbstverständlich aktuell informiert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "particular, special, specific",
+            "szczególny"
+        ],
+        "ger_list": [
+            "besondere",
+            "Über das besondere bin ich mir hingegen im klaren.",
+            "Wäre toll wenn ihr das besondere etwas hättet.",
+            "Diese lohnt es sich natürlich besondere anzuschauen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "own",
+            "własny"
+        ],
+        "ger_list": [
+            "eigen",
+            "Also werd ich wohl nun meine eigene mitnehmen.",
+            "Über meinen eigenen Beitrag muss ich noch nachdenken.",
+            "Zu ihrer eigenen Überraschung war sie damit sofort erfolgreich."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "separate, individual, separately, individually",
+            "pojedynczy, osobny, poszczególny"
+        ],
+        "ger_list": [
+            "einzeln",
+            "Ich habe mir mal 4 einzelne mitgenommen.",
+            "Über einzelne Anbieter wurde ja hier nichts gesagt.",
+            "Dafür kann man sie aber auch einzeln pflanzen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "whole, entire, complete",
+            "cały, łączny"
+        ],
+        "ger_list": [
+            "gesamt",
+            "Da kommt ins gesamt nicht viel rüber.",
+            "Die gesamte Öffentlichkeit ist dazu herzlich eingeladen.",
+            "Änderungen innerhalb des gesamten Staates müssen folgen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "youthful, teenage",
+            "młodzieżowy, młodociany"
+        ],
+        "ger_list": [
+            "jugendlich",
+            "Diese lassen sich jedoch nur bedingt auf jugendliche Paare übertragen.",
+            "Man sollte sich von seinem jugendlichen Alter nicht verleiten lassen.",
+            "Im jugendlichen oder erwachsenen Alter wird es schon kritisch?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "left (opposite of right)",
+            "lewo"
+        ],
+        "ger_list": [
+            "linke",
+            "Der linke von den beiden ist auch laut beim Spiel.",
+            "Dabei brach er sich das linke Bein.",
+            "Jetzt bitte kurz dezent auf die eigene linke Schulter klopfen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "next, nearest",
+            "następny"
+        ],
+        "ger_list": [
+            "nächste",
+            "Über nächste Aktionen werden wir euch zeitnah informieren.",
+            "Wir freuen uns schon auf die nächste Überraschung.",
+            "Ich freue mich schon aufs nächste mal."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "public, publicly",
+            "publiczny"
+        ],
+        "ger_list": [
+            "öffentlich",
+            "Wäre ja zu einfach wenn nur ein öffentlicher das zeigt.",
+            "Bildung ist immer öffentlich und doch auch privat.",
+            "Warum meldet sich von denen niemand öffentlich ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "fitting, matching, suitable",
+            "pasujący"
+        ],
+        "ger_list": [
+            "passend",
+            "Da findet sich auch nichts passendes sobald man einen sucht.",
+            "Hier ist für jeden etwas passendes dabei.",
+            "Nur hat sie noch nichts passendes gefunden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "special",
+            "specjalny"
+        ],
+        "ger_list": [
+            "speziell",
+            "Und das soll dann speziell gesund sein.",
+            "Und genau genommen ist nicht einmal dieser speziell .",
+            "Du musst nicht speziell gut tanzen können."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "remaining, spare",
+            "pozostały, zbędny"
+        ],
+        "ger_list": [
+            "übrig"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "further, another",
+            "dodatkowy, kolejny, dalszy"
+        ],
+        "ger_list": [
+            "weiter"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "coincidental, by chance",
+            "przypadkowy, przypadkiem"
+        ],
+        "ger_list": [
+            "zufällig",
+            "Und zufällig schau ich hier noch mal rein.",
+            "Nette kleine Übersicht habe ich da zufällig entdeckt.",
+            "Ähnlichkeiten mit bekannten Personen sind nicht zufällig ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "additional, in addition",
+            "dodatkowy"
+        ],
+        "ger_list": [
+            "zusätzlich",
+            "Natürlich habe ich alle gelesen und zusätzlich noch gehört.",
+            "Über zusätzliche Teilnehmer freuen wir uns immer.",
+            "Das muss mir niemand noch zusätzlich erzählen!"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "must",
+            "musieć"
+        ],
+        "ger_list": [
+            "müssen",
+            "Dafür müssen wir 175 € zusätzlich berechnen.",
+            "Ohne noch irgendwas zusätzlich einrichten zu müssen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to be supposed to, should"
+        ],
+        "ger_list": [
+            "sollen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to be allowed to, may"
+        ],
+        "ger_list": [
+            "dürfen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to take part",
+            "brać udział"
+        ],
+        "ger_list": [
+            "mitmachen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to participate, to take part",
+            "brać udział"
+        ],
+        "ger_list": [
+            "teilnehmen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to decide",
+            "decydować"
+        ],
+        "ger_list": [
+            "entscheiden",
+            "Aber das sollte jeder individuell für sich selbst entscheiden .",
+            "Dass wieder rum muss jeder für sich entscheiden !",
+            "Doch plötzlich entscheiden sich die Ärzte um."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to view sth., to consider, to contemplate",
+            "oglądać, przypatrywać się",
+            "rozważać, rozpatrywać"
+        ],
+        "ger_list": [
+            "betrachten",
+            "Man kann sie nur von außen betrachten .",
+            "Also kann man das nicht losgelöst betrachten .",
+            "Welten kann man auch anders betrachten – oder?"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to register",
+            "rejestrować"
+        ],
+        "ger_list": [
+            "registrieren",
+            "Oder muss man sich nur irgendwo registrieren ?",
+            "Und danke dass man sich nicht erst registrieren muss.",
+            "Hier kann man sich schnell und kostenlos registrieren lassen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to repeat",
+            "powtarzać"
+        ],
+        "ger_list": [
+            "wiederholen",
+            "Ich kann mich nur noch mal wiederholen .",
+            "Hoffe wir können das bald wieder wiederholen .",
+            "Was man versucht zu wiederholen – sich gerne daran erinnert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to confirm, to certify, to corroborate",
+            "potwierdzić, zatwierdzić"
+        ],
+        "ger_list": [
+            "bestätigen",
+            "Das können wir bis jetzt nur bestätigen .",
+            "Aber das kann ich noch nicht 100%ig bestätigen .",
+            "Und wir müssen es hier wirklich bestätigen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to wake",
+            "budzić"
+        ],
+        "ger_list": [
+            "wecken",
+            "Du musst mich am morgen einfach schön wecken .",
+            "Es gilt sie zu wecken oder anzulegen.",
+            "Von wem ich das Interesse wecken konnte."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to do"
+        ],
+        "ger_list": [
+            "tun"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to introduce, to imagine",
+            "przedstawić, wyobrazić"
+        ],
+        "ger_list": [
+            "vorstellen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to rent",
+            "wynajmować"
+        ],
+        "ger_list": [
+            "mieten",
+            "Dabei hätte ich den auch mieten können.",
+            "Es lohnt sich bei uns zu mieten .",
+            "Es hat natürlich nichts mit mieten zu tun."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to state, to testify",
+            "zeznawać"
+        ],
+        "ger_list": [
+            "aussagen",
+            "Genau das was man damit aussagen möchte.",
+            "September aussagen können aber interessant ist es allemal.",
+            "Meine frage ist jetzt was soll ich dort aussagen ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "one (person)"
+        ],
+        "ger_list": [
+            "man",
+            "Überall kann man einfach nicht dabei sein!",
+            "Über die weiß man noch nicht allzu viel.",
+            "Über was kann man sich aber dort genau austauschen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "worked (preterite)",
+            "pracował"
+        ],
+        "ger_list": [
+            "arbeitete",
+            "Von 1988 bis 1990 lebte und arbeitete ich da.",
+            "Außerdem arbeitete er sehr sauber und zuverlässig.",
+            "O. arbeitete jetzt für jemanden den ich von früher kenne."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "ate (preterite)",
+            "jadłem"
+        ],
+        "ger_list": [
+            "aß",
+            "Er aß und trank und legte sich wieder hin.",
+            "Er aß fast nichts mehr und lag nur noch herum.",
+            "Ich sagte nix und aß einfach weiter."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "began, started (preterite)",
+            "zaczął"
+        ],
+        "ger_list": [
+            "begann",
+            "Ich begann mich näher damit zu befassen.",
+            "Ich begann mich zu sorgen und beobachtete ihn genauer.",
+            "Ich begann damit zu arbeiten und zu experimentieren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "before"
+        ],
+        "ger_list": [
+            "bevor",
+            "Und bevor ich mich allzu schlecht fühle.",
+            "Doch das schlimmste stand uns immer noch bevor .",
+            "Man soll prüfen bevor man sich endlich bindet."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "stayed, remained (preterite)",
+            "pozostał"
+        ],
+        "ger_list": [
+            "blieb",
+            "Das blieb aus und das finde ich sehr schade.",
+            "So blieb uns nur abzuwarten und kurzfristig zu entscheiden.",
+            "Wobei es aber nicht bei einer blieb ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to burn",
+            "plaić, spalić, płonąć"
+        ],
+        "ger_list": [
+            "brennen",
+            "Er kann brennen und lässt sich löschen.",
+            "Trocknen lassen und anschließend brennen oder brennen lassen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "thought (preterite)",
+            "myślał"
+        ],
+        "ger_list": [
+            "dachte",
+            "Völlig verärgert dachte ich nach was zu tun ist.",
+            "Anfangs dachte ich noch heute lass ich es lieber.",
+            "Dabei gestaltete sie sich schwieriger als ich dachte ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "obtained (preterite)",
+            "otrzymał"
+        ],
+        "ger_list": [
+            "erhielt",
+            "Erst als ich jetzt danach gefragt habe erhielt ich eins.",
+            "Ich erhielt denn auch schriftlich keine weiteren Antworten mehr.",
+            "Deshalb erhielt Österreich jetzt bis 2016 Zeit dafür."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "found (preterite)",
+            "znalazł"
+        ],
+        "ger_list": [
+            "fand",
+            "Gleichzeitig fand ich es einfach spannend zu lesen.",
+            "Ich fand das gut und habe auch angefangen.",
+            "Das fand ich irgendwie doch recht interessant."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "traveled, drove (preterite)",
+            "jechał"
+        ],
+        "ger_list": [
+            "fuhr",
+            "Er hatte einfach losgelassen und ich fuhr !",
+            "Ich fuhr weiter und wurde wieder erwischt.",
+            "Gestern fuhr ich dann mal wieder daran vorbei."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "guided, led (preterite)",
+            "prowadzić, oprowadzać"
+        ],
+        "ger_list": [
+            "führte",
+            "Da konnte man schon froh sein das man führte .",
+            "Aber warum führte er mich hier her?",
+            "Er spielte nicht schlecht und führte sogar 7:1."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "gave (preterite)",
+            "dał"
+        ],
+        "ger_list": [
+            "gab",
+            "Alkohol gab es auch und zwar nicht zu knapp.",
+            "So etwas gab es doch noch nie!",
+            "Da gab es nicht viel zu wollen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "went (preterite)",
+            "poszedł"
+        ],
+        "ger_list": [
+            "ging",
+            "Über 15 km ging es wieder abwärts.",
+            "Aber es ging mir noch nie besser.",
+            "Und dann ging es auch gleich los."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "had (preterite)",
+            "miałem"
+        ],
+        "ger_list": [
+            "hatte",
+            "Überrascht hatte das aber letztlich wirklich niemanden mehr.",
+            "Zumindest kleiner als ich sie mir immer vorgestellt hatte .",
+            "So tief hatte noch gar nichts berührt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "came (preterite)",
+            "przyszedł"
+        ],
+        "ger_list": [
+            "kam",
+            "Aber dann kam es doch etwas anders.",
+            "Zuerst kam es mir etwas eigenartig vor.",
+            "Was dann kam war seiner nicht würdig."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "could (preterite)",
+            "mogłem"
+        ],
+        "ger_list": [
+            "konnte",
+            "Sie konnte jedoch noch nichts gegen sie ausrichten.",
+            "Ich hoffe konnte dir die frage beantworten.",
+            "Zumindest konnte ich nichts der gleichen entdecken."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "could (Konjunktiv II)",
+            "mógłby"
+        ],
+        "ger_list": [
+            "könnte",
+            "Ich könnte ja auch einfach mal alleine loslegen.",
+            "Damit könnte man sie schon etwas besser identifizieren.",
+            "Womit könnte man das belegen oder widerlegen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "lay (preterite)",
+            "leżał"
+        ],
+        "ger_list": [
+            "lag",
+            "Irgendwann lag er nur noch rum und ich verkaufte ihn.",
+            "Und dann lag es da halt rum.",
+            "Woran es lag vermag niemand zu erklären."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "read (preterite)",
+            "czytałem"
+        ],
+        "ger_list": [
+            "las",
+            "Aber bitten las ich mich auch nicht lange.",
+            "Aber ich las dann natürlich alle bisher erschienen.",
+            "Das kaufte er sich sogleich und las es sofort."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "let (preterite)",
+            "pozwolił"
+        ],
+        "ger_list": [
+            "ließ",
+            "So ließ es sich hier bestens aushalten.",
+            "Davon ließ sich dieser jedoch nicht beeindrucken.",
+            "Irgendwann ließ es sich einfach nicht mehr ignorieren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "did, made (preterite)",
+            "zrobił"
+        ],
+        "ger_list": [
+            "machte",
+            "Aber es machte mich auch andererseits ziemlich neugierig.",
+            "Dies machte es umso schwieriger mich zu motivieren.",
+            "Ernüchterung machte sich bei uns allen breit."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "had to (preterite)",
+            "msuiałem"
+        ],
+        "ger_list": [
+            "musste",
+            "Eben dies musste vor allem geglaubt werden.",
+            "Also musste ich noch ein bisschen was dazu dichten.",
+            "Nun musste sie erst mal die Überraschung verdauen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "would have to (Konjunktiv II)"
+        ],
+        "ger_list": [
+            "müsste",
+            "Über das müsste er also auch verfügen.",
+            "An wen müsste man sich da wenden?",
+            "Und zwar ohne dass man großartig darum bitten müsste !"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "took (preterite)",
+            "wziął"
+        ],
+        "ger_list": [
+            "nahm",
+            "Das nahm ich ihm nicht weiter übel.",
+            "Man nahm sie bei sich auf und versorgte sie.",
+            "Jeder nahm eines und musste es zuordnen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "said (preterite)",
+            "powiedział"
+        ],
+        "ger_list": [
+            "sagte",
+            "Ich weiß nicht mehr genau was ich sagte .",
+            "Ich sagte natürlich zu und freute mich wahnsinnig.",
+            "Und dann sagte ich zaghaft \"hallo?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "saw (preterite)",
+            "widziałem"
+        ],
+        "ger_list": [
+            "sah",
+            "So sah es dann bei mir aus.",
+            "Ähnlich sah es nach der Pause aus.",
+            "Im antiken Ägypten sah es auch nicht viel anders aus."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "slept (preterite)",
+            "spałem"
+        ],
+        "ger_list": [
+            "schlief",
+            "Ganz friedlich schlief sie am morgen von alleine ein.",
+            "Anschließend schlief er bis abends einfach durch.",
+            "Er schlief ganz friedlich fÃ1⁄4r immer ein."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "closed (preterite)",
+            "zamknął"
+        ],
+        "ger_list": [
+            "schloss",
+            "Schnell ging sie hinein und schloss hinter sich ab.",
+            "Er schloss nicht besonders überzeugend jedoch siegreich ab.",
+            "Dieser schloss immer näher auf und stand schließlich hinter ihr."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wrote (preterite)",
+            "napisał"
+        ],
+        "ger_list": [
+            "schrieb",
+            "Das tat gut und ich schrieb immer weiter.",
+            "Daraufhin schrieb er ein solches und es gefiel.",
+            "Er saß immer mal irgendwo herum und schrieb ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "swam (preterite)",
+            "płynął"
+        ],
+        "ger_list": [
+            "schwamm",
+            "Er tauchte unter und schwamm sich frei.",
+            "Allerdings schwamm ich da auch noch nicht regelmäßig.",
+            "Anstatt mich zu beißen, schwamm sie lieber einfach davon."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "strolled (preterite)"
+        ],
+        "ger_list": [
+            "spazierte",
+            "Mit ihm spazierte ich dann eine kleine Runde.",
+            "Nach Feier\"abend\" spazierte ich noch etwas durch Aachen.",
+            "Ich spazierte nur durch die Wiese um Insekten zu fotografieren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "spoke (preterite)",
+            "mówiłem"
+        ],
+        "ger_list": [
+            "sprach",
+            "Bis auf zwei sprach man alle schuldig.",
+            "In tiefer kalter stimme sprach er zu mir.",
+            "Man sprach sich aber einstimmig dagegen aus."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "stood (preterite)",
+            "stał"
+        ],
+        "ger_list": [
+            "stand",
+            "Das tönt doch irgendwie und hält doch nicht stand .",
+            "Doch das schlimmste stand uns immer noch bevor.",
+            "Langsam stand er auf und sah sich um."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "put in an upright position (preterite)",
+            "postawiłem"
+        ],
+        "ger_list": [
+            "stellte",
+            "Nachwuchs stellte sich bei mir recht spät ein.",
+            "Weiters stellte sich heraus das glücklicherweise niemand verletzt wurde.",
+            "Dies stellte sich leider als schwieriger als gedacht heraus."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "drank (preterite)",
+            "pił"
+        ],
+        "ger_list": [
+            "trank",
+            "Er trank ihn sehr stark und schwarz.",
+            "Er aß und trank und legte sich wieder hin.",
+            "Normalerweise trank er eher selten und nie zuviel."
+        ],
+        "hardness": 1
+    }
+]

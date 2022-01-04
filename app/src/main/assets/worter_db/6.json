@@ -1,0 +1,1274 @@
+[
+    {
+        "poleng_list": [
+            "bridge",
+            "most"
+        ],
+        "ger_list": [
+            "die Brücke",
+            "Über diese Brücke wollte schon lange niemand mehr gehen.",
+            "Über viele Brücken musst du hier gehen.",
+            "Eine Brücke leitet sich daraus noch lange nicht ab."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "park"
+        ],
+        "ger_list": [
+            "der Park",
+            "Der Park hat uns sehr gut gefallen.",
+            "Wir können diesen Park überhaupt nicht empfehlen.",
+            "Und dann wird der Park das ändern."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "parks",
+            "parki"
+        ],
+        "ger_list": [
+            "die Parks",
+            "Deutschland bietet allein über 150 dieser Parks .",
+            "Natürlich noch innerhalb der Öffnungszeiten des Parks .",
+            "Frag dich mal wie sich die Parks sich finanzieren."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "room",
+            "pokój"
+        ],
+        "ger_list": [
+            "das Zimmer",
+            "Über wieviel Zimmer davon schreibst du eigentlich?",
+            "Die Zimmer sind 2008 liebevoll neu möbliert worden.",
+            "Das Zimmer ist zweckmäßig eingerichtet und sauber gewesen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to build",
+            "budować"
+        ],
+        "ger_list": [
+            "bauen",
+            "Gerne bauen wir dies natürlich auch direkt ein.",
+            "Ihr müsst nicht unbedingt selbst eine bauen .",
+            "Sie ergänzen einander und bauen aufeinander auf."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "stuff",
+            "rzeczy, graty"
+        ],
+        "ger_list": [
+            "das Zeug",
+            "Viel braucht man von dem Zeugs nicht.",
+            "Weil es das Zeug bei uns damals einfach nicht gab.",
+            "Dort wurde natürlich erzählt \"was das Zeug hält\"."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "vehicle"
+        ],
+        "ger_list": [
+            "das Fahrzeug",
+            "Ältere Fahrzeuge werden so regelmäßig durch neue ersetzt.",
+            "Über diese sind entstandene Schäden am eigenen Fahrzeug versichert.",
+            "Es war das \"letzte\" Fahrzeug ."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "vehicles",
+            "pojazdy"
+        ],
+        "ger_list": [
+            "die Fahrzeuge",
+            "Ältere Fahrzeuge werden so regelmäßig durch neue ersetzt.",
+            "Zwischenzeitlich hatten sich diese zwei Fahrzeuge schon entfernt.",
+            "Hierbei sind absolut historische und seltene Fahrzeuge zu bewundern."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "lighter",
+            "zapalniczka"
+        ],
+        "ger_list": [
+            "das Feuerzeug",
+            "Schneller und einfacher geht es mit einem Feuerzeug .",
+            "Feuer machen ohne das Feuerzeug klicken zu lassen.",
+            "Er hielt ihr das brennende Feuerzeug hin."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "aeroplane",
+            "samolot"
+        ],
+        "ger_list": [
+            "das Flugzeug",
+            "Dadurch könnten die Flugzeuge besser ausgelastet werden.",
+            "Im Flugzeug ist es natürlich noch extremer.",
+            "Warum fliegen Flugzeuge und wie optimiert man sie?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "toy",
+            "zabawka"
+        ],
+        "ger_list": [
+            "das Spielzeug",
+            "Jetzt ist sogar schon sein Spielzeug ungesund.",
+            "Sie sagt er sieht aus wie ein Spielzeug .",
+            "Was habt ihr für schönen Spielzeug zuhause."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "tool",
+            "narzędzie"
+        ],
+        "ger_list": [
+            "das Werkzeug",
+            "Und wir werden das Werkzeug stetig weiterentwickeln.",
+            "Dazu benötigt man jedoch natürlich auch das passende Werkzeug .",
+            "Die nötigen Werkzeuge dazu seien öffentlich zu finden."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to eat (for humans)",
+            "jeść"
+        ],
+        "ger_list": [
+            "essen",
+            "Wir wurden nicht enttäuscht und haben sehr gut gegessen .",
+            "Also kann ich daraus ja auch gleich essen .",
+            "Da kann man höchstens einen von essen !"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to read",
+            "czytać"
+        ],
+        "ger_list": [
+            "lesen",
+            "Über mich gibt es hier nichts zu lesen !",
+            "Über die könnt ihr auch woanders genug lesen .",
+            "Wir hören und lesen eben auch drüber."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to have"
+        ],
+        "ger_list": [
+            "haben",
+            "Über die haben wir uns auch massiv beschwert.",
+            "Über letzteren haben wir auch gut zu sprechen.",
+            "Über was haben wir heute noch nicht berichtet?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "milk",
+            "mleko"
+        ],
+        "ger_list": [
+            "die Milch",
+            "Und wer hat vergessen neue Milch zu kaufen?",
+            "Gebt anschließend die Milch hinzu und rührt alles gut durch.",
+            "Was wird alles aus Milch gemacht und wie?"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "apple",
+            "jabłko"
+        ],
+        "ger_list": [
+            "der Apfel",
+            "Über den Apfel kann man ganz viel lernen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "newspaper",
+            "gazeta"
+        ],
+        "ger_list": [
+            "die Zeitung",
+            "Nun konnte die Zeitung endlich verkauft werden.",
+            "Ich lese auch Zeitung eigentlich nur noch online.",
+            "Dan hat die Zeitung ausnahmsweise was richtiges geschrieben."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "book",
+            "książka"
+        ],
+        "ger_list": [
+            "das Buch",
+            "Über das erste Buch wurde hier schon berichtet.",
+            "Über dieses Buch können wir nicht diskutieren.",
+            "Über dieses Buch habe ich ganz besonders gefreut."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "books",
+            "książki"
+        ],
+        "ger_list": [
+            "die Bücher",
+            "Über diese Bücher werde ich jetzt aber nicht schreiben.",
+            "Über 60 Bücher sind von ihr bereits erschienen.",
+            "Ältere Bücher sind manchmal nicht so leicht zu bekommen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to open"
+        ],
+        "ger_list": [
+            "öffnen",
+            "Dies lässt sich problemlos auch wieder öffnen .",
+            "Sie können sie öffnen und ausdrucken oder downloaden.",
+            "Wenn nicht muss man sie kurz öffnen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wall",
+            "ściana"
+        ],
+        "ger_list": [
+            "die Wand",
+            "Die Wand beginnt bereits auf 10m und endet bei 20m.",
+            "Die Wand sieht nun jedenfalls viel besser aus als vorher.",
+            "Aber sie wollen nur diese eine Wand renovieren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "window",
+            "okno"
+        ],
+        "ger_list": [
+            "das Fenster",
+            "Ähnlich geht es mir mit den Fenstern .",
+            "Ähnlich verhält es sich mit den Fenstern .",
+            "Sonnenschutz am Fenster außen oder innen wirksamer?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "door",
+            "drzwi"
+        ],
+        "ger_list": [
+            "die Tür",
+            "Und standen zunächst einmal vor der Tür .",
+            "Die steht dann auch prompt vor der Tür .",
+            "Und plötzlich steht dieser vor der Tür ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "apartment",
+            "mieszkanie"
+        ],
+        "ger_list": [
+            "die Wohnung",
+            "Über 91% unserer Wohnungen können wir vermitteln.",
+            "Überall in der Wohnung habe ich sie verteilt.",
+            "Überall haben sie welche in der Wohnung stehen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "roof",
+            "dach"
+        ],
+        "ger_list": [
+            "das Dach",
+            "Wenn das Dach auf ist wirds einfacher.",
+            "Der wohnt nämlich da unten unter dem Dach .",
+            "Nun ist wieder alles unter einem Dach vereint."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "balcony",
+            "balkon"
+        ],
+        "ger_list": [
+            "der Balkon",
+            "Über das Zimmer gelangt man auf den Balkon .",
+            "Rauchen auf dem Balkon ist natürlich erlaubt.",
+            "Und mein Balkon war bis gestern immer noch nicht fit."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "cellar",
+            "piwnica"
+        ],
+        "ger_list": [
+            "der Keller",
+            "Über 2% ging es in den Keller .",
+            "Hierzu musste zunächst der Keller ausgeräumt werden.",
+            "Der Keller ist nur von innen begehbar."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "key",
+            "klucz"
+        ],
+        "ger_list": [
+            "der Schlüssel",
+            "Über den Schlüssel muß man sich sicher unterhalten.",
+            "Mit einem Schlüssel geht es spielend leicht.",
+            "Es war aber kein Schlüssel vorhanden und niemand dafür zuständig."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "kitchen"
+        ],
+        "ger_list": [
+            "die Küche",
+            "Überdies wird die hiesige regionale Küche weit geschätzt.",
+            "In der großzügigen Küche wird auch gekocht.",
+            "Ebenso hat sich die Küche hat etwas einfallen lassen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "living room",
+            "pokój dzienny, salon"
+        ],
+        "ger_list": [
+            "das Wohnzimmer",
+            "Überhaupt war unser Wohnzimmer nie so wirklich genutzt.",
+            "Das Wohnzimmer ist nicht mehr als solches zu erkennen.",
+            "Zumindest habe ich das hier bei mir im Wohnzimmer festgestellt."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "table",
+            "stół"
+        ],
+        "ger_list": [
+            "der Tisch",
+            "Über den Tisch ziehen lasse ich mich nicht.",
+            "Über den Tisch rutscht es allerdings öfter.",
+            "Aber deshalb sollte man ihn nicht direkt vom Tisch wischen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "chair",
+            "krzesło"
+        ],
+        "ger_list": [
+            "der Stuhl",
+            "Dabei war nicht wirklich alles als Stuhl zu erkennen.",
+            "Bald hält es keinen mehr auf dem Stuhl .",
+            "Langsam sank er zurück auf seinen Stuhl ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "sofa",
+            "kanapa"
+        ],
+        "ger_list": [
+            "das Sofa",
+            "Schließlich fällt er betrunken auf das Sofa .",
+            "Sie geht zum Sofa und setzt sich.",
+            "Feierabend machen und direkt auf das Sofa legen?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "bedroom",
+            "sypialnia"
+        ],
+        "ger_list": [
+            "das Schlafzimmer",
+            "Um mehr von den Schlafzimmern zu sehen bitte hier klicken.",
+            "Deswegen sollte er am besten im Schlafzimmer gestärkt werden.",
+            "Hoffentlich ist auch mal ein Schlafzimmer dabei."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "bed",
+            "łóżko"
+        ],
+        "ger_list": [
+            "das Bett",
+            "Das Bett ist komfortable 140 cm breit.",
+            "Dennoch fand jeder seinen weg ins warme Bett .",
+            "Im Bett gefiel es ihm am besten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "lamp",
+            "lampa"
+        ],
+        "ger_list": [
+            "die Lampe",
+            "Ältere Lampen können jedoch 7 mg und mehr enthalten.",
+            "Und die 7 dann \"die Lampe ausmacht\" nachts.",
+            "Die grüne Lampe konnte rechts und links leuchten."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "light",
+            "światło"
+        ],
+        "ger_list": [
+            "das Licht",
+            "Über das Licht gibt es nicht besonders viel zu sagen.",
+            "Über dieses Licht in uns sind wir alle miteinander verbunden.",
+            "Ganz simpel und gibt schönes Licht dadurch."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "carpet",
+            "dywan"
+        ],
+        "ger_list": [
+            "der Teppich",
+            "Über einen gelben Teppich würde ich mich auch sehr freuen!",
+            "Über den roten Teppich durfte man allerdings trotzdem gehen.",
+            "Auch diese beiden Teppiche sind wieder wunderbar geworden."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "power outlet, socket",
+            "gniazdko"
+        ],
+        "ger_list": [
+            "die Steckdose",
+            "Dafür ist aber leider eine Steckdose nötig.",
+            "Strom kommt eben nicht einfach aus der Steckdose .",
+            "Dieser kann über die normale Steckdose aufgeladen werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sockets, power outlets",
+            "gniazdka"
+        ],
+        "ger_list": [
+            "die Steckdosen",
+            "Gut wär auch wenn man die Steckdosen wieder nutzen könnte.",
+            "Oder warum sonst sehen alle Steckdosen genau gleich aus?",
+            "Noch mehr Steckdosen gab's natürlich auch."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "fence",
+            "płot"
+        ],
+        "ger_list": [
+            "der Zaun",
+            "Über den Zaun schauen und lernen hilft.",
+            "Traum und Zaun ist ja auch nicht soweit voneinander.",
+            "Sie konnte stundenlang am Zaun stehen und einfach nur beobachten."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "fences",
+            "płoty"
+        ],
+        "ger_list": [
+            "die Zäune",
+            "Nicht mehr lange und wir bauen wieder Zäune .",
+            "Die kommen über die Zäune nicht rüber.",
+            "Das war jedenfalls hübscher als die vielen Zäune ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "cabinet, cupboard",
+            "szafa"
+        ],
+        "ger_list": [
+            "der Schrank",
+            "Über diesen Schrank sollte ich unbedingt schreiben.",
+            "Nun müßte ja eigentlich ein 40er Schrank reichen?",
+            "So hier seht ihr jetzt meinen Schrank ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "blanket, ceiling",
+            "sufit, koc"
+        ],
+        "ger_list": [
+            "die Decke",
+            "Nun hat aber auch er seine eigene Decke .",
+            "Deine Decke sieht sehr luftig und zart aus.",
+            "Er hat da seine Decke und liegt den da."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "piece of furniture",
+            "mebel"
+        ],
+        "ger_list": [
+            "das Möbel",
+            "Wie die vorhandenen Möbel möglichst schön und praktisch stellen?",
+            "Alle Möbel können direkt online bestellt werden.",
+            "Es können auch eigene Möbel mitgebracht werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "staircase, stairs",
+            "schody"
+        ],
+        "ger_list": [
+            "die Treppe",
+            "Für manche ist es nämlich schwer die vielen Treppen aufzusteigen.",
+            "Es wird immer schwerer aufzustehen oder Treppen zu steigen.",
+            "Über die interne Treppe gelangt man ins Erdgeschoss."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "charger, battery charger",
+            "ładowarka"
+        ],
+        "ger_list": [
+            "das Ladegerät",
+            "Zudem stimmte irgendwas nicht mit dem Ladegerät .",
+            "Denn wenn das Ladegerät kompatibel ist funktioniert es einwandfrei.",
+            "Wobei mir das externe Ladegerät sehr gefällt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "without",
+            "bez"
+        ],
+        "ger_list": [
+            "ohne",
+            "Und zwar ohne dass man großartig darum bitten müsste!",
+            "Äußerst gewöhnungsbedürftig – dafür aber ohne heißen Hund.",
+            "Sie können nicht miteinander aber auch nicht ohne ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "around, at"
+        ],
+        "ger_list": [
+            "um",
+            "Über die anderen aber um so mehr!",
+            "Und um wen oder was handelt es sich dabei?",
+            "Hier geht es um dich und mich."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "against",
+            "przeciwko"
+        ],
+        "ger_list": [
+            "gegen",
+            "Sie konnte jedoch noch nichts gegen sie ausrichten.",
+            "Wie kann man sich gegen dieses oder jenes schützen?",
+            "Was kann man da wohl gegen machen?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "through"
+        ],
+        "ger_list": [
+            "durch",
+            "Änderungen können auch durch uns nicht mehr vorgenommen werden!",
+            "Und genau das wäre durch uns umsetzbar.",
+            "Dann muss natürlich diese erste durch eine offene ersetzt werden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "for"
+        ],
+        "ger_list": [
+            "für",
+            "Übrigens – \"da nicht für \"!",
+            "Überraschend für mich es waren alle da.",
+            "Überlegen wir uns einmal was das für uns heißt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "along",
+            "wzdłuż"
+        ],
+        "ger_list": [
+            "entlang",
+            "Wieso bin ich ihn noch nie entlang gefahren?",
+            "Also werde ich nicht dort entlang fahren.",
+            "Hier joggen wir abends auch immer entlang ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "what",
+            "co"
+        ],
+        "ger_list": [
+            "was",
+            "Ökumene – was bedeutet das heute eigentlich?",
+            "Über was soll ich denn heute bloggen?",
+            "Überhaupt habe ich noch nie was gelöscht."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "where",
+            "gdzie"
+        ],
+        "ger_list": [
+            "wo",
+            "Vorausgesetzt man weiß wo man hin muss.",
+            "Bloß wo verstecken sich die hier eigentlich?",
+            "Wir freuen uns ein wiedersehen egal wie und wo ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "why",
+            "czemu, dlaczego"
+        ],
+        "ger_list": [
+            "warum",
+            "Über wen habe ich warum schlecht geredet?",
+            "Über das warum kann man hier nur spekulieren.",
+            "Denn warum teuer wenn ́s auch preiswert machbar ist."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "where to",
+            "dokąd"
+        ],
+        "ger_list": [
+            "wohin",
+            "Und wohin zog es uns da ganz besonders?",
+            "Plötzlich verschwunden und niemand weiß warum und wohin .",
+            "Eddie wusste überhaupt nicht wohin mit sich."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "when",
+            "kiedy, gdy"
+        ],
+        "ger_list": [
+            "wann",
+            "Wer packt was und vor allem wann ?",
+            "Mal schauen wann ich mich dann traue sie zu nähen.",
+            "Man muss nur wissen wo und wann !"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "why (how so)",
+            "jak to, dlaczego"
+        ],
+        "ger_list": [
+            "wieso",
+            "Nur wieso kommt da erst jetzt jemand drauf?",
+            "Und wieso muss man immer vernünftig sein?",
+            "Wo bist du und wenn nicht wieso ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "what for",
+            "na co, za co"
+        ],
+        "ger_list": [
+            "wofür",
+            "Also wofür oder wogegen demonstriert ihr denn heute noch?",
+            "Ich werde mal schauen wofür ich mich spontan entscheide.",
+            "Achso wofür bewirbt man sich da eigentlich?"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "what about",
+            "o czym, o co"
+        ],
+        "ger_list": [
+            "worüber",
+            "Über wen und über was wird geschrieben und worüber nicht?",
+            "Plane nicht mit dem worüber du nicht entscheidest!",
+            "Und womit oder worüber tauschen sie sich aus?"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "answer",
+            "odpowiedź"
+        ],
+        "ger_list": [
+            "die Antwort",
+            "Über Antwort würde ich mich sehr freuen.",
+            "Über eine kurze Antwort würde ich mich freuen!",
+            "Über eine Antwort würde ich mich sehr freuen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "question",
+            "pytanie"
+        ],
+        "ger_list": [
+            "die Frage",
+            "Über diese und viele andere Fragen wollen wir sprechen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "whose",
+            "czyj"
+        ],
+        "ger_list": [
+            "wessen",
+            "Doch wessen Lebensgeschichte erzähle ich hier eigentlich?",
+            "Und wessen Ruhe er dabei tatsächlich störte.",
+            "Und das soll jetzt wessen Sicherheit erhöhen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "how much",
+            "jak dużo"
+        ],
+        "ger_list": [
+            "wie viel"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "how many",
+            "jak wiele, ilu"
+        ],
+        "ger_list": [
+            "wie viele"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "who",
+            "kto"
+        ],
+        "ger_list": [
+            "wer",
+            "Österreich trauert und wer kann das verantworten?",
+            "Aber wer hat schon immer den richtigen Überblick?",
+            "Aber wer hätte sie auch anrufen sollen?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "which",
+            "który"
+        ],
+        "ger_list": [
+            "welch",
+            "Kam nicht gut an – welch Überraschung.",
+            "Und kam dann doch – welch ' Überraschung – zurück.",
+            "Das zeigt welch große Verwirrung es teilweise darüber gibt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "like, how",
+            "jak"
+        ],
+        "ger_list": [
+            "wie",
+            "Übrigens mag alles gehen wie es kann.",
+            "Überhaupt soll alles so weit wie möglich weiß aussehen.",
+            "Oder wie mach ich das am besten?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to ask",
+            "pytać"
+        ],
+        "ger_list": [
+            "fragen",
+            "Also schöne einfache fragen damit möglichst viele anrufen.",
+            "Dass man uns bitte gerne \"geradeaus\" etwas fragen kann.",
+            "Wer noch etwas wissen möchte kann mich gern fragen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to answer, to respond (intransitive)",
+            "odpowiadać"
+        ],
+        "ger_list": [
+            "antworten",
+            "Über antworten würde ich mich sehr freuen.",
+            "Für antworten bedanke ich mich schon jetzt ganz herzlich!",
+            "Ab morgen kann ich dann wieder zeitnah antworten ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "one"
+        ],
+        "ger_list": [
+            "eins",
+            "Mindestens eins davon gilt ebenfalls als kritisch!",
+            "Optisch schon mal eine glatte eins von mir.",
+            "Aus zwei wurde eins und das soll gebührend gefeiert werden!"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "two",
+            "2"
+        ],
+        "ger_list": [
+            "zwei",
+            "Über zwei davon wollen wir kurz berichten.",
+            "Dies ist der erste von genau zwei von heute.",
+            "Bis auf zwei sind alle wieder frei."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "three",
+            "3"
+        ],
+        "ger_list": [
+            "drei",
+            "Alle drei sind dabei doch recht unterschiedlich.",
+            "Von diesen Übungen absolvierten wir im ganzen drei .",
+            "Zudem konnten wir alle drei voneinander profitieren und lernen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "four",
+            "4"
+        ],
+        "ger_list": [
+            "vier",
+            "Ganze vier von ihnen haben sich sehr nett bedankt.",
+            "Mit vier von ihnen lebt er derzeit zusammen.",
+            "Wir vier haben uns hier getroffen und wollen euch begleiten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "five",
+            "5"
+        ],
+        "ger_list": [
+            "fünf",
+            "Eins fünf null null null null null null null.",
+            "Insgesamt fünf davon wurden komplett neu errichtet.",
+            "Wir zeigen euch die besten fünf Übungen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "six",
+            "6"
+        ],
+        "ger_list": [
+            "sechs",
+            "Donnerstag musste ich schon um sechs aufstehen.",
+            "Die sechs Übungen sind leicht und effektiv.",
+            "Drei davon werden als kritisch und sechs als wichtig eingestuft."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "seven",
+            "7"
+        ],
+        "ger_list": [
+            "sieben",
+            "Gestern noch sechs und heute schon sieben .",
+            "Immerhin geht es wirklich pünktlich um kurz nach sieben los.",
+            "Die gibt es nur noch um sieben oder um acht."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "eight",
+            "8"
+        ],
+        "ger_list": [
+            "acht",
+            "Transport darf man halt auch nicht ausser acht lassen.",
+            "Morgens um halb acht werden sie dort abgeholt.",
+            "Wir wurden wie immer um halb acht geweckt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "nine"
+        ],
+        "ger_list": [
+            "neun",
+            "Morgen früh um neun ist es mal wieder soweit.",
+            "Frühstück gibt es stets genau um halb neun .",
+            "Zwischen neun und neun habe ich vor kurzem schon verschlungen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "ten",
+            "10"
+        ],
+        "ger_list": [
+            "zehn",
+            "Maximal sollten es nicht mehr als zehn sein.",
+            "Gegen zehn packen wir zusammen und fahren los.",
+            "Ab sofort kannst bis zu zehn verschieden Öle herstellen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "eleven",
+            "11"
+        ],
+        "ger_list": [
+            "elf",
+            "Die elf Übungen wurden sehr gut besucht.",
+            "Um kurz vor elf geht es los.",
+            "Bisher habe ich aber noch nichts von elf ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "twelve",
+            "12"
+        ],
+        "ger_list": [
+            "zwölf",
+            "Aber wie fast immer gehts ab zwölf .",
+            "Um zwölf ist davon noch nichts zu sehen.",
+            "Von zwölf bis zwei werde ich dort nicht gebraucht."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "telephone number"
+        ],
+        "ger_list": [
+            "die Telefonnummer",
+            "Mich fragt man klassisch nach meiner Telefonnummer .",
+            "Die Telefonnummer muss nicht zwangsläufig genannt werden.",
+            "Und schon muss man doch wieder jede Telefonnummer zweimal eingeben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "thirteen",
+            "13"
+        ],
+        "ger_list": [
+            "dreizehn",
+            "Mindestens dreizehn Menschen sind dabei verletzt worden.",
+            "Davon betroffen sind auch die dreizehn evangelischen Krankenhäuser.",
+            "Mit dreizehn marschiert sie bis zum Zusammenbruch."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "fourteen",
+            "14"
+        ],
+        "ger_list": [
+            "vierzehn",
+            "Mit vierzehn sollte man das aber \"gebacken\" kriegen.",
+            "Bis zu vierzehn Tage wollen sie brauchen.",
+            "Ich brauchte vierzehn Therapien um trocken zu werden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "fifteen",
+            "15"
+        ],
+        "ger_list": [
+            "fünfzehn",
+            "Er ist fünfzehn und sie findet ihn unglaublich süß.",
+            "Ich habe es alle fünfzehn Mal gerne angenommen.",
+            "Diese Übung dauert fünfzehn bis dreißig Minuten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sixteen",
+            "16"
+        ],
+        "ger_list": [
+            "sechzehn",
+            "Irgendwann zwischen elf und sechzehn geht es los.",
+            "Kilometer sechzehn und sie hielt sich super.",
+            "Platz sechzehn ist immer noch nur sechs Punkte entfernt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sum",
+            "suma, kwota"
+        ],
+        "ger_list": [
+            "die Summe",
+            "Über eine konkrete Summe wurde allerdings nichts bekannt.",
+            "Über die genaue Summe will er öffentlich nicht sprechen.",
+            "Ihr sei dafür eine grosse Summe versprochen worden."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "seventeen",
+            "17"
+        ],
+        "ger_list": [
+            "siebzehn",
+            "Damals waren sie siebzehn und über alles ineinander verliebt.",
+            "Somit gibt es für 2004 siebzehn 5* Gewinner.",
+            "Pünktlich von neun bis siebzehn Uhr kreativ sein?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "eighteen",
+            "18"
+        ],
+        "ger_list": [
+            "achtzehn",
+            "Heute sind es bei gleicher Verpackung nur noch achtzehn .",
+            "Bewerber müssen mindestens achtzehn Jahre alt sein.",
+            "Mitmachen kann jeder, der achtzehn Jahre und älter ist."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "digit, figure, number",
+            "liczba, ilosć, cyfra"
+        ],
+        "ger_list": [
+            "die Zahl",
+            "Über genaue Zahlen scheint aktuell noch nichts klar zu sein.",
+            "Über genaue Zahlen ist derzeit nichts bekannt.",
+            "Über Zahlen wollte man sich noch nicht äußern."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "nineteen"
+        ],
+        "ger_list": [
+            "neunzehn",
+            "Mit neunzehn war sie schon mit dem ersten Kind schwanger.",
+            "Mit neunzehn Jahren zog ich von zuhause aus.",
+            "Bis neunzehn Uhr war es noch lange hin."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to count",
+            "liczyć"
+        ],
+        "ger_list": [
+            "zählen",
+            "Beim 8 oder 9 konnte ich nicht mehr zählen .",
+            "Egal was ist ich kann auf sie zählen .",
+            "Bis es eigentlich nichts mehr zu zählen gab."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "dozen",
+            "tuzin",
+            "kilkanaście"
+        ],
+        "ger_list": [
+            "das Dutzend",
+            "Ein Dutzend müsste ich nun schon ausprobiert haben.",
+            "Und davon gibt es ja inzwischen Dutzende .",
+            "Die gab es wohl mal im Dutzend billiger."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "half",
+            "połowa (rzeczownik)"
+        ],
+        "ger_list": [
+            "die Hälfte",
+            "Rund die Hälfte von ihnen ist international.",
+            "Die zweite Hälfte begann viel besser als die erste.",
+            "Hätte man wirklich auf die Hälfte kürzen können."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "and",
+            "i"
+        ],
+        "ger_list": [
+            "und",
+            "Rund die Hälfte von ihnen ist international.",
+            "Die zweite Hälfte begann einseitig und sollte es auch bleiben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "either",
+            "albo albo"
+        ],
+        "ger_list": [
+            "entweder"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "or",
+            "albo"
+        ],
+        "ger_list": [
+            "oder"
+        ],
+        "hardness": 2
+    }
+]

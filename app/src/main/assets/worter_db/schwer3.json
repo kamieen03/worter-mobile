@@ -1,0 +1,1009 @@
+[
+    {
+        "poleng_list": [
+            "cardboard",
+            "tektura, karton"
+        ],
+        "ger_list": [
+            "die Pappe",
+            "Wer hat da eine Pappe für mich?",
+            "Die Pappe sollte nicht zu dünn sein!",
+            "Na ich meine auch die aus Pappe ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to put, lay (in horizontal position)",
+            "kłaść"
+        ],
+        "ger_list": [
+            "legen",
+            "Deswegen versuche ich jetzt wieder hier los zu legen !",
+            "Auch bei mir legen sie sofort auf.",
+            "Aber bis dahin legen wir noch einmal richtig los!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "leather",
+            "skóra (materiał)"
+        ],
+        "ger_list": [
+            "das Leder",
+            "Dafür sind sie aber auch aus Leder .",
+            "Schuhe aus diesem Leder sind extrem haltbar und sehr bequem.",
+            "Es ist aus weichem Leder und super gemütlich."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "inclusively, including",
+            "włącznie, łącznie z"
+        ],
+        "ger_list": [
+            "einschließlich",
+            "Und danach lag er bis einschließlich 1981 bei 70%.",
+            "Bestellungen laufen wöchentlich und können bis einschließlich donnerstags berücksichtigt werden.",
+            "Sie könnten also sogar alles bis einschließlich 2009 vernichten."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "copper",
+            "miedź"
+        ],
+        "ger_list": [
+            "das Kupfer",
+            "Vor allem beim Kupfer zeichnet sich dies ab.",
+            "Leider kann ich dir über Kupfer nichts sagen.",
+            "Dabei entstand nach rund zehn Minuten reines Kupfer ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "billion",
+            "miliard"
+        ],
+        "ger_list": [
+            "die Milliarde",
+            "Über diese 10 Milliarden möchten wir nicht sprechen.",
+            "Über 3 Milliarden Euro sollen beschlossen werden.",
+            "Es geht wie gesagt um viele Milliarden !"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "steel",
+            "stal"
+        ],
+        "ger_list": [
+            "der Stahl",
+            "Wie wäre es mit etwas Stahl falten?",
+            "Bei Stahl wäre die schon was anderes.",
+            "Was ist Stahl und wie wird er \"gekocht\"?"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to lie (down)",
+            "leżeć"
+        ],
+        "ger_list": [
+            "liegen",
+            "Über 50% liegen aber noch vor uns!",
+            "Ökonomen liegen oft richtig, aber nicht immer.",
+            "Aber daran kann es doch nicht liegen ?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "gold",
+            "złoto"
+        ],
+        "ger_list": [
+            "das Gold",
+            "Aber bekanntlich ist ja nicht immer alles Gold was glänzt.",
+            "Schließlich ist auch dort nicht alles Gold was glänzt.",
+            "Jeder möchte doch das meiste aus seinem Gold herausholen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to sit",
+            "siedzieć"
+        ],
+        "ger_list": [
+            "sitzen",
+            "Aber das konnten wir unmöglich auf uns sitzen lassen.",
+            "Aber man darf auch einfach nur sitzen bleiben zuschauen.",
+            "Wir sitzen zu viel und bewegen uns zu wenig."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "natomiast"
+        ],
+        "ger_list": [
+            "hingegen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "możliwość, możność"
+        ],
+        "ger_list": [
+            "das Vermögen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "co ciekawwe"
+        ],
+        "ger_list": [
+            "interessanterweise"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wzór, próbka"
+        ],
+        "ger_list": [
+            "das Muster"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "przysyłać, nadsyłać"
+        ],
+        "ger_list": [
+            "zuschicken"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "ustalać, dowiadywać się"
+        ],
+        "ger_list": [
+            "rausfinden"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "zrekompensować, wyrównać"
+        ],
+        "ger_list": [
+            "ausgleichen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "zajęty (busy)"
+        ],
+        "ger_list": [
+            "beschäftigt"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "biżuteria"
+        ],
+        "ger_list": [
+            "der Schmuck"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "author, drafter, essayist",
+            "autor"
+        ],
+        "ger_list": [
+            "der Verfasser",
+            "Leider ist mir der Verfasser nicht bekannt.",
+            "Der Verfasser ist nicht mehr zu ermitteln.",
+            "Auch der Verfasser kann dies alles nur bestätigen."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "responsible, in charge, relevant, competent, appropriate, concerned",
+            "odpowiedzialny, właściwy"
+        ],
+        "ger_list": [
+            "zuständig",
+            "Und wo ich doch gar nicht dafür zuständig bin!",
+            "Dafür ist sie aber gar nicht zuständig .",
+            "Er ist zuständig und wär gut wenn er handeln würde!"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "developer",
+            "deweloper, projektant"
+        ],
+        "ger_list": [
+            "der Entwickler",
+            "Da müssen die Entwickler nicht mehr viel tun.",
+            "Genaueres verraten die Entwickler allerdings noch nicht.",
+            "Denn genau diese Entwickler sind ja derzeit schwer zu finden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "health insurance",
+            "ubezpieczenie zdrowotne"
+        ],
+        "ger_list": [
+            "die Krankenversicherung",
+            "Davon betroffen sind besonders die privaten Krankenversicherungen .",
+            "Was versteht man eigentlich unter einer privaten Krankenversicherung ?",
+            "Ich habe mich für eine private Krankenversicherung entschieden."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "most, mostly, usually",
+            "najczęściej, najwięcej"
+        ],
+        "ger_list": [
+            "meist",
+            "Über jene schon uns meist zu viel .",
+            "Allein ist man allerdings meist nicht unterwegs.",
+            "Und meist braucht es auch nicht mehr."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "hard, severe",
+            "twardy"
+        ],
+        "ger_list": [
+            "hart",
+            "Ich arbeite hart daran sie zu überwinden.",
+            "Dabei waren sie oftmals gnadenlos und hart .",
+            "Das muss ja ganz schön hart sein!"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "snail",
+            "ślimak"
+        ],
+        "ger_list": [
+            "die Schnecke",
+            "Und manchmal können Schnecken sogar zu schnell sein.",
+            "Die Schnecke ist sehr interessant zu beobachten.",
+            "Auch bei ihm fiel es nicht aus der Schnecke raus."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "usual, usually",
+            "zazwyczaj, zwykle, zwyczajny"
+        ],
+        "ger_list": [
+            "gewöhnlich",
+            "Für uns sind sie gewöhnlich und bekannt.",
+            "Für gewöhnlich sind sie witzig und originell.",
+            "Skoda gehört für gewöhnlich eher nicht dazu."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "frequent",
+            "często, częsty"
+        ],
+        "ger_list": [
+            "häufig",
+            "Über sie wird häufig in der Öffentlichkeit sehr kontrovers diskutiert.",
+            "Kafka sei aber am häufigsten gewählt worden.",
+            "Das werdet ihr hier noch häufiger lesen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "excellent",
+            "świetny, znakomity, wspaniały"
+        ],
+        "ger_list": [
+            "ausgezeichnet",
+            "Das ist ihr ausgezeichnet gelungen – finden wir.",
+            "Es hat uns ausgezeichnet gefallen und war sehr erholsam.",
+            "Es war sehr sauber und man konnte ausgezeichnet schlafen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "przeszkoda, bariera"
+        ],
+        "ger_list": [
+            "das Hinderniss"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "pokonać, przezwyciężyć"
+        ],
+        "ger_list": [
+            "überwinden"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "zawierać, zawrzeć (kompromis)"
+        ],
+        "ger_list": [
+            "schließen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "szczegół, detal"
+        ],
+        "ger_list": [
+            "die Einzelheit"
+        ],
+        "hardness": 8
+    },
+    {
+        "poleng_list": [
+            "ustalać (np. plan, cenę)"
+        ],
+        "ger_list": [
+            "festlegen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "stopniowo"
+        ],
+        "ger_list": [
+            "allmählich",
+            "nach und nach"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wzajemnie, nawzajem"
+        ],
+        "ger_list": [
+            "gegenseitig"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "odpalać (np. mechanizm napędowy)"
+        ],
+        "ger_list": [
+            "zünden"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "grabić (liście)"
+        ],
+        "ger_list": [
+            "rechen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "popyt, zapotrzebowanie"
+        ],
+        "ger_list": [
+            "die Nachfrage"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "spaliny"
+        ],
+        "ger_list": [
+            "die Abgasen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "różnorodność"
+        ],
+        "ger_list": [
+            "die Vielfalt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "jednak"
+        ],
+        "ger_list": [
+            "jedoch, allerdings, dennoch"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "intencja, zamiar"
+        ],
+        "ger_list": [
+            "die Absicht"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "popierać, wspierać"
+        ],
+        "ger_list": [
+            "fördern, befürworten"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "rosnący"
+        ],
+        "ger_list": [
+            "zunehmend, wachsend, steigend"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "hodowla"
+        ],
+        "ger_list": [
+            "die Haltung, die Zucht, die Aufzucht"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "nadal, w dalszym ciągu"
+        ],
+        "ger_list": [
+            "weiterhin"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "nawet nie, ani razu"
+        ],
+        "ger_list": [
+            "nicht einmal"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "białko"
+        ],
+        "ger_list": [
+            "das Eiweiß"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "kosztowny, czasochłonny"
+        ],
+        "ger_list": [
+            "aufwendig"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "i mianowicie"
+        ],
+        "ger_list": [
+            "und zwar"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "zużycie"
+        ],
+        "ger_list": [
+            "der Verbrauch"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "uzgadniać"
+        ],
+        "ger_list": [
+            "vereinbaren"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "wzrost, proces wzrostu, rozrost"
+        ],
+        "ger_list": [
+            "das Wachstum"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "przedtem"
+        ],
+        "ger_list": [
+            "vorher, zuvor"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "bądź co bądź, wszak, przynajmniej, w końcu"
+        ],
+        "ger_list": [
+            "immerhin"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wykonywać pracę, wywiązywać się"
+        ],
+        "ger_list": [
+            "leisten"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "odwołać"
+        ],
+        "ger_list": [
+            "absagen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "obwieszczać, oznajmiać, ogłaszać"
+        ],
+        "ger_list": [
+            "verkünden"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "uchwalać (ustawę)"
+        ],
+        "ger_list": [
+            "verabschieden"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "podtekst"
+        ],
+        "ger_list": [
+            "der Hintergedanke"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "denerwować"
+        ],
+        "ger_list": [
+            "aufregen, nerven, erregen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "denerwować się"
+        ],
+        "ger_list": [
+            "sich ärgern"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "island",
+            "wyspa"
+        ],
+        "ger_list": [
+            "die Insel",
+            "Übernachtungsmöglichkeiten gibt es auf der Insel viele.",
+            "Über die Insel gibt es schon seit dem 6.",
+            "Über diese Insel erfahrt ihr hier auch mehr."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "kind, type",
+            "rodzaj"
+        ],
+        "ger_list": [
+            "die Art",
+            "Überraschungen der positiven Art sind anschließend nicht ausgeschlossen.",
+            "Übungen dieser Art sind wichtig und nützlich.",
+            "Über 130 gefundene Arten konnten bestimmt werden."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "ribbon, strap",
+            "wstążka, paśma, opaska, więź"
+        ],
+        "ger_list": [
+            "das Band",
+            "Über diese Band kann ich nicht viel erzählen.",
+            "Übrigens ich schreibe dann noch über das nächste Band .",
+            "Über die Band selbst gibt es nichts zu berichten."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "mountain"
+        ],
+        "ger_list": [
+            "der Berg",
+            "Auch wenn wir nicht auf dem Berg waren.",
+            "Der Berg ist hoch aber wir trauen uns alle!",
+            "Die wunderschönen Berge sah ich nur von unten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "never (long form and more emotional)",
+            "nigdy"
+        ],
+        "ger_list": [
+            "niemals",
+            "Ich liebe es und möchte es niemals missen.",
+            "Qualität ist niemals ein für allemal definiert.",
+            "Mobbing dürfe niemals ignoriert oder geduldet werden."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to arrive"
+        ],
+        "ger_list": [
+            "ankommen",
+            "Man sollte es eventuell darauf ankommen lassen.",
+            "Hier soll er ankommen und sich wohl fühlen.",
+            "Es darf und sollte nicht auf uns ankommen ."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "first name",
+            "imię"
+        ],
+        "ger_list": [
+            "der Vorname",
+            "Heute ist der Vorname beliebt wie nie.",
+            "Kann man den Vornamen leicht aussprechen und einfach schreiben?",
+            "Arroganz ist und bleibt sein zweiter Vorname ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "dookoła, wokół"
+        ],
+        "ger_list": [
+            "drumherum, drumrum"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "przede wszystkim, głównie"
+        ],
+        "ger_list": [
+            "hauptsächlich"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "krążyć (legendy)"
+        ],
+        "ger_list": [
+            "sich ranken"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "ubezwłasnowolniać, oddawać pod kuratelę"
+        ],
+        "ger_list": [
+            "entmündigen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "rzekomo, podobno"
+        ],
+        "ger_list": [
+            "angeblich"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "utopić się, tonąć"
+        ],
+        "ger_list": [
+            "ertrinken"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "nadal, tak jak przedtem, wciąż"
+        ],
+        "ger_list": [
+            "nach wie vor"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "odnawialny"
+        ],
+        "ger_list": [
+            "erneuerbar"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "odkurzacz"
+        ],
+        "ger_list": [
+            "der Staubsauger"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "pokryć, spłacić"
+        ],
+        "ger_list": [
+            "abdecken"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wytwarzać, produkować (np. energię)"
+        ],
+        "ger_list": [
+            "erzeugen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "odchodzenie od wykorzystywania energii atomowej"
+        ],
+        "ger_list": [
+            "der Atomausstieg"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "tylko, wyłącznie, zaledwie"
+        ],
+        "ger_list": [
+            "lediglich"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "napęd elektryczny"
+        ],
+        "ger_list": [
+            "der Elektroantrieb"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "drobny, znikomy"
+        ],
+        "ger_list": [
+            "winzig"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "dyspozycyjność, dostępność"
+        ],
+        "ger_list": [
+            "die Verfügbarkeit"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "wprost, po prostu"
+        ],
+        "ger_list": [
+            "schlichtweg"
+        ],
+        "hardness": 8
+    },
+    {
+        "poleng_list": [
+            "obawiać się, bać się"
+        ],
+        "ger_list": [
+            "fürchten"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "związek zawodowy"
+        ],
+        "ger_list": [
+            "die Gewerkschaft"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "strajk"
+        ],
+        "ger_list": [
+            "der Streik"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "poniekąd, niejako, że tak powiem"
+        ],
+        "ger_list": [
+            "sozusagen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "uprawiać (warzywa)"
+        ],
+        "ger_list": [
+            "anbauen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "obierać (np. jabłko)"
+        ],
+        "ger_list": [
+            "schälen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "niekiedy"
+        ],
+        "ger_list": [
+            "mitunter"
+        ],
+        "hardness": 9
+    },
+    {
+        "poleng_list": [
+            "wspominać, napomykać"
+        ],
+        "ger_list": [
+            "erwähnen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "wyastawać"
+        ],
+        "ger_list": [
+            "herausragen, vorsehen, überstehen, vorstehen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "odpływ"
+        ],
+        "ger_list": [
+            "die Ebbe"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "przypływ"
+        ],
+        "ger_list": [
+            "die Flut"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "wmaszerowanie, wkroczenie, nadejście, wprowadzenie się"
+        ],
+        "ger_list": [
+            "der Einzug"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "od zawsze"
+        ],
+        "ger_list": [
+            "schon immer"
+        ],
+        "hardness": 5
+    }
+]

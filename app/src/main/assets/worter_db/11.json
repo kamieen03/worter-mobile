@@ -1,0 +1,1288 @@
+[
+    {
+        "poleng_list": [
+            "super"
+        ],
+        "ger_list": [
+            "super",
+            "Und geschmacklich ist es auch echt super geworden.",
+            "Mal sehen ob wir dieses als uneingeschränkt super bewerten können.",
+            "Jetzt habe ich es kapiert und es ist super ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "rather, sooner",
+            "raczej, wcześniej"
+        ],
+        "ger_list": [
+            "eher",
+            "Öffnung sieht aber eher nicht danach aus.",
+            "Über 50 sollten sie eher nicht sein.",
+            "Ich würd mal eher auf nein tippen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "usual, usually",
+            "zazwyczaj, zwykle, zwyczajny"
+        ],
+        "ger_list": [
+            "gewöhnlich",
+            "Für uns sind sie gewöhnlich und bekannt.",
+            "Für gewöhnlich sind sie witzig und originell.",
+            "Skoda gehört für gewöhnlich eher nicht dazu."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "best",
+            "najlepszy"
+        ],
+        "ger_list": [
+            "beste",
+            "Das war das beste was ich hatte.",
+            "Aber macht auch heute das beste draus.",
+            "Und soll ich euch das beste erzählen?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "normally",
+            "normalnie, zwykle"
+        ],
+        "ger_list": [
+            "normalerweise",
+            "Deshalb muss normalerweise nicht lange gesucht werden.",
+            "Das ist normalerweise alles relativ einfach zu finden.",
+            "Und normalerweise wäre mir das auch egal."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "size",
+            "rozmiar"
+        ],
+        "ger_list": [
+            "die Größe",
+            "München hätte doch auch eine akzeptable Größe .",
+            "Form und Größe fällt als erstes positiv auf.",
+            "Trotz der Größe gewöhnt man sich bald daran."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "bigger",
+            "większy"
+        ],
+        "ger_list": [
+            "größer",
+            "Es ist noch größer und noch schöner als je zuvor.",
+            "Es ist anders und zwar viel größer und international.",
+            "Und es darf gern wesentlich größer werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "biggest, largest",
+            "największa"
+        ],
+        "ger_list": [
+            "größte",
+            "Außerdem ist dieser jener nicht gerade der größte .",
+            "Der größte öffentlich bekannte liegt bei 15 kg.",
+            "Danach kam die größte Überraschung für mich."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "smaller",
+            "mniejszy"
+        ],
+        "ger_list": [
+            "kleiner",
+            "Zumindest kleiner als ich sie mir immer vorgestellt hatte.",
+            "Dennoch soll nun ein kleiner Überblick gegeben werden.",
+            "Aber es geht noch kleiner und vor allem nützlicher!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "smallest",
+            "najmniejszy"
+        ],
+        "ger_list": [
+            "kleinste",
+            "Es war auch die kleinste von allen.",
+            "Letztere ist die kleinste und kaum bewohnt.",
+            "Schon der kleinste kostet wie ein grosser!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "slower",
+            "wolniej"
+        ],
+        "ger_list": [
+            "langsamer",
+            "Und dann fährt er bewusst wieder langsamer um zu provozieren.",
+            "Aber insgesamt war ich langsamer als 2005!",
+            "Geht nur alles etwas langsamer als üblich."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "more beautiful",
+            "piękniejszy"
+        ],
+        "ger_list": [
+            "schöner",
+            "Es ist noch größer und noch schöner als je zuvor.",
+            "Und schöner und größer war er auch.",
+            "Ich persönlich finde sie heute fast noch schöner ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "easier, lighter",
+            "lekki, łatwy"
+        ],
+        "ger_list": [
+            "leichter",
+            "Ob es da ein flüssiger leichter macht?",
+            "Müsste ich nicht schon leichter geworden sein?",
+            "Und einen solchen zu finden ist leichter gesagt als getan."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "more important",
+            "ważniejszy"
+        ],
+        "ger_list": [
+            "wichtiger",
+            "Ökumene ist heute wichtiger als je zuvor.",
+            "Bildung ist heute wichtiger als je zuvor.",
+            "Fremdsprachen zu beherrschen ist heute wichtiger denn je."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "higher"
+        ],
+        "ger_list": [
+            "höher",
+            "Der hier war etwas steiler und höher .",
+            "So entschlossen wir uns noch höher zu steigen.",
+            "Diese wird deutlicher höher sein als vorher."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "longer",
+            "dłuższy"
+        ],
+        "ger_list": [
+            "länger",
+            "Wir haben uns ja jetzt länger nicht mehr gemeldet.",
+            "Aber leider dauert es noch etwas länger .",
+            "Da warte ich auch gern etwas länger ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "better",
+            "lepszy"
+        ],
+        "ger_list": [
+            "besser",
+            "Schöner und besser kann es kaum werden.",
+            "Dabei lernt man sich besser kennen und kann voneinander lernen.",
+            "Aber vielleicht kennt sich da einer besser aus als ich."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "stronger",
+            "silniejszy"
+        ],
+        "ger_list": [
+            "stärker",
+            "Das ist deutlich stärker als Ökonomen erwartet hatten.",
+            "Zukünftig möchten wir noch stärker international tätig werden.",
+            "Wir müssen physisch und mental stärker werden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "enough",
+            "wystarczająco"
+        ],
+        "ger_list": [
+            "genug",
+            "Über die könnt ihr auch woanders genug lesen.",
+            "Grund genug sich einmal ausführlich darüber zu informieren.",
+            "Dafür war man gerade noch gut genug !"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "than (when comparing)",
+            "niż"
+        ],
+        "ger_list": [
+            "als",
+            "Ökumene ist heute wichtiger als je zuvor.",
+            "Überall wird sie erwähnt und als gut bewertet.",
+            "Zumindest kleiner als ich sie mir immer vorgestellt hatte."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "more expensive",
+            "droższy"
+        ],
+        "ger_list": [
+            "teurer",
+            "Öko und fair müssen nicht teurer sein.",
+            "Dabei entspricht teurer nicht immer unbedingt besser.",
+            "Denn Ökostrom wird meist auch als teurer angesehen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "snail",
+            "ślimak"
+        ],
+        "ger_list": [
+            "die Schnecke",
+            "Und manchmal können Schnecken sogar zu schnell sein.",
+            "Die Schnecke ist sehr interessant zu beobachten.",
+            "Auch bei ihm fiel es nicht aus der Schnecke raus."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to look (good/bad, etc)",
+            "wyglądać"
+        ],
+        "ger_list": [
+            "aussehen",
+            "Überhaupt soll alles so weit wie möglich weiß aussehen .",
+            "Ich weiß nicht wie das aussehen würde.",
+            "Und am besten auch noch gut aussehen dabei."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "more",
+            "więcej"
+        ],
+        "ger_list": [
+            "mehr",
+            "Überall wird mehr oder eben weniger bewusst geführt!",
+            "Änderungen danach können nicht mehr berücksichtigt werden.",
+            "Über ihn wird möglicherweise gar nicht mehr geredet."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "often",
+            "często"
+        ],
+        "ger_list": [
+            "oft",
+            "Über solche Überlegungen schläft man oft ein.",
+            "Einige davon braucht man auch nicht wirklich oft .",
+            "Wegen der Öffentlichkeit sind oft Öffnungszeiten festgelegt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sometimes",
+            "czasem, czasami"
+        ],
+        "ger_list": [
+            "manchmal",
+            "Über sich etwas zu erzählen fällt manchmal schwer.",
+            "Ich suche nämlich manchmal ganz schön doll.",
+            "Ich bin sehr selbständig und manchmal auch etwas schwierig."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "few",
+            "mało"
+        ],
+        "ger_list": [
+            "wenig",
+            "Über diese möchte ich heute ein wenig informieren.",
+            "Überhaupt wirkt vieles gewollt und wenig natürlich.",
+            "Österreich muß sich leider noch ein wenig gedulden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "numerous",
+            "liczne"
+        ],
+        "ger_list": [
+            "zahlreich",
+            "Dort kann man sie auch heute noch zahlreich vorfinden.",
+            "Über eine zahlreiche Teilnahme würden wir uns sehr freuen.",
+            "Ihr wart super und vor allem zahlreich dabei."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "frequent",
+            "często, częsty"
+        ],
+        "ger_list": [
+            "häufig",
+            "Über sie wird häufig in der Öffentlichkeit sehr kontrovers diskutiert.",
+            "Kafka sei aber am häufigsten gewählt worden.",
+            "Das werdet ihr hier noch häufiger lesen."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "most, mostly, usually",
+            "najczęściej, najwięcej"
+        ],
+        "ger_list": [
+            "meist",
+            "Über jene schon uns meist zu viel .",
+            "Allein ist man allerdings meist nicht unterwegs.",
+            "Und meist braucht es auch nicht mehr."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "times"
+        ],
+        "ger_list": [
+            "mal",
+            "Über wen oder was würdest du gerne mal etwas schreiben?",
+            "Ich könnte ja auch einfach mal alleine loslegen.",
+            "Ihr habt sie sicher auch schon mal gesehen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "seldom, rarely",
+            "rzadko"
+        ],
+        "ger_list": [
+            "selten",
+            "Äußerst selten sieht man das einmal andersherum.",
+            "Nur leider wird es echt selten genutzt.",
+            "Letzteres ergibt sich leider nur sehr selten ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "no ... at all",
+            "żaden, żadnego rodzaju"
+        ],
+        "ger_list": [
+            "keinerlei",
+            "Es gibt also keinerlei \"zugelegt\".",
+            "Wir sind bestens angekommen und hatten bisher keinerlei Probleme.",
+            "Ich rechne mir da keinerlei Chancen aus."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "whether",
+            "czy"
+        ],
+        "ger_list": [
+            "ob",
+            "Mal gucken ob ich mal online bin.",
+            "Mal schauen ob ich noch was finde.",
+            "Mal sehen ob wir dieses als uneingeschränkt super bewerten können."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "a little, a bit",
+            "trochę"
+        ],
+        "ger_list": [
+            "ein bisschen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "the...the",
+            "im...tym"
+        ],
+        "ger_list": [
+            "je...desto"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "author, drafter, essayist",
+            "autor"
+        ],
+        "ger_list": [
+            "der Verfasser",
+            "Leider ist mir der Verfasser nicht bekannt.",
+            "Der Verfasser ist nicht mehr zu ermitteln.",
+            "Auch der Verfasser kann dies alles nur bestätigen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "operator"
+        ],
+        "ger_list": [
+            "der Betreiber",
+            "Und die Betreiber haben sich was dabei gedacht.",
+            "Das habe sich auch bei privaten Betreibern herumgesprochen.",
+            "Nun möchte man erstmals selbst als Betreiber auftreten."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "developer",
+            "deweloper, projektant"
+        ],
+        "ger_list": [
+            "der Entwickler",
+            "Da müssen die Entwickler nicht mehr viel tun.",
+            "Genaueres verraten die Entwickler allerdings noch nicht.",
+            "Denn genau diese Entwickler sind ja derzeit schwer zu finden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "staff, personnel",
+            "personel"
+        ],
+        "ger_list": [
+            "das Personal",
+            "Sehr nette kompetente Ärztin und sehr nettes Personal .",
+            "Wer fragt da nach einer Übernahme des Personals ?",
+            "Das Personal könnte etwas freundlicher und schneller arbeiten."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "recipient, receiver, acceptor, beneficiary",
+            "odbiorca, biorca, odbiornik"
+        ],
+        "ger_list": [
+            "der Empfänger",
+            "Aber selbst diese können vom Empfänger unterschiedlich interpretiert werden.",
+            "Mit dem neuen Empfänger reagiert gar nichts.",
+            "PDF-Dateien sind vom Empfänger nicht zu verändern."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "participant",
+            "uczestnik"
+        ],
+        "ger_list": [
+            "der Teilnehmer",
+            "Über zusätzliche Teilnehmer freuen wir uns immer.",
+            "Über 50 Teilnehmer zeigen sich mehr als begeistert.",
+            "Über viele freiwillige Teilnehmer würde sie sich sehr freuen!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "tailor",
+            "krawiec"
+        ],
+        "ger_list": [
+            "der Schneider",
+            "Da holt es die Schneider wieder sehr geschickt heraus.",
+            "Man muss kein ausgebildeter Schneider dazu sein.",
+            "Deshalb gibt es für Schneider momentan auch nur eins."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "manufacturer",
+            "producent"
+        ],
+        "ger_list": [
+            "der Hersteller",
+            "Über den schweigt sich der Hersteller noch aus.",
+            "Über 400 \"einzigartige Übungen\" verspricht der Hersteller .",
+            "Ähnlich verhält es sich bei anderen Herstellern ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "judge",
+            "sędzia"
+        ],
+        "ger_list": [
+            "der Richter",
+            "Wer ruft schon gerne nach dem Richter .",
+            "Die Richter zeigten sich \"überrascht\".",
+            "Weiter werden sie sich vor dem Richter zu verantworten haben."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "speciality",
+            "specjalność"
+        ],
+        "ger_list": [
+            "die Spezialität",
+            "Das diesjährige drehte sich um deutsche und ungarische Spezialitäten .",
+            "Weit herum sind wir bekannt für unsere Spezialitäten .",
+            "Dies kann man durchaus als ihre Spezialität bezeichnen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "lawyer",
+            "prawnik"
+        ],
+        "ger_list": [
+            "der Rechtsanwalt",
+            "Oder sollten wir uns einen lieber einen anderen Rechtsanwalt suchen?",
+            "Dass musste nun auch ein Rechtsanwalt feststellen.",
+            "Es ist ihm ebenfalls ermöglicht als selbständiger Rechtsanwalt zu fungieren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "workshop",
+            "warsztat"
+        ],
+        "ger_list": [
+            "die Werkstatt",
+            "In der Werkstatt sind sie ziemlich ratlos.",
+            "Wir sind wirklich stolz auf unserer eigene Werkstatt .",
+            "In der Werkstatt wissen die auch nicht weiter."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "handcraft, handicraft",
+            "rzemiosło"
+        ],
+        "ger_list": [
+            "das Handwerk",
+            "Frauen sind auch im Handwerk vorne mit dabei.",
+            "Demnach darf sich auch das Handwerk freuen.",
+            "Hier versteht jemand etwas von seinem Handwerk ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "expert",
+            "ekspert"
+        ],
+        "ger_list": [
+            "der Experte",
+            "Bin da leider auch nicht der Experte .",
+            "Aber auch langjährige Experten sind bei uns immer willkommen.",
+            "Unter Experten gilt er bereits als biologisch ausgestorben!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "complete",
+            "kompletny"
+        ],
+        "ger_list": [
+            "komplett",
+            "Er ist nicht gut und nicht komplett !",
+            "AGB stehen aber noch komplett gleich drinnen oder?",
+            "Insgesamt fünf davon wurden komplett neu errichtet."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "fit"
+        ],
+        "ger_list": [
+            "fit",
+            "Dabei ist es unerheblich wie fit man ist.",
+            "Wie hältst du dich daher aktuell fit ?",
+            "Ich hoffe ich bin bis dahin wieder fit !"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "regional",
+            "regionalny"
+        ],
+        "ger_list": [
+            "regional",
+            "Überdies wird die hiesige regionale Küche weit geschätzt.",
+            "Es sollte regional und lokal statt zentral organisiert sein.",
+            "Damals war man vor allem regional tätig."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "sudden, suddenly",
+            "nagle, nagły"
+        ],
+        "ger_list": [
+            "plötzlich",
+            "Doch plötzlich entscheiden sich die Ärzte um.",
+            "Es ist kurz zu sehen und verschwindet plötzlich wieder.",
+            "Dann gingen wir weiter und plötzlich war er verschwunden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "automatic",
+            "automatyczny"
+        ],
+        "ger_list": [
+            "automatisch",
+            "Wenn alles klappt denn geschieht dies fast automatisch .",
+            "Doch damit fährt man nicht automatisch gut.",
+            "Bio ist nicht automatisch \"gut\"."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "active",
+            "aktywny"
+        ],
+        "ger_list": [
+            "aktiv",
+            "Heute war ich schon bei weitem aktiver .",
+            "Lässt du dich lieber finden oder suchst du aktiv ?",
+            "Wir möchten uns treffen und gemeinsam aktiv werden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "relative",
+            "względny, relatywny"
+        ],
+        "ger_list": [
+            "relativ",
+            "Übrigens sie fliegen relativ schnell wenn sie jagen.",
+            "Es geht morgens relativ schnell und unkompliziert.",
+            "Also ich finde es ist relativ preiswert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "general, universal",
+            "ogólny, powszechny"
+        ],
+        "ger_list": [
+            "allgemein",
+            "Ich bin allgemein sehr sportlich und mache fast täglich etwas.",
+            "Beeindruckend viel und mehr als allgemein bekannt ist.",
+            "Sie müssen im allgemeinen nicht nüchtern kommen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "actually",
+            "rzeczywiście, faktycznie"
+        ],
+        "ger_list": [
+            "tatsächlich",
+            "Das gibt es tatsächlich und zwar kostenlos!",
+            "Wie schnell oder langsam lief ich tatsächlich ?",
+            "Einige werden aber tatsächlich auch aufwändig renoviert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "original",
+            "oryginalny"
+        ],
+        "ger_list": [
+            "original",
+            "Übrigens könnt ihr die originale Beschwerde hier nachlesen.",
+            "Sie sind noch neu und original verpackt.",
+            "Es sind schon noch einige originale dabei."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "worth",
+            "wart, godzien"
+        ],
+        "ger_list": [
+            "wert",
+            "Eigentlich sind sie es garnicht wert beachtet zu werden.",
+            "Was nichts kostet ist auch meistens nichts wert !",
+            "Seid ihr aber nicht viel mehr wert als sie?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "extreme",
+            "ekstremalny"
+        ],
+        "ger_list": [
+            "extrem",
+            "Sie hat alle extrem attackiert und gebissen!",
+            "Schliesslich gab es hier extrem viel zu entdecken.",
+            "Sieht aber lustig aus und ist extrem effektiv!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "helpful, useful",
+            "pomocny, użyteczny"
+        ],
+        "ger_list": [
+            "hilfreich",
+            "Es ist hilfreich und wiegt nicht viel.",
+            "Dafür ist es hilfreich sich selbst gut zu kennen.",
+            "Über einen hilfreichen Beitrag würde ich mich sehr freuen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "false"
+        ],
+        "ger_list": [
+            "falsch",
+            "Übrigens darf man das nicht falsch verstehen.",
+            "Denn hier kann man nichts falsch machen.",
+            "Hier habe ich wohl was ganz falsch verstanden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "popular",
+            "lubiany, popularny"
+        ],
+        "ger_list": [
+            "beliebt",
+            "Kaugummi ist weltweit bekannt und auch beliebt .",
+            "Und sie hatte sich nicht beliebt gemacht.",
+            "Abnehmen gehört da eindeutig zu den beliebtesten ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "genuine, real, really",
+            "naprawdę, prawdziwy, autentyczny"
+        ],
+        "ger_list": [
+            "echt",
+            "Über das wiedersehen haben wir uns echt gefreut.",
+            "Über so was könnt ich mich echt stundenlang aufregen.",
+            "Es war wirklich sehr sehr lecker aber auch echt viel!"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "private",
+            "prywatny"
+        ],
+        "ger_list": [
+            "privat",
+            "Aber das wird mir jetzt zu privat .",
+            "Über neue private Nachrichten wird live benachrichtigt.",
+            "Sie können aber auch private Übernachtungsmöglichkeiten nutzen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "meaningful",
+            "sensowny, rozsądnie"
+        ],
+        "ger_list": [
+            "sinnvoll",
+            "Mir käme das bei weitem sinnvoller vor!",
+            "Dafür hab ich noch nichts sinnvolles gefunden.",
+            "Oder kann man sie noch sinnvoll nutzen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "responsible",
+            "odpowiedzialny"
+        ],
+        "ger_list": [
+            "verantwortlich",
+            "Und dafür ist jeder von uns mit verantwortlich .",
+            "Für die sie jedoch möglicherweise verantwortlich gemacht würden.",
+            "Wir sind von ihnen gewählt und ihnen verantwortlich ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "scarce, barely",
+            "zaledwie, ledwo, ciasny"
+        ],
+        "ger_list": [
+            "knapp",
+            "Weil er um die knapp 15 € kostet.",
+            "Mirko verlor dabei denkbar knapp zu 9 im fünften.",
+            "Alkohol gab es auch und zwar nicht zu knapp ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "ready (as in prepared)",
+            "gotowy"
+        ],
+        "ger_list": [
+            "bereit",
+            "Ich bin nicht bereit das \"kleinere Übel\" zu wählen.",
+            "Was bin ich bereit von mir zu geben?",
+            "Mehr bin ich halt nicht bereit zu zahlen!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "does not matter, insignificant, equal",
+            "obojętny"
+        ],
+        "ger_list": [
+            "egal",
+            "Doch das ist ihnen eigentlich noch egal .",
+            "Ob er bleibt oder nicht ist doch völlig egal .",
+            "Wir freuen uns ein wiedersehen egal wie und wo."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "open",
+            "otwarty"
+        ],
+        "ger_list": [
+            "offen",
+            "Warum macht man den nicht offen für alle?",
+            "Dann muss natürlich diese erste durch eine offene ersetzt werden.",
+            "Oder weil sie ganz offen bedroht wurden?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "collectively, common, together",
+            "wspólnie, razem"
+        ],
+        "ger_list": [
+            "gemeinsam",
+            "Über all das muss man gemeinsam reden.",
+            "Von dort aus fahren wir gemeinsam los.",
+            "Das wollen wir nun endlich gemeinsam angehen."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "excellent",
+            "świetny, znakomity, wspaniały"
+        ],
+        "ger_list": [
+            "ausgezeichnet",
+            "Das ist ihr ausgezeichnet gelungen – finden wir.",
+            "Es hat uns ausgezeichnet gefallen und war sehr erholsam.",
+            "Es war sehr sauber und man konnte ausgezeichnet schlafen."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "responsible, in charge, relevant, competent, appropriate, concerned",
+            "odpowiedzialny, właściwy"
+        ],
+        "ger_list": [
+            "zuständig",
+            "Und wo ich doch gar nicht dafür zuständig bin!",
+            "Dafür ist sie aber gar nicht zuständig .",
+            "Er ist zuständig und wär gut wenn er handeln würde!"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "strange, funny",
+            "komiczny, zabawny, dziwny"
+        ],
+        "ger_list": [
+            "komisch",
+            "Und vor allem war es unheimlich komisch .",
+            "Irgendwie ist das alles momentan sehr komisch .",
+            "Ist sowieso irgendwie bisschen komisch sowieso hier."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "strange, odd, peculiar",
+            "dziwny, osobliwy"
+        ],
+        "ger_list": [
+            "seltsam",
+            "Heute morgen war einer von den ganz seltsamen .",
+            "Klingt seltsam und irgendwie militärisch oder zumindest sehr anstrengend.",
+            "Ich fand sie irgendwie ein wenig seltsam ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "firm, solid",
+            "mocny"
+        ],
+        "ger_list": [
+            "fest",
+            "Ob etwas gestohlen wurde steht nicht fest .",
+            "Sie spielten nun wieder konzentriert und fest entschlossen zu gewinnen.",
+            "Aber es steht fest sie wird bald kommen!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "soft, smooth",
+            "miękki, delikatny"
+        ],
+        "ger_list": [
+            "weich",
+            "Danach sind sie weich und riechen wundervoll.",
+            "Katzen lieben es eben weich und warm.",
+            "Außerdem ist er super weich und angenehm zu tragen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "hard, severe",
+            "twardy"
+        ],
+        "ger_list": [
+            "hart",
+            "Ich arbeite hart daran sie zu überwinden.",
+            "Dabei waren sie oftmals gnadenlos und hart .",
+            "Das muss ja ganz schön hart sein!"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "broken",
+            "zepsuty"
+        ],
+        "ger_list": [
+            "kaputt",
+            "Total kaputt ging ́s ab nachhause.",
+            "Da war es aber auch schon kaputt .",
+            "Warum dieser kaputt ging weiss man noch nicht."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "sick",
+            "chory"
+        ],
+        "ger_list": [
+            "krank",
+            "Über ein halbes Jahr war ich krank geschrieben.",
+            "Und zwischendurch war sie auch noch krank .",
+            "Ich war immer müde und wurde oft krank ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "patient",
+            "pacjent"
+        ],
+        "ger_list": [
+            "der Patient",
+            "Über 30% aller Patienten werden kostenfrei untersucht und behandelt.",
+            "Ärzte und Patienten sollen bereits darüber informiert worden sein.",
+            "Ärzte ärmeren Patienten helfen die nicht mehr alles verschrieben bekommen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "medication",
+            "lekarstwo"
+        ],
+        "ger_list": [
+            "das Medikament",
+            "Über 100 bekannte Medikamente müssen dann wieder ausgetauscht werden.",
+            "Kann man ja nicht dem Medikament vorwerfen.",
+            "So übel ist mir noch nie von einem Medikament geworden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "plaster"
+        ],
+        "ger_list": [
+            "das Pflaster",
+            "Hamburg gilt generell als relativ teures Pflaster .",
+            "Nur auf ein Pflaster konnte man sich noch nicht einigen.",
+            "Dazu nahm er erst einmal vorsichtig das historische Pflaster auf."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to bleed",
+            "krwawić"
+        ],
+        "ger_list": [
+            "bluten",
+            "Sie können stark riechen und auch sehr stark bluten .",
+            "Müssen sie heute noch dafür \" bluten \"?",
+            "Die oben kassierten und die unten müssten bluten ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "wheelchair"
+        ],
+        "ger_list": [
+            "der Rollstuhl",
+            "Seitdem ist sie gelähmt und auf einen Rollstuhl angewiesen.",
+            "Demnächst hätte er wohl einen Rollstuhl benötigt.",
+            "Damit steuert er einen elektrischen Rollstuhl und kann malen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "practice (e.g. medical)",
+            "praktyka (w zawodzie)"
+        ],
+        "ger_list": [
+            "die Praxis",
+            "Die neue Praxis habe ich noch nicht gesehen.",
+            "Diese Praxis ist nun nicht mehr zulässig.",
+            "In der Praxis funktioniert dies selten reibungslos."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "health",
+            "zdrowie"
+        ],
+        "ger_list": [
+            "die Gesundheit",
+            "Über meine Gesundheit denke ich viel nach.",
+            "Übergewicht wirkt sich außerdem negativ auf die Gesundheit aus.",
+            "Ökonomie und Gesundheit dürfen sich dabei nicht ausschließen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "examination, investigation",
+            "badanie, śledztwo"
+        ],
+        "ger_list": [
+            "die Untersuchung",
+            "Ärzte führen das teils auf genauere Untersuchungen zurück.",
+            "Wieder bestanden wir auf einer weiteren Untersuchung .",
+            "Wir wurden von einer Ärztin durch die Untersuchung geleitet."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "form (document)",
+            "formularz"
+        ],
+        "ger_list": [
+            "das Formular",
+            "Über ein Formular kann man unverbindlich bei uns anfragen.",
+            "Die Formulare kannst du online finden oder dort anfordern.",
+            "Die ausgefüllten Formulare nehmen wir natürlich auch gern entgegen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "illness, disease",
+            "choroba"
+        ],
+        "ger_list": [
+            "die Krankheit",
+            "Die Krankheit wirkt sich langsam auf jeden von uns aus.",
+            "Kennt sich jemand mit dieser Krankheit aus?",
+            "Mehr war leider während meiner Krankheit nicht drin."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "medicine",
+            "medycyna"
+        ],
+        "ger_list": [
+            "die Medizin",
+            "Freude ist eine Medizin die gesund macht.",
+            "Die Medizin hat bereits einiges dazu beigetragen.",
+            "Das bestätigt uns inzwischen sogar die Medizin ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "hospital",
+            "szpital"
+        ],
+        "ger_list": [
+            "das Krankenhaus",
+            "Kraus sei gerade noch rechtzeitig ins Krankenhaus gekommen.",
+            "So hat er sich für ein privates Krankenhaus entschieden.",
+            "Ackermann fiel erst einmal aus und landete im Krankenhaus ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "ambulance",
+            "karetka"
+        ],
+        "ger_list": [
+            "der Krankenwagen",
+            "Er musste mit dem Krankenwagen abtransportiert werden.",
+            "Dann durften wir uns einen Krankenwagen von innen ansehen.",
+            "Fabian musste anschließend mit dem Krankenwagen abgeholt werden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "health insurance",
+            "ubezpieczenie zdrowotne"
+        ],
+        "ger_list": [
+            "die Krankenversicherung",
+            "Davon betroffen sind besonders die privaten Krankenversicherungen .",
+            "Was versteht man eigentlich unter einer privaten Krankenversicherung ?",
+            "Ich habe mich für eine private Krankenversicherung entschieden."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "accident",
+            "wypadek"
+        ],
+        "ger_list": [
+            "der Unfall",
+            "Wir gehen nach wie vor von einem Unfall aus.",
+            "Kommt es zum Unfall seid ihr dran.",
+            "Zunächst sieht alles wie ein Unfall aus."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "emergency",
+            "nagły przypadek"
+        ],
+        "ger_list": [
+            "der Notfall",
+            "Ich habe hier einen kleinen botanischen Notfall .",
+            "Und wenn es nur für den Notfall ist.",
+            "So musste er sich für den Notfall ebenfalls bereit stellen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "victim",
+            "ofiara"
+        ],
+        "ger_list": [
+            "das Opfer",
+            "Die beiden Opfer bleiben leicht verletzt zurück.",
+            "Doch dies soll nicht sein letztes Opfer sein.",
+            "Ihr Opfer konnte bisher nicht vernommen werden."
+        ],
+        "hardness": 2
+    }
+]

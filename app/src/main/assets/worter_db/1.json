@@ -1,0 +1,1149 @@
+[
+    {
+        "poleng_list": [
+            "man, husband"
+        ],
+        "ger_list": [
+            "der Mann"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "woman, wife",
+            "kobieta, żona"
+        ],
+        "ger_list": [
+            "die Frau",
+            "Übrigens laufen hier die meisten Frauen nackt herum.",
+            "Über was kann ich mit einer Frau reden?",
+            "Übrigens wurde meine Frau nicht schneller gesund."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "boy"
+        ],
+        "ger_list": [
+            "der Junge",
+            "Er ist ein wirklich toller kleiner Junge .",
+            "Zwölf der Jungen werden bis heute vermisst.",
+            "Da kommt bei manchem eben der kleine Junge wieder hervor!"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to be"
+        ],
+        "ger_list": [
+            "sein",
+            "Überall kann man einfach nicht dabei sein !",
+            "Überhaupt scheinen hier alle irgendwie verdächtig zu sein .",
+            "Übrigens muss auch vegetarisch grillen nicht langweilig sein ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to drink"
+        ],
+        "ger_list": [
+            "trinken",
+            "Alle entwickeln sich gut und trinken auch sehr gut.",
+            "Darüber hinaus soll man ausreichend trinken und sich mehr bewegen.",
+            "Jesus bittet sie ihm etwas zu trinken zu geben."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "I am"
+        ],
+        "ger_list": [
+            "ich bin"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "you are (informal, singular)"
+        ],
+        "ger_list": [
+            "du bist"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "he is"
+        ],
+        "ger_list": [
+            "er ist"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "she is",
+            "ona jest"
+        ],
+        "ger_list": [
+            "sie ist"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "you (formal) are"
+        ],
+        "ger_list": [
+            "Sie sind"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "we are"
+        ],
+        "ger_list": [
+            "wir sind"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "you (informal, plural) are"
+        ],
+        "ger_list": [
+            "ihr seid"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "they are"
+        ],
+        "ger_list": [
+            "sie sind"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "child"
+        ],
+        "ger_list": [
+            "das Kind",
+            "Über mich freuen sich die Kinder am allermeisten.",
+            "Ältere Kinder hingegen können damit eher etwas anfangen.",
+            "Übrigens ist auch für die Kinder gesorgt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "girl"
+        ],
+        "ger_list": [
+            "das Mädchen",
+            "Übrigens haben nicht nur die Mädchen etwas geleistet.",
+            "Wenn man dabei über ein Mädchen stolpert?",
+            "Tausende Mädchen haben bereits mitgemacht und waren begeistert."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "bread"
+        ],
+        "ger_list": [
+            "das Brot",
+            "Über gutes und leckeres Brot könnte man wohl stundenlang schreiben.",
+            "Dagegen setzt sich Brot für alle ein.",
+            "Selbst das normale Brot ist irgendwie süß."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "water"
+        ],
+        "ger_list": [
+            "das Wasser",
+            "Öl und Wasser vermischen sich nicht miteinander.",
+            "Öl und Wasser lösen sich nicht ineinander.",
+            "Übungen sind wesentlich einfacher durchzuführen als über Wasser ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "men"
+        ],
+        "ger_list": [
+            "die Männer",
+            "Überhaupt wollen wir nicht so sein wie Männer .",
+            "Zu dünne Männer mag ich auch nicht.",
+            "Dabei schlugen mehrere junge Männer aufeinander ein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "women",
+            "kobiety"
+        ],
+        "ger_list": [
+            "die Frauen",
+            "Übrigens laufen hier die meisten Frauen nackt herum.",
+            "Ärger zwischen den beiden Frauen ist also vorprogrammiert.",
+            "Sicherlich nicht weil sie sich nur für Frauen engagiert!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "boys"
+        ],
+        "ger_list": [
+            "die Jungen",
+            "Zwölf der Jungen werden bis heute vermisst.",
+            "Damit waren sie gleich auf mit den Jungen .",
+            "Was is nur mit dem Jungen los?"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "children",
+            "dzieci"
+        ],
+        "ger_list": [
+            "die Kinder",
+            "Über mich freuen sich die Kinder am allermeisten.",
+            "Ältere Kinder hingegen können damit eher etwas anfangen.",
+            "Übrigens ist auch für die Kinder gesorgt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "hello"
+        ],
+        "ger_list": [
+            "Hallo"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "bye!"
+        ],
+        "ger_list": [
+            "Tschüss!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "thanks"
+        ],
+        "ger_list": [
+            "Danke",
+            "Danke danke danke ich werde weiter berichten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "yes"
+        ],
+        "ger_list": [
+            "ja",
+            "Über außen kommt ja absolut gar nichts.",
+            "Über letzteres ist ja leider kaum diskutiert worden.",
+            "Übernachten muss man ja auch noch irgendwo."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "no",
+            "nie"
+        ],
+        "ger_list": [
+            "nein",
+            "Ähnlich steht es mit \"sein\" und \" nein \".",
+            "Ich würd mal eher auf nein tippen.",
+            "Hier haben 21 mit ja und 11 mit nein gestimmt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "please"
+        ],
+        "ger_list": [
+            "bitte",
+            "Über letzteres möchte ich aber bitte nie wieder sprechen.",
+            "Wie soll man sich da bitte anmelden?",
+            "Ich soll solidarisch zahlen aber bitte nicht überall."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "welcome"
+        ],
+        "ger_list": [
+            "Willkommen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "good bye!"
+        ],
+        "ger_list": [
+            "Auf Wiedersehen!"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "excuse me"
+        ],
+        "ger_list": [
+            "Entschuldigung",
+            "Natürlich können wir uns für eine telefonische Entschuldigung nichts kaufen.",
+            "Dafür kann es es keine Entschuldigung geben.",
+            "Hier wäre vielmehr eine Entschuldigung fällig gewesen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "I'm sorry"
+        ],
+        "ger_list": [
+            "Tut mir leid"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "good morning"
+        ],
+        "ger_list": [
+            "Guten Morgen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "hello, good day"
+        ],
+        "ger_list": [
+            "Guten Tag"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "good evening"
+        ],
+        "ger_list": [
+            "Guten Abend"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "good night"
+        ],
+        "ger_list": [
+            "Gute Nacht"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "How are you?"
+        ],
+        "ger_list": [
+            "Wie geht's?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "I'm good",
+            "u mnie okej"
+        ],
+        "ger_list": [
+            "Mir geht's gut"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "you're welcome, it was my pleasure."
+        ],
+        "ger_list": [
+            "Gern geschehen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "see you soon!"
+        ],
+        "ger_list": [
+            "Bis bald!"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "see you later"
+        ],
+        "ger_list": [
+            "Bis später"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "see you tomorrow"
+        ],
+        "ger_list": [
+            "Bis morgen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "okay, all right, in order",
+            "w porządku"
+        ],
+        "ger_list": [
+            "in Ordnung"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "unfortunately, sadly",
+            "niestety"
+        ],
+        "ger_list": [
+            "leider",
+            "Über letzteres ist ja leider kaum diskutiert worden.",
+            "Über google habe ich leider nichts gefunden.",
+            "Österreich muß sich leider noch ein wenig gedulden."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "you're welcome, no problem",
+            "spoko mordo"
+        ],
+        "ger_list": [
+            "Keine Ursache!"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "exact, exactly, precisely",
+            "dokładnie"
+        ],
+        "ger_list": [
+            "genau",
+            "Über genaueres können wir uns aber noch unterhalten.",
+            "Über was kann man sich aber dort genau austauschen?",
+            "Über diese wurde bisher noch nichts genaues verraten."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "it's all good, all right, all clear",
+            "w porządku",
+            "wszystko jasne"
+        ],
+        "ger_list": [
+            "Alles klar"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "the Idea, hunch",
+            "przeczucie, pojęcie"
+        ],
+        "ger_list": [
+            "die Ahnung",
+            "Ich habe leider noch keine Ahnung woran das gelegen hat.",
+            "Ich habe keine Ahnung ob das gut ist oder nicht.",
+            "Ich hab keine Ahnung was es bedeuten soll."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "to want (less formal than möchten)"
+        ],
+        "ger_list": [
+            "wollen",
+            "Über die wollen wir hier nicht reden.",
+            "Über zwei davon wollen wir kurz berichten.",
+            "Aber genau das ist es was wir wollen !"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to make, to do"
+        ],
+        "ger_list": [
+            "machen",
+            "Überstunden muss ich machen wenn sie verlangt werden.",
+            "Die machen sich lächerlich – was sie vermutlich nicht wollten.",
+            "Denn hier kann man nichts falsch machen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to run, to walk"
+        ],
+        "ger_list": [
+            "laufen",
+            "Deshalb war ich gespannt wie es heute laufen würde.",
+            "Es kann aber auch ganz dumm laufen .",
+            "Übrigens bin ich heute vor dem Nebel gelaufen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to run (race)",
+            "biegać"
+        ],
+        "ger_list": [
+            "rennen",
+            "Ein bisschen rennen mussten wir aber schon.",
+            "Kann man mit ihm rennen und hüpfen?",
+            "Warum rennen die meisten den erfolgreichen hinterher?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to like"
+        ],
+        "ger_list": [
+            "mögen"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to drive, to ride",
+            "jechać"
+        ],
+        "ger_list": [
+            "fahren",
+            "Von dort aus fahren wir gemeinsam los.",
+            "Damit sind wir bislang sehr gut gefahren .",
+            "Wir fahren schon das 4 x mal dort hin."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to need (less formal than benötigen)"
+        ],
+        "ger_list": [
+            "brauchen",
+            "Über alles andere brauchen wir nicht zu diskutieren.",
+            "Wir brauchen ihn auch nicht aber vielleicht du!",
+            "Sie brauchen es uns nur zu sagen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to go"
+        ],
+        "ger_list": [
+            "gehen",
+            "Übrigens mag alles gehen wie es kann.",
+            "Es fällt mir nicht leicht sie gehen zu lassen.",
+            "Aber es hätte nicht schlechter los gehen können."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to know (someone, be familiar with, aware of)",
+            "znać"
+        ],
+        "ger_list": [
+            "kennen",
+            "Dabei lernt man sich besser kennen und kann voneinander lernen.",
+            "Dafür ist es hilfreich sich selbst gut zu kennen .",
+            "Wollen wir ihn mal näher kennen lernen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to write"
+        ],
+        "ger_list": [
+            "schreiben",
+            "Über was kann man jetzt noch schreiben ?",
+            "Über das es sich zu schreiben lohnt.",
+            "Über letzteren möchte ich hier auch etwas schreiben ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to be enough, to reach, to suffice",
+            "wystarczać"
+        ],
+        "ger_list": [
+            "reichen",
+            "Und trotzdem scheint es nie zu reichen .",
+            "Doch wird es auch für 2012 reichen ?",
+            "Aber für die beiden scheint es wohl zu reichen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to see"
+        ],
+        "ger_list": [
+            "sehen",
+            "Überall gibt es etwas zu sehen und zu entdecken.",
+            "Überall durfte man hinein sehen und unbeschwert spielen.",
+            "Überall gibt es etwas zu hören und zu sehen ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to wash",
+            "myć"
+        ],
+        "ger_list": [
+            "waschen",
+            "Ich habe es gerade geschafft zu waschen .",
+            "Wäsche waschen müssen wir auch unbedingt noch.",
+            "Wir wollten sie danach nie wieder waschen ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to swim"
+        ],
+        "ger_list": [
+            "schwimmen",
+            "Dort können sie schwimmen gehen oder sich einfach nur entspannen.",
+            "Und schwimmen sieht man dort auch nur höchst selten jemanden.",
+            "Sobald sie oben schwimmen sind sie fertig."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to hear"
+        ],
+        "ger_list": [
+            "hören",
+            "Überall gibt es etwas zu hören und zu sehen.",
+            "Wir hören und lesen eben auch drüber.",
+            "Ich kann kann allerdings ganz gut hören und kenne einiges."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to play"
+        ],
+        "ger_list": [
+            "spielen",
+            "Über das spielen kann man bei ihm sehr viel erreichen.",
+            "Überall durfte man hinein sehen und unbeschwert spielen .",
+            "Das erste werden wir sicher mal wieder spielen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to learn"
+        ],
+        "ger_list": [
+            "lernen",
+            "Aber man kann schmecken und genießen lernen !",
+            "Dabei lernt man sich besser kennen und kann voneinander lernen.",
+            "Zum lernen brauche ich es hell und freundlich."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to bring"
+        ],
+        "ger_list": [
+            "bringen",
+            "Natürlich gelingt ihnen nicht alles und sie bringen vieles durcheinander.",
+            "Aber mit nach Österreich werde ich ihn nicht bringen .",
+            "Wir wollen das hier trotzdem etwas näher bringen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to begin"
+        ],
+        "ger_list": [
+            "beginnen",
+            "So was schönes möchte ich auch irgend einmal beginnen .",
+            "Doch wie und wo soll man beginnen ?",
+            "Dann würde es wieder von vorn beginnen ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to pay"
+        ],
+        "ger_list": [
+            "bezahlen",
+            "Zumindest die Überstunden muss man nicht unbedingt bezahlen .",
+            "Nur muss man dafür nicht unbedingt extra bezahlen .",
+            "Aber müssen wir deshalb automatisch mehr bezahlen ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to think"
+        ],
+        "ger_list": [
+            "denken",
+            "An ein löschen war nicht zu denken .",
+            "Doch daran versuche ich jetzt nicht zu denken .",
+            "Ihr könnt euch denken wie es aussah."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to sleep"
+        ],
+        "ger_list": [
+            "schlafen",
+            "Da kann man doch wieder beruhigt schlafen .",
+            "Habe zu heute wieder sehr lange geschlafen .",
+            "Besonders gut schlafen konnte ich dann trotzdem nicht."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "atheist"
+        ],
+        "ger_list": [
+            "der Atheist",
+            "Wieso bin ich eigentlich selbst nicht zum Atheisten geworden?",
+            "Aber einen Atheisten wie mich kann das nicht erschüttern.",
+            "Das muss doch dem Atheisten äusserst absurd erscheinen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to pray"
+        ],
+        "ger_list": [
+            "beten",
+            "Reden und beten allein hilft da auch nicht weiter.",
+            "Dort wollte sie alleine sein und beten .",
+            "Ich möchte ernsthaft lernen mehr zu beten ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "Buddhism"
+        ],
+        "ger_list": [
+            "der Buddhismus",
+            "Im Buddhismus wird das ganz anders gesehen.",
+            "Vielleicht möchtest du ja noch mehr über den Buddhismus wissen?",
+            "Er beschäftigte sich mit Buddhismus und Meditation."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "Christian"
+        ],
+        "ger_list": [
+            "der Christ",
+            "Doch nicht alle sind als Christen überall willkommen.",
+            "Als Christen sollten wir es weit mehr nutzen.",
+            "Was können wir als Christen dazu sagen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "prayer",
+            "modlitwa"
+        ],
+        "ger_list": [
+            "das Gebet",
+            "Dennoch kann er bestimmt auch jegliches Gebet gebrauchen.",
+            "Danke wenn ihr im Gebet hinter uns steht.",
+            "Er hat sich oft zurückgezogen ins Gebet ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "ghost, mind",
+            "duch, umysł"
+        ],
+        "ger_list": [
+            "der Geist",
+            "Über kurz oder lang wird er also den Geist aufgeben.",
+            "Doch wir spielten wie von allen guten Geistern verlassen.",
+            "In diesem Geiste arbeiten wir bis heute."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to believe"
+        ],
+        "ger_list": [
+            "glauben",
+            "Wir können es selbst noch immer nicht glauben .",
+            "Leider wollte der alles gar nicht glauben .",
+            "Das kann man glauben – muss man aber nicht."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "god, God"
+        ],
+        "ger_list": [
+            "der Gott"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "holy",
+            "święte"
+        ],
+        "ger_list": [
+            "heilig",
+            "Gott ist gerecht und er ist heilig .",
+            "Da hat uns jemand hoch und heilig etwas versprochen.",
+            "Was müssen wir tun um heilig zu werden?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "Hinduism"
+        ],
+        "ger_list": [
+            "der Hinduismus",
+            "Also ich soll einen Referat über Hinduismus machen.",
+            "Auch der Hinduismus selbst ist ständigen Veränderungen unterworfen.",
+            "Warum gelten die Kühe im Hinduismus als heilig?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "Islam"
+        ],
+        "ger_list": [
+            "der Islam",
+            "Über den Islam ist schlichtweg zu wenig bekannt.",
+            "Das beschränkt sich übrigens nicht auf den Islam .",
+            "Warum war damals im Islam alles besser als heute?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "Jewish person"
+        ],
+        "ger_list": [
+            "der Jude",
+            "Wie soll das ausgerechnet bei den Juden denn funktionieren?",
+            "Er hatte dort die russischen Juden entdeckt.",
+            "Warum wurden da die Juden vergessen zu erwähnen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "church"
+        ],
+        "ger_list": [
+            "die Kirche",
+            "Über die katholische Kirche kann ich wenig sagen.",
+            "Über die Kirche selbst weiß ich nicht viel.",
+            "Und deswegen brauchen wir \" Kirche \"."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "monk",
+            "mnich"
+        ],
+        "ger_list": [
+            "der Mönch",
+            "Als Mönch sähe ich sowas sicherlich auch gerne.",
+            "Das machen mir die frühen Mönche bewusst.",
+            "Immer wieder ließen hier die Mönche nieder."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "mosque",
+            "meczet"
+        ],
+        "ger_list": [
+            "die Moschee",
+            "Eine schöne Moschee und zwar eine indische.",
+            "Istanbul soll bald um eine sagenhafte Moschee reicher werden.",
+            "Im übrigen gibt es hierzulande genügend Moscheen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "Muslim, Moslem",
+            ""
+        ],
+        "ger_list": [
+            "der Muslim",
+            "Damit ist er ähnlich hoch wie der der Muslime .",
+            "Was machen sie denn \"besser\" als die Muslime ?",
+            "Doch wird sich wirklich kritisch mit Muslimen auseinandergesetzt?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "paradise",
+            "raj"
+        ],
+        "ger_list": [
+            "das Paradies",
+            "Über das Paradies gibt es nicht viel zu sagen.",
+            "Wanderer finden hier ein wahres Paradies vor.",
+            "Auch im Paradies kann nicht alles perfekt sein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "priest",
+            "ksiądz"
+        ],
+        "ger_list": [
+            "der Priester",
+            "Ich würde die Priester immer seitlich setzen.",
+            "Auch viele Priester halten sich nicht daran.",
+            "Wer aber wird für den gefallenen Priester bitten?"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "religion"
+        ],
+        "ger_list": [
+            "die Religion",
+            "Und es ging mir viel zu viel um Religion .",
+            "Wohin und wie jedoch kehrt Religion zurück?",
+            "Aber macht das nicht eine Religion aus?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "synagogue"
+        ],
+        "ger_list": [
+            "die Synagoge",
+            "Hierbei geht man wie immer in die Synagoge beten.",
+            "Jesus wird wahrscheinlich in der Synagoge eingeschult.",
+            "Danach ging es in die Synagoge weiter."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "temple",
+            "świątynia"
+        ],
+        "ger_list": [
+            "der Tempel",
+            "Auch hier finden sich viele schöne Tempel .",
+            "In jedem Tempel betet und spendet er.",
+            "Überall findet man religiöse Stätte und Tempel ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "death"
+        ],
+        "ger_list": [
+            "der Tod",
+            "Über den Tod denkt niemand gerne nach.",
+            "Ärzte begegnen dem Tod weitaus öfter als wir das tun.",
+            "Nach seinem Tod gab es einige Überraschungen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "rebirth",
+            "odrodzenie"
+        ],
+        "ger_list": [
+            "die Wiedergeburt",
+            "Auch hier verstehe ich nicht warum dann Wiedergeburt ?",
+            "Nur mit der Wiedergeburt kann sie sich nicht anfreunden.",
+            "Ich glaube nicht einmal nach der Wiedergeburt ."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "anyhow, even so, yet",
+            "jednak, przecież"
+        ],
+        "ger_list": [
+            "dennoch",
+            "Positives gibt es aber dennoch zu berichten.",
+            "Sicher würden wir uns dennoch oft enorm unwohl fühlen.",
+            "Fragen über die es sich dennoch lohnt nachzudenken."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "at the moment, currently"
+        ],
+        "ger_list": [
+            "derzeit",
+            "Österreich befindet sich derzeit auf dem 19.",
+            "Auch suchen wir derzeit noch einen Übungsleiter.",
+            "Am Übergewicht liegt es derzeit sicherlich nicht."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "therefore, because of that",
+            "dlatego, dlatego też"
+        ],
+        "ger_list": [
+            "deswegen",
+            "Niemand darf deswegen verurteilt oder diskriminiert werden dürfen.",
+            "Aber genau deswegen mag ich ihn sehr.",
+            "Genau deswegen kommt die auch bei mir rein."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "also",
+            "również, też",
+            "wzajemnie"
+        ],
+        "ger_list": [
+            "ebenfalls",
+            "Ärzte können sich dafür ebenfalls online anmelden.",
+            "Florian konnte ebenfalls verletzungsbedingt nicht mehr weiterspielen.",
+            "Ganz nebenbei roch es ebenfalls angenehm frisch und keinesfalls aufdringlich."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "with this, herewith",
+            "tym sanym, niniejszym"
+        ],
+        "ger_list": [
+            "hiermit",
+            "Dafür möchten wir uns hiermit nochmal sehr herzlich bedanken!",
+            "Eine besonders gelungene möchte ich euch jedoch hiermit vorstellen.",
+            "Das könnte sich hiermit aber ja definitiv wieder ändern."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "with this, for this, about this",
+            "odnośnie"
+        ],
+        "ger_list": [
+            "hierzu",
+            "Über eine Äußerung hierzu würden wir uns sehr freuen.",
+            "Auch alle interessierten sind hierzu herzlich eingeladen.",
+            "Ich lade auch hierzu alle recht herzlich ein."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "whereas",
+            "natomiast"
+        ],
+        "ger_list": [
+            "hingegen",
+            "Über das besondere bin ich mir hingegen im klaren.",
+            "Über die Vergangenheit wollte er hingegen nicht groß sprechen.",
+            "Andreas hat es hingegen sehr gut geschmeckt."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to that, to it, in addition",
+            "do tego"
+        ],
+        "ger_list": [
+            "hinzu",
+            "Öle fügt man am besten selbst frisch hinzu .",
+            "So nach und nach kamen immer mehr hinzu .",
+            "Es kommt vielleicht noch etwas anderes hinzu ."
+        ],
+        "hardness": 5
+    }
+]

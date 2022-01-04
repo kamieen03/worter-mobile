@@ -1,0 +1,1298 @@
+[
+    {
+        "poleng_list": [
+            "Federal Republic"
+        ],
+        "ger_list": [
+            "die Bundesrepublik",
+            "Ökostrom wird in der Bundesrepublik nämlich einheitlich verteilt.",
+            "Nach wie vor ist die Bundesrepublik gespalten.",
+            "Wobei das natürlich auf die gesamte Bundesrepublik zutrifft."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "planned event, organization, meeting",
+            "wydarzenie, impreza"
+        ],
+        "ger_list": [
+            "die Veranstaltung",
+            "Übrigens könnte man auch eine Veranstaltung draus machen!",
+            "Ähnlich verhält es sich bei den meisten Veranstaltungen .",
+            "Änderungen verspricht man auch bei den Veranstaltungen ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "council, advice",
+            "rada, porada"
+        ],
+        "ger_list": [
+            "der Rat",
+            "Über einen Rat würde ich mich sehr freuen.",
+            "Über jeglichen konstruktiven Rat freue ich mich!",
+            "Über einen entsprechenden Rat würde ich freuen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "corrupt",
+            "skorumpowany"
+        ],
+        "ger_list": [
+            "korrupt",
+            "Es möchte gerne weiterhin systematisch korrupt bleiben.",
+            "Keiner wollte mit diesem korrupten Beamten etwas zu tun haben.",
+            "Einer der wenigen, die nicht korrupt zu sein schienen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to protest",
+            "protestować"
+        ],
+        "ger_list": [
+            "protestieren",
+            "Bürger fühlen sich zu wenig eingebunden und protestieren .",
+            "Und dann erst dürften wir hier protestieren .",
+            "Man kann nicht oft genug dagegen protestieren !"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "freedom",
+            "wolność"
+        ],
+        "ger_list": [
+            "die Freiheit",
+            "Über Freiheit gibt es viel zu sagen.",
+            "Über allem aber steht uns die Freiheit .",
+            "Ansonsten lassen wir euch da die Freiheiten ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "judgment",
+            "wyrok, ocena, opinia"
+        ],
+        "ger_list": [
+            "das Urteil",
+            "Wie kommt man zu einem ethisch fundierten Urteil ?",
+            "Vielleicht meinst du doch ein anderes Urteil ?",
+            "Darüber kann und werde ich mir kein Urteil erlauben."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "strategy",
+            "strategia"
+        ],
+        "ger_list": [
+            "die Strategie",
+            "Über die Strategien von anderen zu richten ist leicht.",
+            "Diese Strategie kann nicht aufgehen und wird sich bitter rächen.",
+            "Hmm was meinst du jetzt mit Strategien ?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "survey",
+            "ankieta, sondaż"
+        ],
+        "ger_list": [
+            "die Umfrage",
+            "Sie schreiben von einer \"repräsentativen\" Umfrage .",
+            "Da habe ich eine kleine Umfrage gemacht.",
+            "Die Umfrage hat mich jetzt doch etwas geschockt."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "office, position, post, agency",
+            "urząd"
+        ],
+        "ger_list": [
+            "das Amt",
+            "Integration wird man nie mit einem Amt lösen können.",
+            "Was muss ich mit zum Amt bringen?",
+            "Das hätte ihm das Amt zuvor schon mitteilen müssen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "economy",
+            "gospodarka, ekonomia"
+        ],
+        "ger_list": [
+            "die Wirtschaft",
+            "Übrigens auch und gerade für die Wirtschaft .",
+            "Ähnlich verhält es sich auch in der Wirtschaft .",
+            "Überall hört man in der freien Wirtschaft derzeit davon."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "tax",
+            "podatek"
+        ],
+        "ger_list": [
+            "die Steuer",
+            "Über unsere Steuern sind wir schon längst dabei.",
+            "Wir würden gerne weiterhin hier bleiben und Steuern zahlen.",
+            "Wir alle werden mit immer höheren Steuern belastet."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "federal government",
+            "rząd federalny"
+        ],
+        "ger_list": [
+            "die Bundesregierung",
+            "Von der Bundesregierung kam hier bis dato nichts.",
+            "Darüber wolle er mit der Bundesregierung sprechen.",
+            "Dies ist der Bundesregierung mindestens seit 2006 bekannt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "police",
+            "psiarnia"
+        ],
+        "ger_list": [
+            "die Polizei",
+            "Ärger mit der Polizei hat sie bisher noch nicht bekommen.",
+            "Wie weit kann man sich auf die Polizei noch verlassen?",
+            "Die Polizei könnte schon bald davon profitieren."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "empire"
+        ],
+        "ger_list": [
+            "das Reich"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "agreement",
+            "ugoda, porozumienie"
+        ],
+        "ger_list": [
+            "die Vereinbarung",
+            "Änderungen an dieser Vereinbarung sind leider nicht möglich.",
+            "Über Einzelheiten der Vereinbarung wurde nichts bekannt.",
+            "Einer ausdrücklichen schriftlichen Vereinbarung bedarf es nicht."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "claim, demand",
+            "roszczenie, prawo, wymamaganie"
+        ],
+        "ger_list": [
+            "der Anspruch",
+            "Sie erhebt nicht den Anspruch vollständig zu sein.",
+            "Nun wechselt der Anspruch immer wieder ab.",
+            "Das und nicht weniger ist unser Anspruch !"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "to get",
+            "dostać, otrzymać"
+        ],
+        "ger_list": [
+            "bekommen",
+            "Ich habe zumindest bisher nie einen bekommen .",
+            "Den haben wir leider nicht wieder bekommen .",
+            "Dazu hat jeder noch was anderes kleines bekommen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to treat",
+            "trakować",
+            "zajmować się"
+        ],
+        "ger_list": [
+            "behandeln",
+            "Wo und wie kann ich mich behandeln lassen?",
+            "Auch das werden wir behandeln und ausprobieren.",
+            "Darum möchten wir das hier ausführlicher behandeln ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to exist"
+        ],
+        "ger_list": [
+            "existieren",
+            "Davon sollen heute noch etwa 170 existieren .",
+            "Das eine kann ohne das andere nicht existieren .",
+            "Funktionen die nicht existieren können somit auch nicht angegriffen werden."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "to accomplish, to manage, to make",
+            "podołać, zrobić, wykonać"
+        ],
+        "ger_list": [
+            "schaffen",
+            "Aber man muss nicht immer alles alleine schaffen müssen.",
+            "Nicht ganz einfach aber das muss zu schaffen sein.",
+            "Doch wie soll er das nur schaffen ?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to telephone",
+            "telefonować"
+        ],
+        "ger_list": [
+            "telefonieren",
+            "Wieso man heute fast überall mobil telefonieren kann?",
+            "Heute kann es weit mehr als nur telefonieren .",
+            "Nur telefonieren konnte ich damit noch nicht wirklich."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to demand",
+            "żądać, domagać się"
+        ],
+        "ger_list": [
+            "fordern",
+            "Wir fordern uns gegenseitig und entwickeln uns permanent weiter.",
+            "Das wollen wir \"fördern und fordern \"!",
+            "Sie fördern und fordern aber nicht alleine."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to emerge",
+            "powstać"
+        ],
+        "ger_list": [
+            "entstehen",
+            "Obwohl sowas eigentlich auch nur hier entstehen kann.",
+            "Dieser ist nicht limitiert und es entstehen keine weiteren kosten.",
+            "Ich bin gespannt was noch entstehen wird!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to recommend",
+            "polecać"
+        ],
+        "ger_list": [
+            "empfehlen",
+            "Überall sehr gut einsetzbar und zu empfehlen .",
+            "Oder könnt ihr mir irgend etwas anderes empfehlen ?",
+            "Deshalb können wir uns nur wärmstens empfehlen !"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to pass (exam), to exist",
+            "zdać (egzamin)"
+        ],
+        "ger_list": [
+            "bestehen",
+            "Sollte ja möglich sein diese zu bestehen .",
+            "Mal schauen ob man gegen diese bestehen kann.",
+            "Die url ́s bleiben eh bestehen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to represent",
+            "reprezentować"
+        ],
+        "ger_list": [
+            "vertreten",
+            "Bei uns ist alles vertreten und willkommen.",
+            "Und wir waren auch recht prominent vertreten .",
+            "Bei uns ist alles vertreten und jeder willkommen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to deliver",
+            "dostarczać"
+        ],
+        "ger_list": [
+            "liefern",
+            "Deshalb liefern wir gerne überall hin aus.",
+            "Übrigens liefern sie auch einen feinen Schnaps.",
+            "Ansonsten kann ich leider nichts neues liefern ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to plan",
+            "planować"
+        ],
+        "ger_list": [
+            "planen",
+            "Deshalb muss man sehr defensiv und konservativ planen .",
+            "Sie müssen strategisch denken und planen können.",
+            "Weitere 15% planen dies zu tun."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to activate, to enable",
+            "aktywować"
+        ],
+        "ger_list": [
+            "aktivieren",
+            "Sie gilt es erneut zu aktivieren und sukzessive auszubauen.",
+            "Man kann ihn allerdings nachträglich aktivieren oder auch wieder aufheben.",
+            "Wege diesen zu aktivieren hat man auch mittlerweile diverse aufgezeigt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to hang",
+            "wieszać, wisieć"
+        ],
+        "ger_list": [
+            "hängen",
+            "Sie hängen sehr aneinander und harmonieren unglaublich gut.",
+            "Aber sie hängen auch nicht unerreichbar weit oben.",
+            "Was bleibt hängen und vor allem wie bleibt es hängen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to conclude, to terminate, to finalize",
+            "skończyć, ukończyć"
+        ],
+        "ger_list": [
+            "beenden",
+            "Aber jetzt muss ich es fast beenden .",
+            "So konnten wir den abend zumindest erfolgreich beenden .",
+            "Warum kann man diesen nicht einfach beenden ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to open, to introduce, to initialize"
+        ],
+        "ger_list": [
+            "eröffnen",
+            "Und wer wohl sonst sollte diesen eröffnen .",
+            "Wir dürfen ihnen nicht zu viele Möglichkeiten eröffnen .",
+            "Deshalb werde ich mir hier ein Konto eröffnen ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to edit, treat, process, adapt, revise, elaborate",
+            "przerabiać, obrabiać, redagować, edytować"
+        ],
+        "ger_list": [
+            "bearbeiten",
+            "Aber man kann ihn super gut bearbeiten !",
+            "Aber ich muss erst mal alles anschauen und bearbeiten .",
+            "Notfalls solltest du es vorher bearbeiten und verkleinern."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "to guarantee",
+            "gwarantować"
+        ],
+        "ger_list": [
+            "garantieren",
+            "Das kann ich dir aber nicht garantieren .",
+            "Sie lässt sich nicht herstellen oder garantieren .",
+            "Sie bleiben immer mobil – dafür garantieren wir."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to amount to, to result in, yield",
+            "dawać (rezultaty, wyniki)"
+        ],
+        "ger_list": [
+            "ergeben",
+            "Das hat sich erst nach und nach ergeben .",
+            "Aber es hat sich immer anders ergeben *g*.",
+            "Wobei sich das eine aus dem anderen ergeben kann."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to let, to leave",
+            "zostawiać",
+            "polecać (coś zrobić)",
+            "pozwalać"
+        ],
+        "ger_list": [
+            "lassen",
+            "Überhaupt solltest du dich hierbei sehr gut beraten lassen .",
+            "Allerdings darf man sich davon auch nicht täuschen lassen .",
+            "Eltern sollten sich davon nicht allzu sehr verunsichern lassen ."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "to be sufficient",
+            "wystarczyć"
+        ],
+        "ger_list": [
+            "genügen",
+            "Doch das scheint ihnen nicht mehr zu genügen .",
+            "Also darf und soll mir auch alles genügen .",
+            "Ein ganz kleines würde mir schon genügen ."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "to entitle, to justify",
+            "upoważniać"
+        ],
+        "ger_list": [
+            "berechtigen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "to communicate, to convey",
+            "przekazywać (wiedzę)"
+        ],
+        "ger_list": [
+            "vermitteln",
+            "Und das konnten sie auch recht glaubhaft vermitteln .",
+            "Alles andere wäre politisch nicht zu vermitteln .",
+            "Über 91% unserer Wohnungen können wir vermitteln ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "to remove, to clear away, to detach",
+            "kasować, usunąć, oddalać, wyrzucać (ze szkoły)"
+        ],
+        "ger_list": [
+            "entfernen",
+            "Falls nicht ist es möglich zu entfernen .",
+            "Ich werde ihn dann prüfen und gegebenenfalls entfernen .",
+            "Dreimal täglich solltest du ihn nicht entfernen ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "option"
+        ],
+        "ger_list": [
+            "die Option",
+            "Über die Option für mich konnte sie nichts sagen.",
+            "Ein klick und diese Option ist aktiviert und gespeichert.",
+            "Es gibt aber auch noch weitere Optionen ."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "seat",
+            "siedzenie, miejsce siedzące"
+        ],
+        "ger_list": [
+            "der Sitz",
+            "Unter dem Sitz hab ich mir auch schon überlegt.",
+            "Dies passt aber auch keineswegs zwischen die Sitze .",
+            "Wichtig ist nur das man den Sitz abbauen kann."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "calculation",
+            "obliczenie, oszacowanie"
+        ],
+        "ger_list": [
+            "die Berechnung",
+            "Nur bei der Berechnung war er etwas oberflächlich.",
+            "In seinen Berechnungen ist sie jedenfalls nicht enthalten.",
+            "Deswegen hätte ihm die falsche Berechnung auffallen müssen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "figure",
+            "figura"
+        ],
+        "ger_list": [
+            "die Figur",
+            "So kommen erneut viele spannende neue Figuren hinzu.",
+            "Und dabei macht sie eine richtig tolle Figur .",
+            "Allerdings darf sich keine Figur dazwischen befinden."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "origin",
+            "pochodzenie"
+        ],
+        "ger_list": [
+            "die Herkunft",
+            "Über die Herkunft ist leider noch nichts bekannt.",
+            "Über die Herkunft wissen wir bisher leider nichts.",
+            "Über seine Herkunft weiß er nur wenig."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "connection (TV, internet), annexation, contact",
+            "przyłączenie, złącze"
+        ],
+        "ger_list": [
+            "der Anschluss",
+            "Ansonsten können wir den Anschluss nicht freigeben.",
+            "Diese Überlegungen sollen im Anschluss zusammengetragen werden.",
+            "Langsam aber sicher gelingt uns der Anschluss ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "the principle",
+            "zasada"
+        ],
+        "ger_list": [
+            "das Prinzip",
+            "Überraschungen kann es im Prinzip täglich geben.",
+            "Im Prinzip sehe ich das ja genauso.",
+            "Das Prinzip wird wohl überall gleich sein."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "order, tidiness",
+            "porządek"
+        ],
+        "ger_list": [
+            "die Ordnung",
+            "Die alltägliche Ordnung wird aufgehoben und überschritten.",
+            "Bis jetzt haben wir ordentlich Ordnung geschaffen.",
+            "Denn Ordnung ist nicht immer wirklich hilfreich."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "sound, tone, clay",
+            "dźwięk, ton, glina"
+        ],
+        "ger_list": [
+            "der Ton",
+            "Mit einer anderen Ton kommt er bestimmt besser rüber.",
+            "Dafür kann sich der Ton sehen lassen.",
+            "Es war als hätte man den Ton abgestellt!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "series",
+            "serial"
+        ],
+        "ger_list": [
+            "die Serie",
+            "Über die Serie ist bisher noch nicht allzu viel bekannt.",
+            "Leider gibt es diese Serie nicht mehr zu kaufen.",
+            "Der eine fehlt mir nämlich noch aus der Serie ."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "feature, attribute (superficial such as distinct color of a bridge)",
+            "cecha, znak"
+        ],
+        "ger_list": [
+            "das Merkmal",
+            "Ansonsten sind halt wieder die typischen Merkmale anzutreffen.",
+            "Was meinst du genau mit \" Merkmalen \"?",
+            "Das Merkmal von damals wurde bis heute erhalten."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "purpose",
+            "cel"
+        ],
+        "ger_list": [
+            "der Zweck",
+            "Über den Zweck bin ich allerdings nicht informiert.",
+            "Er tat es vielmehr für einen guten Zweck .",
+            "Es ist ja schließlich für einen guten Zweck !"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "exchange",
+            "wymiana"
+        ],
+        "ger_list": [
+            "der Austausch",
+            "Wir freuen uns jetzt schon auf einen interessanten Austausch .",
+            "Wir freuen uns auf einen anregenden Austausch .",
+            "Gleichzeitig darf aber auch der Austausch untereinander nicht fehlen!"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "department",
+            "dział, oddział"
+        ],
+        "ger_list": [
+            "die Abteilung",
+            "Dafür ist ihnen die Abteilung außerordentlich dankbar.",
+            "Das soll nur ein kleiner Überblick über die Abteilung sein.",
+            "Und wie gut sind diese Abteilungen über konstruktive Änderungen informiert?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "support, supervision, assistance, care, mentoring",
+            "opieka"
+        ],
+        "ger_list": [
+            "die Betreuung",
+            "Über die Betreuung selbst können wir uns ebenfalls nicht beklagen.",
+            "Über eine regelmässige Betreuung würde ich mich freuen.",
+            "Die Betreuung ist ebenso persönlich wie kompetent."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "preparation",
+            "przygotowanie"
+        ],
+        "ger_list": [
+            "die Vorbereitung",
+            "Über deren Vorbereitung werden wir regelmäßig informieren.",
+            "Die Vorbereitung war kurz und niemand wusste wo man steht.",
+            "Und die gute Vorbereitung hat sich ausgezahlt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "opposite",
+            "in contrast",
+            "przeciwieństwo"
+        ],
+        "ger_list": [
+            "der Gegensatz",
+            "Ökologie und Ökonomie werden oft als Gegensatz gesehen.",
+            "Aber seiner sollte im Gegensatz gleich erlöst werden.",
+            "Im Gegensatz zu den 99% von 1&1."
+        ],
+        "hardness": 7
+    },
+    {
+        "poleng_list": [
+            "course, run",
+            "bieg (zawody, czynność)"
+        ],
+        "ger_list": [
+            "der Lauf",
+            "Über den Lauf will ich hier gar nichts schreiben.",
+            "Also alles wie geschaffen für einen schönen Lauf .",
+            "Absolut empfehlenswert und für mich der schönste Lauf bislang."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "benefit",
+            "korzyść, zysk, zaleta"
+        ],
+        "ger_list": [
+            "der Vorteil",
+            "Überzeugen sie sich selbst von unseren Vorteilen .",
+            "Über die sonstigen Vorteile kann ich nur schwärmen.",
+            "Über die Vorteile werde ich noch oft genug berichten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "composure, mounting",
+            "wersja",
+            "opanowanie",
+            "ramka"
+        ],
+        "ger_list": [
+            "die Fassung",
+            "Ich habe \"nur\" die überarbeitete Fassung gelesen.",
+            "Leider gibt es noch keine deutsche Fassung .",
+            "Schade das es keine längere Fassung gegeben hat."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "evaluation",
+            "assessment",
+            "ocena"
+        ],
+        "ger_list": [
+            "die Wertung",
+            "Deswegen mache ich die Wertung als erstes.",
+            "Deshalb hat es eher eine schlechtere Wertung .",
+            "Nur ganz knapp fiel die letzte Wertung aus."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "view",
+            "pogląd",
+            "widok"
+        ],
+        "ger_list": [
+            "die Sicht",
+            "Wäre aus meiner Sicht aber nicht wirklich schade drum.",
+            "Aus heutiger Sicht wirkt das lächerlich winzig.",
+            "Aus dieser Sicht werden wir gut gewappnet sein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "format",
+            ""
+        ],
+        "ger_list": [
+            "das Format",
+            "Öffnen und speichern in einem bestimmten Format und vieles mehr.",
+            "Alle beschriebenen Formate wurden bisher einwandfrei abgespielt.",
+            "Vorher stand ich solchen Formaten sehr skeptisch gegenüber."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "management, cable, line",
+            "przewód",
+            "zarząd",
+            "przewodniczenie"
+        ],
+        "ger_list": [
+            "die Leitung",
+            "Dies wurde bei uns mit einer 10m langen Leitung realisiert.",
+            "Kann das mit der langsamen Leitung auch bestätigen.",
+            "Die bisherige Leitung war völlig marode und kaputt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "situation, circumstance",
+            "sytuacja"
+        ],
+        "ger_list": [
+            "die Situation",
+            "Über meine Situation bin ich nicht traurig.",
+            "Denn die finanzielle Situation spitzt sich immer mehr zu.",
+            "Und wie sieht die globale Situation aus?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "overview, summary",
+            "podsumowanie"
+        ],
+        "ger_list": [
+            "die Übersicht",
+            "So verliert man hier nicht die Übersicht .",
+            "Darum ist diese erste Übersicht keinesfalls vollständig.",
+            "Die Übersicht ist noch nicht mal vollständig."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "source, wellspring",
+            "źródło"
+        ],
+        "ger_list": [
+            "die Quelle",
+            "Jedoch scheint die Quelle zuverlässig zu sein.",
+            "Im nachhinein sollten sich diese Quellen als äußerst dünn herausstellen.",
+            "Dies wird zumindest von einer anonymen Quelle behauptet."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "coherence, connection, link",
+            "łączność, związek (z czymś), kontekst"
+        ],
+        "ger_list": [
+            "der Zusammenhang",
+            "Über diesen Zusammenhang geht es mir hier jedoch weniger.",
+            "Und das hat ganz sicher einen Zusammenhang .",
+            "Ob es da wohl einen Zusammenhang gibt?"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "unity",
+            "jedność"
+        ],
+        "ger_list": [
+            "die Einheit",
+            "Über 30 verschiedene Einheiten kannst du erstellen und einsetzen.",
+            "Insgesamt waren die Einheiten jedoch echt hart.",
+            "Sie bilden eine Einheit und sind doch vollkommen verschieden."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "distance, removal, range",
+            "dystans, usunięcie"
+        ],
+        "ger_list": [
+            "die Entfernung",
+            "Übrigens wir scheuen uns auch nicht vor großen Entfernungen .",
+            "Die Entfernung zwischen uns ist einfach zu groß.",
+            "Auch die Entfernungen haben uns nicht gestört."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "exception",
+            "wyjątek"
+        ],
+        "ger_list": [
+            "die Ausnahme",
+            "Über die wirklichen Ausnahmen berichte ich später.",
+            "War ich jetzt etwa nicht mehr die Ausnahme ?",
+            "Was könnten das wohl für Ausnahmen sein?"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "declaration, statement, information, representation",
+            "deklaracja, oświadczenie"
+        ],
+        "ger_list": [
+            "die Angabe",
+            "Selbstverständlich sind alle Angaben freiwillig und werden vertraulich behandelt.",
+            "Verletzte hat es nach seinen Angaben nicht gegeben.",
+            "Es handelte sich offensichtlich um falsche Angaben ."
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "truth",
+            "prawda"
+        ],
+        "ger_list": [
+            "die Wahrheit",
+            "Die Wahrheit kann man aber nicht kaufen.",
+            "Aber das ist nicht die ganze Wahrheit .",
+            "Denn die Wahrheit ist häufig sehr subjektiv geprägt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "line",
+            "linia"
+        ],
+        "ger_list": [
+            "die Linie",
+            "Überzeugung findet keineswegs in erster Linie rational statt.",
+            "Die spielerische Linie ging trotz Überzahl verloren.",
+            "Weil ja auch \" Linien \" vorkommt."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "plain, level, layer",
+            "równina, poziom, płaszczyzna"
+        ],
+        "ger_list": [
+            "die Ebene",
+            "Ökostrom werde derzeit nur auf nationaler Ebene gefördert.",
+            "Ich selbst denke jedoch die fünfte Ebene existiert.",
+            "Auf geistiger Ebene werden wir wach und klar."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "structure",
+            "struktura"
+        ],
+        "ger_list": [
+            "die Struktur",
+            "Ist dies mit unserer Struktur überhaupt möglich?",
+            "Über die tatsächliche Struktur der Verwaltung wurde nie viel berichtet.",
+            "Sie schaffen familienfreundliche Strukturen – und sie profitieren davon."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "row, line, array",
+            "kolejka, rząd"
+        ],
+        "ger_list": [
+            "die Reihe",
+            "Für mich kommt alles der Reihe nach.",
+            "Die erste Reihe ist damit fast komplett.",
+            "Wir mussten mit einer dritten und einer vierten Reihe spielen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "dot, point, full stop",
+            "punkt, kropka"
+        ],
+        "ger_list": [
+            "der Punkt",
+            "Über diesen Punkt wurde noch nicht entschieden.",
+            "Es wurde eifrig um Punkte gerannt und gespielt.",
+            "Zumindest dem letzten Punkt kann ich zustimmen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "term, description, marking",
+            "nazwa, określenie, oznaczenie"
+        ],
+        "ger_list": [
+            "die Bezeichnung",
+            "Es gibt aber auch zahlreiche andere Bezeichnungen .",
+            "Was verbirgt sich hinter dieser etwas holprig klingenden Bezeichnung ?",
+            "Ihnen und uns gefällt diese Bezeichnung bestimmt nicht."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "risk",
+            "ryzyko"
+        ],
+        "ger_list": [
+            "das Risiko",
+            "Wie viel Risiko bin ich wirklich bereit zu tragen?",
+            "Doch man kann das Risiko erheblich senken.",
+            "Auch dieses Risiko muss jeder für sich selbst abschätzen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "expression (print / edition)",
+            "wyrażenie, wydruk"
+        ],
+        "ger_list": [
+            "der Ausdruck",
+            "Sie wären aber gern noch sicherer im Ausdruck .",
+            "Sie möchten dies auch zum Ausdruck bringen?",
+            "Dieser Ausdruck kann unfreiwillig und unbewusst geschehen."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "standard"
+        ],
+        "ger_list": [
+            "der Standard",
+            "FH arbeitet mit seinen Standards und ist nicht fehlerfrei.",
+            "Hier blockieren uns derzeit aber noch unterschiedliche technische Standards .",
+            "Über diese Entwicklung hat auch der \" Standard \" berichtet."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "construction, structure, assembling",
+            "konstrukcja, budowla"
+        ],
+        "ger_list": [
+            "der Aufbau",
+            "Ab 2012 erfolgt dann jedoch wieder ein Aufbau .",
+            "Sind aber nur ein paar vom Aufbau .",
+            "Der Aufbau muss nicht nur strukturiert sein."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "protection",
+            "ochrona"
+        ],
+        "ger_list": [
+            "der Schutz",
+            "Doch der eigene Schutz ist nicht allzu teuer.",
+            "So benötigen diese auch einen besonderen Schutz .",
+            "Was kann man für ihren Schutz unternehmen?"
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "consequence",
+            "skutek"
+        ],
+        "ger_list": [
+            "die Folge",
+            "Über eventuelle wirtschaftliche Folgen haben wir bislang nicht diskutiert.",
+            "Über die Folgen davon möchte ich hier nicht spekulieren.",
+            "Über 1600 Folgen wurden bisher ausgestrahlt und produziert."
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "possibility",
+            "możliwość"
+        ],
+        "ger_list": [
+            "die Möglichkeit",
+            "Österreich bietet viele Möglichkeiten zum wandern und auch zum klettern.",
+            "Über diese Möglichkeiten könnt ihr euch hier informieren.",
+            "Über die besten Möglichkeiten muss ich mich noch schlau machen."
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "responsibility",
+            "odpowiedzialność"
+        ],
+        "ger_list": [
+            "die Verantwortung",
+            "Ähnlich sieht es bei der Verantwortung aus.",
+            "Damit geht gleichzeitig auch mehr Verantwortung auf sie über.",
+            "Wieviel Verantwortung wir für uns selbst und andere haben können."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "step",
+            "krok"
+        ],
+        "ger_list": [
+            "der Schritt",
+            "Ökonomen hatten mehrheitlich nicht mit einem solchen Schritt gerechnet.",
+            "Über die einzelnen Schritte muss man allerdings noch heftig streiten.",
+            "Übung ist auch ein notwendiger Schritt in immer dünner."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "opinion, view",
+            "pogląd"
+        ],
+        "ger_list": [
+            "die Ansicht",
+            "Über diese Ansichten kann man natürlich wieder vorzüglich streiten.",
+            "Überall sind diese wunderschönen Ansichten zu finden.",
+            "Inzwischen habe sich diese Ansicht aber geändert."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "change"
+        ],
+        "ger_list": [
+            "der Wechsel",
+            "Üblicherweise macht man das im wöchentlichen Wechsel .",
+            "Ich glaube der Wechsel kommt zu früh.",
+            "Und bald kamen diese Wechsel überhaupt nicht mehr."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "breadth, width, amplitude",
+            "szerokość"
+        ],
+        "ger_list": [
+            "die Breite",
+            "Ähnlich verhält es sich mit der Breite .",
+            "Und der hat nicht die üblichen 42 cm Breite ?",
+            "Wäre auch für hiesige Breiten zu überdenken."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "requirement, demand (made by a thing)",
+            "wymaganie, żądanie"
+        ],
+        "ger_list": [
+            "die Anforderung",
+            "Was gibt es sonst noch für Anforderungen ?",
+            "Die muss man doch nur auf Anforderung vorlegen.",
+            "Die gestellten Anforderungen sind mitunter sehr hoch."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "assignment, task, job",
+            "zadanie"
+        ],
+        "ger_list": [
+            "die Aufgabe",
+            "Ärzte haben immer mehr organisatorische Aufgaben zu erledigen.",
+            "Deswegen freue ich mich auf diese reizvolle Aufgabe .",
+            "Diese Aufgabe wird und kann uns niemand abnehmen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "depth",
+            "głębokość"
+        ],
+        "ger_list": [
+            "die Tiefe",
+            "Ich hätte mir noch mehr Tiefe gewünscht.",
+            "Bis auf diese Tiefe habe ich es nicht getestet.",
+            "Höhen und Tiefen gab und gibt es immer."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "alternative"
+        ],
+        "ger_list": [
+            "die Alternative",
+            "Es wurden mehrere Alternativen geprüft und bewertet.",
+            "Bisher habe aber niemand eine Alternative aufgezeigt.",
+            "Aber eine Alternative haben sie nicht zu bieten."
+        ],
+        "hardness": 1
+    },
+    {
+        "poleng_list": [
+            "detail",
+            "szczegół"
+        ],
+        "ger_list": [
+            "das Detail",
+            "Über Details kann man sicher noch reden.",
+            "Über die Details hatten wir hier bereits berichtet.",
+            "Über weitere technische Details ist nichts bekannt."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "entry (in a book), inscription",
+            "wpis, notatka, uwaga"
+        ],
+        "ger_list": [
+            "der Eintrag",
+            "Über jeden weiteren Eintrag freue ich mich natürlich sehr.",
+            "Über jeden weiteren Eintrag freuen wir uns sehr.",
+            "Den kompletten kurzen Eintrag kann man hier nachlesen."
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "reception, recording, admission",
+            "przyjęcie, odbiór"
+        ],
+        "ger_list": [
+            "die Aufnahme",
+            "Ähnlich bewegend sind diese Aufnahmen dann auch.",
+            "Für ein paar schöne Aufnahmen hat es aber dennoch gereicht.",
+            "Es sind faszinierende und eindrucksvolle Aufnahmen geworden."
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "basis, foundation, principle",
+            "podstawa, fundament"
+        ],
+        "ger_list": [
+            "die Grundlage",
+            "Dafür besteht bis auf weiteres keine rechtliche Grundlage .",
+            "Doch das geschieht nicht immer mit einer rechtlichen Grundlage .",
+            "Die rechtlichen Grundlagen haben sich bisher nicht geändert."
+        ],
+        "hardness": 3
+    }
+]

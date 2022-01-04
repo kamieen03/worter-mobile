@@ -1,0 +1,1523 @@
+[
+    {
+        "poleng_list": [
+            "backen (bäckst, bäckt)"
+        ],
+        "ger_list": [
+            "hat gebacken"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "befehlen (befiehlst)"
+        ],
+        "ger_list": [
+            "hat befohlen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "beginnen"
+        ],
+        "ger_list": [
+            "hat begonnen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "beißen"
+        ],
+        "ger_list": [
+            "hat gebissen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "bergen (birgst, birg)"
+        ],
+        "ger_list": [
+            "hat geborgen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "bersten (birst)"
+        ],
+        "ger_list": [
+            "ist geborsten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "bewegen"
+        ],
+        "ger_list": [
+            "hat bewogen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "biegen"
+        ],
+        "ger_list": [
+            "hat gebogen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "bieten"
+        ],
+        "ger_list": [
+            "hat geboten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "binden"
+        ],
+        "ger_list": [
+            "hat gebunden"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "bitten"
+        ],
+        "ger_list": [
+            "hat gebeten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "blasen (bläst)"
+        ],
+        "ger_list": [
+            "hat geblasen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "bleiben"
+        ],
+        "ger_list": [
+            "ist geblieben"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "bleichen"
+        ],
+        "ger_list": [
+            "hat gebleicht"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "braten (brätst, brät)"
+        ],
+        "ger_list": [
+            "hat gebraten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "brechen (brichst, bricht)"
+        ],
+        "ger_list": [
+            "hat gebrochen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "brennen"
+        ],
+        "ger_list": [
+            "hat gebrannt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "bringen"
+        ],
+        "ger_list": [
+            "hat gebracht"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "denken"
+        ],
+        "ger_list": [
+            "hat gedacht"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "dreschen (drischst, drischt)"
+        ],
+        "ger_list": [
+            "hat gedroschen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "dringen"
+        ],
+        "ger_list": [
+            "ist gedrungen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "dürfen (darfst, darf)"
+        ],
+        "ger_list": [
+            "hat gedurft"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "empfangen (empfängst, empfängt)"
+        ],
+        "ger_list": [
+            "hat empfangen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "empfehlen (empfiehlst, empfiehlt)"
+        ],
+        "ger_list": [
+            "hat empfohlen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "empfinden"
+        ],
+        "ger_list": [
+            "hat empfunden"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "erlöschen (erlischst, erlischt)"
+        ],
+        "ger_list": [
+            "hat erloschen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "erschrecken (erschrickst, erschrickt)"
+        ],
+        "ger_list": [
+            "ist erschrocken"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "essen (isst)"
+        ],
+        "ger_list": [
+            "hat gegessen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "fahren (fährst, fährt)"
+        ],
+        "ger_list": [
+            "ist gefahren"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "fallen (fällst, fällt)"
+        ],
+        "ger_list": [
+            "ist gefallen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "fangen (fängst, fängt)"
+        ],
+        "ger_list": [
+            "hat gefangen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "fechten (fichtst, ficht)"
+        ],
+        "ger_list": [
+            "hat gefochten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "finden"
+        ],
+        "ger_list": [
+            "hat gefunden"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "flechten (flichtst, flicht)"
+        ],
+        "ger_list": [
+            "hat geflochten"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "fliegen"
+        ],
+        "ger_list": [
+            "ist geflogen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "fliehen"
+        ],
+        "ger_list": [
+            "ist geflohen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "fließen"
+        ],
+        "ger_list": [
+            "ist geflossen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "fressen (frisst)"
+        ],
+        "ger_list": [
+            "hat gefressen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "frieren"
+        ],
+        "ger_list": [
+            "hat gefroren"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "gären"
+        ],
+        "ger_list": [
+            "hat gegoren"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "gebären (gebierst, gebiert)"
+        ],
+        "ger_list": [
+            "ist geboren"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "geben (gibst, gibt)"
+        ],
+        "ger_list": [
+            "hat gegeben"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "gedeihen"
+        ],
+        "ger_list": [
+            "ist gediehen"
+        ],
+        "hardness": 7
+    },
+    {
+        "poleng_list": [
+            "gefallen (gefällst, gefällt)"
+        ],
+        "ger_list": [
+            "hat gefallen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "gehen"
+        ],
+        "ger_list": [
+            "ist gegangen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "gelingen"
+        ],
+        "ger_list": [
+            "ist gelungen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "gelten (gilst, gilt)"
+        ],
+        "ger_list": [
+            "hat gegolten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "genesen"
+        ],
+        "ger_list": [
+            "ist genesen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "genießen"
+        ],
+        "ger_list": [
+            "hat genossen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "geraten (gerätst, gerät)"
+        ],
+        "ger_list": [
+            "ist geraten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "gerinnen"
+        ],
+        "ger_list": [
+            "ist geronnen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "geschehen (geschieht)"
+        ],
+        "ger_list": [
+            "ist geschehen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "gestehen"
+        ],
+        "ger_list": [
+            "hat gestanden"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "gewinnen"
+        ],
+        "ger_list": [
+            "hat gewonnen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "gießen"
+        ],
+        "ger_list": [
+            "hat gegossen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "gleichen"
+        ],
+        "ger_list": [
+            "hat geglichen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "gleiten"
+        ],
+        "ger_list": [
+            "ist geglitten"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "glimmen"
+        ],
+        "ger_list": [
+            "hat geglommen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "graben (gräbst, gräbt)"
+        ],
+        "ger_list": [
+            "hat gegraben"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "greifen"
+        ],
+        "ger_list": [
+            "hat gegriffen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "haben (hast, hat)"
+        ],
+        "ger_list": [
+            "hat gehabt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "halten (hältst, hält)"
+        ],
+        "ger_list": [
+            "hat gehalten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "hängen"
+        ],
+        "ger_list": [
+            "hat geahangen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "hauen"
+        ],
+        "ger_list": [
+            "hat gehauen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "heben"
+        ],
+        "ger_list": [
+            "hat gehoben"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "heißen"
+        ],
+        "ger_list": [
+            "hat geheißen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "helfen (hilfst, hilft)"
+        ],
+        "ger_list": [
+            "hat geholfen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "kennen"
+        ],
+        "ger_list": [
+            "hat gekannt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "klingen"
+        ],
+        "ger_list": [
+            "hat geklungen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "kneifen"
+        ],
+        "ger_list": [
+            "hat gekniffen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "kommen"
+        ],
+        "ger_list": [
+            "ist gekommt"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "können (kannst, kann)"
+        ],
+        "ger_list": [
+            "hat gekonnt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "kriechen"
+        ],
+        "ger_list": [
+            "ist gekrochen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "küren"
+        ],
+        "ger_list": [
+            "hat gekürt"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "laden (lädst, lädt)"
+        ],
+        "ger_list": [
+            "hat geladen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "lassen (lässt)"
+        ],
+        "ger_list": [
+            "hat gelassen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "laufen (läufst, läuft)"
+        ],
+        "ger_list": [
+            "ist gelaufen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "leiden"
+        ],
+        "ger_list": [
+            "ist gelitten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "leihen"
+        ],
+        "ger_list": [
+            "hat geliehen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "lesen (liest)"
+        ],
+        "ger_list": [
+            "hat gelesen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "liegen"
+        ],
+        "ger_list": [
+            "hat gelegen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "lügen"
+        ],
+        "ger_list": [
+            "hat gelogen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "mahlen"
+        ],
+        "ger_list": [
+            "hat gemahlen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "meiden"
+        ],
+        "ger_list": [
+            "hat gemieden"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "melken"
+        ],
+        "ger_list": [
+            "hat gemolken"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "messen (misst)"
+        ],
+        "ger_list": [
+            "hat gemessen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "misslingen"
+        ],
+        "ger_list": [
+            "ist misslungen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "mögen (magst, mag)"
+        ],
+        "ger_list": [
+            "hat gemocht"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "müssen (musst, muss)"
+        ],
+        "ger_list": [
+            "hat gemusst"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "nehmen (nimmst, nimmt)"
+        ],
+        "ger_list": [
+            "hat genommen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "nennen"
+        ],
+        "ger_list": [
+            "hat genannt"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "pfeifen"
+        ],
+        "ger_list": [
+            "hat gepfiffen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "preisen"
+        ],
+        "ger_list": [
+            "hat gepriesen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "quellen (quillst, quillt)"
+        ],
+        "ger_list": [
+            "ist gequollen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "raten (rätst, rät)"
+        ],
+        "ger_list": [
+            "hat geraten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "reiben"
+        ],
+        "ger_list": [
+            "hat gerieben"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "reißen"
+        ],
+        "ger_list": [
+            "hat gerissen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "reiten"
+        ],
+        "ger_list": [
+            "hat geritten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "rennen"
+        ],
+        "ger_list": [
+            "ist gerannt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "riechen"
+        ],
+        "ger_list": [
+            "hat gerochen"
+        ],
+        "hardness": 3
+    },
+    {
+        "poleng_list": [
+            "schreiben"
+        ],
+        "ger_list": [
+            "hat geschrieben"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "schreien"
+        ],
+        "ger_list": [
+            "hat geschrieen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "schreiten"
+        ],
+        "ger_list": [
+            "ist geschritten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "schweigen"
+        ],
+        "ger_list": [
+            "hat geschwiegen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "schwellen (chwillst, schwillt)"
+        ],
+        "ger_list": [
+            "ist geschwollen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "schwimmen"
+        ],
+        "ger_list": [
+            "ist geschwommen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "schwinden"
+        ],
+        "ger_list": [
+            "ist geschwunden"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "schwingen"
+        ],
+        "ger_list": [
+            "hat geschwungen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "schwören"
+        ],
+        "ger_list": [
+            "hat geschworen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "sehen (siehst, sieht)"
+        ],
+        "ger_list": [
+            "hat gesehen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "sein"
+        ],
+        "ger_list": [
+            "ist gewesen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "senden"
+        ],
+        "ger_list": [
+            "hat gesandt, gesendet"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "sieden"
+        ],
+        "ger_list": [
+            "hat gesiedet, gesotten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "singen"
+        ],
+        "ger_list": [
+            "hat gesungen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "sinken"
+        ],
+        "ger_list": [
+            "ist gesunken"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "sinnen"
+        ],
+        "ger_list": [
+            "hat gesonnen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "sitzen"
+        ],
+        "ger_list": [
+            "hat gesessen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "sollen"
+        ],
+        "ger_list": [
+            "hat gesollt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "spalten"
+        ],
+        "ger_list": [
+            "hat gespalten, gespaltet"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "speien"
+        ],
+        "ger_list": [
+            "hat gespien"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "spinnen"
+        ],
+        "ger_list": [
+            "hat gesponnen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "sprechen (sprichst, spricht)"
+        ],
+        "ger_list": [
+            "hat gesprochen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "sprießen"
+        ],
+        "ger_list": [
+            "ist gesprossen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "springen"
+        ],
+        "ger_list": [
+            "ist gesprungen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "stechen (stichst, sticht)"
+        ],
+        "ger_list": [
+            "ist gestochen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "stecken"
+        ],
+        "ger_list": [
+            "hat gesteckt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "stehen"
+        ],
+        "ger_list": [
+            "hat gestanden"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "stehlen (stiehlst, stiehlt)"
+        ],
+        "ger_list": [
+            "hat gestohlen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "steigen"
+        ],
+        "ger_list": [
+            "ist gestiegen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "sterben (stirbst, stirbt)"
+        ],
+        "ger_list": [
+            "ist gestorben"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "stinken"
+        ],
+        "ger_list": [
+            "hat gestunken"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "stoßen (stößt)"
+        ],
+        "ger_list": [
+            "hat gestoßen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "streichen"
+        ],
+        "ger_list": [
+            "hat gestrichen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "streiten"
+        ],
+        "ger_list": [
+            "hat gestritten"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "tragen (trägst, trägt)"
+        ],
+        "ger_list": [
+            "hat getragen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "treffen (triffst, trifft)"
+        ],
+        "ger_list": [
+            "hat getroffen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "treiben"
+        ],
+        "ger_list": [
+            "hat getrieben"
+        ],
+        "hardness": 7
+    },
+    {
+        "poleng_list": [
+            "treten (trittst, tritt)"
+        ],
+        "ger_list": [
+            "hat getreten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "triefen"
+        ],
+        "ger_list": [
+            "hat getrieft"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "trinken"
+        ],
+        "ger_list": [
+            "hat getrunken"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "trügen"
+        ],
+        "ger_list": [
+            "hat getrogen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "tun"
+        ],
+        "ger_list": [
+            "hat getan"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "verbieten"
+        ],
+        "ger_list": [
+            "hat verboten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "verbrechen (verbrichst, verbricht)"
+        ],
+        "ger_list": [
+            "hat verbrochen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "verderben (verdirbst, verdirbt)"
+        ],
+        "ger_list": [
+            "hat verdorben"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "vergessen (vergisst)"
+        ],
+        "ger_list": [
+            "hat vergessen"
+        ],
+        "hardness": 2
+    },
+    {
+        "poleng_list": [
+            "verlieren"
+        ],
+        "ger_list": [
+            "hat verloren"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "verlöschen (verlischst, verlischt)"
+        ],
+        "ger_list": [
+            "ist verloschen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "verraten (verrätst, verrät)"
+        ],
+        "ger_list": [
+            "hat verraten"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "verschleißen"
+        ],
+        "ger_list": [
+            "hat verschlissen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "verstehen"
+        ],
+        "ger_list": [
+            "hat verstanden"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "verwenden"
+        ],
+        "ger_list": [
+            "har vervendet, verwandt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "verzeihen"
+        ],
+        "ger_list": [
+            "ist verziehen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wachsen (wächst)"
+        ],
+        "ger_list": [
+            "ist gewachsen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "waschen (wäschst, wäscht)"
+        ],
+        "ger_list": [
+            "hat gewaschen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "weben"
+        ],
+        "ger_list": [
+            "hat gewoben, gewebt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "weichen"
+        ],
+        "ger_list": [
+            "ist gewichen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "weisen"
+        ],
+        "ger_list": [
+            "hat gewiesen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wenden"
+        ],
+        "ger_list": [
+            "hat gewendet, gewandt"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "werben (wirbst, wirbt)"
+        ],
+        "ger_list": [
+            "hat geworben"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "werden (wirst, wird)"
+        ],
+        "ger_list": [
+            "ist geworden"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "werfen (wirfst, wirft)"
+        ],
+        "ger_list": [
+            "hat geworfen"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wiegen"
+        ],
+        "ger_list": [
+            "hat gewogen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "winden"
+        ],
+        "ger_list": [
+            "hat gewunden"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wissen (weißt)"
+        ],
+        "ger_list": [
+            "hat gewusst"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wollen (willst, will)"
+        ],
+        "ger_list": [
+            "hat gewollt"
+        ],
+        "hardness": 5
+    },
+    {
+        "poleng_list": [
+            "wringen"
+        ],
+        "ger_list": [
+            "hat gewrungen"
+        ],
+        "hardness": 6
+    },
+    {
+        "poleng_list": [
+            "ziehen"
+        ],
+        "ger_list": [
+            "hat/ist gezogen"
+        ],
+        "hardness": 4
+    },
+    {
+        "poleng_list": [
+            "zwingen"
+        ],
+        "ger_list": [
+            "hat gezwungen"
+        ],
+        "hardness": 5
+    }
+]
