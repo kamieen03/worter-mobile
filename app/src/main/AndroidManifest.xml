@@ -23,10 +23,15 @@
             android:theme="@style/Theme.Worter.Fullscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ReviewActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="false"
+            android:label="review"
+            android:theme="@style/Theme.Worter.Fullscreen" />
     </application>
 
 </manifest>

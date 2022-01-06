@@ -2,7 +2,7 @@ package com.worter
 
 import androidx.appcompat.app.AppCompatActivity
 import android.annotation.SuppressLint
-import android.content.Context
+import android.content.Intent
 import android.graphics.Color
 import android.os.Bundle
 import android.widget.Button
@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
         dbManager.printDeviceWorterDbFiles()
 
         fillFileTable()
+        setButtonOnClickListeners()
     }
 
     private fun fillFileTable() {
@@ -64,5 +65,16 @@ class MainActivity : AppCompatActivity() {
             }
         }
         fb.background.setTint(ContextCompat.getColor(this, R.color.Bronze))
+    }
+
+    private fun setButtonOnClickListeners() {
+        button_consecutive.setOnClickListener { startReviewActivity("CONSECUTIVE") }
+        button_random.setOnClickListener { startReviewActivity("RANDOM") }
+    }
+
+    private fun startReviewActivity(mode: String) {
+        val intent = Intent(this, ReviewActivity::class.java)
+        intent.putExtra("mode", mode)
+        startActivity(intent)
     }
 }
