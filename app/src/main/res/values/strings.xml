@@ -6,4 +6,6 @@
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="consecutive">CONSECUTIVE</string>
     <string name="random">RANDOM</string>
+    <string name="hard">Hard</string>
+    <string name="easy">Easy</string>
 </resources>
