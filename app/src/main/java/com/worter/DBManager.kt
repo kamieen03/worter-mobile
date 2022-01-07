@@ -1,8 +1,27 @@
 package com.worter
 
 import android.content.Context
+import kotlinx.serialization.json.*
+import kotlinx.serialization.Serializable
+import java.io.File
+
+@Serializable
+data class RecordModel(val poleng_list: Array<String>,
+                       val ger_list: Array<String>,
+                       var hardness: Int)
+
+    // serializing lists
+    //val jsonList = JSON.stringify(MyModel.serializer().list, listOf(MyModel(42)))
+    //println(jsonList) // [{"a": 42, "b": "42"}]
 
 class DBManager(private val context: Context) {
+
+    fun decodeJsonFile(fileName: String): List<RecordModel> {
+        val jsonString = File(context.filesDir, fileName).readText()
+        val jsonArray = Json.parseToJsonElement(jsonString) as JsonArray
+        return jsonArray.map { Json.decodeFromJsonElement(it) }
+    }
+
     fun copyDbFromAssetsToDevice() {
         for (fName in context.assets.list("worter_db")!!)
         {
@@ -13,6 +32,7 @@ class DBManager(private val context: Context) {
             context.assets.open("worter_db/$fName").copyTo(oStream)
             println("Copied $fName to device")
         }
+        decodeJsonFile("1.json")
     }
 
     fun getFileNames(): List<String> {

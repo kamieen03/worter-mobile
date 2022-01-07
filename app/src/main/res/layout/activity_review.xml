@@ -2,10 +2,11 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/review_activity_main_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:background="@color/cafe_au_lait">
+    android:background="@color/cafe_au_lait"
+    android:orientation="vertical">
 
     <TextView
         android:id="@+id/worter_polish_text"
@@ -13,14 +14,14 @@
         android:layout_height="630dp"
         android:layout_weight="1"
         android:gravity="center"
-        android:textSize="30sp"
-        android:text="polish text" />
+        android:text="polish text"
+        android:textSize="30sp" />
 
     <View
         android:id="@+id/worter_separator"
         android:layout_width="match_parent"
         android:layout_height="1dp"
-        android:background="@android:color/darker_gray"/>
+        android:background="@android:color/darker_gray" />
 
     <TextView
         android:id="@+id/worter_german_text"
@@ -28,40 +29,40 @@
         android:layout_height="700dp"
         android:layout_weight="1"
         android:gravity="center"
-        android:textSize="30sp"
-        android:text="german text" />
+        android:text="german text"
+        android:textSize="30sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight="2"
+        android:layout_marginStart="30dp"
         android:layout_marginTop="30dp"
         android:layout_marginEnd="30dp"
-        android:layout_marginStart="30dp"
+        android:layout_weight="2"
         android:orientation="horizontal">
 
         <Button
             android:id="@+id/wort_easy_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:layout_marginEnd="10dp"
+            android:layout_weight="1"
             android:height="60dp"
+            android:backgroundTint="@color/mint_green"
             android:text="@string/easy"
             android:textColor="@color/black"
-            android:backgroundTint="@color/mint_green"
             tools:ignore="ButtonStyle,NestedWeights" />
 
         <Button
             android:id="@+id/wort_hard_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:layout_marginStart="10dp"
+            android:layout_weight="1"
             android:height="60dp"
+            android:backgroundTint="@color/cinamon_satin"
             android:text="@string/hard"
             android:textColor="@color/black"
-            android:backgroundTint="@color/cinamon_satin"
             tools:ignore="ButtonStyle" />
     </LinearLayout>
 </LinearLayout>
