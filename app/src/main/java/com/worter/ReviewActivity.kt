@@ -2,6 +2,7 @@ package com.worter
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import kotlinx.android.synthetic.main.activity_review.*
 
 class ReviewActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -11,5 +12,7 @@ class ReviewActivity : AppCompatActivity() {
 
         val b = this.intent.extras
         val mode = b!!.getString("mode")
+        val fileName = b.getString("fileName")
     }
 }
+

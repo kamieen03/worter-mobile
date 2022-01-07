@@ -15,7 +15,9 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
-    private val fileNumbers = Array(50) {i -> "$i"}
+    private val dbManager = DBManager(this)
+    private var selectedFile = "1"
+
 
     @SuppressLint("ClickableViewAccessibility")
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -23,11 +25,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         supportActionBar?.hide()
-
-        val dbManager = DBManager(this)
         dbManager.copyDbFromAssetsToDevice()
-        dbManager.printDeviceWorterDbFiles()
-
         fillFileTable()
         setButtonOnClickListeners()
     }
@@ -37,7 +35,7 @@ class MainActivity : AppCompatActivity() {
         val maxCol = 2
         var tr = TableRow(this)
         val firstRow = tr
-        for (fName in fileNumbers) {
+        for (fName in dbManager.getFileNames()) {
             tr.addView(getFileTableButton(fName))
             if (col == maxCol) {
                 file_table.addView(tr)
@@ -65,6 +63,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
         fb.background.setTint(ContextCompat.getColor(this, R.color.Bronze))
+        selectedFile = fb.text as String
     }
 
     private fun setButtonOnClickListeners() {
@@ -75,6 +74,7 @@ class MainActivity : AppCompatActivity() {
     private fun startReviewActivity(mode: String) {
         val intent = Intent(this, ReviewActivity::class.java)
         intent.putExtra("mode", mode)
+        intent.putExtra("fileName", addJson(selectedFile))
         startActivity(intent)
     }
 }

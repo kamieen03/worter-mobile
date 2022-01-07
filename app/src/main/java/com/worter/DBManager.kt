@@ -15,9 +15,16 @@ class DBManager(private val context: Context) {
         }
     }
 
+    fun getFileNames(): List<String> {
+       val list = context.fileList().map { trimJson(it) }
+       val numericFiles =  list.filter { it[0].isDigit() }.sortedBy {it.toInt() }
+       val nonNumericFiles = list.filter { !it[0].isDigit() }
+       return numericFiles + nonNumericFiles
+    }
+
     fun printDeviceWorterDbFiles() {
         println("Worter db on device contents:")
-        for (fName in context.fileList()) {
+        for (fName in getFileNames()) {
             println(fName)
         }
     }
@@ -26,5 +33,13 @@ class DBManager(private val context: Context) {
         val files = context.fileList()
         return fName in files
     }
+}
 
+
+fun trimJson(s: String) : String {
+    return s.dropLast(5)
+}
+
+fun addJson(s: String) : String {
+    return "$s.json"
 }
