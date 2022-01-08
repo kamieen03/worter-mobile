@@ -12,6 +12,7 @@ class ReviewActivity : AppCompatActivity() {
     private lateinit var worterList: List<RecordModel>
     private lateinit var mode: String
     private var idx: Int = 0
+    private var germanTextVisible = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -28,18 +29,25 @@ class ReviewActivity : AppCompatActivity() {
     }
 
     private fun setOnClickListeners() {
-        worter_german_text.setOnClickListener { worter_german_text.setTextColor(Color.DKGRAY) }
+        worter_german_text.setOnClickListener {
+            worter_german_text.setTextColor(worter_polish_text.currentTextColor)
+            germanTextVisible = true
+        }
 
         wort_easy_button.setOnClickListener {
-            if (worterList[idx].hardness > 1) {
-                worterList[idx].hardness--
+            if (germanTextVisible) {
+                if (worterList[idx].hardness > 1) {
+                    worterList[idx].hardness--
+                }
+                showNextRecord()
             }
-            showNextRecord()
         }
 
         wort_hard_button.setOnClickListener {
-            worterList[idx].hardness++
-            showNextRecord()
+            if (germanTextVisible) {
+                worterList[idx].hardness++
+                showNextRecord()
+            }
         }
     }
 
@@ -53,9 +61,10 @@ class ReviewActivity : AppCompatActivity() {
 
     //TODO: add persistent db updating
     private fun showNextRecord() {
-        worter_polish_text.text = worterList[idx].poleng_list[0]
-        worter_german_text.text = worterList[idx].ger_list[0]
+        worter_polish_text.text = worterList[idx].poleng_list.map{"- $it"}.reduce{a, b -> "$a\n$b"}
+        worter_german_text.text = worterList[idx].ger_list.map{"- $it"}.reduce{a, b -> "$a\n$b"}
         worter_german_text.setTextColor(ContextCompat.getColor(this, R.color.cafe_au_lait))
+        germanTextVisible = false
         if (mode == "CONSECUTIVE") {
             idx++ //TODO: show summary when idx goes out of range
         } else {
