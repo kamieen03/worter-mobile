@@ -1,5 +1,6 @@
 package com.worter
 
+import android.annotation.SuppressLint
 import android.graphics.Color
 import android.opengl.Visibility
 import android.os.Bundle
@@ -57,14 +58,19 @@ class ReviewActivity : AppCompatActivity() {
         } else {
             worterList.indices.random()
         }
+        if (mode == "RANDOM") {
+            worter_idx.visibility = View.GONE
+        }
     }
 
     //TODO: add persistent db updating
+    @SuppressLint("SetTextI18n")
     private fun showNextRecord() {
         worter_polish_text.text = worterList[idx].poleng_list.map{"- $it"}.reduce{a, b -> "$a\n$b"}
         worter_german_text.text = worterList[idx].ger_list.map{"- $it"}.reduce{a, b -> "$a\n$b"}
         worter_german_text.setTextColor(ContextCompat.getColor(this, R.color.cafe_au_lait))
         germanTextVisible = false
+        worter_idx.text = "${idx+1}/${worterList.size}"
         if (mode == "CONSECUTIVE") {
             idx++ //TODO: show summary when idx goes out of range
         } else {

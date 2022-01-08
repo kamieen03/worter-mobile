@@ -11,34 +11,43 @@
     <TextView
         android:id="@+id/worter_polish_text"
         android:layout_width="match_parent"
-        android:layout_height="630dp"
-        android:layout_weight="1"
-        android:gravity="center"
+        android:layout_height="244dp"
         android:layout_marginStart="5dp"
         android:layout_marginEnd="5dp"
-        android:text="polish text"
+        android:layout_weight="1"
+        android:gravity="center"
         android:textSize="24sp" />
 
     <View
-        android:id="@+id/worter_separator"
+        android:id="@+id/worter_separator_top"
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:background="@android:color/darker_gray" />
 
+
     <TextView
         android:id="@+id/worter_german_text"
         android:layout_width="match_parent"
-        android:layout_height="700dp"
+        android:layout_height="400dp"
         android:layout_weight="1"
         android:gravity="center"
         android:layout_marginStart="5dp"
         android:layout_marginEnd="5dp"
-        android:text="german text"
         android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/worter_idx"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight="1"
+        android:gravity="right"
+        android:layout_marginEnd="40dp"
+        android:textSize="15sp"
+        tools:ignore="RtlHardcoded" />
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="100dp"
         android:layout_marginStart="30dp"
         android:layout_marginTop="30dp"
         android:layout_marginEnd="30dp"
