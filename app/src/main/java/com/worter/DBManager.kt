@@ -15,8 +15,17 @@ data class RecordModel(val poleng_list: Array<String>,
     //println(jsonList) // [{"a": 42, "b": "42"}]
 
 class DBManager(private val context: Context) {
+    companion object {
+        var db = mutableMapOf<String, List<RecordModel>>()
+    }
 
-    fun decodeJsonFile(fileName: String): List<RecordModel> {
+    fun readDbFromDevice() {
+        for (fName in getFileNames()) {
+            db[fName] = decodeJsonFile(addJson(fName))
+        }
+    }
+
+    private fun decodeJsonFile(fileName: String): List<RecordModel> {
         val jsonString = File(context.filesDir, fileName).readText()
         val jsonArray = Json.parseToJsonElement(jsonString) as JsonArray
         return jsonArray.map { Json.decodeFromJsonElement(it) }
@@ -32,7 +41,11 @@ class DBManager(private val context: Context) {
             context.assets.open("worter_db/$fName").copyTo(oStream)
             println("Copied $fName to device")
         }
-        decodeJsonFile("1.json")
+    }
+
+    private fun fileAlreadyStored(fName: String): Boolean {
+        val files = context.fileList()
+        return fName in files
     }
 
     fun getFileNames(): List<String> {
@@ -42,16 +55,15 @@ class DBManager(private val context: Context) {
        return numericFiles + nonNumericFiles
     }
 
+    fun getHardness(fName: String) : Double {
+        return db[fName]!!.map{it.hardness}.average()
+    }
+
     fun printDeviceWorterDbFiles() {
         println("Worter db on device contents:")
         for (fName in getFileNames()) {
             println(fName)
         }
-    }
-
-    private fun fileAlreadyStored(fName: String): Boolean {
-        val files = context.fileList()
-        return fName in files
     }
 }
 

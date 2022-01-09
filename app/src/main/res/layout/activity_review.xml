@@ -5,7 +5,7 @@
     android:id="@+id/review_activity_main_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/cafe_au_lait"
+    android:background="@color/background"
     android:orientation="vertical">
 
     <TextView
@@ -16,7 +16,9 @@
         android:layout_marginEnd="5dp"
         android:layout_weight="1"
         android:gravity="center"
-        android:textSize="24sp" />
+        android:textColor="@color/black"
+        android:textSize="22sp" />
+
 
     <View
         android:id="@+id/worter_separator_top"
@@ -28,12 +30,25 @@
     <TextView
         android:id="@+id/worter_german_text"
         android:layout_width="match_parent"
-        android:layout_height="400dp"
+        android:layout_height="50dp"
         android:layout_weight="1"
         android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp"
         android:layout_marginStart="5dp"
         android:layout_marginEnd="5dp"
-        android:textSize="24sp" />
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/worter_german_sentences"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_weight="1"
+        android:gravity="left"
+        android:textSize="18sp"
+        tools:ignore="RtlHardcoded" />
 
     <TextView
         android:id="@+id/worter_idx"
@@ -61,7 +76,7 @@
             android:layout_marginEnd="10dp"
             android:layout_weight="1"
             android:height="60dp"
-            android:backgroundTint="@color/mint_green"
+            android:backgroundTint="@color/learned"
             android:text="@string/easy"
             android:textColor="@color/black"
             tools:ignore="ButtonStyle,NestedWeights" />
@@ -73,7 +88,7 @@
             android:layout_marginStart="10dp"
             android:layout_weight="1"
             android:height="60dp"
-            android:backgroundTint="@color/cinamon_satin"
+            android:backgroundTint="@color/not_yet_learned"
             android:text="@string/hard"
             android:textColor="@color/black"
             tools:ignore="ButtonStyle" />

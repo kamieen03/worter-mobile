@@ -19,7 +19,7 @@
     </style>
 
     <style name="ThemeOverlay.Worter.FullscreenContainer" parent="">
-        <item name="fullscreenBackgroundColor">@color/cafe_au_lait </item>
+        <item name="fullscreenBackgroundColor">@color/background </item>
         <item name="fullscreenTextColor">@color/light_blue_A200</item>
     </style>
 </resources>

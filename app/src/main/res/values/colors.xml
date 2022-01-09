@@ -13,14 +13,18 @@
     <color name="light_blue_A200">#FF40C4FF</color>
     <color name="light_blue_A400">#FF00B0FF</color>
     <color name="black_overlay">#66000000</color>
-    <color name="Dark_Sienna">#FF3C1518</color>
-    <color name="Blood_Red">#FF69140E</color>
+    <color name="Dark_Sienna">#4B1C20</color>
+    <color name="Blood_Red">#7C1811</color>
     <color name="Rust">#FFA44200</color>
-    <color name="Bronze">#FFD58936</color>
+    <color name="Bronze">#B35D44</color>
     <color name="dark_purple">#FF27213C</color>
     <color name="caput_mortuum">#FF5A352A</color>
     <color name="chinese_red">#FFA33B20</color>
     <color name="cafe_au_lait">#FFA47963</color>
     <color name="mint_green">#FF85FF9E</color>
     <color name="cinamon_satin">#FFD55672</color>
+    <color name="not_yet_learned">#4D572B</color>
+    <color name="learned">#D88F3C</color>
+    <color name="font">#FF283618</color>
+    <color name="background">#F4C793</color>
 </resources>
