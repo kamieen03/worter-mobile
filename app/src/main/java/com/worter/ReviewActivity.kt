@@ -1,13 +1,12 @@
 package com.worter
 
 import android.annotation.SuppressLint
-import android.graphics.Color
-import android.opengl.Visibility
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import kotlinx.android.synthetic.main.activity_review.*
+import kotlin.random.Random
 
 class ReviewActivity : AppCompatActivity() {
     private lateinit var worterList: List<RecordModel>
@@ -87,8 +86,25 @@ class ReviewActivity : AppCompatActivity() {
         if (mode == "CONSECUTIVE") {
             idx++ //TODO: show summary when idx goes out of range
         } else {
-            idx = worterList.indices.random()
+            idx = getRandomRecordIdx()
         }
+    }
+
+    private fun getRandomRecordIdx() : Int {
+        val hardness2: List<Int> = worterList.map { it.hardness * it.hardness }
+        val weights: List<Float> = hardness2.map { it.toFloat() / hardness2.sum() }
+        var s = weights[0]
+        var idx = 0
+        val r = Random.nextFloat()
+        while (idx < weights.size) {
+            if (r < s) {
+                break
+            } else {
+                idx++
+                s += weights[idx]
+            }
+        }
+        return idx
     }
 }
 
