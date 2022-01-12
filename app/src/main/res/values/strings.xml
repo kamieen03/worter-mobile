@@ -1,9 +1,5 @@
 <resources>
-    <string name="app_name">worter</string>
-    <string name="mein_text">mein gross text</string>
-    <string name="title_activity_temp">temp</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="app_name">Worter</string>
     <string name="consecutive">CONSECUTIVE</string>
     <string name="random">RANDOM</string>
     <string name="hard">Hard</string>
