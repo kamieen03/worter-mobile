@@ -32,6 +32,12 @@
             android:exported="false"
             android:label="review"
             android:theme="@style/Theme.Worter.Fullscreen" />
+        <activity
+            android:name=".ShowFailedWordsActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="false"
+            android:label="showFailedWords"
+            android:theme="@style/Theme.Worter.Fullscreen" />
     </application>
 
 </manifest>

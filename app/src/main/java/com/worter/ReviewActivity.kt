@@ -1,6 +1,7 @@
 package com.worter
 
 import android.annotation.SuppressLint
+import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
@@ -11,8 +12,11 @@ import kotlin.random.Random
 class ReviewActivity : AppCompatActivity() {
     private lateinit var worterList: List<RecordModel>
     private lateinit var mode: String
-    private var idx: Int = 0
+    private var worterListIdx: Int = 0
     private var germanTextVisible = false
+    private var failedWords = mutableListOf<RecordModel>()
+    private var wortHardButtonBlocked = false
+    private var wortEasyButtonBlocked = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -42,24 +46,27 @@ class ReviewActivity : AppCompatActivity() {
         }
 
         wort_easy_button.setOnClickListener {
-            if (germanTextVisible) {
-                if (worterList[idx].hardness > 1) {
-                    worterList[idx].hardness--
+            if (germanTextVisible and !wortEasyButtonBlocked) {
+                wortEasyButtonBlocked = true
+                if (worterList[worterListIdx].hardness > 1) {
+                    worterList[worterListIdx].hardness--
                 }
                 showNextRecord()
             }
         }
         wort_hard_button.setOnClickListener {
-            if (germanTextVisible) {
-                worterList[idx].hardness++
+            if (germanTextVisible and !wortHardButtonBlocked) {
+                wortHardButtonBlocked = true
+                worterList[worterListIdx].hardness++
+                failedWords.add(worterList[worterListIdx])
                 showNextRecord()
             }
         }
     }
 
     private fun initIdx() {
-        idx = if (mode == "CONSECUTIVE") {
-            0
+        worterListIdx = if (mode == "CONSECUTIVE") {
+            -1
         } else {
             worterList.indices.random()
         }
@@ -68,25 +75,37 @@ class ReviewActivity : AppCompatActivity() {
         }
     }
 
-    //TODO: add persistent db updating
-    @SuppressLint("SetTextI18n")
-    private fun showNextRecord() {
-        worter_polish_text.text = worterList[idx].poleng_list.reduce{a, b -> "$a\n$b"}
-        worter_german_text.text = worterList[idx].ger_list[0]
-        if (worterList[idx].ger_list.size > 1) {
-            worter_german_sentences.text =
-                worterList[idx].ger_list.drop(1).map { "- $it" }.reduce { a, b -> "$a\n$b" }
+    private fun updateWorterListIdx() {
+        if (mode == "CONSECUTIVE") {
+            worterListIdx++
+        } else {
+            worterListIdx = getRandomRecordIdx()
         }
-        worter_idx.text = "${idx+1}/${worterList.size}"
+    }
 
+    @SuppressLint("SetTextI18n")
+    private fun updateTexts() {
+        worter_polish_text.text = worterList[worterListIdx].poleng_list.reduce{ a, b -> "$a\n$b"}
+        worter_german_text.text = worterList[worterListIdx].ger_list[0]
+        if (worterList[worterListIdx].ger_list.size > 1) {
+            worter_german_sentences.text =
+                worterList[worterListIdx].ger_list.drop(1).map { "- $it" }.reduce { a, b -> "$a\n$b" }
+        }
+        worter_idx.text = "${worterListIdx+1}/${worterList.size}"
         worter_german_text.setTextColor(ContextCompat.getColor(this, R.color.background))
         worter_german_sentences.setTextColor(ContextCompat.getColor(this, R.color.background))
-        germanTextVisible = false
+    }
 
-        if (mode == "CONSECUTIVE") {
-            idx++ //TODO: show summary when idx goes out of range
+    //TODO: add persistent db updating
+    private fun showNextRecord() {
+        updateWorterListIdx()
+        if (worterListIdx == worterList.size) {
+            showFailedWords()
         } else {
-            idx = getRandomRecordIdx()
+            updateTexts()
+            germanTextVisible = false
+            wortHardButtonBlocked = false
+            wortEasyButtonBlocked = false
         }
     }
 
@@ -105,6 +124,12 @@ class ReviewActivity : AppCompatActivity() {
             }
         }
         return idx
+    }
+
+    private fun showFailedWords() {
+        val intent = Intent(this, ShowFailedWordsActivity::class.java)
+        intent.putExtra("failedWordsList", failedWords as ArrayList<RecordModel>)
+        startActivity(intent)
     }
 }
 

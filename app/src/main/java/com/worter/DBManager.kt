@@ -4,11 +4,12 @@ import android.content.Context
 import kotlinx.serialization.json.*
 import kotlinx.serialization.Serializable
 import java.io.File
+import java.io.Serializable as javaSerializable
 
 @Serializable
 data class RecordModel(val poleng_list: Array<String>,
                        val ger_list: Array<String>,
-                       var hardness: Int)
+                       var hardness: Int) : javaSerializable
 
     // serializing lists
     //val jsonList = JSON.stringify(MyModel.serializer().list, listOf(MyModel(42)))
