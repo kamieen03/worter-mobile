@@ -3,6 +3,7 @@ package com.worter
 import androidx.appcompat.app.AppCompatActivity
 import android.annotation.SuppressLint
 import android.content.Intent
+import android.graphics.Color
 import android.graphics.LinearGradient
 import android.graphics.drawable.PaintDrawable
 import android.os.Bundle
@@ -17,6 +18,14 @@ import android.graphics.drawable.shapes.RectShape
 import android.graphics.Shader
 import android.graphics.drawable.ShapeDrawable.ShaderFactory
 import kotlin.math.min
+import android.text.Spannable
+import android.text.SpannableString
+
+import android.text.style.SuperscriptSpan
+
+import android.text.SpannableStringBuilder
+import android.text.style.ForegroundColorSpan
+import android.text.style.RelativeSizeSpan
 
 
 class MainActivity : AppCompatActivity() {
@@ -24,7 +33,7 @@ class MainActivity : AppCompatActivity() {
     private val dbManager = DBManager(this)
     private var selectedFile = "1"
 
-
+//TODO: refresh hardness indicators and gradients when going back from another view
     @SuppressLint("ClickableViewAccessibility")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -48,11 +57,26 @@ class MainActivity : AppCompatActivity() {
 
     private fun getFileListButton(name: String): Button {
         val fb = Button(this)
-        fb.text = name
+        fb.text = fileNameToButtonText(name)
         fb.textSize = 20f
         fb.setTextColor(ContextCompat.getColor(this, R.color.font))
         fb.setOnClickListener { fileTableButtonOnClickListener(fb)}
         return fb
+    }
+
+    private fun fileNameToButtonText(name: String): SpannableString {
+        val hardness = "%.2f".format(dbManager.getHardness(name)).replace(',', '.')
+        val space1 = " ".repeat(26 - name.length)
+        val space2 = " ".repeat(20 - name.length)
+        val cs = SpannableString("$space1$name$space2$hardness")
+        val start = cs.length - 4
+        cs.setSpan(RelativeSizeSpan(0.6f), start, cs.length, Spannable.SPAN_INCLUSIVE_INCLUSIVE)
+        cs.setSpan(ForegroundColorSpan(Color.DKGRAY), start, cs.length, Spannable.SPAN_INCLUSIVE_INCLUSIVE)
+        return cs
+    }
+
+    private fun buttonTextToFileName(buttonText: String): String {
+        return buttonText.trimStart().split(" ")[0]
     }
 
     private fun setFbMargin(fb: Button) {
@@ -63,10 +87,10 @@ class MainActivity : AppCompatActivity() {
 
     private fun fileTableButtonOnClickListener(fb: Button) {
         file_list.children.forEach { it as Button
-            it.background = getFileButtonGradient(it.text as String)
+            it.background = getFileButtonGradient(buttonTextToFileName(it.text.toString()))
         }
         fb.setBackgroundResource(R.drawable.active_fb)
-        selectedFile = fb.text as String
+        selectedFile = buttonTextToFileName(fb.text.toString())
     }
 
     private fun getFileButtonGradient(fName: String): PaintDrawable {

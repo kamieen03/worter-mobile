@@ -4,6 +4,7 @@ import android.content.Context
 import kotlinx.serialization.json.*
 import kotlinx.serialization.Serializable
 import java.io.File
+import java.lang.Exception
 import java.io.Serializable as javaSerializable
 
 @Serializable
@@ -57,7 +58,7 @@ class DBManager(private val context: Context) {
     }
 
     fun getHardness(fName: String) : Double {
-        return db[fName]!!.map{it.hardness}.average()
+        return db[fName]!!.map { it.hardness }.average()
     }
 
     fun printDeviceWorterDbFiles() {
