@@ -25,12 +25,16 @@ class ReviewActivity : AppCompatActivity() {
 
         val b = this.intent.extras
         mode = b!!.getString("mode")!!
-        val fileName = b.getString("fileName")
-        println(fileName)
-        worterList = DBManager.db[fileName]!!
+        val fileName = b.getString("fileName")!!
+        worterList = DBManager.getFile(fileName)!!
         setOnClickListeners()
         initIdx()
         showNextRecord()
+    }
+
+    override fun onPause() {
+        super.onPause()
+        DBManager.saveDb()
     }
 
     private fun setOnClickListeners() {
