@@ -5,4 +5,7 @@
     <string name="hard">Hard</string>
     <string name="easy">Easy</string>
     <string name="back_to_menu">BACK TO MENU</string>
+    <string name="review">REVIEW</string>
+    <string name="all_words">ALL WORDS</string>
+    <string name="select">SELECT</string>
 </resources>

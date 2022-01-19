@@ -10,23 +10,24 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.get
 import androidx.core.view.updateLayoutParams
-import kotlinx.android.synthetic.main.activity_show_failed_words.*
+import kotlinx.android.synthetic.main.activity_all_words_list.*
 
-class ShowFailedWordsActivity : AppCompatActivity() {
+class AllWordsListActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_show_failed_words)
+        setContentView(R.layout.activity_all_words_list)
         supportActionBar?.hide()
 
-        val failedWordsList = intent.getSerializableExtra("failedWordsList") as ArrayList<RecordModel>
-        fillList(failedWordsList)
-        failed_words_back_to_menu_button.setOnClickListener { goToMainMenu() }
+        val fileName = this.intent.extras!!.getString("fileName")!!
+        val allWordsList = DBManager.getFile(fileName)!!
+        fillList(allWordsList)
+        all_words_back_to_menu_button.setOnClickListener { goToMainMenu() }
     }
 
-    private fun fillList(failedWordsList : List<RecordModel>) {
-        for (record in failedWordsList.reversed()) {
+    private fun fillList(allWordsList : List<RecordModel>) {
+        for (record in allWordsList.reversed()) {
             val row = recordToTableRow(record)
-            failed_words_table.addView(row, 0)
+            all_words_table.addView(row, 0)
             setWidths(row)
         }
     }

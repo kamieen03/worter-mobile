@@ -1,6 +1,5 @@
 package com.worter
 
-import android.annotation.SuppressLint
 import android.content.Intent
 import android.graphics.Color
 import android.graphics.LinearGradient
@@ -19,23 +18,18 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.core.view.children
 import androidx.core.view.get
-import com.worter.databinding.ActivityMainBinding
-import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.activity_review_menu.*
 import kotlin.math.min
 
 
-class MainActivity : AppCompatActivity() {
-    private lateinit var binding: ActivityMainBinding
+class ReviewMenuActivity : AppCompatActivity() {
     private var selectedFile = "1"
 
-    @SuppressLint("ClickableViewAccessibility")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityMainBinding.inflate(layoutInflater)
-        setContentView(binding.root)
+        setContentView(R.layout.activity_review_menu)
         supportActionBar?.hide()
         setButtonOnClickListeners()
-        DBManager.setContext(this)
     }
 
     override fun onStart() {

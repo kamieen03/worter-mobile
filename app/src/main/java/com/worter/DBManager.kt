@@ -60,6 +60,9 @@ object DBManager {
 
     private fun readDbFromDevice() {
         for (fName in getFileNames()) {
+            if (db.contains(fName)) {
+                continue
+            }
             db[fName] = decodeJsonFile(addJson(fName))
         }
     }
