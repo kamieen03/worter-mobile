@@ -94,6 +94,8 @@ class ReviewActivity : AppCompatActivity() {
         if (worterList[worterListIdx].ger_list.size > 1) {
             worter_german_sentences.text =
                 worterList[worterListIdx].ger_list.drop(1).map { "- $it" }.reduce { a, b -> "$a\n$b" }
+        } else {
+            worter_german_sentences.text = ""
         }
         worter_idx.text = "${worterListIdx+1}/${worterList.size}"
         worter_german_text.setTextColor(ContextCompat.getColor(this, R.color.background))
