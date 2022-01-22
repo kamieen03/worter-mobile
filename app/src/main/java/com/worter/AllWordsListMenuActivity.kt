@@ -1,6 +1,8 @@
 package com.worter
 
 import android.content.Intent
+import android.graphics.drawable.PaintDrawable
+import android.graphics.drawable.shapes.RectShape
 import android.os.Bundle
 import android.view.ViewGroup
 import android.widget.Button
@@ -9,6 +11,8 @@ import androidx.core.content.ContextCompat
 import androidx.core.view.children
 import androidx.core.view.get
 import kotlinx.android.synthetic.main.activity_all_words_list_menu.*
+import kotlinx.android.synthetic.main.activity_all_words_list_menu.file_list
+import kotlinx.android.synthetic.main.activity_review_menu.*
 
 class AllWordsListMenuActivity : AppCompatActivity() {
     private var selectedFile = "1"
@@ -30,12 +34,10 @@ class AllWordsListMenuActivity : AppCompatActivity() {
         (file_list[0] as Button).callOnClick()
     }
 
-    //TODO: styling of file list buttons
     private fun getFileListButton(name: String): Button {
         val fb = Button(this)
         fb.text = name
         fb.textSize = 20f
-        fb.height = 30
         fb.setTextColor(ContextCompat.getColor(this, R.color.font))
         fb.setOnClickListener { fileTableButtonOnClickListener(fb)}
         return fb
@@ -49,10 +51,18 @@ class AllWordsListMenuActivity : AppCompatActivity() {
 
     private fun fileTableButtonOnClickListener(fb: Button) {
         file_list.children.forEach { it as Button
-            it.background.setTint(ContextCompat.getColor(this, R.color.learned))
+            it.background = getFileButtonShape()
         }
         fb.background.setTint(ContextCompat.getColor(this, R.color.Bronze))
         selectedFile = fb.text.toString()
+    }
+
+    private fun getFileButtonShape(): PaintDrawable {
+        val pd = PaintDrawable()
+        pd.shape = RectShape()
+        pd.setCornerRadius(25f)
+        pd.setTint(ContextCompat.getColor(this, R.color.learned))
+        return pd
     }
 
     private fun startAllWordsListActivity() {

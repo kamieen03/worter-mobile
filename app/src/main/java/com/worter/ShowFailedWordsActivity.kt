@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.view.Gravity
 import android.view.ViewGroup
 import android.widget.FrameLayout
+import android.widget.TableRow
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.get
@@ -31,8 +32,8 @@ class ShowFailedWordsActivity : AppCompatActivity() {
         }
     }
 
-    private fun recordToTableRow(record : RecordModel) : FrameLayout {
-        val tr = FrameLayout(this)
+    private fun recordToTableRow(record : RecordModel) : TableRow {
+        val tr = TableRow(this)
         val polishText = TextView(this)
         tr.addView(polishText)
         val germanText = TextView(this)
@@ -47,7 +48,7 @@ class ShowFailedWordsActivity : AppCompatActivity() {
         return tr
     }
 
-    private fun setWidths(row : FrameLayout) {
+    private fun setWidths(row : TableRow) {
         row.updateLayoutParams {
             width = 1000
         }
@@ -56,12 +57,13 @@ class ShowFailedWordsActivity : AppCompatActivity() {
         row.layoutParams = marginParam
 
         val polishText = row[0] as TextView
-        polishText.updateLayoutParams { width = 400 }
+        polishText.updateLayoutParams { width = 450 }
         polishText.gravity = Gravity.LEFT
 
         val germanText = row[1] as TextView
-        germanText.updateLayoutParams { width = 950 }
+        germanText.updateLayoutParams { width = 450}
         germanText.gravity = Gravity.RIGHT
+
     }
 
     private fun goToMainMenu() {
