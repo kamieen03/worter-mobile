@@ -133,7 +133,7 @@ class ReviewActivity : AppCompatActivity() {
     }
 
     private fun showFailedWords() {
-        val intent = Intent(this, ShowFailedWordsActivity::class.java)
+        val intent = Intent(this, WordListActivity::class.java)
         intent.putExtra("failedWordsList", failedWords as ArrayList<RecordModel>)
         startActivity(intent)
     }

@@ -16,13 +16,13 @@
 
         <LinearLayout
             android:orientation="vertical"
-            android:id="@+id/all_words_table"
+            android:id="@+id/word_list_table"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
     </ScrollView>
 
     <Button
-        android:id="@+id/all_words_back_to_menu_button"
+        android:id="@+id/word_list_back_to_menu_button"
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:text="@string/back_to_menu"

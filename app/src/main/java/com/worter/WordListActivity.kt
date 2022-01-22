@@ -12,17 +12,22 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.core.view.get
 import androidx.core.view.updateLayoutParams
-import kotlinx.android.synthetic.main.activity_show_failed_words.*
+import kotlinx.android.synthetic.main.activity_word_list.*
 
-class ShowFailedWordsActivity : AppCompatActivity() {
+class WordListActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_show_failed_words)
+        setContentView(R.layout.activity_word_list)
         supportActionBar?.hide()
 
-        var failedWordsList = intent.getSerializableExtra("failedWordsList") as ArrayList<RecordModel>
-        fillList(failedWordsList)
-        failed_words_back_to_menu_button.setOnClickListener { goToMainMenu() }
+        val fileName = this.intent.extras!!.getString("fileName")
+        var wordList = if (fileName != null) {
+            DBManager.getFile(fileName)!!
+        } else {
+            intent.getSerializableExtra("failedWordsList") as ArrayList<RecordModel>
+        }
+        fillList(wordList)
+        word_list_back_to_menu_button.setOnClickListener { goToMainMenu() }
     }
 
     override fun onPause() {
@@ -30,14 +35,13 @@ class ShowFailedWordsActivity : AppCompatActivity() {
         DBManager.saveDb()
     }
 
-    private fun fillList(failedWordsList : List<RecordModel>) {
-        for (record in failedWordsList.reversed()) {
+    private fun fillList(allWordsList : List<RecordModel>) {
+        for (record in allWordsList.reversed()) {
             val row = recordToTableRow(record)
-            failed_words_table.addView(row, 0)
+            word_list_table.addView(row, 0)
             colorRow(row, record.show_as_red_in_word_list)
             setWidths(row)
             row.setOnClickListener { switchRecordColor(row, record) }
-
         }
     }
 
@@ -72,7 +76,6 @@ class ShowFailedWordsActivity : AppCompatActivity() {
         val germanText = row[1] as TextView
         germanText.updateLayoutParams { width = 450}
         germanText.gravity = Gravity.RIGHT
-
     }
 
     private fun colorRow(row: TableRow, shouldColorRed: Boolean) {

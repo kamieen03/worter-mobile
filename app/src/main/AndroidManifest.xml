@@ -39,7 +39,7 @@
             android:label="showFailedWords"
             android:theme="@style/Theme.Worter.Fullscreen" />
         <activity
-            android:name=".AllWordsListActivity"
+            android:name=".WordListActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="false"
             android:label="allWordsList"

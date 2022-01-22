@@ -12,7 +12,6 @@ import androidx.core.view.children
 import androidx.core.view.get
 import kotlinx.android.synthetic.main.activity_all_words_list_menu.*
 import kotlinx.android.synthetic.main.activity_all_words_list_menu.file_list
-import kotlinx.android.synthetic.main.activity_review_menu.*
 
 class AllWordsListMenuActivity : AppCompatActivity() {
     private var selectedFile = "1"
@@ -66,7 +65,7 @@ class AllWordsListMenuActivity : AppCompatActivity() {
     }
 
     private fun startAllWordsListActivity() {
-        val intent = Intent(this, AllWordsListActivity::class.java)
+        val intent = Intent(this, WordListActivity::class.java)
         intent.putExtra("fileName", selectedFile)
         startActivity(intent)
     }
