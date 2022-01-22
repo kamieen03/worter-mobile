@@ -11,7 +11,8 @@ import java.io.Serializable as javaSerializable
 @Serializable
 data class RecordModel(val poleng_list: Array<String>,
                        val ger_list: Array<String>,
-                       var hardness: Int) : javaSerializable
+                       var hardness: Int,
+                       var show_as_red_in_word_list: Boolean = false) : javaSerializable
 
 
 object DBManager {

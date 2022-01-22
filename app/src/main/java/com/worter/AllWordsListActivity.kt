@@ -25,16 +25,23 @@ class AllWordsListActivity : AppCompatActivity() {
         supportActionBar?.hide()
 
         val fileName = this.intent.extras!!.getString("fileName")!!
-        val allWordsList = DBManager.getFile(fileName)!!
+        var allWordsList = DBManager.getFile(fileName)!!
         fillList(allWordsList)
         all_words_back_to_menu_button.setOnClickListener { goToMainMenu() }
+    }
+
+    override fun onPause() {
+        super.onPause()
+        DBManager.saveDb()
     }
 
     private fun fillList(allWordsList : List<RecordModel>) {
         for (record in allWordsList.reversed()) {
             val row = recordToTableRow(record)
             all_words_table.addView(row, 0)
+            colorRow(row, record.show_as_red_in_word_list)
             setWidths(row)
+            row.setOnClickListener { switchRecordColor(row, record) }
         }
     }
 
@@ -69,6 +76,17 @@ class AllWordsListActivity : AppCompatActivity() {
         val germanText = row[1] as TextView
         germanText.updateLayoutParams { width = 450}
         germanText.gravity = Gravity.RIGHT
+    }
+
+    private fun colorRow(row: TableRow, shouldColorRed: Boolean) {
+        val color = if (shouldColorRed) ContextCompat.getColor(this, R.color.cinamon_satin) else Color.BLACK
+        (row[0] as TextView).setTextColor(color)
+        (row[1] as TextView).setTextColor(color)
+    }
+
+    private fun switchRecordColor(row: TableRow, record: RecordModel) {
+        record.show_as_red_in_word_list = !record.show_as_red_in_word_list
+        colorRow(row, record.show_as_red_in_word_list)
     }
 
     private fun goToMainMenu() {

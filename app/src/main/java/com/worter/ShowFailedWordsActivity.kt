@@ -1,14 +1,15 @@
 package com.worter
 
 import android.content.Intent
+import android.graphics.Color
 import android.graphics.Typeface
 import android.os.Bundle
 import android.view.Gravity
 import android.view.ViewGroup
-import android.widget.FrameLayout
 import android.widget.TableRow
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat
 import androidx.core.view.get
 import androidx.core.view.updateLayoutParams
 import kotlinx.android.synthetic.main.activity_show_failed_words.*
@@ -19,16 +20,24 @@ class ShowFailedWordsActivity : AppCompatActivity() {
         setContentView(R.layout.activity_show_failed_words)
         supportActionBar?.hide()
 
-        val failedWordsList = intent.getSerializableExtra("failedWordsList") as ArrayList<RecordModel>
+        var failedWordsList = intent.getSerializableExtra("failedWordsList") as ArrayList<RecordModel>
         fillList(failedWordsList)
         failed_words_back_to_menu_button.setOnClickListener { goToMainMenu() }
+    }
+
+    override fun onPause() {
+        super.onPause()
+        DBManager.saveDb()
     }
 
     private fun fillList(failedWordsList : List<RecordModel>) {
         for (record in failedWordsList.reversed()) {
             val row = recordToTableRow(record)
             failed_words_table.addView(row, 0)
+            colorRow(row, record.show_as_red_in_word_list)
             setWidths(row)
+            row.setOnClickListener { switchRecordColor(row, record) }
+
         }
     }
 
@@ -64,6 +73,17 @@ class ShowFailedWordsActivity : AppCompatActivity() {
         germanText.updateLayoutParams { width = 450}
         germanText.gravity = Gravity.RIGHT
 
+    }
+
+    private fun colorRow(row: TableRow, shouldColorRed: Boolean) {
+        val color = if (shouldColorRed) ContextCompat.getColor(this, R.color.cinamon_satin) else Color.BLACK
+        (row[0] as TextView).setTextColor(color)
+        (row[1] as TextView).setTextColor(color)
+    }
+
+    private fun switchRecordColor(row: TableRow, record: RecordModel) {
+        record.show_as_red_in_word_list = !record.show_as_red_in_word_list
+        colorRow(row, record.show_as_red_in_word_list)
     }
 
     private fun goToMainMenu() {
