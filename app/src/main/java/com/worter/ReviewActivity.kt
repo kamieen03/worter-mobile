@@ -26,7 +26,7 @@ class ReviewActivity : AppCompatActivity() {
         val b = this.intent.extras
         mode = b!!.getString("mode")!!
         val fileName = b.getString("fileName")!!
-        worterList = DBManager.getFile(fileName)!!
+        worterList = DBManager.getFile(fileName)!!.toMutableList().shuffled()
         setOnClickListeners()
         initIdx()
         showNextRecord()
