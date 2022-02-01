@@ -17,6 +17,7 @@ class ReviewActivity : AppCompatActivity() {
     private var failedWords = mutableListOf<RecordModel>()
     private var wortHardButtonBlocked = false
     private var wortEasyButtonBlocked = false
+    private lateinit var fileName: String
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -25,7 +26,7 @@ class ReviewActivity : AppCompatActivity() {
 
         val b = this.intent.extras
         mode = b!!.getString("mode")!!
-        val fileName = b.getString("fileName")!!
+        fileName = b.getString("fileName")!!
         worterList = DBManager.getFile(fileName)!!.toMutableList().shuffled()
         setOnClickListeners()
         initIdx()
@@ -102,7 +103,6 @@ class ReviewActivity : AppCompatActivity() {
         worter_german_sentences.setTextColor(ContextCompat.getColor(this, R.color.background))
     }
 
-    //TODO: add persistent db updating
     private fun showNextRecord() {
         updateWorterListIdx()
         if (worterListIdx == worterList.size) {
@@ -135,6 +135,7 @@ class ReviewActivity : AppCompatActivity() {
     private fun showFailedWords() {
         val intent = Intent(this, WordListActivity::class.java)
         intent.putExtra("failedWordsList", failedWords as ArrayList<RecordModel>)
+        intent.putExtra("fileName", fileName)
         startActivity(intent)
     }
 }

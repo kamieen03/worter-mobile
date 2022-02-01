@@ -20,13 +20,14 @@ class WordListActivity : AppCompatActivity() {
         setContentView(R.layout.activity_word_list)
         supportActionBar?.hide()
 
-        val fileName = this.intent.extras!!.getString("fileName")
-        var wordList = if (fileName != null) {
-            DBManager.getFile(fileName)!!
-        } else {
+        val fileName = this.intent.extras!!.getString("fileName")!!
+        var wordList = DBManager.getFile(fileName)!!
+        val showList = if (intent.getSerializableExtra("failedWordsList") != null) {
             intent.getSerializableExtra("failedWordsList") as ArrayList<RecordModel>
+        } else {
+            wordList
         }
-        fillList(wordList)
+        fillList(wordList, showList)
         word_list_back_to_menu_button.setOnClickListener { goToMainMenu() }
     }
 
@@ -35,8 +36,15 @@ class WordListActivity : AppCompatActivity() {
         DBManager.saveDb()
     }
 
-    private fun fillList(allWordsList : List<RecordModel>) {
+    private fun fillList(allWordsList : List<RecordModel>, showList: List<RecordModel>) {
+        showList.forEach(::println)
         for (record in allWordsList.reversed()) {
+            var show = false
+            for (tempRecord in showList) {
+                if (tempRecord.poleng_list.contentEquals(record.poleng_list)) show = true
+            }
+            if (!show) continue
+
             val row = recordToTableRow(record)
             word_list_table.addView(row, 0)
             colorRow(row, record.show_as_red_in_word_list)
