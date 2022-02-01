@@ -2,6 +2,7 @@ package com.worter
 
 import android.annotation.SuppressLint
 import android.content.Intent
+import android.graphics.Color
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
@@ -78,6 +79,7 @@ class ReviewActivity : AppCompatActivity() {
         if (mode == "RANDOM") {
             worter_idx.visibility = View.GONE
         }
+        worter_idx.setTextColor(Color.DKGRAY)
     }
 
     private fun updateWorterListIdx() {
