@@ -50,6 +50,18 @@
             android:exported="false"
             android:label="allWordsListMenu"
             android:theme="@style/Theme.Worter.Fullscreen" />
+        <activity
+            android:name=".TextsActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="false"
+            android:label="review"
+            android:theme="@style/Theme.Worter.Fullscreen" />
+        <activity
+            android:name=".TextsMenuActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="false"
+            android:label="review_menu"
+            android:theme="@style/Theme.Worter.Fullscreen" />
     </application>
 
 </manifest>

@@ -8,4 +8,7 @@
     <string name="review">REVIEW</string>
     <string name="all_words">ALL WORDS</string>
     <string name="select">SELECT</string>
+    <string name="texts">TEXTS</string>
+    <string name="mark_as_read">MARK AS READ</string>
+    <string name="text_unread">MARK TEXT AS UNREAD</string>
 </resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <ScrollView
+            android:id="@+id/texts_list_scroller"
+            android:scrollbars="none"
+            android:layout_width="match_parent"
+            android:layout_height="640dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp">
+
+            <LinearLayout
+                android:id="@+id/texts_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"/>
+        </ScrollView>
+
+        <Button
+            android:id="@+id/button_select_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:height="60dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/select"
+            android:backgroundTint="@color/Blood_Red"
+            tools:ignore="ButtonStyle" />
+    </LinearLayout>
+</FrameLayout>

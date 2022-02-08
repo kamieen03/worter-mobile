@@ -19,6 +19,7 @@ class MainMenuActivity : AppCompatActivity() {
         DBManager.setContext(this)
         button_review_menu.setOnClickListener { runReviewMenuActivity() }
         button_all_words_list_menu.setOnClickListener { runAllWordsListActivity() }
+        button_texts_menu.setOnClickListener { runTextsMenuActivity() }
     }
 
     private fun runReviewMenuActivity() {
@@ -31,4 +32,8 @@ class MainMenuActivity : AppCompatActivity() {
         startActivity(intent)
     }
 
+    private fun runTextsMenuActivity() {
+        val intent = Intent(this, TextsMenuActivity::class.java)
+        startActivity(intent)
+    }
 }

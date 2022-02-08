@@ -3,6 +3,7 @@ package com.worter
 import android.content.Context
 import kotlinx.serialization.json.*
 import kotlinx.serialization.Serializable
+import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.encodeToString
 import java.io.File
 import java.lang.ref.WeakReference
@@ -17,12 +18,16 @@ data class RecordModel(val poleng_list: Array<String>,
 
 object DBManager {
     private var db = mutableMapOf<String, List<RecordModel>>()
+    private var readTexts = mutableMapOf<String, Boolean>()
     private lateinit var context: WeakReference<Context>
+    private lateinit var textsDir: File
 
     fun setContext(ctx: Context) {
         context = WeakReference(ctx)
+        textsDir = File(context.get()!!.filesDir, "text")
         copyDbFromAssetsToDevice()
         readDbFromDevice()
+        readReadTexts()
     }
 
     fun getFile(fileName: String) : List<RecordModel>? {
@@ -36,10 +41,12 @@ object DBManager {
         }
     }
 
-    fun getFileNames(): List<String> {
-        val list = context.get()!!.fileList().map { trimJson(it) }
-        val numericFiles =  list.filter { it[0].isDigit() }.sortedBy {it.toInt() }
-        val nonNumericFiles = list.filter { !it[0].isDigit() }
+    fun getWordsFileNames(): List<String> {
+        val worterFileList = context.get()!!.fileList()
+                                            .filter{it != "text"}
+                                            .map { trimJson(it) }
+        val numericFiles =  worterFileList.filter { it[0].isDigit() }.sortedBy {it.toInt() }
+        val nonNumericFiles = worterFileList.filter { !it[0].isDigit() }
         return numericFiles + nonNumericFiles
     }
 
@@ -60,7 +67,7 @@ object DBManager {
     }
 
     private fun readDbFromDevice() {
-        for (fName in getFileNames()) {
+        for (fName in getWordsFileNames()) {
             if (db.contains(fName)) {
                 continue
             }
@@ -78,6 +85,50 @@ object DBManager {
         val files = context.get()!!.fileList()
         return fName in files
     }
+
+
+    @Serializable
+    data class ReadTextsModel(val map: Map<String, Boolean>)
+
+    fun getTextsFileNames(): List<String> {
+        return textsDir.list()
+                       .filter{it != "read_texts.json"}
+                       .map{trimTxt(it)}
+                       .sortedBy { it.toInt() }
+    }
+
+    private fun readReadTexts() {
+        if (!textsDir.list().contains("read_texts.json")) {
+            saveReadTexts()
+        }
+        readTexts = run {
+            val jsonString = File(textsDir, "read_texts.json").readText()
+            Json.decodeFromString<ReadTextsModel>(jsonString).map.toMutableMap()
+        }
+        val textsList = getTextsFileNames()
+        for (textName in textsList) {
+            if (!readTexts.containsKey(textName)) {
+                readTexts[textName] = false
+            }
+        }
+    }
+
+    fun getText(textName: String) : String {
+        return File(textsDir, addTxt(textName)).readText()
+    }
+
+    fun isTextRead(textName: String) : Boolean {
+        return readTexts[textName]!!
+    }
+
+    fun flipTextRead(textName: String) {
+        readTexts[textName] = !readTexts[textName]!!
+    }
+
+    fun saveReadTexts() {
+        val jsonString = Json.encodeToString(ReadTextsModel(readTexts))
+        File(textsDir, "read_texts.json").writeText(jsonString)
+    }
 }
 
 fun trimJson(s: String) : String {
@@ -87,3 +138,12 @@ fun trimJson(s: String) : String {
 fun addJson(s: String) : String {
     return "$s.json"
 }
+
+fun trimTxt(s: String) : String {
+    return s.dropLast(4)
+}
+
+fun addTxt(s: String) : String {
+    return "$s.txt"
+}
+

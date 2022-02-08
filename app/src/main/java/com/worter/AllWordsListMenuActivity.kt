@@ -25,7 +25,7 @@ class AllWordsListMenuActivity : AppCompatActivity() {
     }
 
     private fun fillFileList() {
-        for (fName in DBManager.getFileNames()) {
+        for (fName in DBManager.getWordsFileNames()) {
             val fb = getFileListButton(fName)
             file_list.addView(fb)
             setFbMargin(fb)
