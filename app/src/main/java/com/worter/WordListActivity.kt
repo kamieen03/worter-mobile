@@ -37,7 +37,6 @@ class WordListActivity : AppCompatActivity() {
     }
 
     private fun fillList(allWordsList : List<RecordModel>, showList: List<RecordModel>) {
-        showList.forEach(::println)
         for (record in allWordsList.reversed()) {
             var show = false
             for (tempRecord in showList) {
