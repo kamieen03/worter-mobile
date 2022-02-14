@@ -59,7 +59,11 @@ class WordListActivity : AppCompatActivity() {
         val germanText = TextView(this)
         tr.addView(germanText)
 
-        polishText.text = record.poleng_list[0]
+        polishText.text = if (record.poleng_list.size > 1){
+            record.poleng_list.drop(1).joinToString()
+        } else {
+            record.poleng_list[0]
+        }
         polishText.textSize = 20f
         polishText.setTypeface(null, Typeface.BOLD)
 
