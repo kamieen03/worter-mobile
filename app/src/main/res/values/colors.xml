@@ -27,4 +27,5 @@
     <color name="learned">#D88F3C</color>
     <color name="font">#FF283618</color>
     <color name="background">#F4C793</color>
+    <color name="dirty_white">#C0FFFFFF</color>
 </resources>

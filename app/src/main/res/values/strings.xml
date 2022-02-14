@@ -11,4 +11,5 @@
     <string name="texts">TEXTS</string>
     <string name="mark_as_read">MARK AS READ</string>
     <string name="text_unread">MARK TEXT AS UNREAD</string>
+    <string name="add_word">ADD WORD</string>
 </resources>

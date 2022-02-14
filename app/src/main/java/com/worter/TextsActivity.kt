@@ -8,13 +8,22 @@ import android.text.SpannableString
 import android.text.Spanned
 import android.text.TextPaint
 import android.text.method.LinkMovementMethod
-import android.text.style.CharacterStyle
 import android.text.style.ClickableSpan
 import android.view.View
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import kotlinx.android.synthetic.main.activity_texts.*
+import android.view.Gravity
+import android.widget.PopupWindow
+import android.widget.LinearLayout
+import android.content.Context.LAYOUT_INFLATER_SERVICE
+import android.graphics.drawable.ColorDrawable
+import androidx.core.content.ContextCompat.getSystemService
+import android.view.LayoutInflater
+import android.view.View.OnTouchListener
+import kotlinx.android.synthetic.main.layout_translation_popup.view.*
+
 
 class TextsActivity : AppCompatActivity() {
     @SuppressLint("SetTextI18n")
@@ -44,7 +53,6 @@ class TextsActivity : AppCompatActivity() {
         val title = lineList[0]
         val body = concatenateText(lineList.drop(1))
         text_title.text = title
-        text_title.setTextColor(Color.DKGRAY)
         text_title.setTypeface(null, Typeface.BOLD)
         text_field.movementMethod = LinkMovementMethod.getInstance();
         text_field.text = makeAllWordsClickable("\t\t\t$body")
@@ -56,7 +64,7 @@ class TextsActivity : AppCompatActivity() {
         for (line in lineList) {
             txt += line
             txt += if (line.length < avgLineLen * 0.7 && ".?!".contains(line.last())) {
-                "\n\n\t\t\t"
+                "\n\n\t\t\t "
             } else {
                 " "
             }
@@ -65,22 +73,45 @@ class TextsActivity : AppCompatActivity() {
     }
 
     private fun makeAllWordsClickable(textBody: String): SpannableString {
-        val spaceIndices = indicesOf(textBody, ' ')
+        val beginEndIndices = calculateBeginEndWordIndicesOf(textBody)
         val spannable = SpannableString(textBody)
 
-        spannable.setSpan(getTranslationClickableSpan(3, spaceIndices[0]),
-            3, spaceIndices[0], Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
-        for (i in 1 until spaceIndices.size) {
-            if (spaceIndices[i] - spaceIndices[i-1] > 2) {
-                val startIdx = spaceIndices[i - 1] + 1
-                val endIdx = spaceIndices[i]
-                spannable.setSpan(getTranslationClickableSpan(startIdx, endIdx),
-                    startIdx, endIdx, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
+        for ((begin, end) in beginEndIndices) {
+            spannable.setSpan(getTranslationClickableSpan(begin, end+1), begin, end+1, Spanned.SPAN_INCLUSIVE_INCLUSIVE)
+        }
+        return spannable
+    }
+
+    private fun calculateBeginEndWordIndicesOf(str: String): List<Pair<Int, Int>> {
+        val idxPairs = mutableListOf<Pair<Int,Int>>()
+        val garbageChars = "~`!@#$%^&*()-{}[]<>,.;:\'\"/?\\+=\n\t "
+        var previousChar = ' '
+        var beginIdx = 0
+        for ((idx, c) in str.withIndex()) {
+            if(garbageChars.contains(previousChar) and !garbageChars.contains(c)) {
+                beginIdx = idx
+            }
+            if(!garbageChars.contains(previousChar) and garbageChars.contains(c)) {
+                idxPairs.add(Pair(beginIdx, idx - 1))
+            }
+            previousChar = c
+        }
+        return idxPairs.toList()
+    }
+
+    private fun getTranslationClickableSpan(startIdx: Int, endIdx: Int): ClickableSpan {
+        val translationClickableSpan: ClickableSpan = object : ClickableSpan() {
+            override fun onClick(textBody: View) {
+                val word = (textBody as TextView).text.substring(startIdx, endIdx)
+                showTranslationPopup(text_field, word,
+                    TranslationManager.germanToPolish((word)))
+            }
+
+            override fun updateDrawState(ds: TextPaint) {
+                return
             }
         }
-        spannable.setSpan(getTranslationClickableSpan(spaceIndices.last() + 1, spannable.length),
-            spaceIndices.last() + 1, spannable.length, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
-        return spannable
+        return translationClickableSpan
     }
 
     private fun updateButton(textName: String) {
@@ -92,30 +123,42 @@ class TextsActivity : AppCompatActivity() {
             mark_text_as_read_button.background.setTint(ContextCompat.getColor(this, R.color.learned))
         }
     }
-}
 
-fun indicesOf(str: String, char: Char): List<Int> {
-    val indices = mutableListOf<Int>()
-    for ((idx, c) in str.withIndex()) {
-        if (c == char) {
-            indices.add(idx)
+    @SuppressLint("InflateParams", "SetTextI18n")
+    fun showTranslationPopup(view: View, word: String, translation: TranslationData) {
+        val inflater = this.layoutInflater
+        val popupView = inflater.inflate(R.layout.layout_translation_popup, null)
+
+        popupView.translation_popup_word.text = word
+        if (translation.meanings.isNotEmpty()) {
+            popupView.translation_popup_meanings.text = translation.meanings.joinToString()
+        } else {
+            popupView.translation_popup_meanings.text = "No translation found :("
+        }
+        for (sentence in translation.sentences.take(3)) {
+            val sentenceView = TextView(this)
+            sentenceView.text = "- $sentence"
+            sentenceView.setTextColor(ContextCompat.getColor(this, R.color.dirty_white))
+            sentenceView.textSize = 18F
+            popupView.translation_popup_sentences.addView(sentenceView)
+        }
+        popupView.translation_popup_add_word_button.setOnClickListener {
+            DBManager.addWord(word, translation)
+        }
+
+        val width = LinearLayout.LayoutParams.WRAP_CONTENT
+        val height = LinearLayout.LayoutParams.WRAP_CONTENT
+        val focusable = true
+        val popupWindow = PopupWindow(popupView, width, height, focusable)
+
+        popupWindow.elevation = 20F
+        popupWindow.setBackgroundDrawable(ColorDrawable(Color.BLUE));
+        popupWindow.showAtLocation(view, Gravity.CENTER, 0, 0)
+
+        popupView.setOnTouchListener { v, _ ->
+            popupWindow.dismiss()
+            v.performClick()
         }
     }
-    return indices.toList()
-}
 
-fun getTranslationClickableSpan(startIdx: Int, endIdx: Int): ClickableSpan {
-    val translationClickableSpan: ClickableSpan = object : ClickableSpan() {
-        override fun onClick(textBody: View) {
-            val word = (textBody as TextView).text.substring(startIdx, endIdx)
-            println(TranslationManager.germanToPolish((word)))
-        }
-
-        override fun updateDrawState(ds: TextPaint) {
-            super.updateDrawState(ds)
-            ds.color = Color.DKGRAY
-            ds.isUnderlineText = false
-        }
-    }
-    return translationClickableSpan
 }

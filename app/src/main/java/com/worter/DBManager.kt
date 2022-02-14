@@ -129,6 +129,11 @@ object DBManager {
         val jsonString = Json.encodeToString(ReadTextsModel(readTexts))
         File(textsDir, "read_texts.json").writeText(jsonString)
     }
+
+    //TODO()
+    fun addWord(germanWord: String, translationData: TranslationData) {
+        return
+    }
 }
 
 fun trimJson(s: String) : String {
