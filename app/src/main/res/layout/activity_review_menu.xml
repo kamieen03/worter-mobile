@@ -19,9 +19,9 @@
             android:id="@+id/file_list_scroller"
             android:scrollbars="none"
             android:layout_width="match_parent"
-            android:layout_height="640dp"
-            android:layout_marginTop="30dp"
-            android:layout_marginBottom="20dp">
+            android:layout_height="690dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp">
 
             <LinearLayout
                 android:id="@+id/file_list"
@@ -64,8 +64,5 @@
         </LinearLayout>
 
     </LinearLayout>
-
-    <!-- This FrameLayout insets its children based on system windows using
-         android:fitsSystemWindows. -->
 
 </FrameLayout>
