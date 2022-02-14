@@ -103,8 +103,7 @@ class TextsActivity : AppCompatActivity() {
         val translationClickableSpan: ClickableSpan = object : ClickableSpan() {
             override fun onClick(textBody: View) {
                 val word = (textBody as TextView).text.substring(startIdx, endIdx)
-                showTranslationPopup(text_field, word,
-                    TranslationManager.germanToPolish((word)))
+                showTranslationPopup(text_field, TranslationManager.germanToPolish((word)))
             }
 
             override fun updateDrawState(ds: TextPaint) {
@@ -125,15 +124,15 @@ class TextsActivity : AppCompatActivity() {
     }
 
     @SuppressLint("InflateParams", "SetTextI18n")
-    fun showTranslationPopup(view: View, word: String, translation: TranslationData) {
+    fun showTranslationPopup(view: View, translation: TranslationData) {
         val inflater = this.layoutInflater
         val popupView = inflater.inflate(R.layout.layout_translation_popup, null)
 
-        popupView.translation_popup_word.text = word
+        popupView.translation_popup_word.text = translation.word
         if (translation.meanings.isNotEmpty()) {
             popupView.translation_popup_meanings.text = translation.meanings.joinToString()
         } else {
-            popupView.translation_popup_meanings.text = "No translation found :("
+            popupView.translation_popup_meanings.text = "No translation found"
         }
         for (sentence in translation.sentences.take(3)) {
             val sentenceView = TextView(this)
@@ -143,7 +142,7 @@ class TextsActivity : AppCompatActivity() {
             popupView.translation_popup_sentences.addView(sentenceView)
         }
         popupView.translation_popup_add_word_button.setOnClickListener {
-            DBManager.addWord(word, translation)
+            DBManager.addWord(translation)
         }
 
         val width = LinearLayout.LayoutParams.WRAP_CONTENT

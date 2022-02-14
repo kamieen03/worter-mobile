@@ -131,7 +131,7 @@ object DBManager {
     }
 
     //TODO()
-    fun addWord(germanWord: String, translationData: TranslationData) {
+    fun addWord(translationData: TranslationData) {
         return
     }
 }
