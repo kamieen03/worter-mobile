@@ -81,11 +81,11 @@ class WordListActivity : AppCompatActivity() {
         row.layoutParams = marginParam
 
         val polishText = row[0] as TextView
-        polishText.updateLayoutParams { width = 450 }
+        polishText.updateLayoutParams { width = 480 }
         polishText.gravity = Gravity.LEFT
 
         val germanText = row[1] as TextView
-        germanText.updateLayoutParams { width = 450}
+        germanText.updateLayoutParams { width = 480}
         germanText.gravity = Gravity.RIGHT
     }
 
