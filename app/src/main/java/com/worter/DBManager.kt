@@ -17,7 +17,7 @@ data class RecordModel(val poleng_list: Array<String>,
 
 
 object DBManager {
-    private var db = mutableMapOf<String, List<RecordModel>>()
+    private var db = mutableMapOf<String, MutableList<RecordModel>>()
     private var readTexts = mutableMapOf<String, Boolean>()
     private lateinit var context: WeakReference<Context>
     private lateinit var textsDir: File
@@ -36,7 +36,7 @@ object DBManager {
 
     fun saveDb() {
         for ((fName, recordList) in db) {
-            val jsonList = Json.encodeToString(recordList)
+            val jsonList = Json.encodeToString(recordList.toList())
             File(context.get()!!.filesDir, addJson(fName)).writeText(jsonList)
         }
     }
@@ -71,7 +71,7 @@ object DBManager {
             if (db.contains(fName)) {
                 continue
             }
-            db[fName] = decodeJsonFile(addJson(fName))
+            db[fName] = decodeJsonFile(addJson(fName)).toMutableList()
         }
     }
 
@@ -130,10 +130,27 @@ object DBManager {
         File(textsDir, "read_texts.json").writeText(jsonString)
     }
 
-    //TODO()
     fun addWord(translationData: TranslationData) {
-        return
+        val lastSchwerFileName = db.keys.filter { it.contains("schwer") }
+                        .sortedBy { it.drop(6).toInt() }
+                        .last()
+
+        val newRecord = RecordModel(
+            translationData.meanings.toTypedArray(),
+            (listOf(translationData.word) + translationData.sentences).toTypedArray(),
+            5,
+            false
+        )
+
+        if (db[lastSchwerFileName]!!.size < 100) {
+            db[lastSchwerFileName]!!.add(newRecord)
+        } else {
+            val newLastSchwerFileName = "schwer" + (lastSchwerFileName.drop(6).toInt() + 1).toString()
+            assert(!db.containsKey(newLastSchwerFileName))
+            db[newLastSchwerFileName] = mutableListOf(newRecord)
+        }
     }
+
 }
 
 fun trimJson(s: String) : String {

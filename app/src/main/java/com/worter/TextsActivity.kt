@@ -44,6 +44,7 @@ class TextsActivity : AppCompatActivity() {
     override fun onPause() {
         super.onPause()
         DBManager.saveReadTexts()
+        DBManager.saveDb()
     }
 
     @SuppressLint("SetTextI18n")
