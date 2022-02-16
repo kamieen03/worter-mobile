@@ -11,8 +11,9 @@ class TranslationManagerTest {
 
     @Test
     fun translationShouldFetchMeaningsOnlyFromFirstDiv() {
-        val str = "liegen"
+        val word = "liegen"
         val translation = TranslationData(
+            word,
             meanings = listOf(
                 "leżeć",
                 "być położonym",
@@ -28,28 +29,32 @@ class TranslationManagerTest {
                 "Wo liegt diese Straße?"
             )
         )
-        assertCorrectTranslation(str, translation)
+        assertCorrectTranslation(word, translation)
     }
 
     @Test
     fun translationShouldFetchSentencesOnlyFromFirstDiv() {
-        val str = "schwanger"
+        val word = "schwanger"
         val translation = TranslationData(
+            word,
             meanings = listOf("ciężarna",
                 "w ciąży"),
             sentences = listOf("Wer ist schwanger?")
         )
-        assertCorrectTranslation(str, translation)
+        assertCorrectTranslation(word, translation)
     }
+
     @Test
     fun translationOfGarbageShouldReturnEmptyTranslationData() {
-        val empty = TranslationData(listOf(), listOf())
-        assertEquals(empty, TranslationManager.germanToPolish("ASDFQWERTY"))
+        val word = "ASDFQWERTY"
+        val empty = TranslationData(word, listOf(), listOf())
+        assertEquals(empty, TranslationManager.germanToPolish(word))
     }
 
     @Test
     fun translationOfWordWithTypoShouldReturnEmptyTranslationData() {
-        val empty = TranslationData(listOf(), listOf())
-        assertEquals(empty, TranslationManager.germanToPolish("chwanger"))
+        val word = "chwanger"
+        val empty = TranslationData(word, listOf(), listOf())
+        assertEquals(empty, TranslationManager.germanToPolish(word))
     }
 }
