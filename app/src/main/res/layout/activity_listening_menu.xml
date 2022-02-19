@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <ScrollView
+            android:id="@+id/listenings_list_scroller"
+            android:scrollbars="none"
+            android:layout_width="match_parent"
+            android:layout_height="600dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp">
+
+            <LinearLayout
+                android:id="@+id/listenigs_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" />
+
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/listening_audio_control"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:background="@color/background">
+            <SeekBar
+                android:id="@+id/listening_seek_bar"
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+                <ImageButton
+                    android:id="@+id/listening_rewind_button"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:scaleType="fitXY"
+                    android:background="@color/background"
+                    android:src="@android:drawable/ic_media_rew"
+                    tools:ignore="ContentDescription" />
+
+                <ImageButton
+                    android:id="@+id/listening_play_button"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:scaleType="fitXY"
+                    android:background="@color/background"
+                    android:src="@android:drawable/ic_media_play"
+                    tools:ignore="ContentDescription" />
+                <ImageButton
+                    android:id="@+id/listening_skip_button"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:scaleType="fitXY"
+                    android:background="@color/background"
+                    android:src="@android:drawable/ic_media_ff"
+                    tools:ignore="ContentDescription" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/listening_flip_audio_type_button"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:height="60dp"
+                android:backgroundTint="@color/learned"
+                android:text="@string/slow"
+                android:textColor="@color/font"
+                tools:ignore="ButtonStyle,NestedWeights" />
+
+            <Button
+                android:id="@+id/listening_flip_audio_listened_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:height="60dp"
+                android:textColor="@color/font"
+                tools:ignore="ButtonStyle" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+</FrameLayout>

@@ -17,23 +17,18 @@ class MainMenuActivity : AppCompatActivity() {
         setContentView(binding.root)
         supportActionBar?.hide()
         DBManager.setContext(this)
-        button_review_menu.setOnClickListener { runReviewMenuActivity() }
-        button_all_words_list_menu.setOnClickListener { runAllWordsListActivity() }
-        button_texts_menu.setOnClickListener { runTextsMenuActivity() }
+        setOnClickListeners()
     }
 
-    private fun runReviewMenuActivity() {
-        val intent = Intent(this, ReviewMenuActivity::class.java)
-        startActivity(intent)
+    private fun setOnClickListeners() {
+        button_review_menu.setOnClickListener { runActivity<ReviewMenuActivity>() }
+        button_all_words_list_menu.setOnClickListener { runActivity<AllWordsListMenuActivity>() }
+        button_texts_menu.setOnClickListener { runActivity<TextsMenuActivity>() }
+        button_listening_menu.setOnClickListener { runActivity<ListeningMenuActivity>() }
     }
 
-    private fun runAllWordsListActivity() {
-        val intent = Intent(this, AllWordsListMenuActivity::class.java)
-        startActivity(intent)
-    }
-
-    private fun runTextsMenuActivity() {
-        val intent = Intent(this, TextsMenuActivity::class.java)
+    private inline fun <reified T> runActivity() {
+        val intent = Intent(this, T::class.java)
         startActivity(intent)
     }
 }

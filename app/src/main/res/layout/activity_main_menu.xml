@@ -39,8 +39,21 @@
         android:layout_height="wrap_content"
         android:height="80dp"
         android:width="180dp"
+        android:layout_marginBottom="10dp"
         android:textSize="24sp"
         android:text="@string/texts"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/Blood_Red"
+        tools:ignore="ButtonStyle" />
+
+    <Button
+        android:id="@+id/button_listening_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:height="80dp"
+        android:width="180dp"
+        android:textSize="24sp"
+        android:text="@string/listening"
         android:layout_gravity="center"
         android:backgroundTint="@color/Blood_Red"
         tools:ignore="ButtonStyle" />

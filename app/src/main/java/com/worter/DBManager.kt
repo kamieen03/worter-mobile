@@ -19,6 +19,8 @@ data class RecordModel(val poleng_list: Array<String>,
 object DBManager {
     private var db = mutableMapOf<String, MutableList<RecordModel>>()
     private var readTexts = mutableMapOf<String, Boolean>()
+    private var listenedAudios = mutableMapOf<Int, MutableMap<AudioType, Boolean>>()
+    private val listenedAudiosFile = "listened_audios.json"
     private lateinit var context: WeakReference<Context>
     private lateinit var textsDir: File
 
@@ -28,6 +30,7 @@ object DBManager {
         copyDbFromAssetsToDevice()
         readDbFromDevice()
         readReadTexts()
+        readListenedAudios()
     }
 
     fun getFile(fileName: String) : List<RecordModel>? {
@@ -43,9 +46,10 @@ object DBManager {
 
     fun getWordsFileNames(): List<String> {
         val worterFileList = context.get()!!.fileList()
-                                            .filter{it != "text"}
+                                            .filter { it != "text" }
+                                            .filter { it != listenedAudiosFile }
                                             .map { trimJson(it) }
-        val numericFiles =  worterFileList.filter { it[0].isDigit() }.sortedBy {it.toInt() }
+        val numericFiles =  worterFileList.filter { it[0].isDigit() }.sortedBy { it.toInt() }
         val nonNumericFiles = worterFileList.filter { !it[0].isDigit() }
         return numericFiles + nonNumericFiles
     }
@@ -149,6 +153,37 @@ object DBManager {
             assert(!db.containsKey(newLastSchwerFileName))
             db[newLastSchwerFileName] = mutableListOf(newRecord)
         }
+    }
+
+    @Serializable
+    data class ListenedAudiosModel(val map: Map<Int, MutableMap<AudioType, Boolean>>)
+
+    private fun readListenedAudios() {
+        if (!context.get()!!.fileList().contains(listenedAudiosFile)) {
+            saveListenedAudios()
+        }
+        listenedAudios = run {
+            val jsonString = File(context.get()!!.filesDir, listenedAudiosFile).readText()
+            Json.decodeFromString<ListenedAudiosModel>(jsonString).map.toMutableMap()
+        }
+        for (idx in 1..245) {
+            if (!listenedAudios.containsKey(idx)) {
+                listenedAudios[idx] = mutableMapOf(AudioType.SLOW to false, AudioType.FAST to false)
+            }
+        }
+    }
+
+    fun saveListenedAudios() {
+        val jsonString = Json.encodeToString(ListenedAudiosModel(listenedAudios))
+        File(context.get()!!.filesDir, listenedAudiosFile).writeText(jsonString)
+    }
+
+    fun isAudioListened(idx: Int, audioType: AudioType): Boolean? {
+        return listenedAudios[idx]!![audioType]
+    }
+
+    fun flipAudioListened(idx: Int, audioType: AudioType) {
+        listenedAudios[idx]!![audioType] = !listenedAudios[idx]!![audioType]!!
     }
 
 }

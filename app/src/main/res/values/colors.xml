@@ -28,4 +28,5 @@
     <color name="font">#FF283618</color>
     <color name="background">#F4C793</color>
     <color name="dirty_white">#C0FFFFFF</color>
+    <color name="grey">#FFAAAAAA</color>
 </resources>

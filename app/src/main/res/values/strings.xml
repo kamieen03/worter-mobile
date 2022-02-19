@@ -12,4 +12,7 @@
     <string name="mark_as_read">MARK AS READ</string>
     <string name="text_unread">MARK TEXT AS UNREAD</string>
     <string name="add_word">ADD WORD</string>
+    <string name="listening">LISTENING</string>
+    <string name="slow">SLOW</string>
+    <string name="not_listened">NOT LISTENED</string>
 </resources>

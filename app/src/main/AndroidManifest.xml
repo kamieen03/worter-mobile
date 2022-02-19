@@ -34,12 +34,6 @@
             android:label="review_menu"
             android:theme="@style/Theme.Worter.Fullscreen" />
         <activity
-            android:name=".ShowFailedWordsActivity"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:exported="false"
-            android:label="showFailedWords"
-            android:theme="@style/Theme.Worter.Fullscreen" />
-        <activity
             android:name=".WordListActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="false"
@@ -62,6 +56,12 @@
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="false"
             android:label="review_menu"
+            android:theme="@style/Theme.Worter.Fullscreen" />
+        <activity
+            android:name=".ListeningMenuActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="false"
+            android:label="listening_menu"
             android:theme="@style/Theme.Worter.Fullscreen" />
     </application>
 
