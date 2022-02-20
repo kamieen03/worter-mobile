@@ -19,7 +19,6 @@ class AllWordsListMenuActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_all_words_list_menu)
-        supportActionBar?.hide()
         button_select_word_list.setOnClickListener { startAllWordsListActivity() }
         fillFileList()
     }

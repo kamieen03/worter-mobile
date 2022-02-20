@@ -7,9 +7,9 @@
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="600dp"
-        android:layout_marginBottom="30dp"
-        android:layout_marginTop="50dp"
+        android:layout_height="670dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp">
 
@@ -41,7 +41,7 @@
         android:layout_height="60dp"
         android:textColor="@color/black"
         android:layout_weight="1"
-        android:height="60dp"
+        android:height="50dp"
         android:layout_marginBottom="20dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"/>

@@ -1,6 +1,7 @@
 package com.worter
 
 import android.content.Intent
+import android.content.res.ColorStateList
 import android.graphics.Color
 import android.graphics.Typeface
 import android.os.Bundle
@@ -12,13 +13,15 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.core.view.get
 import androidx.core.view.updateLayoutParams
+import com.google.android.material.color.MaterialColors
 import kotlinx.android.synthetic.main.activity_word_list.*
 
 class WordListActivity : AppCompatActivity() {
+    private lateinit var defaultTextColor: ColorStateList
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_word_list)
-        supportActionBar?.hide()
 
         val fileName = this.intent.extras!!.getString("fileName")!!
         var wordList = DBManager.getFile(fileName)!!
@@ -27,6 +30,7 @@ class WordListActivity : AppCompatActivity() {
         } else {
             wordList
         }
+        defaultTextColor = TextView(this).textColors
         fillList(wordList, showList)
         word_list_back_to_menu_button.setOnClickListener { goToMainMenu() }
     }
@@ -69,6 +73,7 @@ class WordListActivity : AppCompatActivity() {
 
         germanText.text = record.ger_list[0]
         germanText.textSize = 20f
+        println(germanText.paint.color)
         return tr
     }
 
@@ -90,7 +95,11 @@ class WordListActivity : AppCompatActivity() {
     }
 
     private fun colorRow(row: TableRow, shouldColorRed: Boolean) {
-        val color = if (shouldColorRed) ContextCompat.getColor(this, R.color.cinamon_satin) else Color.BLACK
+        val color = if (shouldColorRed) {
+            ContextCompat.getColor(this, R.color.cinamon_satin)
+        } else {
+            defaultTextColor.defaultColor
+        }
         (row[0] as TextView).setTextColor(color)
         (row[1] as TextView).setTextColor(color)
     }

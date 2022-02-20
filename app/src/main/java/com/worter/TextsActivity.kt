@@ -30,7 +30,6 @@ class TextsActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_texts)
-        supportActionBar?.hide()
 
         val textName = this.intent.extras!!.getString("textName")!!
         prepareText(textName)

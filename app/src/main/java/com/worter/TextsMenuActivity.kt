@@ -18,7 +18,6 @@ private var selectedText = "10"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_texts_menu)
-        supportActionBar?.hide()
         button_select_text.setOnClickListener { startTextsActivity() }
         fillTextsList()
     }

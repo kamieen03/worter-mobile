@@ -32,7 +32,6 @@ class ListeningMenuActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_listening_menu)
-        supportActionBar?.hide()
         fillListeningList()
         listening_flip_audio_type_button.setOnClickListener { flipAudioType() }
         listening_flip_audio_listened_button.setOnClickListener { flipAudioListened() }
