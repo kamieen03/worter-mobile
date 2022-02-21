@@ -36,10 +36,26 @@
             android:orientation="vertical"
             android:gravity="center"
             android:background="@color/background">
-            <SeekBar
-                android:id="@+id/listening_seek_bar"
+            <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="20dp" />
+                android:layout_height="20dp"
+                android:orientation="horizontal"
+                android:gravity="center_horizontal">
+                <TextView
+                    android:id="@+id/listening_current_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/zero_time"/>
+                <SeekBar
+                    android:id="@+id/listening_seek_bar"
+                    android:layout_width="230dp"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:id="@+id/listening_duration_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/zero_time"/>
+            </LinearLayout>
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

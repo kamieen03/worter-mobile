@@ -15,4 +15,5 @@
     <string name="listening">LISTENING</string>
     <string name="slow">SLOW</string>
     <string name="not_listened">NOT LISTENED</string>
+    <string name="zero_time">0:00</string>
 </resources>
