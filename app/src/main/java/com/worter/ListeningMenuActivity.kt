@@ -44,14 +44,15 @@ class ListeningMenuActivity : AppCompatActivity() {
         listening_flip_audio_listened_button.setOnClickListener { flipAudioListened() }
     }
 
-    override fun onStop() {
-        super.onStop()
-        audioController.stopSound()
-    }
-
     override fun onPause() {
         super.onPause()
         DBManager.saveListenedAudios()
+        audioController.stopSound()
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        audioController.stopTimer()
     }
 
     private fun fillListeningList() {
@@ -82,13 +83,13 @@ class ListeningMenuActivity : AppCompatActivity() {
     }
 
     private fun listeningsTableButtonOnClickListener(fb: Button) {
+        audioController.stopSound()
         listenigs_list.children.forEach { it as Button
             it.background = getListeningButtonShape(it)
         }
         fb.background.setTint(ContextCompat.getColor(this, R.color.Bronze))
         selectedIdx = fb.text.toString().toInt()
         setAudioListenedButton(DBManager.isAudioListened(selectedIdx, selectedAudioType)!!)
-        audioController.stopSound()
     }
 
     private fun getListeningButtonShape(fb: Button): PaintDrawable {
@@ -167,6 +168,7 @@ class AudioController(context: ListeningMenuActivity) {
 
     private val ctx = WeakReference(context)
     private var audioPlayer: MediaPlayer? = null
+    private val timer = Timer()
 
     init {
         // play / pause
@@ -200,7 +202,6 @@ class AudioController(context: ListeningMenuActivity) {
         }
 
         // update seekBar every second
-        val timer = Timer()
         timer.scheduleAtFixedRate(object : TimerTask() {
             override fun run() {
                 ctx.get()!!.listening_seek_bar.progress = if (audioPlayer != null) {
@@ -245,14 +246,17 @@ class AudioController(context: ListeningMenuActivity) {
     }
 
     fun stopSound() {
-        pauseSound()
         if (audioPlayer != null) {
-            audioPlayer!!.reset()
-            ctx.get()!!.listening_duration_time.text = msToTimeString(audioPlayer!!.duration)
+            pauseSound()
             audioPlayer!!.stop()
             audioPlayer!!.release()
             audioPlayer = null
+            ctx.get()!!.listening_duration_time.text = msToTimeString(0)
         }
+    }
+
+    fun stopTimer() {
+        timer.cancel()
     }
 
     private fun idxToUrl(idx: Int): String? {

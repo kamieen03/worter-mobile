@@ -73,7 +73,6 @@ class WordListActivity : AppCompatActivity() {
 
         germanText.text = record.ger_list[0]
         germanText.textSize = 20f
-        println(germanText.paint.color)
         return tr
     }
 

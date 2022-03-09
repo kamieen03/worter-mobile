@@ -50,7 +50,7 @@ object DBManager {
                                             .filter { it != listenedAudiosFile }
                                             .map { trimJson(it) }
         val numericFiles =  worterFileList.filter { it[0].isDigit() }.sortedBy { it.toInt() }
-        val nonNumericFiles = worterFileList.filter { !it[0].isDigit() }
+        val nonNumericFiles = worterFileList.filter { !it[0].isDigit() }.sorted()
         return numericFiles + nonNumericFiles
     }
 

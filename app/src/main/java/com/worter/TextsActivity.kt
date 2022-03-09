@@ -141,8 +141,13 @@ class TextsActivity : AppCompatActivity() {
             sentenceView.textSize = 18F
             popupView.translation_popup_sentences.addView(sentenceView)
         }
+
+        var canAddWord = true
         popupView.translation_popup_add_word_button.setOnClickListener {
-            DBManager.addWord(translation)
+            if (canAddWord){
+                canAddWord = false
+                DBManager.addWord(translation)
+            }
         }
 
         val width = LinearLayout.LayoutParams.WRAP_CONTENT
